@@ -3173,11 +3173,11 @@ Left-Handed
 
 1636
 NAME
-16 bit
+16-bit
 
 1637
 NAME
-32 bit
+32-bit
 
 1638
 NAME
@@ -3349,7 +3349,7 @@ AUDIO OPTIONS
 
 1680
 NAME
-32 BIT COLOR
+32-BIT COLOR
 
 1681
 NAME
@@ -3761,7 +3761,7 @@ Turns environment maps on/off.
 
 1783
 NAME
-Toggles emmissive maps on/off.
+Toggles emissive maps on/off.
 
 1784
 NAME
@@ -8937,7 +8937,7 @@ Destroy the Rheinland Pirates
 
 22500
 NAME
-Fly to the NavBuoy
+Fly to the Nav Buoy
 
 22505
 NAME
@@ -12817,7 +12817,7 @@ Authorities Thwart Hessian Attack
 
 56087
 NAME
-LÜBECK — Fighters were scrambled yesterday from the battleship Westfalen and Lübeck police base when reports came in of two Red Hessian squads near Altona. The military patrols encountered the Hessians first, north of the Sudheide. The two squads were identified as the 3rd and 4th belonging to the Broken Pick Brigade. Half of the pirates broke off to engage the military patrol while the others continued westward. Police intercepted the second group near Hannover. After several minutes of intense fighting the remaining Hessians fled.
+LÜBECK — Fighters were scrambled yesterday from the battleship Westfalen and Lübeck police base when reports came in of two Red Hessian squads near Altona. The military patrols encountered the Hessians first, north of the Südheide. The two squads were identified as the 3rd and 4th belonging to the Broken Pick Brigade. Half of the pirates broke off to engage the military patrol while the others continued westward. Police intercepted the second group near Hannover. After several minutes of intense fighting the remaining Hessians fled.
 
 56088
 NAME
@@ -29005,7 +29005,7 @@ INFOCARD
 
 133938
 INFOCARD
-<RDL><PUSH/><TEXT>The Sudheide has become a veritable cesspool of humanity. The Red Hessians, Unioners, and Bundschuh all stage their prison breakout attempts from that field. I don’t know why they try. This prison has a triple hull, with outer walls more than two meters thick. No prisoner has ever escaped Vierlande alive.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Südheide has become a veritable cesspool of humanity. The Red Hessians, Unioners, and Bundschuh all stage their prison breakout attempts from that field. I don’t know why they try. This prison has a triple hull, with outer walls more than two meters thick. No prisoner has ever escaped Vierlande alive.</TEXT><PARA/><POP/></RDL>
 
 133939
 INFOCARD
@@ -29133,7 +29133,7 @@ INFOCARD
 
 133970
 INFOCARD
-<RDL><PUSH/><TEXT>Lubeck can get lonely. We don’t get up to Hamburg too often. Wouldn’t matter anyway, because we never get paid. We’re here to keep an eye on the Sudheide. Lot of criminal activity in there. Berlin’s nervous about the prison convoys mostly.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Lübeck can get lonely. We don’t get up to Hamburg too often. Wouldn’t matter anyway, because we never get paid. We’re here to keep an eye on the Südheide. Lot of criminal activity in there. Berlin’s nervous about the prison convoys mostly.</TEXT><PARA/><POP/></RDL>
 
 133971
 INFOCARD
