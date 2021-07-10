@@ -11173,7 +11173,7 @@ NAME
 
 30015
 NAME
-*PERSONAL ENTRY:\nI talked to her. At first she seemed pretty annoyed that I interrupted her conversation, but after she heard that I was on Freeport 7, she was a lot nicer. Seems like I could be in luck! She’s looking for a freelancer right now and said that she’d be in the equipment room later. I also have to remember to call her Juni, not Jun’ko. I’ll definitely look her up — it sounds promising.
+*PERSONAL ENTRY:\nI talked to her. At first, she seemed pretty annoyed that I interrupted her conversation, but after she heard that I was on Freeport 7, she was a lot nicer. Seems like I could be in luck! She’s looking for a freelancer right now and said that she’d be in the equipment room later. I also have to remember to call her Juni, not Jun’ko. I’ll definitely look her up — it sounds promising.
 
 30020
 NAME
@@ -11181,7 +11181,7 @@ NAME
 
 30025
 NAME
-*PERSONAL ENTRY:\nI looked up Juni in the equipment room. She offered me an old and pretty crappy ship and a few thousand credits if I help escort a convoy of Food and medical supplies. Right now I’m not really interested, but she said the offer would still stand if I come back later. She was certainly not pleased that I turned her down and told me that she’s my best chance for getting a ship. She could well be right. We’ll see.
+*PERSONAL ENTRY:\nI looked up Juni in the equipment room. She offered me an old and pretty crappy ship and a few thousand credits if I help escort a convoy of Food and medical supplies. Right now, I’m not really interested, but she said the offer would still stand if I come back later. She was certainly not pleased that I turned her down and told me that she’s my best chance for getting a ship. She could well be right. We’ll see.
 
 30030
 NAME
@@ -11221,7 +11221,7 @@ NAME
 
 30205
 NAME
-*PERSONAL ENTRY:\nI made it back to Manhattan. No word yet from Lonnigan. I’ve checked Medical, but nobody there seemed to know where he is. Nice bureaucracy! Anyway, I met Juni and King in the bar as planned and accepted their offer. It’s an interesting assignment, and it actually pays well. The LSF is going after a smuggler — a guy named Ashcroft, who is transporting illegal Alien Artifacts in and out of Liberty. Juni has information that Ashcroft is trying to move a shipment of Alien Artifacts through the Colorado Gate. King and I have to find the convoy and stop it before it can enter the New York system. The tricky part is that we are supposed to bring Ashcroft in alive. The LSF wants to interrogate him about Artifact trading in Liberty. President Jacobi has made it the top priority of the LSF to stop all Artifact trading — legal and illegal — and to seize every Artifact they can find. It’s all a little bit strange, really. Usually these things are just collectables for people with way too much money. I don’t think Jacobi has told the public the full story yet. The really good news about all this is that Juni has promised to give me the access codes to all Liberty Gates if we bring in Ashcroft.
+*PERSONAL ENTRY:\nI made it back to Manhattan. No word yet from Lonnigan. I’ve checked Medical, but nobody there seemed to know where he is. Nice bureaucracy! Anyway, I met Juni and King in the bar as planned and accepted their offer. It’s an interesting assignment, and it actually pays well. The LSF is going after a smuggler — a guy named Ashcroft, who is transporting illegal Alien Artifacts in and out of Liberty. Juni has information that Ashcroft is trying to move a shipment of Alien Artifacts through the Colorado Gate. King and I have to find the convoy and stop it before it can enter the New York system. The tricky part is that we are supposed to bring Ashcroft in alive. The LSF wants to interrogate him about Artifact trading in Liberty. President Jacobi has made it the top priority of the LSF to stop all Artifact trading — legal and illegal — and to seize every Artifact they can find. It’s all a little bit strange, really. Usually, these things are just collectables for people with way too much money. I don’t think Jacobi has told the public the full story yet. The really good news about all this is that Juni has promised to give me the access codes to all Liberty Gates if we bring in Ashcroft.
 
 30210
 NAME
@@ -11261,7 +11261,7 @@ NAME
 
 30255
 NAME
-*PERSONAL ENTRY:\nWell, I hope the information the LSF is getting out of Ashcroft makes all of this worthwhile. King and I were attacked in the middle of the New York system by more of Ashcroft’s men. I had no idea how powerful these Artifact traders really are, and I bet the public in Liberty has no idea either. In any event, I delivered Ashcroft to Juni and she will try to squeeze information out of him. The good news is that I now have the access codes for all of the Liberty Jump Gates. This allows me to jump to Texas and California. Should be interesting since I’ve never been to either of these systems! I also got an extra bonus — not bad at all. Maybe I can buy a new ship. The fighter that King is flying looks nice. If that turns out to be too expensive, I could certainly use some better equipment and weapons. Juni said she would be on assignment for a while but that she would need me again soon. I’ll be waiting. For now I can spend some time checking out the rest of Liberty space until she calls me again.
+*PERSONAL ENTRY:\nWell, I hope the information the LSF is getting out of Ashcroft makes all of this worthwhile. King and I were attacked in the middle of the New York system by more of Ashcroft’s men. I had no idea how powerful these Artifact traders really are, and I bet the public in Liberty has no idea either. In any event, I delivered Ashcroft to Juni and she will try to squeeze information out of him. The good news is that I now have the access codes for all of the Liberty Jump Gates. This allows me to jump to Texas and California. Should be interesting since I’ve never been to either of these systems! I also got an extra bonus — not bad at all. Maybe I can buy a new ship. The fighter that King is flying looks nice. If that turns out to be too expensive, I could certainly use some better equipment and weapons. Juni said she would be on assignment for a while but that she would need me again soon. I’ll be waiting. For now, I can spend some time checking out the rest of Liberty space until she calls me again.
 
 30300
 NAME
@@ -11397,7 +11397,7 @@ NAME
 
 30605
 NAME
-*PERSONAL ENTRY:\nWell, I was right about the track, and I was right about the gambling. The only thing I didn’t see coming was that I’d be the main attraction. Wonderful. At least this’ll be easier than being shot at by Rheinlanders constantly. Apparently you can’t place bets on yourself. Damn it, I’m never gonna get paid.
+*PERSONAL ENTRY:\nWell, I was right about the track, and I was right about the gambling. The only thing I didn’t see coming was that I’d be the main attraction. Wonderful. At least this’ll be easier than being shot at by Rheinlanders constantly. Apparently, you can’t place bets on yourself. Damn it, I’m never gonna get paid.
 
 30610
 NAME
@@ -11409,7 +11409,7 @@ NAME
 
 30620
 NAME
-*PERSONAL ENTRY:\nThat bastard cheated! Lucky for him, I’ve got better things to do than beat old backwoods freaks like him back where they came from. Alright, Quintaine is supposed to be over on this old abandoned station, the Glorious, not too far from here. Hovis had better be right about this, or I’m turning around and heading straight back. I‘ve had to deal with way too much to deal with some backwater idiot like him.
+*PERSONAL ENTRY:\nThat bastard cheated! Lucky for him, I’ve got better things to do than beat old backwoods freaks like him back where they came from. Alright, Quintaine is supposed to be over on this old, abandoned station, the Glorious, not too far from here. Hovis had better be right about this, or I’m turning around and heading straight back. I‘ve had to deal with way too much to deal with some backwater idiot like him.
 
 30625
 NAME
@@ -11505,7 +11505,7 @@ NAME
 
 31000
 NAME
-*PERSONAL ENTRY:\nAfter everything that’s happened, I don’t know what to make of things anymore. Juni’s asked me to meet her back on Kyoto. Apparently Lord Hakkera needs me for a job that only I can do. I can only assume that this will translate into being shot at — a lot.
+*PERSONAL ENTRY:\nAfter everything that’s happened, I don’t know what to make of things anymore. Juni’s asked me to meet her back on Kyoto. Apparently, Lord Hakkera needs me for a job that only I can do. I can only assume that this will translate into being shot at — a lot.
 
 31005
 NAME
@@ -11529,7 +11529,7 @@ NAME
 
 31030
 NAME
-*PERSONAL ENTRY:\nIt seems Herr Von Claussen’s intelligence networks are more extensive than I thought. He had this man, Hans Fischer, accompany me to Holstein. Good thing, too. Somehow I doubt that Rheinland would have appreciated a wanted man wandering through their systems. The military buildup here is immense — like nothing I’ve ever seen. The war is really going to happen. For the first time I have to say I’m a little scared. Still, it’d be nice to have at least a few credits in the bank for later in life, assuming there is a later in life.
+*PERSONAL ENTRY:\nIt seems Herr Von Claussen’s intelligence networks are more extensive than I thought. He had this man, Hans Fischer, accompany me to Holstein. Good thing, too. Somehow, I doubt that Rheinland would have appreciated a wanted man wandering through their systems. The military buildup here is immense — like nothing I’ve ever seen. The war is really going to happen. For the first time I have to say I’m a little scared. Still, it’d be nice to have at least a few credits in the bank for later in life, assuming there is a later in life.
 
 31035
 NAME
@@ -11561,7 +11561,7 @@ NAME
 
 31120
 NAME
-*PERSONAL ENTRY:\nOzu was a brave man. For a long time I thought I could have saved him. No, I couldn’t. Ozu died doing what he had to. What I saw today drove this home: Walker and his entire crew sacrificed themselves so we could get the President back to the Osiris. I couldn’t have helped him any more than I could have helped Ozu. As Hakkera said, he knew the risks. I am thankful for Walker’s bravery and, briefly, his comradeship. We would not have made it without him and his crew.
+*PERSONAL ENTRY:\nOzu was a brave man. For a long time, I thought I could have saved him. No, I couldn’t. Ozu died doing what he had to. What I saw today drove this home: Walker and his entire crew sacrificed themselves so we could get the President back to the Osiris. I couldn’t have helped him any more than I could have helped Ozu. As Hakkera said, he knew the risks. I am thankful for Walker’s bravery and, briefly, his comradeship. We would not have made it without him and his crew.
 
 31200
 NAME
@@ -12641,7 +12641,7 @@ Skirmish in Rio Grande Bar Injures Five
 
 56043
 NAME
-RIO GRANDE — A scuffle broke out aboard the Battleship Rio Grande three days ago between Navy crewmen and several Bounty Hunters. Apparently the exchange began when one of the Bounty Hunters made a negative comment regarding the condition of the Liberty battleship and the poor quality of the patrol craft that Navy pilots fly. The argument escalated when several punches were thrown. Soon, the ship’s bar had degenerated into an all out brawl. Five were treated at the battleship’s infirmary for various minor injuries.
+RIO GRANDE — A scuffle broke out aboard the Battleship Rio Grande three days ago between Navy crewmen and several Bounty Hunters. Apparently, the exchange began when one of the Bounty Hunters made a negative comment regarding the condition of the Liberty battleship and the poor quality of the patrol craft that Navy pilots fly. The argument escalated when several punches were thrown. Soon, the ship’s bar had degenerated into an all out brawl. Five were treated at the battleship’s infirmary for various minor injuries.
 
 56044
 NAME
@@ -18561,7 +18561,7 @@ INFOCARD
 
 131253
 INFOCARD
-<RDL><PUSH/><TEXT>Synth Foods offers tasty Pastes throughout all of Liberty and beyond. Our Paste containers are always filled and always on the go with your favorite Synth Foods flavors. Sure, we lose daring pilots and gunners and engineers all the time, but when you have a job to do, it’s just part of the work day.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Synth Foods offers tasty Pastes throughout all of Liberty and beyond. Our Paste containers are always filled and always on the go with your favorite Synth Foods flavors. Sure, we lose daring pilots and gunners and engineers all the time, but when you have a job to do, it’s just part of the workday.</TEXT><PARA/><POP/></RDL>
 
 131254
 INFOCARD
@@ -18625,7 +18625,7 @@ INFOCARD
 
 131276
 INFOCARD
-<RDL><PUSH/><TEXT>Xenos don’t really come this far into New York; mostly they try for Detroit weapon shipments on the west side of the system. Plus, the amount of Junkers and Rogues between here and New Jersey makes for a rough trip if you’re a Xeno. Most likely he’d be dead by now.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Xenos don’t really come this far into New York; mostly they try for Detroit weapon shipments on the west side of the system. Plus, the number of Junkers and Rogues between here and New Jersey makes for a rough trip if you’re a Xeno. Most likely he’d be dead by now.</TEXT><PARA/><POP/></RDL>
 
 131277
 INFOCARD
@@ -18645,7 +18645,7 @@ INFOCARD
 
 131281
 INFOCARD
-<RDL><PUSH/><TEXT>Though Deep Space is primarily a manufacturing firm; we do dabble in mining. And this base is an example of that since we extract Boron here. We also have a Fertilizer production facility in Houston.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Though Deep Space is primarily a manufacturing firm, we do dabble in mining. And this base is an example of that since we extract Boron here. We also have a Fertilizer production facility in Houston.</TEXT><PARA/><POP/></RDL>
 
 131282
 INFOCARD
@@ -22645,7 +22645,7 @@ INFOCARD
 
 132314
 INFOCARD
-<RDL><PUSH/><TEXT>There are Outcasts on this base. Once they were our brothers, but that was long, long ago. Now they are just like everyone else — targets. It’s not that we don’t like them, but that won’t stop us from taking one of their shipments or putting them in the airlock. Somehow I doubt those masks they wear would save them from that.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There are Outcasts on this base. Once they were our brothers, but that was long, long ago. Now they are just like everyone else — targets. It’s not that we don’t like them, but that won’t stop us from taking one of their shipments or putting them in the airlock. Somehow, I doubt those masks they wear would save them from that.</TEXT><PARA/><POP/></RDL>
 
 132315
 INFOCARD
@@ -22913,7 +22913,7 @@ INFOCARD
 
 132381
 INFOCARD
-<RDL><PUSH/><TEXT>You look like a scrapper. Well, so am I. I know I’m just a BMM cargo pilot, but I have dropped as many Outcasts as some Bounty Hunters. Sure I have escorts, and our ships travel in convoys, but it was me at the turrets when those bloody mask breathers went up in flames. I’m one of the chaps who makes the run into the Border Worlds. That’s right, I run Beryllium to this base from Tau-23.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You look like a scrapper. Well, so am I. I know I’m just a BMM cargo pilot, but I have dropped as many Outcasts as some Bounty Hunters. Sure, I have escorts, and our ships travel in convoys, but it was me at the turrets when those bloody mask breathers went up in flames. I’m one of the chaps who makes the run into the Border Worlds. That’s right, I run Beryllium to this base from Tau-23.</TEXT><PARA/><POP/></RDL>
 
 132382
 INFOCARD
