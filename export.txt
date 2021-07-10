@@ -8169,7 +8169,7 @@ Rheinland Rebels Take Out Base
 
 15254
 NAME
-In a brief statement to Kusari news agencies, the Bundschuh rebels in Rheinland claim that they have assaulted and destroyed a high-security installation that housed illegal secret weapons built by the Chancellery. Naturally this cannot be verified as of yet. However, a long-range scan does show a sizeable number of irregular debris and radiation in that area.
+In a brief statement to Kusari news agencies, the Bundschuh rebels in Rheinland claim that they have assaulted and destroyed a high-security installation that housed illegal secret weapons built by the Chancellery. Naturally this cannot be verified as of yet. However, a long-range scan does show a sizeable amount of irregular debris and radiation in that area.
 
 15255
 NAME
@@ -11381,7 +11381,7 @@ NAME
 
 30545
 NAME
-*PERSONAL ENTRY:\nFor a scientist, Sinclair is a damn good pilot, but she’s a sad judge of character. So, two Rheinland “defectors” just happen to cross our path and are kind enough to just show us the way out. Riiiight. Why am I always the only one who picks up on this stuff? We just about got killed a few minutes ago by these same guys, and we’re all of a sudden following them around?
+*PERSONAL ENTRY:\nFor a scientist, Sinclair is a damn good pilot, but she’s a sad judge of character. So two Rheinland “defectors” just happen to cross our path and are kind enough to just show us the way out. Riiiight. Why am I always the only one who picks up on this stuff? We just about got killed a few minutes ago by these same guys, and we’re all of a sudden following them around?
 
 30550
 NAME
@@ -11469,7 +11469,7 @@ NAME
 
 30820
 NAME
-*PERSONAL ENTRY:\nTekagi wasn’t aboard and neither was the Tome! Ozu seems unfazed by all of this — I don’t know how. I guess this all just comes naturally to him. I can see why everyone around here reveres him so much. So, this is the legendary Kyoto Base. I guess I’ll take some jobs and earn some scratch while Ozu and the Blood Dragons come up with another way to find the Tome. This place isn’t much to look at, but they’ve got some great equipment here. I can certainly get used to the way they dress.
+*PERSONAL ENTRY:\nTekagi wasn’t aboard and neither was the Tome! Ozu seems unfazed by all of this — I don’t know how. I guess this all just comes naturally to him. I can see why everyone around here reveres him so much. So this is the legendary Kyoto Base. I guess I’ll take some jobs and earn some scratch while Ozu and the Blood Dragons come up with another way to find the Tome. This place isn’t much to look at, but they’ve got some great equipment here. I can certainly get used to the way they dress.
 
 30900
 NAME
@@ -14621,7 +14621,7 @@ INFOCARD
 
 65546
 INFOCARD
-<RDL><PUSH/><TEXT>The history of the Unioners is intimately tied to Alster. The shipyard opened in 412 AS, specializing in commercial transports and heavy lifters. Conditions were appalling in the yards, worker safety being merely a tertiary concern of the owners. Coupled with the excessively long spaceside rotations, the workers’ morale gradually deteriorated until a major accident killed several hundred workers in 512 AS.</TEXT><PARA/><PARA/><TEXT>Three months later, the workers formed the Alster Union. Because of their highly specialized skills, the management had no choice but to capitulate to their demands. During the next century the union gradually strengthened and eventually included the dockworkers on the Altona Station above Hamburg. By the end of the 80-Years War, the union demanded increasingly high wages and progressively fewer annual hours. The system was out of balance. Republican was no longer competitive with Kusari shipbuilders.</TEXT><PARA/><PARA/><TEXT>With the war over, demand for ships plummeted. The bloated headcount of Alster was now a sore point for Republican Shipping, desperately trying to restore profitability. Management was now back in the driver’s seat after almost 200 years of acceding to union demands. They fired tens of thousands and won major concessions from the remaining workers, who lost centuries of gains in a matter of days.</TEXT><PARA/><PARA/><TEXT>As unemployment rocketed towards 30 percent in Hamburg, a radicalized version of the union reformed — more of a revolutionary cell than anything. The presence of Freeport 2 in Bering proved alluring to the nascent Unioner movement of Rheinland during the unsettled times. Following the popular uprising of 702, the station’s population exploded. In 720 the Zoners laid down the ultimatum: Take your criminal activities somewhere else. They would sell basic supplies to the rebels, but no more. So, the Unioners carved their Pacifica base out of an asteroid in the Tanner Belt.</TEXT><PARA/><PARA/><TEXT>The Unioners range from Bering to New Berlin. Most of their attacks are focused on the Altona Outpost and the Alster Shipyard in Hamburg, which has alienated them from some of their still employed brethren. The bulk of their Trade Lane raids are directed against Republican ships traversing the Independent Worlds. Their main commodity is Diamonds, which they run from Kreuzberg to Dawson. Unioners are often spotted buying supplies on Freeport 2.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The history of the Unioners is intimately tied to Alster. The shipyard opened in 412 AS, specializing in commercial transports and heavy lifters. Conditions were appalling in the yards, worker safety being merely a tertiary concern of the owners. Coupled with the excessively long spaceside rotations, the workers’ morale gradually deteriorated until a major accident killed several hundred workers in 512 AS.</TEXT><PARA/><PARA/><TEXT>Three months later, the workers formed the Alster Union. Because of their highly specialized skills, the management had no choice but to capitulate to their demands. During the next century the union gradually strengthened and eventually included the dockworkers on the Altona Station above Hamburg. By the end of the 80-Years War, the union demanded increasingly high wages and progressively fewer annual hours. The system was out of balance. Republican was no longer competitive with Kusari shipbuilders.</TEXT><PARA/><PARA/><TEXT>With the war over, demand for ships plummeted. The bloated headcount of Alster was now a sore point for Republican Shipping, desperately trying to restore profitability. Management was now back in the driver’s seat after almost 200 years of acceding to union demands. They fired tens of thousands and won major concessions from the remaining workers, who lost centuries of gains in a matter of days.</TEXT><PARA/><PARA/><TEXT>As unemployment rocketed towards 30 percent in Hamburg, a radicalized version of the union reformed — more of a revolutionary cell than anything. The presence of Freeport 2 in Bering proved alluring to the nascent Unioner movement of Rheinland during the unsettled times. Following the popular uprising of 702, the station’s population exploded. In 720 the Zoners laid down the ultimatum: Take your criminal activities somewhere else. They would sell basic supplies to the rebels, but no more. So the Unioners carved their Pacifica base out of an asteroid in the Tanner Belt.</TEXT><PARA/><PARA/><TEXT>The Unioners range from Bering to New Berlin. Most of their attacks are focused on the Altona Outpost and the Alster Shipyard in Hamburg, which has alienated them from some of their still employed brethren. The bulk of their Trade Lane raids are directed against Republican ships traversing the Independent Worlds. Their main commodity is Diamonds, which they run from Kreuzberg to Dawson. Unioners are often spotted buying supplies on Freeport 2.</TEXT><PARA/><POP/></RDL>
 
 65547
 INFOCARD
@@ -14869,7 +14869,7 @@ INFOCARD
 
 65608
 INFOCARD
-<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the 80-Years War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh were driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann and Kruger workers for possible recruits. So, they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the 80-Years War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh were driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
 
 65609
 INFOCARD
@@ -15333,7 +15333,7 @@ INFOCARD
 
 65724
 INFOCARD
-<RDL><PUSH/><TEXT>Thames Outpost is populated almost exclusively by Bretonia Mining and Metal (BMM) staff and workers. The Bretonia Armed Forces also keeps a small presence aboard in an effort to maintain a measure of security in the face of possible raids by pirates or criminal groups such as the Mollys. While the outpost itself has little strategic importance, it does have a significant number of valuable resources that are constantly transferred between storage bays and transports.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Thames Outpost is populated almost exclusively by Bretonia Mining and Metal (BMM) staff and workers. The Bretonia Armed Forces also keeps a small presence aboard in an effort to maintain a measure of security in the face of possible raids by pirates or criminal groups such as the Mollys. While the outpost itself has little strategic importance, it does have a significant amount of valuable resources that are constantly transferred between storage bays and transports.</TEXT><PARA/><POP/></RDL>
 
 65725
 INFOCARD
@@ -15501,7 +15501,7 @@ INFOCARD
 
 65768
 INFOCARD
-<RDL><PUSH/><TEXT>Where there’s junk, there are the Junkers. They’ve been around since the earliest days of the Trade Lanes. Descended from the working classes, they developed within the House systems as a sort of necessary evil, handling the dirty work that no one else would. They do well salvaging valuable materials from the ever-increasing debris fields throughout Sirius, with the notable exception of Kusari. To this day they remain held at bay by the Hogosha.</TEXT><PARA/><PARA/><TEXT>Anyone who deals with Junkers knows they live by a strict code; if you’re not a Junker, you’re not part of the family. A Junker will double-cross you without a second thought, and they’re fiercely protective of each other. Most House corporations consider the Junkers to be simple criminals, but Junkers will occasionally do favors for the police, turning in the odd, mid-level criminal or letting them know about the occasional drug shipment. So, despite some harassment, the police stop short of shutting them down. The infrequent police cleanup operations are little more than exercises in public relations, though there’s no love lost between the two groups.</TEXT><PARA/><PARA/><TEXT>The Junkers make their official money from salvaging debris within the fields, but also have a good deal going with various criminals, who like their “no questions asked” policy. Tolerated by the governments, Junkers sometimes deal in contraband, but they are extremely hard to catch red-handed. They are frequently patronized by the criminal element for the refuge they offer within the often hostile territory of House capital systems.</TEXT><PARA/><PARA/><TEXT>Liberty has two groups: a major population in the New York System, and a smaller enclave in Texas. The Junker base of operations in New London is located near the shipyards within the Southampton Debris Field. In New Berlin they scavenge the remaining pockets of industrial waste and scrap within the asteroid fields. Their latest foray is a departure — a base in the Border Worlds. Attracted by the ALG operation in Sigma-13, they have set up shop near the facility and do most of the dirty work, picking off the best loot from the old ships for themselves. It also serves as a convenient launching point for Cardamine and Artifact runs into New Berlin. Long-distance smuggling is new for the faction, which is still perfecting this skill.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Where there’s junk, there are the Junkers. They’ve been around since the earliest days of the Trade Lanes. Descended from the working classes, they developed within the House systems as a sort of necessary evil, handling the dirty work that no one else would. They do well salvaging valuable materials from the ever-increasing debris fields throughout Sirius, with the notable exception of Kusari. To this day they remain held at bay by the Hogosha.</TEXT><PARA/><PARA/><TEXT>Anyone who deals with Junkers knows they live by a strict code; if you’re not a Junker, you’re not part of the family. A Junker will double-cross you without a second thought, and they’re fiercely protective of each other. Most House corporations consider the Junkers to be simple criminals, but Junkers will occasionally do favors for the police, turning in the odd, mid-level criminal or letting them know about the occasional drug shipment. So despite some harassment, the police stop short of shutting them down. The infrequent police cleanup operations are little more than exercises in public relations, though there’s no love lost between the two groups.</TEXT><PARA/><PARA/><TEXT>The Junkers make their official money from salvaging debris within the fields, but also have a good deal going with various criminals, who like their “no questions asked” policy. Tolerated by the governments, Junkers sometimes deal in contraband, but they are extremely hard to catch red-handed. They are frequently patronized by the criminal element for the refuge they offer within the often hostile territory of House capital systems.</TEXT><PARA/><PARA/><TEXT>Liberty has two groups: a major population in the New York System, and a smaller enclave in Texas. The Junker base of operations in New London is located near the shipyards within the Southampton Debris Field. In New Berlin they scavenge the remaining pockets of industrial waste and scrap within the asteroid fields. Their latest foray is a departure — a base in the Border Worlds. Attracted by the ALG operation in Sigma-13, they have set up shop near the facility and do most of the dirty work, picking off the best loot from the old ships for themselves. It also serves as a convenient launching point for Cardamine and Artifact runs into New Berlin. Long-distance smuggling is new for the faction, which is still perfecting this skill.</TEXT><PARA/><POP/></RDL>
 
 65769
 INFOCARD
@@ -16561,7 +16561,7 @@ INFOCARD
 
 66036
 INFOCARD
-<RDL><PUSH/><TEXT>A medium-sized arm of the Crow Nebula, famed throughout Sirius for its beautiful vistas. A significant number of valuable gases and the close proximity of the Honshu Jump Gate has also made this an ideal location for the first official joint operation between Kishiro and the Gas Mining Guild (GMG) — much to the dismay of Kishiro’s chief corporate rival, Samura. The GMG gas miner </TEXT><TRA italic="true"/><TEXT>Ogashawa</TEXT><TRA italic="false"/><TEXT>  hosts not only several Kishiro “expert advisors,” but also acts as a base of operations for Kishiro’s own activities within the cloud.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A medium-sized arm of the Crow Nebula, famed throughout Sirius for its beautiful vistas. A significant amount of valuable gases and the close proximity of the Honshu Jump Gate has also made this an ideal location for the first official joint operation between Kishiro and the Gas Mining Guild (GMG) — much to the dismay of Kishiro’s chief corporate rival, Samura. The GMG gas miner </TEXT><TRA italic="true"/><TEXT>Ogashawa</TEXT><TRA italic="false"/><TEXT>  hosts not only several Kishiro “expert advisors,” but also acts as a base of operations for Kishiro’s own activities within the cloud.</TEXT><PARA/><POP/></RDL>
 
 66037
 INFOCARD
@@ -18173,7 +18173,7 @@ INFOCARD
 
 131137
 INFOCARD
-<RDL><PUSH/><TEXT>This is the home base of the Liberty Rogues. Sure, we got a base in California, but this is the big leagues. Everyone comes to New York, and we’re here to make sure they leave something behind before they go. Being a pirate is better than working the Fertilizer plants in Texas. So, what if we take more risk? Prison isn’t an unfamiliar thing to a Rogue.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is the home base of the Liberty Rogues. Sure, we got a base in California, but this is the big leagues. Everyone comes to New York, and we’re here to make sure they leave something behind before they go. Being a pirate is better than working the Fertilizer plants in Texas. So what if we take more risk? Prison isn’t an unfamiliar thing to a Rogue.</TEXT><PARA/><POP/></RDL>
 
 131138
 INFOCARD
@@ -18621,7 +18621,7 @@ INFOCARD
 
 131275
 INFOCARD
-<RDL><PUSH/><TEXT>I cracked a team of Rogues that was raiding the Food shipments coming in here from Ft. Bush. So, I guess that they won’t need to steal as much Food with three less mouths to feed.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I cracked a team of Rogues that was raiding the Food shipments coming in here from Ft. Bush. So I guess that they won’t need to steal as much Food with three less mouths to feed.</TEXT><PARA/><POP/></RDL>
 
 131276
 INFOCARD
@@ -19617,7 +19617,7 @@ INFOCARD
 
 131537
 INFOCARD
-<RDL><PUSH/><TEXT>We designed the entire USI software system to track ships and their contents throughout the entire Trade Lane network in the Sirius Sector. Ageira didn’t give us a penny extra. So, we left and started the Lane Hackers, along with a scanner hardware development group from Colorado. IC uses the USI system to calculate precise shipping insurance rates. With USI there is no cheating, like there was in the old days. The shippers hate it, but they have to insure their shipments. IC and Ageira are quite the pair.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We designed the entire USI software system to track ships and their contents throughout the entire Trade Lane network in the Sirius Sector. Ageira didn’t give us a penny extra. So we left and started the Lane Hackers, along with a scanner hardware development group from Colorado. IC uses the USI system to calculate precise shipping insurance rates. With USI there is no cheating, like there was in the old days. The shippers hate it, but they have to insure their shipments. IC and Ageira are quite the pair.</TEXT><PARA/><POP/></RDL>
 
 131538
 INFOCARD
@@ -19861,7 +19861,7 @@ INFOCARD
 
 131598
 INFOCARD
-<RDL><PUSH/><TEXT>This area is really stormy. The cloud has moved a lot since we carved this base out of the rock. Lots of dark matter in the area, so ya got to pop those Cryer anti-radiation pills daily. Good thing we can occasionally steal shipments, otherwise we’d be broke and the Zoners on Ames very rich.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This area is real stormy. The cloud has moved a lot since we carved this base out of the rock. Lots of dark matter in the area, so ya got to pop those Cryer anti-radiation pills daily. Good thing we can occasionally steal shipments, otherwise we’d be broke and the Zoners on Ames very rich.</TEXT><PARA/><POP/></RDL>
 
 131599
 INFOCARD
@@ -20321,7 +20321,7 @@ INFOCARD
 
 131713
 INFOCARD
-<RDL><PUSH/><TEXT>A good way to catch Xenos is to fly into the Copperton Field, then take the Jump Hole to Kepler. Watch out on the other side, swarms of them in that cloud. Their base is really close. Never seen it, but you can feel it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A good way to catch Xenos is to fly into the Copperton Field, then take the Jump Hole to Kepler. Watch out on the other side, swarms of them in that cloud. Their base is real close. Never seen it, but you can feel it.</TEXT><PARA/><POP/></RDL>
 
 131714
 INFOCARD
@@ -20649,7 +20649,7 @@ INFOCARD
 
 131802
 INFOCARD
-<RDL><PUSH/><TEXT>Ageira is somewhat disliked in Texas because of the whole Dallas incident. The sad truth is that no one could have done better, but you can’t always fight perception. So, we ship the Side Arms manufactured here to Houston for them, and we also ship to the battleships and other police bases in Liberty.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Ageira is somewhat disliked in Texas because of the whole Dallas incident. The sad truth is that no one could have done better, but you can’t always fight perception. So we ship the Side Arms manufactured here to Houston for them, and we also ship to the battleships and other police bases in Liberty.</TEXT><PARA/><POP/></RDL>
 
 131803
 INFOCARD
@@ -21305,7 +21305,7 @@ INFOCARD
 
 131966
 INFOCARD
-<RDL><PUSH/><TEXT>This place makes me feel really unwelcome. Them Navy folks just don’t want us here. They’re all suspicious and secretive. We’re just performing a necessary duty — waste disposal. That’s what I would call it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This place makes me feel real unwelcome. Them Navy folks just don’t want us here. They’re all suspicious and secretive. We’re just performing a necessary duty — waste disposal. That’s what I would call it.</TEXT><PARA/><POP/></RDL>
 
 131967
 INFOCARD
@@ -21617,7 +21617,7 @@ INFOCARD
 
 132049
 INFOCARD
-<RDL><PUSH/><TEXT>This base being primarily a Commodity producer means that it is a tempting target for the criminals in the area. So, I patrol the Trade Lanes nearby, hunting for the scum who waylay shipping.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This base being primarily a Commodity producer means that it is a tempting target for the criminals in the area. So I patrol the Trade Lanes nearby, hunting for the scum who waylay shipping.</TEXT><PARA/><POP/></RDL>
 
 132050
 INFOCARD
@@ -21785,7 +21785,7 @@ INFOCARD
 
 132091
 INFOCARD
-<RDL><PUSH/><TEXT>Any Outcasts that are captured are sent to the Sugarland; if they come here, they will die. Xenos hate Outcasts because they are so different and foreign. So, any Outcast who comes will be killed within days by the Xeno population.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Any Outcasts that are captured are sent to the Sugarland; if they come here, they will die. Xenos hate Outcasts because they are so different and foreign. So any Outcast who comes will be killed within days by the Xeno population.</TEXT><PARA/><POP/></RDL>
 
 132092
 INFOCARD
@@ -24321,7 +24321,7 @@ INFOCARD
 
 132754
 INFOCARD
-<RDL><PUSH/><TEXT>The only way that Samura could compete with Synth Foods was to find a way to boost the number of fish that our fish farms could produce. Alien Organisms were the answer. They are in demand at our facility in Junyo.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The only way that Samura could compete with Synth Foods was to find a way to boost the amount of fish that our fish farms could produce. Alien Organisms were the answer. They are in demand at our facility in Junyo.</TEXT><PARA/><POP/></RDL>
 
 132755
 INFOCARD
@@ -26861,7 +26861,7 @@ INFOCARD
 
 133394
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve been hearing rumors that they might shut this thing down pretty soon. Kusari government’s tired of the cost overruns. I can tell you we’re tired of watching our buddies get atomized while they’re out there welding. This ain’t no place for civilians like us, even on hazard pay.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve been hearing rumors that they might shut this thing down pretty soon. Kusari government’s tired of the cost overruns. I can tell you, we’re tired of watching our buddies get atomized while they’re out there welding. This ain’t no place for civilians like us, even on hazard pay.</TEXT><PARA/><POP/></RDL>
 
 133395
 INFOCARD
@@ -28021,7 +28021,7 @@ INFOCARD
 
 133689
 INFOCARD
-<RDL><PUSH/><TEXT>Many of the men on this base are not miners, but assessment teams and surveyors. Daumann is considering the construction of a major mining facility in this system. It would be a great addition to the number of ore we could ship to New Berlin, as well as to what we get from Dresden.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many of the men on this base are not miners, but assessment teams and surveyors. Daumann is considering the construction of a major mining facility in this system. It would be a great addition to the amount of ore we could ship to New Berlin, as well as to what we get from Dresden.</TEXT><PARA/><POP/></RDL>
 
 133690
 INFOCARD
@@ -58373,7 +58373,7 @@ Siniestre Cloud
 
 261337
 NAME
-Tenereife Asteroid Field
+Teneriefe Asteroid Field
 
 261338
 NAME
