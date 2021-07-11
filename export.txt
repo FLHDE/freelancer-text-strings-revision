@@ -15333,7 +15333,7 @@ INFOCARD
 
 65724
 INFOCARD
-<RDL><PUSH/><TEXT>Thames Outpost is populated almost exclusively by Bretonia Mining and Metal (BMM) staff and workers. The Bretonia Armed Forces also keeps a small presence aboard in an effort to maintain a measure of security in the face of possible raids by pirates or criminal groups such as the Mollys. While the outpost itself has little strategic importance, it does have a significant amount of valuable resources that are constantly transferred between storage bays and transports.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Thames Outpost is populated almost exclusively by Bretonia Mining and Metal (BMM) staff and workers. The Bretonia Armed Forces also keeps a small presence aboard in an effort to maintain a measure of security in the face of possible raids by pirates or criminal groups such as the Mollys. While the outpost itself has little strategic importance, it does have a significant number of valuable resources that are constantly transferred between storage bays and transports.</TEXT><PARA/><POP/></RDL>
 
 65725
 INFOCARD
@@ -18733,7 +18733,7 @@ INFOCARD
 
 131303
 INFOCARD
-<RDL><PUSH/><TEXT>The Toxic Waste produced in the engines of this ship is sent to the plant in Dortmund and disposed of properly. The amount of Xenos I have to fight off just to haul Toxic Waste is stupefying. Those bloodthirsty animals will attack anything without a Liberty flag stamped on the outside of its hull.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Toxic Waste produced in the engines of this ship is sent to the plant in Dortmund and disposed of properly. The number of Xenos I have to fight off just to haul Toxic Waste is stupefying. Those bloodthirsty animals will attack anything without a Liberty flag stamped on the outside of its hull.</TEXT><PARA/><POP/></RDL>
 
 131304
 INFOCARD
@@ -24321,7 +24321,7 @@ INFOCARD
 
 132754
 INFOCARD
-<RDL><PUSH/><TEXT>The only way that Samura could compete with Synth Foods was to find a way to boost the amount of fish that our fish farms could produce. Alien Organisms were the answer. They are in demand at our facility in Junyo.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The only way that Samura could compete with Synth Foods was to find a way to boost the number of fish that our fish farms could produce. Alien Organisms were the answer. They are in demand at our facility in Junyo.</TEXT><PARA/><POP/></RDL>
 
 132755
 INFOCARD
@@ -71761,7 +71761,7 @@ INFOCARD
 
 393560
 INFOCARD
-<RDL><PUSH/><TEXT>Thanks to technological advances in quantum displacement compression, a ship’s cargo hold can contain a sizable amount of goods. Naturally, light fighter class ships can’t hold as much as heavy fighters; but nothing matches a freighter’s cargo capacity.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Thanks to technological advances in quantum displacement compression, a ship’s cargo hold can contain a sizable number of goods. Naturally, light fighter class ships can’t hold as much as heavy fighters; but nothing matches a freighter’s cargo capacity.</TEXT><PARA/><POP/></RDL>
 
 393561
 INFOCARD
