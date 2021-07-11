@@ -8801,7 +8801,7 @@ Destroy Ashcroft’s Ship
 
 22265
 NAME
-Tractor in Ashcroft’s Lifepod
+Tractor in Ashcroft’s Life pod
 
 22267
 NAME
@@ -8841,7 +8841,7 @@ Mission Failed. Ashcroft’s pod has been destroyed, and Liberty cannot retrieve
 
 22360
 NAME
-Mission Failed. You took too long to tractor in Ashcroft’s Lifepod.
+Mission Failed. You took too long to tractor in Ashcroft’s Life pod.
 
 22365
 NAME
@@ -10729,7 +10729,7 @@ NAME
 
 25267
 NAME
-\nReturn Ashcroft’s Lifepod to the Battleship Missouri.
+\nReturn Ashcroft’s Life pod to the Battleship Missouri.
 
 25410
 NAME
@@ -11161,7 +11161,7 @@ NAME
 
 30000
 NAME
-*PERSONAL ENTRY:\nI still can’t quite believe it. Lonnigan and I had just signed the deal when the attack occurred. We barely made it out alive. From the time the alert started, we only had a few moments before the station blew up. Hundreds of people weren’t so lucky. I actually had to carry Lonnigan to the Lifepod because a bulkhead collapsed during the attack and hit him in the head. He’s been unconscious ever since. The medics assure me that he’ll recover. I certainly hope so. We’re currently on a rescue ship en route to Manhattan, but things aren’t looking so good. I lost my ship and my ore shipment blew up with the rest of the station. All I have left is 500 credits. That wouldn’t even buy me a ticket back to Leeds on a waste disposal freighter.
+*PERSONAL ENTRY:\nI still can’t quite believe it. Lonnigan and I had just signed the deal when the attack occurred. We barely made it out alive. From the time the alert started, we only had a few moments before the station blew up. Hundreds of people weren’t so lucky. I actually had to carry Lonnigan to the Life pod because a bulkhead collapsed during the attack and hit him in the head. He’s been unconscious ever since. The medics assure me that he’ll recover. I certainly hope so. We’re currently on a rescue ship en route to Manhattan, but things aren’t looking so good. I lost my ship and my ore shipment blew up with the rest of the station. All I have left is 500 credits. That wouldn’t even buy me a ticket back to Leeds on a waste disposal freighter.
 
 30005
 NAME
@@ -16621,7 +16621,7 @@ INFOCARD
 
 66051
 INFOCARD
-<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>A smaller region of dark matter and radiation left behind in the wake of the Texas incident. The Pequena Negra is, however, just as lethal to unshielded organics as the larger Grande Negra, and should be avoided at all costs.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>A smaller region of dark matter and radiation left behind in the wake of the Texas incident. The Pequeña Negra is, however, just as lethal to unshielded organics as the larger Grande Negra, and should be avoided at all costs.</TEXT><PARA/><POP/></RDL>
 
 66053
 INFOCARD
@@ -21661,7 +21661,7 @@ INFOCARD
 
 132060
 INFOCARD
-<RDL><PUSH/><TEXT>All our patrols originate from the Mississippi. Some patrol the Trade Lane to the Bering Jump Gate, and others fly through the North Dallas Debris Field and along the southern edge of Pequena Negra looking for criminals where we suspect Jump Holes may exist.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>All our patrols originate from the Mississippi. Some patrol the Trade Lane to the Bering Jump Gate, and others fly through the North Dallas Debris Field and along the southern edge of Pequeña Negra looking for criminals where we suspect Jump Holes may exist.</TEXT><PARA/><POP/></RDL>
 
 132061
 INFOCARD
@@ -21757,7 +21757,7 @@ INFOCARD
 
 132084
 INFOCARD
-<RDL><PUSH/><TEXT>I like to patrol out by the Negra Pequena and the North Dallas Debris Field. You can find Rogues, Outcasts, Xenos, and Junkers in that area. There is a Jump Hole around there that leads to New York, I believe. Somehow a lot of the criminals find their way into this system from California in that general area, too.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I like to patrol out by the Pequeña Negra and the North Dallas Debris Field. You can find Rogues, Outcasts, Xenos, and Junkers in that area. There is a Jump Hole around there that leads to New York, I believe. Somehow a lot of the criminals find their way into this system from California in that general area, too.</TEXT><PARA/><POP/></RDL>
 
 132085
 INFOCARD
@@ -21929,7 +21929,7 @@ INFOCARD
 
 132127
 INFOCARD
-<RDL><PUSH/><TEXT>Several weeks ago I dragged a Bounty Hunter through the edge of the Negra Pequena and watched his ship disappear into the darkness — quite enjoyable. His last distress call was sent wideband, so I was able to hear the fear in his voice.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Several weeks ago I dragged a Bounty Hunter through the edge of the Pequeña Negra and watched his ship disappear into the darkness — quite enjoyable. His last distress call was sent wideband, so I was able to hear the fear in his voice.</TEXT><PARA/><POP/></RDL>
 
 132128
 INFOCARD
@@ -21965,7 +21965,7 @@ INFOCARD
 
 132136
 INFOCARD
-<RDL><PUSH/><TEXT>One of my buddies was chasing some Outcasts near the West Dallas Debris Field a few weeks ago. He tried to cut across the edge of the Negra Pequena to catch up with them, but he stayed in too long and bought the farm. Too bad, he was pretty good.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of my buddies was chasing some Outcasts near the West Dallas Debris Field a few weeks ago. He tried to cut across the edge of the Pequeña Negra to catch up with them, but he stayed in too long and bought the farm. Too bad, he was pretty good.</TEXT><PARA/><POP/></RDL>
 
 132137
 INFOCARD
@@ -26293,7 +26293,7 @@ INFOCARD
 
 133252
 INFOCARD
-<RDL><PUSH/><TEXT>Many think our rites of initiation are barbaric, but we can’t feed, clothe, and train every Corsair born. The initiation keeps our population problems in check. At the age of sixteen every Corsair must fly into the radioactive Malvadas Cloud in an unshielded ship and return with an Artifact. Some return as they left, others become sterile, and the rest die.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many think our rites of initiation are barbaric, but we can’t feed, clothe, and train every Corsair born. The initiation keeps our population problems in check. At the age of sixteen every Corsair must fly into the radioactive Malvada Cloud in an unshielded ship and return with an Artifact. Some return as they left, others become sterile, and the rest die.</TEXT><PARA/><POP/></RDL>
 
 133253
 INFOCARD
@@ -26333,7 +26333,7 @@ INFOCARD
 
 133262
 INFOCARD
-<RDL><PUSH/><TEXT>Within the Malvadas Cloud you’ll find a Jump Hole leading to Omicron Theta. There is another Jump Hole in this system in the Walker Cloud. Be careful, there are mines scattered among the carbon asteroids, but once past those you’ll come upon the Jump Hole to Omega-41.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Within the Malvada Cloud you’ll find a Jump Hole leading to Omicron Theta. There is another Jump Hole in this system in the Walker Cloud. Be careful, there are mines scattered among the carbon asteroids, but once past those you’ll come upon the Jump Hole to Omega-41.</TEXT><PARA/><POP/></RDL>
 
 133263
 INFOCARD
@@ -28041,7 +28041,7 @@ INFOCARD
 
 133694
 INFOCARD
-<RDL><PUSH/><TEXT>Right now, the men at the Kruger base in the Ebersfeld are doing the same thing we are: trying to figure out if they should build a major base in this system. Of course, we hire pilots to attack their operations to help them decide against it. Let’s hope that is enough persuasion.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Right now, the men at the Kruger base in the Ebersfelde are doing the same thing we are: trying to figure out if they should build a major base in this system. Of course, we hire pilots to attack their operations to help them decide against it. Let’s hope that is enough persuasion.</TEXT><PARA/><POP/></RDL>
 
 133695
 INFOCARD
@@ -30213,7 +30213,7 @@ INFOCARD
 
 134292
 INFOCARD
-<RDL><PUSH/><TEXT>A Red Hessian attack on the Kruger freighter </TEXT><TRA italic="true"/><TEXT>Monschau</TEXT><TRA italic="false"/><TEXT>  failed when the ship attempted to flee. Unfortunately, it flew straight into the Ebersfeld gas pocket that separates the IMG mining area and the Elbich Mining Facility. No one has yet dared to retrieve the cargo of Silver, as the risk of explosion is too high.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A Red Hessian attack on the Kruger freighter </TEXT><TRA italic="true"/><TEXT>Monschau</TEXT><TRA italic="false"/><TEXT>  failed when the ship attempted to flee. Unfortunately, it flew straight into the Ebersfelde gas pocket that separates the IMG mining area and the Elbich Mining Facility. No one has yet dared to retrieve the cargo of Silver, as the risk of explosion is too high.</TEXT><PARA/><POP/></RDL>
 
 134293
 INFOCARD
@@ -30409,7 +30409,7 @@ INFOCARD
 
 134341
 INFOCARD
-<RDL><PUSH/><TEXT>Not too long ago there was a prison break by some Rogues from a Sugarland work convoy in the East Dallas Debris Field. They fled into the Pequena Negra Cloud, pursued by a Bounty Hunter named Annie “Shorty” Davis. She flew a nice rig called the </TEXT><TRA italic="true"/><TEXT>Avenger</TEXT><TRA italic="false"/><TEXT>. The Rogues eventually doubled back and escaped through the California Hole. Annie must have gotten confused in there, or maybe her ship was damaged by some enemy fire. Either way, she never emerged from that dark cloud.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Not too long ago there was a prison break by some Rogues from a Sugarland work convoy in the East Dallas Debris Field. They fled into the Pequeña Negra Cloud, pursued by a Bounty Hunter named Annie “Shorty” Davis. She flew a nice rig called the </TEXT><TRA italic="true"/><TEXT>Avenger</TEXT><TRA italic="false"/><TEXT>. The Rogues eventually doubled back and escaped through the California Hole. Annie must have gotten confused in there, or maybe her ship was damaged by some enemy fire. Either way, she never emerged from that dark cloud.</TEXT><PARA/><POP/></RDL>
 
 134342
 INFOCARD
@@ -30421,7 +30421,7 @@ INFOCARD
 
 134344
 INFOCARD
-<RDL><PUSH/><TEXT>The Rogue fighter </TEXT><TRA italic="true"/><TEXT>Prudhoe</TEXT><TRA italic="false"/><TEXT>  was making a Diamond run from Hudson to Beaumont when it was ambushed by a Xeno assault patrol. It fled into the Pequena Negra Cloud, with the Xenos in hot pursuit. No one has seen them since. People here figure they all died in there from the radiation.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Rogue fighter </TEXT><TRA italic="true"/><TEXT>Prudhoe</TEXT><TRA italic="false"/><TEXT>  was making a Diamond run from Hudson to Beaumont when it was ambushed by a Xeno assault patrol. It fled into the Pequeña Negra Cloud, with the Xenos in hot pursuit. No one has seen them since. People here figure they all died in there from the radiation.</TEXT><PARA/><POP/></RDL>
 
 134345
 INFOCARD
@@ -34425,7 +34425,7 @@ Sean Ashcroft
 
 216207
 NAME
-Ashcroft's Lifepod
+Ashcroft's Life pod
 
 216208
 NAME
@@ -52273,11 +52273,11 @@ I’ll sell you the location of an old storage depot in the Grande Negra
 
 251915
 NAME
-I’ll sell you the location of a Bounty Hunter wreck in the Pequena Negra
+I’ll sell you the location of a Bounty Hunter wreck in the Pequeña Negra
 
 251916
 NAME
-I’ll sell you the location of a Liberty Rogue wreck in the Pequena Negra
+I’ll sell you the location of a Liberty Rogue wreck in the Pequeña Negra
 
 251917
 NAME
@@ -52409,7 +52409,7 @@ I’ll sell you the location of the Hessian and Corsair wrecks in the battlefiel
 
 251949
 NAME
-I’ll sell you the location of a Republican wreck in the Ebersfeld
+I’ll sell you the location of a Republican wreck in the Ebersfelde
 
 251950
 NAME
@@ -52517,7 +52517,7 @@ I’ll sell you the location of a Bounty Hunter wreck in the Gredos Cloud
 
 251976
 NAME
-I’ll sell you the location of a large number of Corsair wrecks in the Malvadas Cloud
+I’ll sell you the location of a large number of Corsair wrecks in the Malvada Cloud
 
 252609
 NAME
@@ -57925,7 +57925,7 @@ Grande Negra
 
 261225
 NAME
-Pequena Negra
+Pequeña Negra
 
 261226
 NAME
@@ -69321,7 +69321,7 @@ Grande Negra
 
 331698
 NAME
-Pequena Negra
+Pequeña Negra
 
 331699
 NAME
@@ -69893,7 +69893,7 @@ the Grande Negra
 
 331898
 NAME
-the Pequena Negra
+the Pequeña Negra
 
 331899
 NAME
@@ -72113,7 +72113,7 @@ INFOCARD
 
 393648
 INFOCARD
-<RDL><PUSH/><TEXT>I heard there was a guy they pulled out of a crushed FP7 Lifepod who had a bunch of Artifacts and millions in credits on him. Normally, I’d say it sounded like a buyer was in the wrong place at the wrong time, but with all those credits? I guess the LSF thinks it’s strange too since they are somehow linking this guy to The Order.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I heard there was a guy they pulled out of a crushed FP7 Life pod who had a bunch of Artifacts and millions in credits on him. Normally, I’d say it sounded like a buyer was in the wrong place at the wrong time, but with all those credits? I guess the LSF thinks it’s strange too since they are somehow linking this guy to The Order.</TEXT><PARA/><POP/></RDL>
 
 393649
 INFOCARD
