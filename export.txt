@@ -10161,7 +10161,7 @@ Dock with Bruchsal Base
 
 23895
 NAME
-Meet Von Claussen in Space outside Bruschal Base
+Meet Von Claussen in Space outside Bruchsal Base
 
 23900
 NAME
@@ -11161,7 +11161,7 @@ NAME
 
 30000
 NAME
-*PERSONAL ENTRY:\nI still can’t quite believe it. Lonnigan and I had just signed the deal when the attack occurred. We barely made it out alive. From the time the alert started, we only had a few moments before the station blew up. Hundreds of people weren’t so lucky. I actually had to carry Lonnigan to the life pod because a bulkhead collapsed during the attack and hit him in the head. He’s been unconscious ever since. The medics assure me that he’ll recover. I certainly hope so. We’re currently on a rescue ship en route to Manhattan, but things aren’t looking so good. I lost my ship and my ore shipment blew up with the rest of the station. All I have left is 500 credits. That wouldn’t even buy me a ticket back to Leeds on a waste disposal freighter.
+*PERSONAL ENTRY:\nI still can’t quite believe it. Lonnigan and I had just signed the deal when the attack occurred. We barely made it out alive. From the time the alert started, we only had a few moments before the station blew up. Hundreds of people weren’t so lucky. I actually had to carry Lonnigan to the Lifepod because a bulkhead collapsed during the attack and hit him in the head. He’s been unconscious ever since. The medics assure me that he’ll recover. I certainly hope so. We’re currently on a rescue ship en route to Manhattan, but things aren’t looking so good. I lost my ship and my ore shipment blew up with the rest of the station. All I have left is 500 credits. That wouldn’t even buy me a ticket back to Leeds on a waste disposal freighter.
 
 30005
 NAME
@@ -11381,7 +11381,7 @@ NAME
 
 30545
 NAME
-*PERSONAL ENTRY:\nFor a scientist, Sinclair is a damn good pilot, but she’s a sad judge of character. So two Rheinland “defectors” just happen to cross our path and are kind enough to just show us the way out. Riiiight. Why am I always the only one who picks up on this stuff? We just about got killed a few minutes ago by these same guys, and we’re all of a sudden following them around?
+*PERSONAL ENTRY:\nFor a scientist, Sinclair is a damn good pilot, but she’s a sad judge of character. So, two Rheinland “defectors” just happen to cross our path and are kind enough to just show us the way out. Riiiight. Why am I always the only one who picks up on this stuff? We just about got killed a few minutes ago by these same guys, and we’re all of a sudden following them around?
 
 30550
 NAME
@@ -11401,7 +11401,7 @@ NAME
 
 30610
 NAME
-*PERSONAL ENTRY:\nI’m not racing this old backwoods hick. What’s he doing out here anyways? Shouldn’t he be out in Texas or in the Border Worlds or something? Well, in any case, I’m not racing him just so he can get a sucker to burn. Juni will just have to find another lead.
+*PERSONAL ENTRY:\nI’m not racing this old, backwoods hick. What’s he doing out here anyways? Shouldn’t he be out in Texas or in the Border Worlds or something? Well, in any case, I’m not racing him just so he can get a sucker to burn. Juni will just have to find another lead.
 
 30615
 NAME
@@ -11469,7 +11469,7 @@ NAME
 
 30820
 NAME
-*PERSONAL ENTRY:\nTekagi wasn’t aboard and neither was the Tome! Ozu seems unfazed by all of this — I don’t know how. I guess this all just comes naturally to him. I can see why everyone around here reveres him so much. So this is the legendary Kyoto Base. I guess I’ll take some jobs and earn some scratch while Ozu and the Blood Dragons come up with another way to find the Tome. This place isn’t much to look at, but they’ve got some great equipment here. I can certainly get used to the way they dress.
+*PERSONAL ENTRY:\nTekagi wasn’t aboard and neither was the Tome! Ozu seems unfazed by all of this — I don’t know how. I guess this all just comes naturally to him. I can see why everyone around here reveres him so much. So, this is the legendary Kyoto Base. I guess I’ll take some jobs and earn some scratch while Ozu and the Blood Dragons come up with another way to find the Tome. This place isn’t much to look at, but they’ve got some great equipment here. I can certainly get used to the way they dress.
 
 30900
 NAME
@@ -12553,7 +12553,7 @@ California Minor: Fact or Fantasy?
 
 56021
 NAME
-CALIFORNIA — With California’s booming population growth many are wondering if Planetform will be able to deliver on the promises of California Minor. The company has assured the public that the planet will be finished within the next two generations. The future prosperity of Los Angeles may depend on that promise. “When my grandfather came here, he said there was a lot of wide open space and plentiful water; now look at it — we’re jam packed here,” said California Tourism Director Mike Greeley. “People see how great it is to come here, and they decide to stay. That can’t go on forever.”
+CALIFORNIA — With California’s booming population growth many are wondering if Planetform will be able to deliver on the promises of California Minor. The company has assured the public that the planet will be finished within the next two generations. The future prosperity of Los Angeles may depend on that promise. “When my grandfather came here, he said there was a lot of wide-open space and plentiful water; now look at it — we’re jam packed here,” said California Tourism Director Mike Greeley. “People see how great it is to come here, and they decide to stay. That can’t go on forever.”
 
 56022
 NAME
@@ -12641,7 +12641,7 @@ Skirmish in Rio Grande Bar Injures Five
 
 56043
 NAME
-RIO GRANDE — A scuffle broke out aboard the Battleship Rio Grande three days ago between Navy crewmen and several Bounty Hunters. Apparently, the exchange began when one of the Bounty Hunters made a negative comment regarding the condition of the Liberty battleship and the poor quality of the patrol craft that Navy pilots fly. The argument escalated when several punches were thrown. Soon, the ship’s bar had degenerated into an all out brawl. Five were treated at the battleship’s infirmary for various minor injuries.
+RIO GRANDE — A scuffle broke out aboard the Battleship Rio Grande three days ago between Navy crewmen and several Bounty Hunters. Apparently, the exchange began when one of the Bounty Hunters made a negative comment regarding the condition of the Liberty battleship and the poor quality of the patrol craft that Navy pilots fly. The argument escalated when several punches were thrown. Soon, the ship’s bar had degenerated into an all-out brawl. Five were treated at the battleship’s infirmary for various minor injuries.
 
 56044
 NAME
@@ -12881,7 +12881,7 @@ Trouble in Paradise
 
 56103
 NAME
-BADEN-BADEN — Orbital Spa and Cruise Line’s luxury liner Baden-Baden is posting record losses this quarter. Orbital representatives are blaming the declining Rheinland economy for the unexpected revenue shortfall. “We have resorts throughout Sirius, but Baden-Baden is the only unprofitable facility,” said Orbital’s Executive Vice President of Operations, Bill Johnson. To make up for the losses there has been talk of shipping in Liberty econo-class tourists to the resort. Many Stuttgart citizens who believe that there is enough Liberty presence in the system already picketed the Orbital office on Monday.
+BADEN-BADEN — Orbital Spa and Cruise Line’s luxury liner Baden-Baden is posting record losses this quarter. Orbital representatives are blaming the declining Rheinland economy for the unexpected revenue shortfall. “We have resorts throughout Sirius, but Baden-Baden is the only unprofitable facility,” said Orbital’s Executive Vice President of Operations, Bill Johnson. To make up for the losses there has been talk of shipping in Liberty economy-class tourists to the resort. Many Stuttgart citizens who believe that there is enough Liberty presence in the system already picketed the Orbital office on Monday.
 
 56104
 NAME
@@ -14305,7 +14305,7 @@ The Road To Rheinland Part III
 
 56459
 NAME
-CRETE — The Northern Fleet in Frankfurt will stage an all out attack on the Red Hessians in Dresden. Once Hessian forces are pulled from Omega-11 and Omega-5 to counter the Northern Fleet’s assault, conscripted forces from Leon and the standing fleet in Cadiz will launch into the two weakened Omega systems. When victory is achieved in the Omegas, the Leon fleet will attack the Hessians in Dresden from behind, and the hammer will meet the anvil. The Cadiz Fleet will stand by to reinforce and protect the flank.
+CRETE — The Northern Fleet in Frankfurt will stage an all-out attack on the Red Hessians in Dresden. Once Hessian forces are pulled from Omega-11 and Omega-5 to counter the Northern Fleet’s assault, conscripted forces from Leon and the standing fleet in Cadiz will launch into the two weakened Omega systems. When victory is achieved in the Omegas, the Leon fleet will attack the Hessians in Dresden from behind, and the hammer will meet the anvil. The Cadiz Fleet will stand by to reinforce and protect the flank.
 
 56460
 NAME
@@ -14845,7 +14845,7 @@ INFOCARD
 
 65602
 INFOCARD
-<RDL><PUSH/><TEXT>Soon after tourists began to arrive in Edinburgh in 690 AS, Cambridge scientists voiced their concern over the enormous ecological damage that even the most regulated visits could inflict on the planet. Almost from birth Cambridgers had drilled into them the stories of how New London and Leeds were blighted, so they tended to be very environmentally sensitive. A few of the younger and more militant scientists studying on Edinburgh actually went so far as to begin a campaign to sabotage tourist transports in an effort to discourage visits, but with little effect.</TEXT><PARA/><PARA/><TEXT>Once Cobalt was discovered on Gaia in 740, the BMM began to make noises in New London about the need to establish a mining base there. What had been a quiet, bloodless campaign of active resistance blossomed into full-fledged conflict. Graffiti with slogans such as “GAIA WILL NOT BLEED” was spotted soon after. The eco-terrorist movement had begun.</TEXT><PARA/><PARA/><TEXT>Eventually any plans to mine the surface of Edinburgh were dropped — mostly out of fear that it might cut into the burgeoning tourist industry — but the Gaians had already broadened their horizons by an influx of radical elements from Cambridge who sought a ban on terraforming technologies. Planetform, Inc. was the natural target. What emerged was a militant terrorist group philosophically opposed to the exploitation of planets, and terraforming in particular. The group enjoyed considerable popular support on Cambridge, funded by the efforts of the legitimate arm of the Gaians called the Green Front.</TEXT><PARA/><PARA/><TEXT>While the Gaians and the eco-terrorist movement as a whole have made little progress outside of Bretonian space, Green Front propaganda is a common sight in Bretonia. Green Front commentators are often present on the news, and unlike the Mollys, a certain amount of tolerance for them exists in the government from those disinclined to antagonize their Cambridge connections. Over the years, the movement has broadened considerably until the majority of its sympathizers are environmentally conscious individuals from throughout Bretonia.</TEXT><PARA/><PARA/><TEXT>The sole Gaian base lies deep within the Islay Ice Cloud at the northeastern edge of the Edinburgh System. From here, the eco-terrorists coordinate attacks on their enemies within Bretonia space and the Tau-31 system. Occasionally, raids are made on the center of all evil — Planetform, Inc. headquarters at the Canterbury Station in the New London System. Ironically, although they have strong Cambridge roots, there is no activity within that system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Soon after tourists began to arrive in Edinburgh in 690 AS, Cambridge scientists voiced their concern over the enormous ecological damage that even the most regulated visits could inflict on the planet. Almost from birth Cantabrigians had drilled into them the stories of how New London and Leeds were blighted, so they tended to be very environmentally sensitive. A few of the younger and more militant scientists studying on Edinburgh actually went so far as to begin a campaign to sabotage tourist transports in an effort to discourage visits, but with little effect.</TEXT><PARA/><PARA/><TEXT>Once Cobalt was discovered on Gaia in 740, the BMM began to make noises in New London about the need to establish a mining base there. What had been a quiet, bloodless campaign of active resistance blossomed into full-fledged conflict. Graffiti with slogans such as “GAIA WILL NOT BLEED” was spotted soon after. The eco-terrorist movement had begun.</TEXT><PARA/><PARA/><TEXT>Eventually any plans to mine the surface of Edinburgh were dropped — mostly out of fear that it might cut into the burgeoning tourist industry — but the Gaians had already broadened their horizons by an influx of radical elements from Cambridge who sought a ban on terraforming technologies. Planetform, Inc. was the natural target. What emerged was a militant terrorist group philosophically opposed to the exploitation of planets, and terraforming in particular. The group enjoyed considerable popular support on Cambridge, funded by the efforts of the legitimate arm of the Gaians called the Green Front.</TEXT><PARA/><PARA/><TEXT>While the Gaians and the eco-terrorist movement as a whole have made little progress outside of Bretonian space, Green Front propaganda is a common sight in Bretonia. Green Front commentators are often present on the news, and unlike the Mollys, a certain amount of tolerance for them exists in the government from those disinclined to antagonize their Cambridge connections. Over the years, the movement has broadened considerably until the majority of its sympathizers are environmentally conscious individuals from throughout Bretonia.</TEXT><PARA/><PARA/><TEXT>The sole Gaian base lies deep within the Islay Ice Cloud at the northeastern edge of the Edinburgh System. From here, the eco-terrorists coordinate attacks on their enemies within Bretonia space and the Tau-31 system. Occasionally, raids are made on the center of all evil — Planetform, Inc. headquarters at the Canterbury Station in the New London System. Ironically, although they have strong Cambridge roots, there is no activity within that system.</TEXT><PARA/><POP/></RDL>
 
 65603
 INFOCARD
@@ -15357,7 +15357,7 @@ INFOCARD
 
 65732
 INFOCARD
-<RDL><PUSH/><TEXT>Hogosha translates literally as “guardian” or “protector,” reflecting the organization’s rather romantic view held not only by its own members, but by a large portion of the Kusari population — though by no means the majority. Far from protectors, the Hogosha are actually descendents of the organized crime syndicates that grow within the shadow of any sizable human society — though the Hogosha have an oddly symbiotic relationship with both the government and Samura.</TEXT><PARA/><PARA/><TEXT>Their political connections would make any serious attempt to dismantle them an embarrassment to Kusari as any number of secrets and deals that had been kept out of the public eye came to light. However, neither do the Hogosha have a free license to operate. Arrests of low-level Hogosha operators who flaunt their activities are frequent and help keep up appearances — very important in Kusari. “Hard” crime, such as drug smuggling, is not tolerated.</TEXT><PARA/><PARA/><TEXT>Individual opinions vary, but most police consider the Hogosha a necessary evil required for the smooth functioning of Kusari society. The government simply treats the Hogosha like any other large </TEXT><TRA italic="true"/><TEXT>keiretsu</TEXT><TRA italic="false"/><TEXT>. The Kusari population as a whole has a similar attitude: It is pointless to like or dislike the Hogosha; they are simply a fact of life.</TEXT><PARA/><PARA/><TEXT>The Hogosha handle Artifact and gun smuggling and the fencing of stolen goods. They also do occasional dirty work for Samura. They view the Blood Dragons as a major threat to their existence and have engaged in turf wars with them, mostly in the asteroid fields of Tokyo. The Golden Chrysanthemums are a new problem, as they have few qualms about dealing in the drug trade or its consequences. Since they have no corruptible leaders or long associations with Samura or the Kusari government and police, the GC — like the Blood Dragons — are dangerous to the Hogosha way of life. They view the Junkers as their only real competitors within the Sirius Sector, and their only obstacle to expansion into the other Houses. They have approached the Corsairs to assist them in their plan, although no concrete steps have been taken.</TEXT><PARA/><PARA/><TEXT>The Hogosha made a recent arrangement to purchase Artifacts directly from the Corsairs on the cruise ship </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>, a move that infuriated the GMG, who formerly served as the middleman between the two crime syndicates. It also raised the ire of the LSF, who applied pressure on Orbital Spa to deny landing privileges to the two factions.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Hogosha translates literally as “guardian” or “protector,” reflecting the organization’s rather romantic view held not only by its own members, but by a large portion of the Kusari population — though by no means the majority. Far from protectors, the Hogosha are actually descendants of the organized crime syndicates that grow within the shadow of any sizable human society — though the Hogosha have an oddly symbiotic relationship with both the government and Samura.</TEXT><PARA/><PARA/><TEXT>Their political connections would make any serious attempt to dismantle them an embarrassment to Kusari as any number of secrets and deals that had been kept out of the public eye came to light. However, neither do the Hogosha have a free license to operate. Arrests of low-level Hogosha operators who flaunt their activities are frequent and help keep up appearances — very important in Kusari. “Hard” crime, such as drug smuggling, is not tolerated.</TEXT><PARA/><PARA/><TEXT>Individual opinions vary, but most police consider the Hogosha a necessary evil required for the smooth functioning of Kusari society. The government simply treats the Hogosha like any other large </TEXT><TRA italic="true"/><TEXT>keiretsu</TEXT><TRA italic="false"/><TEXT>. The Kusari population as a whole has a similar attitude: It is pointless to like or dislike the Hogosha; they are simply a fact of life.</TEXT><PARA/><PARA/><TEXT>The Hogosha handle Artifact and gun smuggling and the fencing of stolen goods. They also do occasional dirty work for Samura. They view the Blood Dragons as a major threat to their existence and have engaged in turf wars with them, mostly in the asteroid fields of Tokyo. The Golden Chrysanthemums are a new problem, as they have few qualms about dealing in the drug trade or its consequences. Since they have no corruptible leaders or long associations with Samura or the Kusari government and police, the GC — like the Blood Dragons — are dangerous to the Hogosha way of life. They view the Junkers as their only real competitors within the Sirius Sector, and their only obstacle to expansion into the other Houses. They have approached the Corsairs to assist them in their plan, although no concrete steps have been taken.</TEXT><PARA/><PARA/><TEXT>The Hogosha made a recent arrangement to purchase Artifacts directly from the Corsairs on the cruise ship </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>, a move that infuriated the GMG, who formerly served as the middleman between the two crime syndicates. It also raised the ire of the LSF, who applied pressure on Orbital Spa to deny landing privileges to the two factions.</TEXT><PARA/><POP/></RDL>
 
 65733
 INFOCARD
@@ -21837,7 +21837,7 @@ INFOCARD
 
 132104
 INFOCARD
-<RDL><PUSH/><TEXT>The Texas system at one time was just wide open space with a couple planets. All the crap you see in this system — the dark matter clouds, the debris fields with the radiation — it is all Ageira’s fault. It all happened in one fateful day centuries ago.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Texas system at one time was just wide-open space with a couple planets. All the crap you see in this system — the dark matter clouds, the debris fields with the radiation — it is all Ageira’s fault. It all happened in one fateful day centuries ago.</TEXT><PARA/><POP/></RDL>
 
 132105
 INFOCARD
@@ -23177,7 +23177,7 @@ INFOCARD
 
 132447
 INFOCARD
-<RDL><PUSH/><TEXT>I’m a Leedite, born and raised here in Leeds, son of a Uranium miner. Did a turn in prison too, but that’s all behind me now. I know where the Jump Holes are in this system. I learned about them in Newgate. You can get to Manchester under wraps in the East Leeds, New London through the West Leeds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’m a Loiner, born and raised here in Leeds, son of a Uranium miner. Did a turn in prison too, but that’s all behind me now. I know where the Jump Holes are in this system. I learned about them in Newgate. You can get to Manchester under wraps in the East Leeds, New London through the West Leeds.</TEXT><PARA/><POP/></RDL>
 
 132448
 INFOCARD
@@ -24037,7 +24037,7 @@ INFOCARD
 
 132668
 INFOCARD
-<RDL><PUSH/><TEXT>Frankly, most people come for the gambling and feasting. The younger set opts for the planetside excursions. Most of the retirees just sit here and gorge themselves. Many are New Londoners, but we get a few of the Leedites, as we call them. They want one big trip before they die of whatever affliction Leeds gave them after living 40 years in that nightmare.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Frankly, most people come for the gambling and feasting. The younger set opts for the planetside excursions. Most of the retirees just sit here and gorge themselves. Many are New Londoners, but we get a few of the Loiners, as we call them. They want one big trip before they die of whatever affliction Leeds gave them after living 40 years in that nightmare.</TEXT><PARA/><POP/></RDL>
 
 132672
 INFOCARD
@@ -24561,7 +24561,7 @@ INFOCARD
 
 132815
 INFOCARD
-<RDL><PUSH/><TEXT>We rely upon the Outcasts of Tau-23 to supply us with our Cardamine. We sell it to New Tokyo through Rappongi to fund our operations and to pay for the drugs that we use ourselves. Cardamine use is part of our culture. It is a symbol of our free spirit and the dream of a better life.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We rely upon the Outcasts of Tau-23 to supply us with our Cardamine. We sell it to New Tokyo through Roppongi to fund our operations and to pay for the drugs that we use ourselves. Cardamine use is part of our culture. It is a symbol of our free spirit and the dream of a better life.</TEXT><PARA/><POP/></RDL>
 
 132816
 INFOCARD
@@ -25181,7 +25181,7 @@ INFOCARD
 
 132973
 INFOCARD
-<RDL><PUSH/><TEXT>Shingawa is Kishiro’s center of operations for all of Sirius. From here we coordinate the dispatch of ships to all corners of the Trade Lane network. This is also the research and manufacturing center for Optical Chip production.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Shinagawa is Kishiro’s center of operations for all of Sirius. From here we coordinate the dispatch of ships to all corners of the Trade Lane network. This is also the research and manufacturing center for Optical Chip production.</TEXT><PARA/><POP/></RDL>
 
 132974
 INFOCARD
@@ -26549,7 +26549,7 @@ INFOCARD
 
 133316
 INFOCARD
-<RDL><PUSH/><TEXT>Kishiro was locked out of the GMG/Samura monopoly for many years, so we had to develop superior technology that could economically mine less concentrated deposits of H-Fuel than those found in Sigma-13. Now the research and development is finally paying off, we will not sell the GMG our latest miners unless they agree to abandon their relationship with Samura.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kishiro was locked out of the GMG/Samura monopoly for many years, so we had to develop superior technology that could economically mine less concentrated deposits of H-Fuel than those found in Sigma-13. Now the research and development are finally paying off, we will not sell the GMG our latest miners unless they agree to abandon their relationship with Samura.</TEXT><PARA/><POP/></RDL>
 
 133317
 INFOCARD
@@ -26581,7 +26581,7 @@ INFOCARD
 
 133324
 INFOCARD
-<RDL><PUSH/><TEXT>This is the most well paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the mine field.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is the most well-paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the mine field.</TEXT><PARA/><POP/></RDL>
 
 133325
 INFOCARD
@@ -26589,7 +26589,7 @@ INFOCARD
 
 133326
 INFOCARD
-<RDL><PUSH/><TEXT>This is the most well paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the mine field.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is the most well-paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the mine field.</TEXT><PARA/><POP/></RDL>
 
 133327
 INFOCARD
@@ -27517,7 +27517,7 @@ INFOCARD
 
 133558
 INFOCARD
-<RDL><PUSH/><TEXT>The Seiran Dust Field is the point of entry for the Blood Dragons that enter the system. Our patrols have spotted them moving between there and the Okha Dust Field. We cannot interrogate the ones we capture as we would like to, so many of their strategies remain secrets.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Seiran Dust Field is the point of entry for the Blood Dragons that enter the system. Our patrols have spotted them moving between there and the Ohka Dust Field. We cannot interrogate the ones we capture as we would like to, so many of their strategies remain secrets.</TEXT><PARA/><POP/></RDL>
 
 133559
 INFOCARD
@@ -27581,7 +27581,7 @@ INFOCARD
 
 133574
 INFOCARD
-<RDL><PUSH/><TEXT>Nansei is in direct competition with Kansai. They have more innovative and well paid scientists at Kishiro. Samura receives much money from the government for this project, yet we lack simple supplies and modern laboratory facilities.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Nansei is in direct competition with Kansai. They have more innovative and well-paid scientists at Kishiro. Samura receives much money from the government for this project, yet we lack simple supplies and modern laboratory facilities.</TEXT><PARA/><POP/></RDL>
 
 133575
 INFOCARD
@@ -28409,7 +28409,7 @@ INFOCARD
 
 133786
 INFOCARD
-<RDL><PUSH/><TEXT>The Ring is the terminating point for inbound Daumann transports delivering Polymers and Hydrocarbons from the base of Reugen in Omega-3. That system also contains a BMM operation producing the same materials, so it is a very competitive route.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Ring is the terminating point for inbound Daumann transports delivering Polymers and Hydrocarbons from the base of Rugen in Omega-3. That system also contains a BMM operation producing the same materials, so it is a very competitive route.</TEXT><PARA/><POP/></RDL>
 
 133787
 INFOCARD
@@ -28553,7 +28553,7 @@ INFOCARD
 
 133825
 INFOCARD
-<RDL><PUSH/><TEXT>We have stripped Rheinland of almost all the viable Scrap Metal deposits. Only the pocket around Kreuzberg in the Ruhr Field remains. The Junkers do not seem to be in any hurry to remove their last source of legitimate income within the New Berlin system. A similar situation exists in Sigma-13.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have stripped Rheinland of almost all the viable Scrap Metal deposits. Only the pocket around Kreuzberg in the Ruhrfeld remains. The Junkers do not seem to be in any hurry to remove their last source of legitimate income within the New Berlin system. A similar situation exists in Sigma-13.</TEXT><PARA/><POP/></RDL>
 
 133826
 INFOCARD
@@ -28633,7 +28633,7 @@ INFOCARD
 
 133845
 INFOCARD
-<RDL><PUSH/><TEXT>One day soon we will no longer stop here. Rumor has it that the ALG/Gateway alliance is gaining a new member. That would be a sad end to the proud family company of Kruger, last of the old “Mittlestand.”</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One day soon we will no longer stop here. Rumor has it that the ALG/Gateway alliance is gaining a new member. That would be a sad end to the proud family company of Kruger, last of the old “Mittelstand.”</TEXT><PARA/><POP/></RDL>
 
 133846
 INFOCARD
@@ -29625,7 +29625,7 @@ INFOCARD
 
 134093
 INFOCARD
-<RDL><PUSH/><TEXT>Because of the financial troubles Rheinland is in, we haven’t been making as much profit at this resort as our others. We may be forced to bring in Liberty vacationers. Not the quality types either — they can go to </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>  or Curacao. We’ve had to bring in the econoclass vacationers to fill the rooms.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Because of the financial troubles Rheinland is in, we haven’t been making as much profit at this resort as our others. We may be forced to bring in Liberty vacationers. Not the quality types either — they can go to </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>  or Curacao. We’ve had to bring in the economy-class vacationers to fill the rooms.</TEXT><PARA/><POP/></RDL>
 
 134094
 INFOCARD
@@ -29869,7 +29869,7 @@ INFOCARD
 
 134154
 INFOCARD
-<RDL><PUSH/><TEXT>It is my duty to complete my job to the best of my ability. This is in spite of the condititons that may befall me due to circumstance. To blame other things is only an excuse and the tool of a weak man; I am a Rheinlander of the sleeper ship Rheinland. Perhaps we lost “the Eighty,” but that does not give us license to quit.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It is my duty to complete my job to the best of my ability. This is in spite of the conditions that may befall me due to circumstance. To blame other things is only an excuse and the tool of a weak man; I am a Rheinlander of the sleeper ship Rheinland. Perhaps we lost “the Eighty,” but that does not give us license to quit.</TEXT><PARA/><POP/></RDL>
 
 134155
 INFOCARD
@@ -30465,7 +30465,7 @@ INFOCARD
 
 134937
 INFOCARD
-<RDL><PUSH/><TEXT>We’re put on full alert when the Vierlande prison convoy comes through. That’s when all the criminal activity in this system peaks. It’s a stressful time. Our patrol barely survived a Hessian attack launched from the Sudheime during last month’s run.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We’re put on full alert when the Vierlande prison convoy comes through. That’s when all the criminal activity in this system peaks. It’s a stressful time. Our patrol barely survived a Hessian attack launched from the Südheide during last month’s run.</TEXT><PARA/><POP/></RDL>
 
 134938
 INFOCARD
@@ -32557,7 +32557,7 @@ Hagi
 
 197834
 NAME
-Susuki
+Suzuki
 
 197835
 NAME
@@ -34993,7 +34993,7 @@ Battleship Munin
 
 217027
 NAME
-Experimental Ship Yard
+Experimental Shipyard
 
 217028
 NAME
@@ -66709,7 +66709,7 @@ Foolishly, %F0v1 have been making some minor attempts to move again.
 
 328101
 NAME
-We have just identified %I0v1 of theirs in a brand new area. 
+We have just identified %I0v1 of theirs in a brand-new area. 
 
 328102
 NAME
@@ -70669,7 +70669,7 @@ INFOCARD
 
 393286
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>SPECIAL THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Chris Roberts</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Kevin Albers</TEXT><PARA/><TEXT>Liz Becker</TEXT><PARA/><TEXT>Paul Bernstein</TEXT><PARA/><TEXT>Jared Carr</TEXT><PARA/><TEXT>Jeff Davis</TEXT><PARA/><TEXT>Art DiBianca</TEXT><PARA/><TEXT>Jay Dunn</TEXT><PARA/><TEXT>Beth Featherstone</TEXT><PARA/><TEXT>Andrew Franklin</TEXT><PARA/><TEXT>Ed Fries</TEXT><PARA/><TEXT>Andre Garcia</TEXT><PARA/><TEXT>Arvee Garde</TEXT><PARA/><TEXT>Johnny Guentzel</TEXT><PARA/><TEXT>Ben Hanson</TEXT><PARA/><TEXT>Matthew Hurrell</TEXT><PARA/><TEXT>Lorin Jameson</TEXT><PARA/><TEXT>Rich Lawrence</TEXT><PARA/><TEXT>Jim Magill</TEXT><PARA/><TEXT>Katie Marye</TEXT><PARA/><TEXT>April McKee</TEXT><PARA/><TEXT>James Mitchell</TEXT><PARA/><TEXT>Stuart Moulder</TEXT><PARA/><TEXT>Andy O’Brien</TEXT><PARA/><TEXT>T.J. O’Leary</TEXT><PARA/><TEXT>Pete Parsons</TEXT><PARA/><TEXT>Kelcey Privett</TEXT><PARA/><TEXT>Kent Raffray</TEXT><PARA/><TEXT>Jake Rodgers</TEXT><PARA/><TEXT>John Thomas</TEXT><PARA/><TEXT>Mark Thomas</TEXT><PARA/><TEXT>Alex Toader</TEXT><PARA/><TEXT>Sam Yeates</TEXT><PARA/><TEXT>Jason Yenawine</TEXT><PARA/><TEXT>Lancer’s Reactor</TEXT><PARA/><PARA/><TEXT>Abrams Artists</TEXT><PARA/><TEXT>Acclaim Talent Agency Austin</TEXT><PARA/><TEXT>Association Of Performing Artists</TEXT><PARA/><TEXT>Barbara Gray Talent Austin</TEXT><PARA/><TEXT>Pop Art Voices</TEXT><PARA/><TEXT>Innovative Artists L.A.</TEXT><PARA/><TEXT>International Creative Management L.A.</TEXT><PARA/><TEXT>Sutton, Barth &amp; Vennari</TEXT><PARA/><TEXT>VOX U.S.A.</TEXT><PARA/><TEXT>William Morris Agency</TEXT><PARA/><PARA/><TEXT>Havok</TEXT><PARA/><TEXT>Lua</TEXT><PARA/><PARA/><TEXT>Kyoto</TEXT><PARA/><TEXT>Las Manitas</TEXT><PARA/><PARA/><TEXT>Our wives, friends, and children!</TEXT><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><TEXT>On February 1, 2003 tragedy struck the Columbia Space Shuttle mission STS-107. The Freelancer Team would like to express their condolences to the seven astronauts who lost their lives. Rick Husband, William McCool, Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark, and Ilan Ramon. Additionally, we would like to express our appreciation to all the brave pioneers of the world wide space program who have inspired us all by living their dream.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>SPECIAL THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Chris Roberts</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Kevin Albers</TEXT><PARA/><TEXT>Liz Becker</TEXT><PARA/><TEXT>Paul Bernstein</TEXT><PARA/><TEXT>Jared Carr</TEXT><PARA/><TEXT>Jeff Davis</TEXT><PARA/><TEXT>Art DiBianca</TEXT><PARA/><TEXT>Jay Dunn</TEXT><PARA/><TEXT>Beth Featherstone</TEXT><PARA/><TEXT>Andrew Franklin</TEXT><PARA/><TEXT>Ed Fries</TEXT><PARA/><TEXT>Andre Garcia</TEXT><PARA/><TEXT>Arvee Garde</TEXT><PARA/><TEXT>Johnny Guentzel</TEXT><PARA/><TEXT>Ben Hanson</TEXT><PARA/><TEXT>Matthew Hurrell</TEXT><PARA/><TEXT>Lorin Jameson</TEXT><PARA/><TEXT>Rich Lawrence</TEXT><PARA/><TEXT>Jim Magill</TEXT><PARA/><TEXT>Katie Marye</TEXT><PARA/><TEXT>April McKee</TEXT><PARA/><TEXT>James Mitchell</TEXT><PARA/><TEXT>Stuart Moulder</TEXT><PARA/><TEXT>Andy O’Brien</TEXT><PARA/><TEXT>T.J. O’Leary</TEXT><PARA/><TEXT>Pete Parsons</TEXT><PARA/><TEXT>Kelcey Privett</TEXT><PARA/><TEXT>Kent Raffray</TEXT><PARA/><TEXT>Jake Rodgers</TEXT><PARA/><TEXT>John Thomas</TEXT><PARA/><TEXT>Mark Thomas</TEXT><PARA/><TEXT>Alex Toader</TEXT><PARA/><TEXT>Sam Yeates</TEXT><PARA/><TEXT>Jason Yenawine</TEXT><PARA/><TEXT>Lancer’s Reactor</TEXT><PARA/><PARA/><TEXT>Abrams Artists</TEXT><PARA/><TEXT>Acclaim Talent Agency Austin</TEXT><PARA/><TEXT>Association Of Performing Artists</TEXT><PARA/><TEXT>Barbara Gray Talent Austin</TEXT><PARA/><TEXT>Pop Art Voices</TEXT><PARA/><TEXT>Innovative Artists L.A.</TEXT><PARA/><TEXT>International Creative Management L.A.</TEXT><PARA/><TEXT>Sutton, Barth &amp; Vennari</TEXT><PARA/><TEXT>VOX U.S.A.</TEXT><PARA/><TEXT>William Morris Agency</TEXT><PARA/><PARA/><TEXT>Havok</TEXT><PARA/><TEXT>Lua</TEXT><PARA/><PARA/><TEXT>Kyoto</TEXT><PARA/><TEXT>Las Manitas</TEXT><PARA/><PARA/><TEXT>Our wives, friends, and children!</TEXT><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><TEXT>On February 1, 2003 tragedy struck the Columbia Space Shuttle mission STS-107. The Freelancer Team would like to express their condolences to the seven astronauts who lost their lives. Rick Husband, William McCool, Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark, and Ilan Ramon. Additionally, we would like to express our appreciation to all the brave pioneers of the world-wide space program who have inspired us all by living their dream.</TEXT><PARA/><POP/></RDL>
 
 393287
 INFOCARD
@@ -70905,7 +70905,7 @@ INFOCARD
 
 393345
 INFOCARD
-<RDL><PUSH/><TEXT>Kusari ships typically use Gravitron-based shields for defense. Particle- or Plasma-based weapons are the most effective against that class of shields.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kusari ships typically use Graviton-based shields for defense. Particle- or Plasma-based weapons are the most effective against that class of shields.</TEXT><PARA/><POP/></RDL>
 
 393346
 INFOCARD
@@ -72113,7 +72113,7 @@ INFOCARD
 
 393648
 INFOCARD
-<RDL><PUSH/><TEXT>I heard there was a guy they pulled out of a crushed FP7 life pod who had a bunch of Artifacts and millions in credits on him. Normally, I’d say it sounded like a buyer was in the wrong place at the wrong time, but with all those credits? I guess the LSF thinks it’s strange too since they are somehow linking this guy to The Order.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I heard there was a guy they pulled out of a crushed FP7 Lifepod who had a bunch of Artifacts and millions in credits on him. Normally, I’d say it sounded like a buyer was in the wrong place at the wrong time, but with all those credits? I guess the LSF thinks it’s strange too since they are somehow linking this guy to The Order.</TEXT><PARA/><POP/></RDL>
 
 393649
 INFOCARD
