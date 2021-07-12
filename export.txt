@@ -8169,7 +8169,7 @@ Rheinland Rebels Take Out Base
 
 15254
 NAME
-In a brief statement to Kusari news agencies, the Bundschuh rebels in Rheinland claim that they have assaulted and destroyed a high-security installation that housed illegal secret weapons built by the Chancellery. Naturally this cannot be verified as of yet. However, a long-range scan does show a sizeable amount of irregular debris and radiation in that area.
+In a brief statement to Kusari news agencies, the Bundschuh rebels in Rheinland claim that they have assaulted and destroyed a high-security installation that housed illegal secret weapons built by the Chancellery. Naturally, this cannot be verified as of yet. However, a long-range scan does show a sizeable amount of irregular debris and radiation in that area.
 
 15255
 NAME
@@ -12889,7 +12889,7 @@ Famous Hessian Spotted near Resort
 
 56105
 NAME
-BADEN-BADEN — Red Hessian brigade commander Franz Steiner was spotted yesterday just east of Baden-Baden headed towards the Ostnebel. The shipping convoy’s captain, Ulrich Lumarcke, who spotted Steiner, said he breathed a sigh of relief when the infamous pirate, escorted by two other Hessians, kept flying right past his ship. “They must have had full holds, because they didn’t even bother to scan me. I’m lucky they didn’t attack anyway — I’ve seen ’em do that.” Federal Police were alerted, but by the time they arrived in the area, Steiner and his wingmen had disappeared.
+BADEN-BADEN — Red Hessian brigade commander Franz Steiner was spotted yesterday just east of Baden-Baden headed towards the Ostnebel. The shipping convoy’s captain, Ulrich Lumarcke, who spotted Steiner, said he breathed a sigh of relief when the infamous pirate, escorted by two other Hessians, kept flying right past his ship. “They must have had full holds because they didn’t even bother to scan me. I’m lucky they didn’t attack anyway — I’ve seen ’em do that.” Federal Police were alerted, but by the time they arrived in the area, Steiner and his wingmen had disappeared.
 
 56106
 NAME
@@ -13537,7 +13537,7 @@ IC to stop Insuring Omega Shipping
 
 56267
 NAME
-FREISTADT — In recent weeks the number of attacks on shipping by Hessians and Corsairs has reached crisis levels within Omega-7. Only 50 percent of all convoys have successfully completed their trips. Interspace Commerce has threatened to issue a travel warning for all shipping companies as soon as tomorrow, which would effectively shut down Bretonia-Rheinland trade. Travel warnings represent the most serious threat level assessed by IC, effectively ceasing any insurance coverage for a shipper who dares venture forth.
+FREISTADT — In recent weeks, the number of attacks on shipping by Hessians and Corsairs has reached crisis levels within Omega-7. Only 50 percent of all convoys have successfully completed their trips. Interspace Commerce has threatened to issue a travel warning for all shipping companies as soon as tomorrow, which would effectively shut down Bretonia-Rheinland trade. Travel warnings represent the most serious threat level assessed by IC, effectively ceasing any insurance coverage for a shipper who dares venture forth.
 
 56268
 NAME
@@ -13633,7 +13633,7 @@ The Battle for Omega-5
 
 56291
 NAME
-FREISTADT — The war between the Red Hessians and the Corsairs has been fought for many years. After countless losses on both sides, it appears that neither faction can claim victory. The Red Hessians have greater numbers, but the Corsairs are the superior pilots and have better equipment. Someday this war will come to an end, but not before one of these two powerful forces is brought to its knees. Omega-5 is a dangerous system to enter, since both sides will likely fire on any vessels within the battlefield.
+FREISTADT — The war between the Red Hessians and the Corsairs has been fought for many years. After countless losses on both sides, it appears that neither faction can claim victory. The Red Hessians have greater numbers, but the Corsairs are the superior pilots and have better equipment. Someday this war will come to an end, but not before one of these two powerful forces is brought to its knees. Omega-5 is a dangerous system to enter since both sides will likely fire on any vessels within the battlefield.
 
 56292
 NAME
@@ -14209,7 +14209,7 @@ Lane Hacker Information Pays Off
 
 56435
 NAME
-MONTEZUMA — The intelligence purchased from Lane Hackers has more than paid for itself within the past several months in Cortez. Looted Luxury Good shipments from New York have been earning the majority of the money at the base. Once the cargo is acquired, Rogue smugglers make their way back to New York, where the goods are fenced to the Junkers at excellent prices. Unfortunately, this lucrative cycle may be nearing its end, since the Luxury Goods shipments are entering the system with more and more escorts. Soon they will not be worth the price paid in pilots and ships.
+MONTEZUMA — The intelligence purchased from Lane Hackers has more than paid for itself within the past several months in Cortez. Looted Luxury Good shipments from New York have been earning the majority of the money at the base. Once the cargo is acquired, Rogue smugglers make their way back to New York, where the goods are fenced to the Junkers at excellent prices. Unfortunately, this lucrative cycle may be nearing its end since the Luxury Goods shipments are entering the system with more and more escorts. Soon they will not be worth the price paid in pilots and ships.
 
 56436
 NAME
@@ -14233,7 +14233,7 @@ Close Call with Liberty Military
 
 56441
 NAME
-PADUA — Two Rogues are recovering from injuries tonight in Padua after an encounter with a military patrol almost cost them their lives. The two were transporting Artifacts on behalf of the Outcasts when they were jumped by two military flights running a circuit from Colorado. The smugglers were caught at their most vulnerable point: halfway between the Komatsu and the Reppu Clouds. Luckily the pilots were able to make it to the Reppu Cloud and escape, although their ships were badly damaged. They also managed to save the Artifacts, which will be smuggled into New York next week.
+PADUA — Two Rogues are recovering from injuries tonight in Padua after an encounter with a military patrol almost cost them their lives. The two were transporting Artifacts on behalf of the Outcasts when they were jumped by two military flights running a circuit from Colorado. The smugglers were caught at their most vulnerable point: halfway between the Komatsu and the Reppu Clouds. Luckily, the pilots were able to make it to the Reppu Cloud and escape, although their ships were badly damaged. They also managed to save the Artifacts, which will be smuggled into New York next week.
 
 56442
 NAME
@@ -14509,7 +14509,7 @@ Shipyard
 
 60232
 NAME
-An enormous structure used in the construction, maintenance and repair of large ships.
+An enormous structure used in the construction, maintenance, and repair of large ships.
 
 60233
 NAME
@@ -14621,7 +14621,7 @@ INFOCARD
 
 65546
 INFOCARD
-<RDL><PUSH/><TEXT>The history of the Unioners is intimately tied to Alster. The shipyard opened in 412 AS, specializing in commercial transports and heavy lifters. Conditions were appalling in the yards, worker safety being merely a tertiary concern of the owners. Coupled with the excessively long spaceside rotations, the workers’ morale gradually deteriorated until a major accident killed several hundred workers in 512 AS.</TEXT><PARA/><PARA/><TEXT>Three months later, the workers formed the Alster Union. Because of their highly specialized skills, the management had no choice but to capitulate to their demands. During the next century the union gradually strengthened and eventually included the dockworkers on the Altona Station above Hamburg. By the end of the 80-Years War, the union demanded increasingly high wages and progressively fewer annual hours. The system was out of balance. Republican was no longer competitive with Kusari shipbuilders.</TEXT><PARA/><PARA/><TEXT>With the war over, demand for ships plummeted. The bloated headcount of Alster was now a sore point for Republican Shipping, desperately trying to restore profitability. Management was now back in the driver’s seat after almost 200 years of acceding to union demands. They fired tens of thousands and won major concessions from the remaining workers, who lost centuries of gains in a matter of days.</TEXT><PARA/><PARA/><TEXT>As unemployment rocketed towards 30 percent in Hamburg, a radicalized version of the union reformed — more of a revolutionary cell than anything. The presence of Freeport 2 in Bering proved alluring to the nascent Unioner movement of Rheinland during the unsettled times. Following the popular uprising of 702, the station’s population exploded. In 720 the Zoners laid down the ultimatum: Take your criminal activities somewhere else. They would sell basic supplies to the rebels, but no more. So the Unioners carved their Pacifica base out of an asteroid in the Tanner Belt.</TEXT><PARA/><PARA/><TEXT>The Unioners range from Bering to New Berlin. Most of their attacks are focused on the Altona Outpost and the Alster Shipyard in Hamburg, which has alienated them from some of their still employed brethren. The bulk of their Trade Lane raids are directed against Republican ships traversing the Independent Worlds. Their main commodity is Diamonds, which they run from Kreuzberg to Dawson. Unioners are often spotted buying supplies on Freeport 2.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The history of the Unioners is intimately tied to Alster. The shipyard opened in 412 AS, specializing in commercial transports and heavy lifters. Conditions were appalling in the yards, worker safety being merely a tertiary concern of the owners. Coupled with the excessively long spaceside rotations, the workers’ morale gradually deteriorated until a major accident killed several hundred workers in 512 AS.</TEXT><PARA/><PARA/><TEXT>Three months later, the workers formed the Alster Union. Because of their highly specialized skills, the management had no choice but to capitulate to their demands. During the next century, the union gradually strengthened and eventually included the dockworkers on the Altona Station above Hamburg. By the end of the 80-Years War, the union demanded increasingly high wages and progressively fewer annual hours. The system was out of balance. Republican was no longer competitive with Kusari shipbuilders.</TEXT><PARA/><PARA/><TEXT>With the war over, demand for ships plummeted. The bloated headcount of Alster was now a sore point for Republican Shipping, desperately trying to restore profitability. Management was now back in the driver’s seat after almost 200 years of acceding to union demands. They fired tens of thousands and won major concessions from the remaining workers, who lost centuries of gains in a matter of days.</TEXT><PARA/><PARA/><TEXT>As unemployment rocketed towards 30 percent in Hamburg, a radicalized version of the union reformed — more of a revolutionary cell than anything. The presence of Freeport 2 in Bering proved alluring to the nascent Unioner movement of Rheinland during the unsettled times. Following the popular uprising of 702, the station’s population exploded. In 720 the Zoners laid down the ultimatum: Take your criminal activities somewhere else. They would sell basic supplies to the rebels, but no more. So the Unioners carved their Pacifica base out of an asteroid in the Tanner Belt.</TEXT><PARA/><PARA/><TEXT>The Unioners range from Bering to New Berlin. Most of their attacks are focused on the Altona Outpost and the Alster Shipyard in Hamburg, which has alienated them from some of their still employed brethren. The bulk of their Trade Lane raids are directed against Republican ships traversing the Independent Worlds. Their main commodity is Diamonds, which they run from Kreuzberg to Dawson. Unioners are often spotted buying supplies on Freeport 2.</TEXT><PARA/><POP/></RDL>
 
 65547
 INFOCARD
@@ -14973,7 +14973,7 @@ INFOCARD
 
 65634
 INFOCARD
-<RDL><PUSH/><TEXT>Most scholars date the start of the group as the publication of </TEXT><TRA italic="true"/><TEXT>Golden Chrysanthemum in Bloom</TEXT><TRA italic="false"/><TEXT>  in 642 AS. The author, Yuyu Matsuda, was a young but critically acclaimed poet. Charismatic and well-spoken, Matusda had a considerable following among young Kusari women who found their lives lacking in direction but were reluctant to become married and fulfill their traditional role in Kusari society.</TEXT><PARA/><PARA/><TEXT>Matsuda decried what she saw as the corruption of the Kusari male-dominated culture and preached a revolution led by the long-suffering women of Kusari. These ideas were eventually encapsulated in </TEXT><TRA italic="true"/><TEXT>Golden Chrysanthemum in Bloom</TEXT><TRA italic="false"/><TEXT>, in which Matsuda described a fictitious nation called Yomi. A place of fat, lazy male bureaucrats who handed out concessions at the whim of entrenched mega-corporations, Yomi was eventually engulfed in revolution and united under the rule of a benevolent Empress personally selected by the goddess Amaterasu to watch over her people.</TEXT><PARA/><PARA/><TEXT>Matsuda looked to the foreigners as a model, where women could be president and run corporations. The </TEXT><TRA italic="true"/><TEXT>Chrysanthemum</TEXT><TRA italic="false"/><TEXT>  went on to become a best-seller. Unfortunately, in 648 AS, Matsuda crossed the dangerous line between ideas and actions when she was implicated in the botched assassination attempt of the planetary governor of Kyushu.</TEXT><PARA/><PARA/><TEXT>Rather than face the ignominy of imprisonment, Matsuda chose ritual suicide instead. An increase in attacks on government personnel and installations followed soon after. Neither as well armed as the Blood Dragons nor as influential as the Hogosha, the Golden C. have been more of an irritant to the government than an actual threat.</TEXT><PARA/><PARA/><TEXT>Unfortunately, any attempts to locate the Golden C. base or learn more about their organization has been thwarted by their willingness to die rather than talk. A Golden C. pilot will trigger her ship’s self-destruction rather than be captured, and suicide attacks are common. Attempts to infiltrate the Golden C. have proven equally fruitless. On several occasions the Kusari government has received the finger of an undercover agent wrapped in a page from one of Matsuda’s books.</TEXT><PARA/><PARA/><TEXT>The Kusari State Police keeps a watchful eye on the faction, but has been unable to completely control them. This is at least partly due to the assistance of the Blood Dragons, who have made use of the Golden C. base in Hokkaido as a rest stop on the long journey to the inner systems of Kusari. The Blood Dragons also share the group’s desire to overthrow the government and reform House Kusari, although perhaps using more sophisticated methods.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Most scholars date the start of the group as the publication of </TEXT><TRA italic="true"/><TEXT>Golden Chrysanthemum in Bloom</TEXT><TRA italic="false"/><TEXT>  in 642 AS. The author, Yuyu Matsuda, was a young but critically acclaimed poet. Charismatic and well-spoken, Matsuda had a considerable following among young Kusari women who found their lives lacking in direction but were reluctant to become married and fulfill their traditional role in Kusari society.</TEXT><PARA/><PARA/><TEXT>Matsuda decried what she saw as the corruption of the Kusari male-dominated culture and preached a revolution led by the long-suffering women of Kusari. These ideas were eventually encapsulated in </TEXT><TRA italic="true"/><TEXT>Golden Chrysanthemum in Bloom</TEXT><TRA italic="false"/><TEXT>, in which Matsuda described a fictitious nation called Yomi. A place of fat, lazy male bureaucrats who handed out concessions at the whim of entrenched mega-corporations, Yomi was eventually engulfed in revolution and united under the rule of a benevolent Empress personally selected by the goddess Amaterasu to watch over her people.</TEXT><PARA/><PARA/><TEXT>Matsuda looked to the foreigners as a model, where women could be president and run corporations. The </TEXT><TRA italic="true"/><TEXT>Chrysanthemum</TEXT><TRA italic="false"/><TEXT>  went on to become a best-seller. Unfortunately, in 648 AS, Matsuda crossed the dangerous line between ideas and actions when she was implicated in the botched assassination attempt of the planetary governor of Kyushu.</TEXT><PARA/><PARA/><TEXT>Rather than face the ignominy of imprisonment, Matsuda chose ritual suicide instead. An increase in attacks on government personnel and installations followed soon after. Neither as well armed as the Blood Dragons nor as influential as the Hogosha, the Golden C. have been more of an irritant to the government than an actual threat.</TEXT><PARA/><PARA/><TEXT>Unfortunately, any attempts to locate the Golden C. base or learn more about their organization has been thwarted by their willingness to die rather than talk. A Golden C. pilot will trigger her ship’s self-destruction rather than be captured, and suicide attacks are common. Attempts to infiltrate the Golden C. have proven equally fruitless. On several occasions the Kusari government has received the finger of an undercover agent wrapped in a page from one of Matsuda’s books.</TEXT><PARA/><PARA/><TEXT>The Kusari State Police keeps a watchful eye on the faction, but has been unable to completely control them. This is at least partly due to the assistance of the Blood Dragons, who have made use of the Golden C. base in Hokkaido as a rest stop on the long journey to the inner systems of Kusari. The Blood Dragons also share the group’s desire to overthrow the government and reform House Kusari, although perhaps using more sophisticated methods.</TEXT><PARA/><POP/></RDL>
 
 65635
 INFOCARD
@@ -15725,7 +15725,7 @@ INFOCARD
 
 65824
 INFOCARD
-<RDL><PUSH/><TEXT>Rich in vital gas resources, the Sigma-13 System has been contested by a number of groups since its discovery in 60 AS. Conflict reached a fever pitch when the system became one of the more fiercely contested prizes during the 80-Years War between the Gas Mining Guild (GMG) and Rheinland. Using speed and a thorough knowledge of the territory, the GMG managed to push back the Rheinland forces, finally obliterating the bulk of the Rheinland Navy at the Battle of the Yanagi Nebula. Since that time the system has been almost exclusively under GMG control, and the Gas Miner </TEXT><TRA italic="true"/><TEXT>Naha</TEXT><TRA italic="false"/><TEXT>  has provided support for the GMG’s extensive mining operations.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rich in vital gas resources, the Sigma-13 System has been contested by a number of groups since its discovery in 60 AS. Conflict reached a fever pitch when the system became one of the more fiercely contested prizes during the 80-Years War between the Gas Mining Guild (GMG) and Rheinland. Using speed and a thorough knowledge of the territory, the GMG managed to push back the Rheinland forces, finally obliterating the bulk of the Rheinland Navy at the Battle of the Yanagi Nebula. Since that time, the system has been almost exclusively under GMG control, and the Gas Miner </TEXT><TRA italic="true"/><TEXT>Naha</TEXT><TRA italic="false"/><TEXT>  has provided support for the GMG’s extensive mining operations.</TEXT><PARA/><POP/></RDL>
 
 65825
 INFOCARD
@@ -16329,7 +16329,7 @@ INFOCARD
 
 65977
 INFOCARD
-<RDL><PUSH/><TEXT>A medium-size asteroid field rich in aluminum, titanium and niobium, Bretonia Mining and Metal (BMM) has been working the field with great success, smelting and refining raw materials obtained from the field at the massive Stokes smelting facility nearby.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A medium-size asteroid field rich in aluminum, titanium and niobium. Bretonia Mining and Metal (BMM) has been working the field with great success, smelting and refining raw materials obtained from the field at the massive Stokes smelting facility nearby.</TEXT><PARA/><POP/></RDL>
 
 65978
 INFOCARD
@@ -18385,7 +18385,7 @@ INFOCARD
 
 131209
 INFOCARD
-<RDL><PUSH/><TEXT>People like dealing with Junkers, because we always offer a square deal. That’s why we transport so many goods from Rochester, our base in this system. We bring in Gold, Diamonds, Niobium, and Luxury Foods. We don’t ask many questions on where they come from; that’s none of our business.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>People like dealing with Junkers because we always offer a square deal. That’s why we transport so many goods from Rochester, our base in this system. We bring in Gold, Diamonds, Niobium, and Luxury Foods. We don’t ask many questions on where they come from; that’s none of our business.</TEXT><PARA/><POP/></RDL>
 
 131210
 INFOCARD
@@ -18473,7 +18473,7 @@ INFOCARD
 
 131231
 INFOCARD
-<RDL><PUSH/><TEXT>Scrap Metal ain’t the only kind of debris you’ll find in the Jersey. Ever heard somebody refer to another person as “good debris”? That means the guy they’re talking about went on a little space walk without a suit on. That’s what happens to rats and traitors. You want to hear the juicy part? LPI will put you into the debris too, if you make ’em angry enough.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Scrap Metal ain’t the only kind of debris you’ll find in the Jersey. Ever heard somebody refer to another person as “good debris”? That means the guy they’re talking about went on a little space walk without a suit on. That’s what happens to rats and traitors. You want to hear the juicy part? LPI will put you into the debris too if you make ’em angry enough.</TEXT><PARA/><POP/></RDL>
 
 131232
 INFOCARD
@@ -19017,7 +19017,7 @@ INFOCARD
 
 131374
 INFOCARD
-<RDL><PUSH/><TEXT>The Trade Lanes between Rheinland and Liberty are dangerous ones. In Hudson the Xenos attack our transports, and in Bering we are attacked by Unionist scum.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Trade Lanes between Rheinland and Liberty are dangerous ones. In Hudson, the Xenos attack our transports, and in Bering, we are attacked by Unionist scum.</TEXT><PARA/><POP/></RDL>
 
 131375
 INFOCARD
@@ -20193,7 +20193,7 @@ INFOCARD
 
 131681
 INFOCARD
-<RDL><PUSH/><TEXT>My buddy works for the LPI. I used to, but it was lousy pay and a bunch of corporate crap. I prefer the freelance life of a Bounty Hunter. You can make a killing at this, if you don’t get killed first. He’ll still be doing time with LPI when I’m retired and sipping a California Breeze on the beach in L.A.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My buddy works for the LPI. I used to, but it was lousy pay and a bunch of corporate crap. I prefer the freelance life of a Bounty Hunter. You can make a killing at this if you don’t get killed first. He’ll still be doing time with LPI when I’m retired and sipping a California Breeze on the beach in L.A.</TEXT><PARA/><POP/></RDL>
 
 131682
 INFOCARD
@@ -20481,7 +20481,7 @@ INFOCARD
 
 131754
 INFOCARD
-<RDL><PUSH/><TEXT>It’s too bad Rheinland can’t manufacture these goods herself, because we certainly have the raw materials. Rheinland innovation and entrepreneurship has lagged since the 80-Years War.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s too bad Rheinland can’t manufacture these goods herself because we certainly have the raw materials. Rheinland innovation and entrepreneurship has lagged since the 80-Years War.</TEXT><PARA/><POP/></RDL>
 
 131755
 INFOCARD
@@ -21281,7 +21281,7 @@ INFOCARD
 
 131960
 INFOCARD
-<RDL><PUSH/><TEXT>I’m doing patrols into Cortez. We usually just hang around at the Gate, but sometimes we venture down to Curaçao. After that the convoys are on their own. I call it the “Cortez gap.”</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’m doing patrols into Cortez. We usually just hang around at the Gate, but sometimes we venture down to Curaçao. After that, the convoys are on their own. I call it the “Cortez gap.”</TEXT><PARA/><POP/></RDL>
 
 131961
 INFOCARD
@@ -21353,11 +21353,11 @@ INFOCARD
 
 131978
 INFOCARD
-<RDL><PUSH/><TEXT>I can’t stand being penned up on this rock for weeks. We only see the sun as a hazy apparition most of the time, unless we’re on patrol. Those Bounty Hunters get stinky, too. Guess they don’t learn proper hygiene in prison.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I can’t stand being penned up on this rock for weeks. We only see the sun as a hazy apparition most of the time unless we’re on patrol. Those Bounty Hunters get stinky, too. Guess they don’t learn proper hygiene in prison.</TEXT><PARA/><POP/></RDL>
 
 131979
 INFOCARD
-<RDL><PUSH/><TEXT>Some top-secret folks came in from Alaska last week. All interested in the Alien stuff going on here. Sometimes I think there’s a lot more going on in Liberty than I ever imagined.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some top secret folks came in from Alaska last week. All interested in the Alien stuff going on here. Sometimes I think there’s a lot more going on in Liberty than I ever imagined.</TEXT><PARA/><POP/></RDL>
 
 131980
 INFOCARD
@@ -21397,7 +21397,7 @@ INFOCARD
 
 131989
 INFOCARD
-<RDL><PUSH/><TEXT>They say if you want to get in with the Outcasts, get friendly with the Rogues. Then graduate to the Lane Hackers. Run some drugs. Then you’re on your way. Hard to turn back at that point, since you’ll be a Cardamine addict for life.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>They say if you want to get in with the Outcasts, get friendly with the Rogues. Then graduate to the Lane Hackers. Run some drugs. Then you’re on your way. Hard to turn back at that point since you’ll be a Cardamine addict for life.</TEXT><PARA/><POP/></RDL>
 
 131990
 INFOCARD
@@ -22953,7 +22953,7 @@ INFOCARD
 
 132391
 INFOCARD
-<RDL><PUSH/><TEXT>Poor Wang, one of my gunners. I don’t think he is going to survive. I barely lived myself, but the Outcasts will chase you as far as they can. Luckily, we were able to make it to the Jump Gate. Once we entered the system, Mollys almost finished us off. All three of my escorts were dead, but a Bretonian Navy patrol was coming by at the time of our entry. If they hadn’t chased off the Mollys, Wang would be dead for sure. I hope he lives, because he is supposed to marry my sister. If he dies, no one will marry her.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Poor Wang, one of my gunners. I don’t think he is going to survive. I barely lived myself, but the Outcasts will chase you as far as they can. Luckily, we were able to make it to the Jump Gate. Once we entered the system, Mollys almost finished us off. All three of my escorts were dead, but a Bretonian Navy patrol was coming by at the time of our entry. If they hadn’t chased off the Mollys, Wang would be dead for sure. I hope he lives because he is supposed to marry my sister. If he dies, no one will marry her.</TEXT><PARA/><POP/></RDL>
 
 132392
 INFOCARD
@@ -23025,7 +23025,7 @@ INFOCARD
 
 132409
 INFOCARD
-<RDL><PUSH/><TEXT>Tau-31 is a productive area for us. The Gaians hang out near Harris, if that’s what you fancy. For the more advanced Hunter, the Outcasts offer plenty of challenge in the northern part of the system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Tau-31 is a productive area for us. The Gaians hang out near Harris if that’s what you fancy. For the more advanced Hunter, the Outcasts offer plenty of challenge in the northern part of the system.</TEXT><PARA/><POP/></RDL>
 
 132410
 INFOCARD
@@ -23253,7 +23253,7 @@ INFOCARD
 
 132466
 INFOCARD
-<RDL><PUSH/><TEXT>If you want to rack up the bounties, just hang out by the Leeds Jump Hole in the Islay Cloud. You’ll have company, since it’s the main supply and smuggling route into the rest of Bretonia for the Outcasts and Gaians.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you want to rack up the bounties, just hang out by the Leeds Jump Hole in the Islay Cloud. You’ll have company since it’s the main supply and smuggling route into the rest of Bretonia for the Outcasts and Gaians.</TEXT><PARA/><POP/></RDL>
 
 132467
 INFOCARD
@@ -23653,7 +23653,7 @@ INFOCARD
 
 132567
 INFOCARD
-<RDL><PUSH/><TEXT>We had a rough MOX run on the way in. Mollys attacked us as we left LD-14. The Armed Forces saved the day on that one. Then the Mollys bit us again in New London. This time it got dicey, since all we had were police in the area. I lost an escort on that one.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We had a rough MOX run on the way in. Mollys attacked us as we left LD-14. The Armed Forces saved the day on that one. Then the Mollys bit us again in New London. This time it got dicey since all we had were police in the area. I lost an escort on that one.</TEXT><PARA/><POP/></RDL>
 
 132568
 INFOCARD
@@ -23673,7 +23673,7 @@ INFOCARD
 
 132572
 INFOCARD
-<RDL><PUSH/><TEXT>Captain Edwards says we’re going out into the Grasmere tomorrow on a search and destroy mission to look for Corsairs. Guess I better record a message for my momma, in case I don’t come back.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Captain Edwards says we’re going out into the Grasmere tomorrow on a search and destroy mission to look for Corsairs. Guess I better record a message for my momma in case I don’t come back.</TEXT><PARA/><POP/></RDL>
 
 132573
 INFOCARD
@@ -23725,7 +23725,7 @@ INFOCARD
 
 132585
 INFOCARD
-<RDL><PUSH/><TEXT>The IMG feels that the Mollys were wronged by BMM. We should know, since most of us were exploited for years. Our Rheinland brethren can tell much the same story. Part of the Guild’s charter is to share the wealth with as many of our rank and file as possible.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The IMG feels that the Mollys were wronged by BMM. We should know since most of us were exploited for years. Our Rheinland brethren can tell much the same story. Part of the Guild’s charter is to share the wealth with as many of our rank and file as possible.</TEXT><PARA/><POP/></RDL>
 
 132586
 INFOCARD
@@ -24377,7 +24377,7 @@ INFOCARD
 
 132768
 INFOCARD
-<RDL><PUSH/><TEXT>Alien Organisms are flown here by our pilots from Kurile, since we are always in need of more test subjects. It is usually an easy flight unless you are unlucky enough to stumble across the Outcasts or Corsairs in this system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Alien Organisms are flown here by our pilots from Kurile since we are always in need of more test subjects. It is usually an easy flight unless you are unlucky enough to stumble across the Outcasts or Corsairs in this system.</TEXT><PARA/><POP/></RDL>
 
 132769
 INFOCARD
@@ -24509,7 +24509,7 @@ INFOCARD
 
 132801
 INFOCARD
-<RDL><PUSH/><TEXT>The Outcasts in this system have made themselves quite a nuisance, because they feel that our presence here is an infringement upon their territory. We try to stay out of their way for the most part, though we used to venture into the Donryu Cloud. We soon learned that that was a mistake.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Outcasts in this system have made themselves quite a nuisance because they feel that our presence here is an infringement upon their territory. We try to stay out of their way for the most part, though we used to venture into the Donryu Cloud. We soon learned that that was a mistake.</TEXT><PARA/><POP/></RDL>
 
 132802
 INFOCARD
@@ -24581,7 +24581,7 @@ INFOCARD
 
 132820
 INFOCARD
-<RDL><PUSH/><TEXT>It’s been hard to crack into the Kusari market with our drug, because their strongest crime syndicate, the Hogosha, refuse to deal with us. But we have found allies within Kusari who will help us tap that well. The Golden Chrysanthemums have discovered the allure of Cardamine.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s been hard to crack into the Kusari market with our drug because their strongest crime syndicate, the Hogosha, refuse to deal with us. But we have found allies within Kusari who will help us tap that well. The Golden Chrysanthemums have discovered the allure of Cardamine.</TEXT><PARA/><POP/></RDL>
 
 132821
 INFOCARD
@@ -24833,7 +24833,7 @@ INFOCARD
 
 132886
 INFOCARD
-<RDL><PUSH/><TEXT>Kishiro supplies many of the bases within this system, at least those that are not Samura owned. I don’t like Tokyo. It always feels like Samura’s heavy hand is at work here. In Honshu the city is much smaller and the ocean cleaner, but neither planet offers much arable land. Our Kusari ancestors came from many light years away in search of more space — how ironic that we landed here.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kishiro supplies many of the bases within this system, at least those that are not Samura owned. I don’t like Tokyo. It always feels like Samura’s heavy hand is at work here. In Honshu, the city is much smaller and the ocean cleaner, but neither planet offers much arable land. Our Kusari ancestors came from many light years away in search of more space — how ironic that we landed here.</TEXT><PARA/><POP/></RDL>
 
 132887
 INFOCARD
@@ -24997,7 +24997,7 @@ INFOCARD
 
 132927
 INFOCARD
-<RDL><PUSH/><TEXT>The life of a Kusari State Police Junsa is not really very exciting most of the time, unless you are posted in Hokkaido. Sapporo is the most dangerous assignment on the force. It is all clouds and radiation up there. You never know when the Blood Dragons or Golden C. will strike.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The life of a Kusari State Police Junsa is not really very exciting most of the time unless you are posted in Hokkaido. Sapporo is the most dangerous assignment on the force. It is all clouds and radiation up there. You never know when the Blood Dragons or Golden C. will strike.</TEXT><PARA/><POP/></RDL>
 
 132928
 INFOCARD
@@ -25705,7 +25705,7 @@ INFOCARD
 
 133104
 INFOCARD
-<RDL><PUSH/><TEXT>Universal Shipping hauls Side Arms to this base from Trenton. A portion of our shipment is sold here, and then we continue to New London to sell the rest. You could always do the same, if you are a competent pilot.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Universal Shipping hauls Side Arms to this base from Trenton. A portion of our shipment is sold here, and then we continue to New London to sell the rest. You could always do the same if you are a competent pilot.</TEXT><PARA/><POP/></RDL>
 
 133105
 INFOCARD
@@ -25741,7 +25741,7 @@ INFOCARD
 
 133113
 INFOCARD
-<RDL><PUSH/><TEXT>The police in Bretonia are nothing like Liberty’s LPI. For some reason an idiot Liberty Rogue flew into this system once. After he was apprehended, he tried to offer me a bribe and was astonished when I turned it down and brought him in.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The police in Bretonia are nothing like Liberty’s LPI. For some reason, an idiot Liberty Rogue flew into this system once. After he was apprehended, he tried to offer me a bribe and was astonished when I turned it down and brought him in.</TEXT><PARA/><POP/></RDL>
 
 133114
 INFOCARD
@@ -25877,7 +25877,7 @@ INFOCARD
 
 133147
 INFOCARD
-<RDL><PUSH/><TEXT>When we came here, we had saved up enough money to build a biodome, which is what saved us all from the Outcasts — that and the fact that we mind our own business. I just wish that Bounty Hunters wouldn’t land here, because it sets the maskers on edge.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>When we came here, we had saved up enough money to build a biodome, which is what saved us all from the Outcasts — that and the fact that we mind our own business. I just wish that Bounty Hunters wouldn’t land here because it sets the maskers on edge.</TEXT><PARA/><POP/></RDL>
 
 133148
 INFOCARD
@@ -25949,7 +25949,7 @@ INFOCARD
 
 133165
 INFOCARD
-<RDL><PUSH/><TEXT>Orbital’s </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>  liner in Sigma-19 draws a lot of unwanted visitors near our territory. Sometimes we’ll run attacks against the liner if they come too close. It is also a hindrance to our drug trade, because our smuggling route requires us to pass through Sigma-19. There’d be a lot fewer eyes in that system if the </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>  weren’t there.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Orbital’s </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>  liner in Sigma-19 draws a lot of unwanted visitors near our territory. Sometimes we’ll run attacks against the liner if they come too close. It is also a hindrance to our drug trade because our smuggling route requires us to pass through Sigma-19. There’d be a lot fewer eyes in that system if the </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>  weren’t there.</TEXT><PARA/><POP/></RDL>
 
 133166
 INFOCARD
@@ -26017,7 +26017,7 @@ INFOCARD
 
 133182
 INFOCARD
-<RDL><PUSH/><TEXT>The trick to killing Corsairs is catching them off guard. Go into their home system, find a spot to hide, and ambush one or two as they cross in front of you. Once you’ve made your kills get out of there, because more are probably coming.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The trick to killing Corsairs is catching them off guard. Go into their home system, find a spot to hide, and ambush one or two as they cross in front of you. Once you’ve made your kills, get out of there because more are probably coming.</TEXT><PARA/><POP/></RDL>
 
 133183
 INFOCARD
@@ -26113,7 +26113,7 @@ INFOCARD
 
 133206
 INFOCARD
-<RDL><PUSH/><TEXT>I was a Red Hessian for many years. I became pretty good at killing Corsairs, so I decided to get paid for it. Besides, I had grown weary of piracy. I became a Hessian for political reasons, before they sold out.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I was a Red Hessian for many years. I became pretty good at killing Corsairs, so I decided to get paid for it. Besides, I had grown weary of piracy. I became a Hessian for political reasons before they sold out.</TEXT><PARA/><POP/></RDL>
 
 133207
 INFOCARD
@@ -27029,7 +27029,7 @@ INFOCARD
 
 133436
 INFOCARD
-<RDL><PUSH/><TEXT>Our movement is very old, dating back to the Sakura Coup in 321 AS. On that fateful day the Shogun Hideyoshi was toppled by the military, which was backed by Samura. Our ancestors were the Shogun’s royal guards. They fought bravely but fled the palace when it was clear that Samura had won the day. The Blood Dragons were thus born, a group dedicated to cleansing the cancer of Samura from Kusari once and for all.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our movement is very old, dating back to the Sakura Coup in 321 AS. On that fateful day, the Shogun Hideyoshi was toppled by the military, which was backed by Samura. Our ancestors were the Shogun’s royal guards. They fought bravely but fled the palace when it was clear that Samura had won the day. The Blood Dragons were thus born, a group dedicated to cleansing the cancer of Samura from Kusari once and for all.</TEXT><PARA/><POP/></RDL>
 
 133437
 INFOCARD
@@ -27537,7 +27537,7 @@ INFOCARD
 
 133563
 INFOCARD
-<RDL><PUSH/><TEXT>All the basic supplies needed to run this base are brought here from Kyushu. The shipments also bring in mail, since many of the soldiers aboard the </TEXT><TRA italic="true"/><TEXT>Nagumo</TEXT><TRA italic="false"/><TEXT>  are from the finest families planetside.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>All the basic supplies needed to run this base are brought here from Kyushu. The shipments also bring in mail since many of the soldiers aboard the </TEXT><TRA italic="true"/><TEXT>Nagumo</TEXT><TRA italic="false"/><TEXT>  are from the finest families planetside.</TEXT><PARA/><POP/></RDL>
 
 133564
 INFOCARD
@@ -27777,7 +27777,7 @@ INFOCARD
 
 133623
 INFOCARD
-<RDL><PUSH/><TEXT>I work here in this mining operation, because I will not work in the shipyards. This place is far from the center of Rheinland. Here it is a little laxer; I work normal hours at Ruegen. Only ten hours a day, six days per week; it’s a breeze compared to the Ring.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I work here in this mining operation because I will not work in the shipyards. This place is far from the center of Rheinland. Here it is a little laxer; I work normal hours at Ruegen. Only ten hours a day, six days per week; it’s a breeze compared to the Ring.</TEXT><PARA/><POP/></RDL>
 
 133624
 INFOCARD
@@ -28033,7 +28033,7 @@ INFOCARD
 
 133692
 INFOCARD
-<RDL><PUSH/><TEXT>The rodents who run Freistadt have been mining here for some time. It is unfortunate that this is so, because they have taken the best field for themselves. This will go in my report to New Berlin. I’m sure Daumann can find a way to force them out; it will not have been the first time. We are working for the greater glory of Rheinland. Sometimes bugs must be crushed underfoot to do this.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The rodents who run Freistadt have been mining here for some time. It is unfortunate that this is so because they have taken the best field for themselves. This will go in my report to New Berlin. I’m sure Daumann can find a way to force them out; it will not have been the first time. We are working for the greater glory of Rheinland. Sometimes bugs must be crushed underfoot to do this.</TEXT><PARA/><POP/></RDL>
 
 133693
 INFOCARD
@@ -28709,7 +28709,7 @@ INFOCARD
 
 133864
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve just come in from the Freital base in Omega-11 with some Diamonds mined from the Von Rohe Belt. You’re on the edge of nowhere out there — Corsair country to the south and west. We’ve got a little war with them going in Omega-5, if you want some action.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve just come in from the Freital base in Omega-11 with some Diamonds mined from the Von Rohe Belt. You’re on the edge of nowhere out there — Corsair country to the south and west. We’ve got a little war with them going in Omega-5 if you want some action.</TEXT><PARA/><POP/></RDL>
 
 133865
 INFOCARD
@@ -29073,7 +29073,7 @@ INFOCARD
 
 133955
 INFOCARD
-<RDL><PUSH/><TEXT>Altona was once a bustling place, before the government allowed Liberty ships to bypass us and ship their goods directly to Berlin and Stuttgart after the Eighty Years War. Now it is probably just a matter of time before this outpost is closed and dismantled.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Altona was once a bustling place before the government allowed Liberty ships to bypass us and ship their goods directly to Berlin and Stuttgart after the Eighty Years War. Now it is probably just a matter of time before this outpost is closed and dismantled.</TEXT><PARA/><POP/></RDL>
 
 133956
 INFOCARD
@@ -29133,7 +29133,7 @@ INFOCARD
 
 133970
 INFOCARD
-<RDL><PUSH/><TEXT>Lübeck can get lonely. We don’t get up to Hamburg too often. Wouldn’t matter anyway, because we never get paid. We’re here to keep an eye on the Südheide. Lot of criminal activity in there. Berlin’s nervous about the prison convoys mostly.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Lübeck can get lonely. We don’t get up to Hamburg too often. Wouldn’t matter anyway because we never get paid. We’re here to keep an eye on the Südheide. Lot of criminal activity in there. Berlin’s nervous about the prison convoys mostly.</TEXT><PARA/><POP/></RDL>
 
 133971
 INFOCARD
@@ -29681,7 +29681,7 @@ INFOCARD
 
 134107
 INFOCARD
-<RDL><PUSH/><TEXT>Ruegen, the Daumann operation in the Border Worlds, needs us to supply them with Mining Machinery and H-Fuel. You could be the one to help them there, if you don’t fear the Border Worlds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Ruegen, the Daumann operation in the Border Worlds, needs us to supply them with Mining Machinery and H-Fuel. You could be the one to help them there if you don’t fear the Border Worlds.</TEXT><PARA/><POP/></RDL>
 
 134108
 INFOCARD
@@ -71273,7 +71273,7 @@ INFOCARD
 
 393437
 INFOCARD
-<RDL><PUSH/><TEXT>I hear you took the escort mission to Pittsburgh. Juni asked me yesterday to make that run. Looks like she finally found a fool for this silly scheme she and King cooked up. I’m guessing you’re flying in that crappy Starflier she had for a while. All I can say is be careful. That ship should have been put out of its misery a long time ago.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I hear you took the escort mission to Pittsburgh. Juni asked me yesterday to make that run. Looks like she finally found a fool for this silly scheme she and King cooked up. I’m guessing you’re flying in that crappy Starflier she had for a while. All I can say is, be careful. That ship should have been put out of its misery a long time ago.</TEXT><PARA/><POP/></RDL>
 
 393438
 INFOCARD
@@ -72029,7 +72029,7 @@ INFOCARD
 
 393627
 INFOCARD
-<RDL><PUSH/><TEXT>It’s really getting out of control now. People are saying that Rheinland warships have been seen in just about every system in the colonies, and Niemann dares to deny any involvement of the Rheinland Military. Now it seems they are moving forces into the Border Worlds surrounding Rheinland. This is leading us straight into a war, if you ask me.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s really getting out of control now. People are saying that Rheinland warships have been seen in just about every system in the colonies, and Niemann dares to deny any involvement of the Rheinland Military. Now it seems they are moving forces into the Border Worlds surrounding Rheinland. This is leading us straight into a war if you ask me.</TEXT><PARA/><POP/></RDL>
 
 393628
 INFOCARD
@@ -72301,7 +72301,7 @@ INFOCARD
 
 393695
 INFOCARD
-<RDL><PUSH/><TEXT>I hear that Bretonia is playing right into the Chancellor’s hand — he knows how stratified the social structure is there. For some time he’s been seeding unrest in the working class and now he’s turning up the heat with the threat of attack. Just the specter of war is all that it will take for the system to start breaking down. Under the right circumstances, he might take Bretonia and her Border World holdings without even firing a shot.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I hear that Bretonia is playing right into the Chancellor’s hand — he knows how stratified the social structure is there. For some time, he’s been seeding unrest in the working class and now he’s turning up the heat with the threat of attack. Just the specter of war is all that it will take for the system to start breaking down. Under the right circumstances, he might take Bretonia and her Border World holdings without even firing a shot.</TEXT><PARA/><POP/></RDL>
 
 393696
 INFOCARD
