@@ -45,7 +45,7 @@ Freelancer did not detect a 3D capable video card in your system.\nIf you have a
 
 202
 NAME
-Freelancer detected your video card does not meet the 16 meg minimum needed to run the game.\nPoor performance may result.
+Freelancer detected your video card does not meet the 16MB minimum needed to run the game.\nPoor performance may result.
 
 203
 NAME
@@ -70669,7 +70669,7 @@ INFOCARD
 
 393286
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>SPECIAL THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Chris Roberts</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Kevin Albers</TEXT><PARA/><TEXT>Liz Becker</TEXT><PARA/><TEXT>Paul Bernstein</TEXT><PARA/><TEXT>Jared Carr</TEXT><PARA/><TEXT>Jeff Davis</TEXT><PARA/><TEXT>Art DiBianca</TEXT><PARA/><TEXT>Jay Dunn</TEXT><PARA/><TEXT>Beth Featherstone</TEXT><PARA/><TEXT>Andrew Franklin</TEXT><PARA/><TEXT>Ed Fries</TEXT><PARA/><TEXT>Andre Garcia</TEXT><PARA/><TEXT>Arvee Garde</TEXT><PARA/><TEXT>Johnny Guentzel</TEXT><PARA/><TEXT>Ben Hanson</TEXT><PARA/><TEXT>Matthew Hurrell</TEXT><PARA/><TEXT>Lorin Jameson</TEXT><PARA/><TEXT>Rich Lawrence</TEXT><PARA/><TEXT>Jim Magill</TEXT><PARA/><TEXT>Katie Marye</TEXT><PARA/><TEXT>April McKee</TEXT><PARA/><TEXT>James Mitchell</TEXT><PARA/><TEXT>Stuart Moulder</TEXT><PARA/><TEXT>Andy O’Brien</TEXT><PARA/><TEXT>T.J. O’Leary</TEXT><PARA/><TEXT>Pete Parsons</TEXT><PARA/><TEXT>Kelcey Privett</TEXT><PARA/><TEXT>Kent Raffray</TEXT><PARA/><TEXT>Jake Rodgers</TEXT><PARA/><TEXT>John Thomas</TEXT><PARA/><TEXT>Mark Thomas</TEXT><PARA/><TEXT>Alex Toader</TEXT><PARA/><TEXT>Sam Yeates</TEXT><PARA/><TEXT>Jason Yenawine</TEXT><PARA/><TEXT>Lancer’s Reactor</TEXT><PARA/><PARA/><TEXT>Abrams Artists</TEXT><PARA/><TEXT>Acclaim Talent Agency Austin</TEXT><PARA/><TEXT>Association Of Performing Artists</TEXT><PARA/><TEXT>Barbara Gray Talent Austin</TEXT><PARA/><TEXT>Pop Art Voices</TEXT><PARA/><TEXT>Innovative Artists L.A.</TEXT><PARA/><TEXT>International Creative Management L.A.</TEXT><PARA/><TEXT>Sutton, Barth &amp; Vennari</TEXT><PARA/><TEXT>VOX U.S.A.</TEXT><PARA/><TEXT>William Morris Agency</TEXT><PARA/><PARA/><TEXT>Havok</TEXT><PARA/><TEXT>Lua</TEXT><PARA/><PARA/><TEXT>Kyoto</TEXT><PARA/><TEXT>Las Manitas</TEXT><PARA/><PARA/><TEXT>Our wives, friends, and children!</TEXT><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><TEXT>On February 1, 2003 tragedy struck the Columbia Space Shuttle mission STS-107. The Freelancer Team would like to express their condolences to the seven astronauts who lost their lives. Rick Husband, William McCool, Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark, and Ilan Ramon. Additionally, we would like to express our appreciation to all the brave pioneers of the world-wide space program who have inspired us all by living their dream.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>SPECIAL THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Chris Roberts</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>THANKS</TEXT><TRA bold="false"/><PARA/><TEXT>Kevin Albers</TEXT><PARA/><TEXT>Liz Becker</TEXT><PARA/><TEXT>Paul Bernstein</TEXT><PARA/><TEXT>Jared Carr</TEXT><PARA/><TEXT>Jeff Davis</TEXT><PARA/><TEXT>Art DiBianca</TEXT><PARA/><TEXT>Jay Dunn</TEXT><PARA/><TEXT>Beth Featherstone</TEXT><PARA/><TEXT>Andrew Franklin</TEXT><PARA/><TEXT>Ed Fries</TEXT><PARA/><TEXT>Andre Garcia</TEXT><PARA/><TEXT>Arvee Garde</TEXT><PARA/><TEXT>Johnny Guentzel</TEXT><PARA/><TEXT>Ben Hanson</TEXT><PARA/><TEXT>Matthew Hurrell</TEXT><PARA/><TEXT>Lorin Jameson</TEXT><PARA/><TEXT>Rich Lawrence</TEXT><PARA/><TEXT>Jim Magill</TEXT><PARA/><TEXT>Katie Marye</TEXT><PARA/><TEXT>April McKee</TEXT><PARA/><TEXT>James Mitchell</TEXT><PARA/><TEXT>Stuart Moulder</TEXT><PARA/><TEXT>Andy O’Brien</TEXT><PARA/><TEXT>T.J. O’Leary</TEXT><PARA/><TEXT>Pete Parsons</TEXT><PARA/><TEXT>Kelcey Privett</TEXT><PARA/><TEXT>Kent Raffray</TEXT><PARA/><TEXT>Jake Rodgers</TEXT><PARA/><TEXT>John Thomas</TEXT><PARA/><TEXT>Mark Thomas</TEXT><PARA/><TEXT>Alex Toader</TEXT><PARA/><TEXT>Sam Yeates</TEXT><PARA/><TEXT>Jason Yenawine</TEXT><PARA/><TEXT>Lancer’s Reactor</TEXT><PARA/><PARA/><TEXT>Abrams Artists</TEXT><PARA/><TEXT>Acclaim Talent Agency Austin</TEXT><PARA/><TEXT>Association Of Performing Artists</TEXT><PARA/><TEXT>Barbara Gray Talent Austin</TEXT><PARA/><TEXT>Pop Art Voices</TEXT><PARA/><TEXT>Innovative Artists L.A.</TEXT><PARA/><TEXT>International Creative Management L.A.</TEXT><PARA/><TEXT>Sutton, Barth &amp; Vennari</TEXT><PARA/><TEXT>VOX U.S.A.</TEXT><PARA/><TEXT>William Morris Agency</TEXT><PARA/><PARA/><TEXT>Havok</TEXT><PARA/><TEXT>Lua</TEXT><PARA/><PARA/><TEXT>Kyoto</TEXT><PARA/><TEXT>Las Manitas</TEXT><PARA/><PARA/><TEXT>Our wives, friends, and children!</TEXT><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><PARA/><TEXT>On February 1, 2003 tragedy struck the Columbia Space Shuttle mission STS-107. The Freelancer Team would like to express their condolences to the seven astronauts who lost their lives. Rick Husband, William McCool, Michael Anderson, Kalpana Chawla, David Brown, Laurel Clark, and Ilan Ramon. Additionally, we would like to express our appreciation to all the brave pioneers of the worldwide space program who have inspired us all by living their dream.</TEXT><PARA/><POP/></RDL>
 
 393287
 INFOCARD
@@ -70705,23 +70705,23 @@ INFOCARD
 
 393295
 INFOCARD
-<RDL><PUSH/><TEXT>New affiliation:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New affiliation: </TEXT><PARA/><POP/></RDL>
 
 393296
 INFOCARD
-<RDL><PUSH/><TEXT>Lost affiliation:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Lost affiliation: </TEXT><PARA/><POP/></RDL>
 
 393297
 INFOCARD
-<RDL><PUSH/><TEXT>A player has died:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A player has died: </TEXT><PARA/><POP/></RDL>
 
 393298
 INFOCARD
-<RDL><PUSH/><TEXT>New player:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New player: </TEXT><PARA/><POP/></RDL>
 
 393299
 INFOCARD
-<RDL><PUSH/><TEXT>Departing player:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Departing player: </TEXT><PARA/><POP/></RDL>
 
 393300
 INFOCARD
@@ -70749,7 +70749,7 @@ INFOCARD
 
 393306
 INFOCARD
-<RDL><PUSH/><TEXT>You cannot invite a player already in your group:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You cannot invite a player already in your group: </TEXT><PARA/><POP/></RDL>
 
 393307
 INFOCARD
@@ -70757,11 +70757,11 @@ INFOCARD
 
 393308
 INFOCARD
-<RDL><PUSH/><TEXT>Sorry, but that group is now full:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Sorry, but that group is now full: </TEXT><PARA/><POP/></RDL>
 
 393309
 INFOCARD
-<RDL><PUSH/><TEXT>You are already a member of the group:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You are already a member of the group: </TEXT><PARA/><POP/></RDL>
 
 393310
 INFOCARD
@@ -70777,11 +70777,11 @@ INFOCARD
 
 393313
 INFOCARD
-<RDL><PUSH/><TEXT>The following player is on a mission and cannot be invited to your group:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The following player is on a mission and cannot be invited to your group: </TEXT><PARA/><POP/></RDL>
 
 393314
 INFOCARD
-<RDL><PUSH/><TEXT>You have not received an invitation:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You have not received an invitation: </TEXT><PARA/><POP/></RDL>
 
 393315
 INFOCARD
@@ -70789,23 +70789,23 @@ INFOCARD
 
 393316
 INFOCARD
-<RDL><PUSH/><TEXT>You have received a group invitation from:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You have received a group invitation from: </TEXT><PARA/><POP/></RDL>
 
 393317
 INFOCARD
-<RDL><PUSH/><TEXT>Group invitation sent to:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Group invitation sent to: </TEXT><PARA/><POP/></RDL>
 
 393318
 INFOCARD
-<RDL><PUSH/><TEXT>New group member:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New group member: </TEXT><PARA/><POP/></RDL>
 
 393319
 INFOCARD
-<RDL><PUSH/><TEXT>You have joined into a group with:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You have joined into a group with: </TEXT><PARA/><POP/></RDL>
 
 393320
 INFOCARD
-<RDL><PUSH/><TEXT>A group member has left:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A group member has left: </TEXT><PARA/><POP/></RDL>
 
 393321
 INFOCARD
@@ -70821,7 +70821,7 @@ INFOCARD
 
 393324
 INFOCARD
-<RDL><PUSH/><TEXT>ENTER NAME</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>ENTER NAME:</TEXT><PARA/><POP/></RDL>
 
 393325
 INFOCARD
@@ -70833,11 +70833,11 @@ INFOCARD
 
 393327
 INFOCARD
-<RDL><PUSH/><TEXT>You have received a trade request from:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You have received a trade request from: </TEXT><PARA/><POP/></RDL>
 
 393328
 INFOCARD
-<RDL><PUSH/><TEXT>Trade request sent to:</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Trade request sent to: </TEXT><PARA/><POP/></RDL>
 
 393329
 INFOCARD
