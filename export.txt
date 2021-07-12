@@ -15565,7 +15565,7 @@ INFOCARD
 
 65784
 INFOCARD
-<RDL><PUSH/><TEXT>Rugen Station was built by Daumann Heavy Construction for the manufacturing of Polymers using the abundant raw materials found in the system. While pirates are always a problem, Daumann’s long-running rivalry with the neighboring Bretonia Mining and Metal (BMM) operation on Douglas Station has resulted in more than a few exchanges of weapons fire.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rügen Station was built by Daumann Heavy Construction for the manufacturing of Polymers using the abundant raw materials found in the system. While pirates are always a problem, Daumann’s long-running rivalry with the neighboring Bretonia Mining and Metal (BMM) operation on Douglas Station has resulted in more than a few exchanges of weapons fire.</TEXT><PARA/><POP/></RDL>
 
 65785
 INFOCARD
@@ -16841,7 +16841,7 @@ INFOCARD
 
 66108
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>BORDER WORLDS</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Sprague (limited access)</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Freeport 1</TEXT><PARA/><TEXT>Rugen Station</TEXT><PARA/><TEXT>Douglas Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Bretonia Mining and Metal</TEXT><PARA/><TEXT>Planetform, Inc.</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Corsairs</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Food</TEXT><PARA/><TEXT>Polymers</TEXT><PARA/><TEXT>Hydrocarbons</TEXT><PARA/><TEXT>Oxygen</TEXT><PARA/><TEXT>Water</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>BORDER WORLDS</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Sprague (limited access)</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Freeport 1</TEXT><PARA/><TEXT>Rügen Station</TEXT><PARA/><TEXT>Douglas Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Bretonia Mining and Metal</TEXT><PARA/><TEXT>Planetform, Inc.</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Corsairs</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Food</TEXT><PARA/><TEXT>Polymers</TEXT><PARA/><TEXT>Hydrocarbons</TEXT><PARA/><TEXT>Oxygen</TEXT><PARA/><TEXT>Water</TEXT><PARA/><POP/></RDL>
 
 66109
 INFOCARD
@@ -26301,7 +26301,7 @@ INFOCARD
 
 133254
 INFOCARD
-<RDL><PUSH/><TEXT>There were Artifacts all over Crete at one time. Most of those have been sold now, but we still find Artifacts in the Malvadas and Napo Clouds. Any Corsair could have many of the alien trinkets, but they have no function and are therefore meaningless, except for trade. Let some other fool spend his money on them.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There were Artifacts all over Crete at one time. Most of those have been sold now, but we still find Artifacts in the Malvada and Napo Clouds. Any Corsair could have many of the alien trinkets, but they have no function and are therefore meaningless, except for trade. Let some other fool spend his money on them.</TEXT><PARA/><POP/></RDL>
 
 133255
 INFOCARD
@@ -28409,7 +28409,7 @@ INFOCARD
 
 133786
 INFOCARD
-<RDL><PUSH/><TEXT>The Ring is the terminating point for inbound Daumann transports delivering Polymers and Hydrocarbons from the base of Rugen in Omega-3. That system also contains a BMM operation producing the same materials, so it is a very competitive route.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Ring is the terminating point for inbound Daumann transports delivering Polymers and Hydrocarbons from the base of Rügen in Omega-3. That system also contains a BMM operation producing the same materials, so it is a very competitive route.</TEXT><PARA/><POP/></RDL>
 
 133787
 INFOCARD
@@ -30813,7 +30813,7 @@ Freeport 1
 
 196692
 NAME
-Rugen Station
+Rügen Station
 
 196693
 NAME
@@ -51733,7 +51733,7 @@ I’ll upload all of the info on Freeport 1 into your Neural Net
 
 251683
 NAME
-I’ll upload all of the info on the Rugen Station into your Neural Net
+I’ll upload all of the info on the Rügen Station into your Neural Net
 
 251684
 NAME
