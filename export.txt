@@ -14597,7 +14597,7 @@ INFOCARD
 
 65540
 INFOCARD
-<RDL><PUSH/><TEXT>The Juneau Shipyard is the Liberty Navy’s top secret installation that was built soon after the Texas Incident in 510 AS. All research and development of the Osiris class of battleships occurred at this facility.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Juneau Shipyard is the Liberty Navy’s top-secret installation that was built soon after the Texas Incident in 510 AS. All research and development of the Osiris class of battleships occurred at this facility.</TEXT><PARA/><POP/></RDL>
 
 65541
 INFOCARD
@@ -16461,7 +16461,7 @@ INFOCARD
 
 66010
 INFOCARD
-<RDL><PUSH/><TEXT>A medium-sized field of mixed carbonaceous and ice asteroids. The Daumann Polymer and Hydrocarbon operation of Ruegen has been plagued by repeated Red Hessian attacks.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A medium-sized field of mixed carbonaceous and ice asteroids. The Daumann Polymer and Hydrocarbon operation of Rügen has been plagued by repeated Red Hessian attacks.</TEXT><PARA/><POP/></RDL>
 
 66011
 INFOCARD
@@ -20349,7 +20349,7 @@ INFOCARD
 
 131720
 INFOCARD
-<RDL><PUSH/><TEXT>We’re supposedly here to watch out for Xenos, but I think that Liberty wants to keep a close eye on Pueblo — all that top secret stuff there that Kusari and Rheinland are always trying to find out about. Guess the Trade Lanes and Jump Gates are a big deal — a mystery to me.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We’re supposedly here to watch out for Xenos, but I think that Liberty wants to keep a close eye on Pueblo — all that top-secret stuff there that Kusari and Rheinland are always trying to find out about. Guess the Trade Lanes and Jump Gates are a big deal — a mystery to me.</TEXT><PARA/><POP/></RDL>
 
 131721
 INFOCARD
@@ -21357,7 +21357,7 @@ INFOCARD
 
 131979
 INFOCARD
-<RDL><PUSH/><TEXT>Some top secret folks came in from Alaska last week. All interested in the Alien stuff going on here. Sometimes I think there’s a lot more going on in Liberty than I ever imagined.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some top-secret folks came in from Alaska last week. All interested in the Alien stuff going on here. Sometimes I think there’s a lot more going on in Liberty than I ever imagined.</TEXT><PARA/><POP/></RDL>
 
 131980
 INFOCARD
@@ -23437,7 +23437,7 @@ INFOCARD
 
 132512
 INFOCARD
-<RDL><PUSH/><TEXT>We have information indicating that the centuries-long terraforming operations run by Planetform will never succeed. A top secret government report obtained by the Green Front asserts that the planets will lose their nascent atmospheres within several hundred years of completion of the process due to uncontrolled outgassing.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have information indicating that the centuries-long terraforming operations run by Planetform will never succeed. A top-secret government report obtained by the Green Front asserts that the planets will lose their nascent atmospheres within several hundred years of completion of the process due to uncontrolled outgassing.</TEXT><PARA/><POP/></RDL>
 
 132513
 INFOCARD
@@ -23629,7 +23629,7 @@ INFOCARD
 
 132561
 INFOCARD
-<RDL><PUSH/><TEXT>Word from Freeport I is that the Corsairs are losing their turf war with the Hessians in Omega-5. That’ll save Bretonia’s rear. Once the Hessians cut off Omega-5, the Corsairs won’t have an access route into Cambridge anymore. Hessians don’t much care about this corner of the woods.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Word from Freeport 1 is that the Corsairs are losing their turf war with the Hessians in Omega-5. That’ll save Bretonia’s rear. Once the Hessians cut off Omega-5, the Corsairs won’t have an access route into Cambridge anymore. Hessians don’t much care about this corner of the woods.</TEXT><PARA/><POP/></RDL>
 
 132562
 INFOCARD
@@ -25721,7 +25721,7 @@ INFOCARD
 
 133108
 INFOCARD
-<RDL><PUSH/><TEXT>Birmingham provides this base with H-Fuel, Oxygen, and Water. It’s nice running supplies to a police station. You get to know the men and women who are out there protecting you.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Birmingham provides this base with Oxygen and Water. It’s nice running supplies to a police station. You get to know the men and women who are out there protecting you.</TEXT><PARA/><POP/></RDL>
 
 133109
 INFOCARD
@@ -27097,7 +27097,7 @@ INFOCARD
 
 133453
 INFOCARD
-<RDL><PUSH/><TEXT>This system is a crossroads of Kusari and Liberty shipping. Consequently, we get a lot of Liberty criminals here. There are Rogues and Lane hackers as well as our own Blood Dragons, Golden Chrysanthemums, Farmers Alliance, and Hogosha.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This system is a crossroads of Kusari and Liberty shipping. Consequently, we get a lot of Liberty criminals here. There are Rogues and Lane Hackers as well as our own Blood Dragons, Golden Chrysanthemums, Farmers Alliance, and Hogosha.</TEXT><PARA/><POP/></RDL>
 
 133454
 INFOCARD
@@ -27181,7 +27181,7 @@ INFOCARD
 
 133474
 INFOCARD
-<RDL><PUSH/><TEXT>Terraforming Gases and Super Conductors are brought here From Pueblo through the Independent Worlds. On the way there we send them H-Fuel and Niobium.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Terraforming Gases and Superconductors are brought here From Pueblo through the Independent Worlds. On the way there we send them H-Fuel and Niobium.</TEXT><PARA/><POP/></RDL>
 
 133475
 INFOCARD
@@ -27669,11 +27669,11 @@ INFOCARD
 
 133596
 INFOCARD
-<RDL><PUSH/><TEXT>Ruegen gets her goods from this base — some of the basics at least. The less we have to walk the corridors of this hole the better. I don’t like being around insolent Bretonian scum.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rügen gets her goods from this base — some of the basics at least. The less we have to walk the corridors of this hole the better. I don’t like being around insolent Bretonian scum.</TEXT><PARA/><POP/></RDL>
 
 133597
 INFOCARD
-<RDL><PUSH/><TEXT>Many people on Ruegen fear that Bretonia will eventually control this system. I say there isn’t a chance. They are counting on colonizing Sprague once it’s terraformed, then forcing us out. Have you ever heard of Planetform, Inc. ever finishing a project? No. This is Rheinland space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many people on Rügen fear that Bretonia will eventually control this system. I say there isn’t a chance. They are counting on colonizing Sprague once it’s terraformed, then forcing us out. Have you ever heard of Planetform, Inc. ever finishing a project? No. This is Rheinland space.</TEXT><PARA/><POP/></RDL>
 
 133598
 INFOCARD
@@ -27777,11 +27777,11 @@ INFOCARD
 
 133623
 INFOCARD
-<RDL><PUSH/><TEXT>I work here in this mining operation because I will not work in the shipyards. This place is far from the center of Rheinland. Here it is a little laxer; I work normal hours at Ruegen. Only ten hours a day, six days per week; it’s a breeze compared to the Ring.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I work here in this mining operation because I will not work in the shipyards. This place is far from the center of Rheinland. Here it is a little laxer; I work normal hours at Rügen. Only ten hours a day, six days per week; it’s a breeze compared to the Ring.</TEXT><PARA/><POP/></RDL>
 
 133624
 INFOCARD
-<RDL><PUSH/><TEXT>One of the chaps that works here has a brother in the Red Hessians. This should illustrate what a blood thirsty gang of murderers they are: the miners name is Scmidt, and the leader of the Hessians who attack this base is also named Schmidt. The Hessian is attacking his own brother’s installation.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of the chaps that works here has a brother in the Red Hessians. This should illustrate what a blood thirsty gang of murderers they are: the miners name is Schmidt, and the leader of the Hessians who attack this base is also named Schmidt. The Hessian is attacking his own brother’s installation.</TEXT><PARA/><POP/></RDL>
 
 133625
 INFOCARD
@@ -27905,7 +27905,7 @@ INFOCARD
 
 133660
 INFOCARD
-<RDL><PUSH/><TEXT>This system is an important one for the Hessians; it has Jump Holes that lead to Cambridge, Omega-3, Omega-7, Omega-11, and Omicron Theta. That’s a lot of traffic we can raid, and that’s why it can’t fall to the Corsairs; if they gain control, we will be able to expand no further.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This system is an important one for the Hessians; it has Jump Holes that lead to Cambridge, Omega-3, Omega-7, Omega-11, and Omega-41. That’s a lot of traffic we can raid, and that’s why it can’t fall to the Corsairs; if they gain control, we will be able to expand no further.</TEXT><PARA/><POP/></RDL>
 
 133661
 INFOCARD
@@ -28037,7 +28037,7 @@ INFOCARD
 
 133693
 INFOCARD
-<RDL><PUSH/><TEXT>I was doing some surveying in the Gubenfelde just south of the IMG base when I was saw a flight of Red Hessians run right into a Corsair patrol. It was the most incredible thing I have ever seen. I thank good luck my ship was obscured by asteroids, and that I could watch, hidden amongst rock. They fought so fiercely, it was actually beautiful — as if they were all artists, and death was their canvas.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I was doing some surveying in the Gubenfelde just south of the IMG base when I saw a flight of Red Hessians run right into a Corsair patrol. It was the most incredible thing I have ever seen. I thank good luck my ship was obscured by asteroids, and that I could watch, hidden amongst rock. They fought so fiercely, it was actually beautiful — as if they were all artists, and death was their canvas.</TEXT><PARA/><POP/></RDL>
 
 133694
 INFOCARD
@@ -28197,7 +28197,7 @@ INFOCARD
 
 133733
 INFOCARD
-<RDL><PUSH/><TEXT>Our headquarters is in the Ring, high above Berlin at the La Grange point between New Berlin and Potsdam. At least up there we never have to worry about the notorious Berlin night, which lasts upwards of a year here. It would be lifeless on this planet without the strong volcanic and geothermal activity.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our headquarters is in the Ring, high above Berlin at the Lagrange point between New Berlin and Potsdam. At least up there we never have to worry about the notorious Berlin night, which lasts upwards of a year here. It would be lifeless on this planet without the strong volcanic and geothermal activity.</TEXT><PARA/><POP/></RDL>
 
 133734
 INFOCARD
@@ -28365,7 +28365,7 @@ INFOCARD
 
 133775
 INFOCARD
-<RDL><PUSH/><TEXT>Because we have no money or ships, we cannot patrol the Trade Lanes in Omega-7 or protect the Daumann operations in Dresden and Omega-4. The police must make do as well as they can, but that’s not always sufficient when Red Hessians are involved.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Because we have no money or ships, we cannot patrol the Trade Lanes in Omega-7 or protect the Daumann operations in Dresden and Omega-3. The police must make do as well as they can, but that’s not always sufficient when Red Hessians are involved.</TEXT><PARA/><POP/></RDL>
 
 133776
 INFOCARD
@@ -28377,7 +28377,7 @@ INFOCARD
 
 133778
 INFOCARD
-<RDL><PUSH/><TEXT>The Ring is one of Rheinland’s most famous landmarks. On a clear day, you can see it from Berlin's planetside. It is positioned at the La Grange point between Potsdam and Berlin, where the gravitational attraction of the planet and moon effectively neutralize each other. That enables the Ring to maintain a stable orbit with minimal attitude and speed corrections, which would otherwise exert substantial forces on such a large structure.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Ring is one of Rheinland’s most famous landmarks. On a clear day, you can see it from Berlin's planetside. It is positioned at the Lagrange point between Potsdam and Berlin, where the gravitational attraction of the planet and moon effectively neutralize each other. That enables the Ring to maintain a stable orbit with minimal attitude and speed corrections, which would otherwise exert substantial forces on such a large structure.</TEXT><PARA/><POP/></RDL>
 
 133779
 INFOCARD
@@ -28573,7 +28573,7 @@ INFOCARD
 
 133830
 INFOCARD
-<RDL><PUSH/><TEXT>It’s a good thing that they trade Polymers and Hydrocarbons on Freeport I. Otherwise ALG would have a difficult time buying any at a good price, since BMM and Daumann pretty much control those Commodities in this part of Sirius.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s a good thing that they trade Polymers and Hydrocarbons on Freeport 1. Otherwise ALG would have a difficult time buying any at a good price, since BMM and Daumann pretty much control those Commodities in this part of Sirius.</TEXT><PARA/><POP/></RDL>
 
 133831
 INFOCARD
@@ -28841,7 +28841,7 @@ INFOCARD
 
 133897
 INFOCARD
-<RDL><PUSH/><TEXT>They’ve got me on prison convoy duty this month. We’re usually hauling a load of Unioners picked up from the North Field. Their comrades wait for us in the Sud Fels, which we have to pass to get to Vierlande.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>They’ve got me on prison convoy duty this month. We’re usually hauling a load of Unioners picked up from the Nordheide. Their comrades wait for us in the Südheide, which we have to pass to get to Vierlande.</TEXT><PARA/><POP/></RDL>
 
 133898
 INFOCARD
@@ -28849,7 +28849,7 @@ INFOCARD
 
 133899
 INFOCARD
-<RDL><PUSH/><TEXT>We’ve got two regular field patrols. One goes up into the North Field — mostly Unioners up there. The Alster Field patrol will sometimes see Bundschuh or Junkers. And lots of Unioners, of course — they’re the dominant criminal species of Hamburg.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We’ve got two regular field patrols. One goes up into the Nordheide — mostly Unioners up there. The Alsterfeld patrol will sometimes see Bundschuh or Junkers. And lots of Unioners, of course — they’re the dominant criminal species of Hamburg.</TEXT><PARA/><POP/></RDL>
 
 133900
 INFOCARD
@@ -29121,7 +29121,7 @@ INFOCARD
 
 133967
 INFOCARD
-<RDL><PUSH/><TEXT>We bring up Sidearm shipments and H-fuel from Berlin. It’s cheaper to buy them there than is in Hamburg. Not a big money maker, but it pays the bills.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We bring up Side Arm shipments and H-fuel from Berlin. It’s cheaper to buy them there than is in Hamburg. Not a big money maker, but it pays the bills.</TEXT><PARA/><POP/></RDL>
 
 133968
 INFOCARD
@@ -29505,7 +29505,7 @@ INFOCARD
 
 134063
 INFOCARD
-<RDL><PUSH/><TEXT>From The Ring in New Berlin, Republican ships Sidearms and Construction Machinery to Stuttgart proper. We also bring Consumer Goods from the capital planet. At Republican, we’ve got you covered.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>From The Ring in New Berlin, Republican ships Side Arms and Construction Machinery to Stuttgart proper. We also bring Consumer Goods from the capital planet. At Republican, we’ve got you covered.</TEXT><PARA/><POP/></RDL>
 
 134064
 INFOCARD
@@ -29681,7 +29681,7 @@ INFOCARD
 
 134107
 INFOCARD
-<RDL><PUSH/><TEXT>Ruegen, the Daumann operation in the Border Worlds, needs us to supply them with Mining Machinery and H-Fuel. You could be the one to help them there if you don’t fear the Border Worlds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rügen, the Daumann operation in the Border Worlds, needs us to supply them with Mining Machinery and H-Fuel. You could be the one to help them there if you don’t fear the Border Worlds.</TEXT><PARA/><POP/></RDL>
 
 134108
 INFOCARD
@@ -29945,7 +29945,7 @@ INFOCARD
 
 134173
 INFOCARD
-<RDL><PUSH/><TEXT>Ruegen in New Berlin is where our convoys go to pick up the Hydrocarbons that this base needs to maintain its operations.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New Berlin is where our convoys go to pick up the Hydrocarbons that this base needs to maintain its operations.</TEXT><PARA/><POP/></RDL>
 
 134174
 INFOCARD
@@ -72209,7 +72209,7 @@ INFOCARD
 
 393672
 INFOCARD
-<RDL><PUSH/><TEXT>I hear that Rheinland might be right in thinking that Kusari is up to something. Apparently, there’s an indication that Kusari agents have tried to steal some kind of new ship technology from one of Rheinland’s top secret installations. This is obviously not something they can very well broadcast but it wouldn’t surprise me, though. The Kusari are known to be very aggressive about acquiring new toys for their own purposes.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I hear that Rheinland might be right in thinking that Kusari is up to something. Apparently, there’s an indication that Kusari agents have tried to steal some kind of new ship technology from one of Rheinland’s top-secret installations. This is obviously not something they can very well broadcast but it wouldn’t surprise me, though. The Kusari are known to be very aggressive about acquiring new toys for their own purposes.</TEXT><PARA/><POP/></RDL>
 
 393673
 INFOCARD
