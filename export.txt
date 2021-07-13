@@ -105,7 +105,7 @@ Freelancer is already running.\nIf freelancer does not appear to be running plea
 
 217
 NAME
-Freelancer appears to be missing your EULA (end user license agreement).\nYou may need to reinstall Freelancer.
+Freelancer appears to be missing your EULA (end-user license agreement).\nYou may need to reinstall Freelancer.
 
 800
 NAME
@@ -1097,7 +1097,7 @@ The Commodity Trader provides items that allow you to risk your life for profit.
 
 1115
 NAME
-In the equipment room you can buy equipment for your ship and decide which equipment to mount on your ship. It’s all about your ship. (Test)
+In the equipment room, you can buy equipment for your ship and decide which equipment to mount on your ship. It’s all about your ship. (Test)
 
 1116
 NAME
@@ -1113,7 +1113,7 @@ Click on a character to talk to them, or click one of the room icons to change l
 
 1119
 NAME
-Ship trade cancelled. All changes lost.
+Ship trade canceled. All changes lost.
 
 1120
 NAME
@@ -11449,7 +11449,7 @@ NAME
 
 30735
 NAME
-*PERSONAL ENTRY:\nSo that was Lord Hakkera. There’s an air about that man. I don’t know — he’s very... commanding. Anyways, Juni seems to know him, not that that’s saved us in the past. Hopefully her home system will provide better protection than Bretonia. I guess I’ll do some sight seeing and take up a few jobs while I’m here. It’s not often I get to be a tourist.
+*PERSONAL ENTRY:\nSo that was Lord Hakkera. There’s an air about that man. I don’t know — he’s very... commanding. Anyways, Juni seems to know him, not that that’s saved us in the past. Hopefully, her home system will provide better protection than Bretonia. I guess I’ll do some sight seeing and take up a few jobs while I’m here. It’s not often I get to be a tourist.
 
 30800
 NAME
@@ -14677,7 +14677,7 @@ INFOCARD
 
 65560
 INFOCARD
-<RDL><PUSH/><TEXT>The Battleship </TEXT><TRA italic="true"/><TEXT>Norfolk</TEXT><TRA italic="false"/><TEXT>  anchors the Cambridge Line of electronic surveillance satellites to suppress the chronic pirate and smuggling activity in the system. Food transports, pharmaceutical shipments, and the local Trade Lanes are enticing targets for pirates who strike across the Line before retreating to the safety of the Grasmere Ice cloud.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Battleship </TEXT><TRA italic="true"/><TEXT>Norfolk</TEXT><TRA italic="false"/><TEXT>  anchors the Cambridge Line of electronic surveillance satellites to suppress the chronic pirate and smuggling activity in the system. Food transports, pharmaceutical shipments, and the local Trade Lanes are enticing targets for pirates who strike across the Line before retreating to the safety of the Grasmere Ice Cloud.</TEXT><PARA/><POP/></RDL>
 
 65561
 INFOCARD
@@ -16329,7 +16329,7 @@ INFOCARD
 
 65977
 INFOCARD
-<RDL><PUSH/><TEXT>A medium-size asteroid field rich in aluminum, titanium and niobium. Bretonia Mining and Metal (BMM) has been working the field with great success, smelting and refining raw materials obtained from the field at the massive Stokes smelting facility nearby.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A medium-size asteroid field rich in aluminum, titanium, and niobium. Bretonia Mining and Metal (BMM) has been working the field with great success, smelting and refining raw materials obtained from the field at the massive Stokes smelting facility nearby.</TEXT><PARA/><POP/></RDL>
 
 65978
 INFOCARD
@@ -18581,7 +18581,7 @@ INFOCARD
 
 131265
 INFOCARD
-<RDL><PUSH/><TEXT>All our cruise ships require constant resupply of Luxury Goods for our clientele. I ship Luxury Goods from here in Manhattan to the </TEXT><TRA italic="true"/><TEXT>Shetland</TEXT><TRA italic="false"/><TEXT>  in the Edinburgh system. It isn’t a joy ride, since there are all kinds of fun exciting ways to get blown to bits on the trip.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>All our cruise ships require constant resupply of Luxury Goods for our clientele. I ship Luxury Goods from here in Manhattan to the </TEXT><TRA italic="true"/><TEXT>Shetland</TEXT><TRA italic="false"/><TEXT>  in the Edinburgh system. It isn’t a joy ride since there are all kinds of fun exciting ways to get blown to bits on the trip.</TEXT><PARA/><POP/></RDL>
 
 131266
 INFOCARD
@@ -20721,7 +20721,7 @@ INFOCARD
 
 131820
 INFOCARD
-<RDL><PUSH/><TEXT>I’m heading back up to Pueblo to load up on some Superconductors bound for Yukawa. Hopefully the Xenos in the Silverton Field won’t bother me if I’m empty.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’m heading back up to Pueblo to load up on some Superconductors bound for Yukawa. Hopefully, the Xenos in the Silverton Field won’t bother me if I’m empty.</TEXT><PARA/><POP/></RDL>
 
 131821
 INFOCARD
@@ -23765,11 +23765,11 @@ INFOCARD
 
 132595
 INFOCARD
-<RDL><PUSH/><TEXT>We have stopovers in Trafalgar, Mactan, and Montezuma on our journey in from Tau-23. If you want to make big money in the Cardamine business, you need to work your way up the stream a bit from here.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have stopovers in Trafalgar, Mactan, and Montezuma on our journey from Tau-23. If you want to make big money in the Cardamine business, you need to work your way up the stream a bit from here.</TEXT><PARA/><POP/></RDL>
 
 132596
 INFOCARD
-<RDL><PUSH/><TEXT>The Rogues are annoying at times, but serve our purposes well. If Liberty becomes weakened enough by Cardamine addiction, we will no longer need them, as we will be able to enter the rest of the New York system ourselves.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Rogues are annoying at times but serve our purposes well. If Liberty becomes weakened enough by Cardamine addiction, we will no longer need them, as we will be able to enter the rest of the New York system ourselves.</TEXT><PARA/><POP/></RDL>
 
 132597
 INFOCARD
