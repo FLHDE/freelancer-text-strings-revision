@@ -1213,7 +1213,7 @@ WELCOME TO THE\n%s\n%s
 
 1144
 NAME
-If you want to buy a commodity, select it in my list. Set the quantity that you want to buy and click the Buy button.\n\nIf you want to sell a commodity, select it in your list. Set the quantity that you want to sell and click the Sell button.
+If you want to buy a commodity, select it from my list. Set the quantity that you want to buy and click the Buy button.\n\nIf you want to sell a commodity, select it from your list. Set the quantity that you want to sell and click the Sell button.
 
 1145
 NAME
@@ -1233,7 +1233,7 @@ Total:
 
 1149
 NAME
-If you want to buy an item, select it in my list. Set the quantity that you want to buy and click the Buy button.\n\nIf you want to sell an item, select it in your list. Set the quantity that you want to sell and click the Sell button.
+If you want to buy an item, select it from my list. Set the quantity that you want to buy and click the Buy button.\n\nIf you want to sell an item, select it from your list. Set the quantity that you want to sell and click the Sell button.
 
 1150
 NAME
@@ -1349,7 +1349,7 @@ You don’t have enough credits to buy a ship. Perhaps you should visit the bar.
 
 1178
 NAME
-The trade-in value of your ship plus your equipment, cargo and credits isn’t enough to buy this ship.
+The trade-in value of your ship plus your equipment, cargo, and credits aren’t enough to buy this ship.
 
 1179
 NAME
@@ -2353,7 +2353,7 @@ NAME
 
 1430
 NAME
-This specifies a description for the savegame.
+This specifies a description of the savegame.
 
 1431
 NAME
@@ -2573,7 +2573,7 @@ Explosion Lights
 
 1485
 NAME
-Save failed. Disk may be full.
+Save failed. The disk may be full.
 
 1486
 NAME
@@ -2845,7 +2845,7 @@ NEURAL NET LOG - EDISON TRENT
 
 1553
 NAME
-*PERSONAL ENTRY:\nI met Lonnigan as planned on Kurile yesterday and we came to an agreement on the price. The plan is to meet on Freeport 7 tomorrow to seal the deal on the ore shipment. If everything works out, they’ll owe me a million credits. It’s the deal of a lifetime.\n\nPERSONAL ENTRY:\nWell, I did the deal. I’m now the proud owner of over a ton of Boron. I put all my savings into this deal. It’s not entirely legal, but here in the Border Worlds, nobody really pays too much attention to this. I’ve been in contact with a man named Lonnigan, apparently a hired gun representing Samura Heavy Industries. He says his clients might be interested in the shipment.\n\nPERSONAL ENTRY:\nIt’s been six weeks since my last entry. Unfortunately, I couldn’t find out anything about alien ruins or uncharted systems. Very frustrating. The only thing I’ve heard was that there’s been sightings of strange ships out near Sigma-17. Who knows? The good news is that I’ve managed to hook up with a captain of a Republican Shipping convoy. He’s transporting a large shipment of Boron from Mainz to Honshu, but wants to keep the profits for himself. We agreed to meet on Kurile tomorrow. We’ll see, maybe luck is on my side this time.\n\nPERSONAL ENTRY:\nAfter two weeks of travel, I finally managed to get to the Sigma system cluster. The trip through the Independent Worlds turned out to be much more dangerous than I thought. I was lucky several times that police patrols happened to be in the area when pirates wanted to blast me out of the stars. Anyway, word has it that there are a number of uncharted systems in this area of space. I will try to find out more information.\n\nPERSONAL ENTRY:\nI’ve finally decided to leave Bretonia and to try my luck in the Border Worlds. Despite what Tobias says, I can’t sit around Leeds for the rest of my life and fix up other people’s ships while more and more alien ruins are being discovered. They say that only 11 percent of the Border Worlds have been charted yet and hundreds of unknown planets are awaiting discovery. I’m starting this personal Neural Net Log to keep track of my travels and adventures.
+*PERSONAL ENTRY:\nI met Lonnigan as planned on Kurile yesterday and we came to an agreement on the price. The plan is to meet on Freeport 7 tomorrow to seal the deal on the ore shipment. If everything works out, they’ll owe me a million credits. It’s the deal of a lifetime.\n\nPERSONAL ENTRY:\nWell, I did the deal. I’m now the proud owner of over a ton of Boron. I put all my savings into this deal. It’s not entirely legal, but here in the Border Worlds, nobody really pays too much attention to this. I’ve been in contact with a man named Lonnigan, apparently a hired gun representing Samura Heavy Industries. He says his clients might be interested in the shipment.\n\nPERSONAL ENTRY:\nIt’s been six weeks since my last entry. Unfortunately, I couldn’t find out anything about alien ruins or uncharted systems. Very frustrating. The only thing I’ve heard was that there’ve been sightings of strange ships out near Sigma-17. Who knows? The good news is that I’ve managed to hook up with a captain of a Republican Shipping convoy. He’s transporting a large shipment of Boron from Mainz to Honshu, but wants to keep the profits for himself. We agreed to meet on Kurile tomorrow. We’ll see, maybe luck is on my side this time.\n\nPERSONAL ENTRY:\nAfter two weeks of travel, I finally managed to get to the Sigma system cluster. The trip through the Independent Worlds turned out to be much more dangerous than I thought. I was lucky several times that police patrols happened to be in the area when pirates wanted to blast me out of the stars. Anyway, word has it that there are a number of uncharted systems in this area of space. I will try to find out more information.\n\nPERSONAL ENTRY:\nI’ve finally decided to leave Bretonia and to try my luck in the Border Worlds. Despite what Tobias says, I can’t sit around Leeds for the rest of my life and fix up other people’s ships while more and more alien ruins are being discovered. They say that only 11 percent of the Border Worlds have been charted yet and hundreds of unknown planets are awaiting discovery. I’m starting this personal Neural Net Log to keep track of my travels and adventures.
 
 1554
 NAME
@@ -3297,15 +3297,15 @@ Indicates that the purchase price at this dealer is around the average price you
 
 1667
 NAME
-Indicates that the sell price at this dealer is one of the best prices you will find.
+Indicates that the selling price at this dealer is one of the best prices you will find.
 
 1668
 NAME
-Indicates that the sell price at this dealer is one of the worst prices you will find.
+Indicates that the selling price at this dealer is one of the worst prices you will find.
 
 1669
 NAME
-Indicates that the sell price at this dealer is around the average price you will find.
+Indicates that the selling price at this dealer is around the average price you will find.
 
 1670
 NAME
@@ -3705,7 +3705,7 @@ Toggles the text you are now reading on/off.
 
 1769
 NAME
-Toggles non-story related cinematics on/off.
+Toggles non-story-related cinematics on/off.
 
 1770
 NAME
@@ -18581,7 +18581,7 @@ INFOCARD
 
 131265
 INFOCARD
-<RDL><PUSH/><TEXT>All our cruise ships require constant resupply of Luxury Goods for our clientele. I ship Luxury Goods from here in Manhattan to the </TEXT><TRA italic="true"/><TEXT>Shetland</TEXT><TRA italic="false"/><TEXT>  in the Edinburgh system. It isn’t a joy ride since there are all kinds of fun exciting ways to get blown to bits on the trip.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>All our cruise ships require constant resupply of Luxury Goods for our clientele. I ship Luxury Goods from here in Manhattan to the </TEXT><TRA italic="true"/><TEXT>Shetland</TEXT><TRA italic="false"/><TEXT>  in the Edinburgh system. It isn’t a joy ride since there are all kinds of fun, exciting ways to get blown to bits on the trip.</TEXT><PARA/><POP/></RDL>
 
 131266
 INFOCARD
