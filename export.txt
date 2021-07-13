@@ -13465,7 +13465,7 @@ New York Proposes New Patrols
 
 56249
 NAME
-MANHATTAN — The Liberty Navy announced today that it will soon extend its patrol routes to include the previously unprotected stretches of Trade Lanes extending into the Barrier Clouds east of Freeport 4 and Curaçao. New London has supported the move, noting that the Bretonia security forces will be unable to fulfill their patrol duties in the Independent Worlds for some time to come. Observers of the situation remarked that the Bretonia Armed Forces is more concerned with possible Molly attacks on New London than rampant piracy outside of its frontiers.
+MANHATTAN — The Liberty Navy announced today that it will soon extend its patrol routes to include the previously unprotected stretches of Trade Lanes extending into the Barrier Cloud east of Freeport 4 and Curaçao. New London has supported the move, noting that the Bretonia security forces will be unable to fulfill their patrol duties in the Independent Worlds for some time to come. Observers of the situation remarked that the Bretonia Armed Forces is more concerned with possible Molly attacks on New London than rampant piracy outside of its frontiers.
 
 56250
 NAME
@@ -14677,7 +14677,7 @@ INFOCARD
 
 65560
 INFOCARD
-<RDL><PUSH/><TEXT>The Battleship </TEXT><TRA italic="true"/><TEXT>Norfolk</TEXT><TRA italic="false"/><TEXT>  anchors the Cambridge Line of electronic surveillance satellites to suppress the chronic pirate and smuggling activity in the system. Food transports, pharmaceutical shipments, and the local Trade Lanes are enticing targets for pirates who strike across the Line before retreating to the safety of the Barrier ice clouds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Battleship </TEXT><TRA italic="true"/><TEXT>Norfolk</TEXT><TRA italic="false"/><TEXT>  anchors the Cambridge Line of electronic surveillance satellites to suppress the chronic pirate and smuggling activity in the system. Food transports, pharmaceutical shipments, and the local Trade Lanes are enticing targets for pirates who strike across the Line before retreating to the safety of the Grasmere Ice cloud.</TEXT><PARA/><POP/></RDL>
 
 65561
 INFOCARD
@@ -18769,7 +18769,7 @@ INFOCARD
 
 131312
 INFOCARD
-<RDL><PUSH/><TEXT>The police think they have it tough on the north end, but the truth is the majority of those fat, overworked, under skilled pilots have never come up against real trouble. I’d like to see how long an LPI would last against an Outcast… I’m guessing thirty seconds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The police think they have it tough on the north end, but the truth is the majority of those fat, overworked, under skilled pilots have never come up against real trouble. I’d like to see how long an LPI would last against an Outcast…. I’m guessing thirty seconds.</TEXT><PARA/><POP/></RDL>
 
 131313
 INFOCARD
@@ -19093,7 +19093,7 @@ INFOCARD
 
 131395
 INFOCARD
-<RDL><PUSH/><TEXT>The way to get a Lane Hacker is to give him Cardamine. They like to spend time in California, so that is where I will go. I’ll snag a little Cardamine on the way and use it to buy my way in with them. Once I have their trust… well, you get the idea.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The way to get a Lane Hacker is to give him Cardamine. They like to spend time in California, so that is where I will go. I’ll snag a little Cardamine on the way and use it to buy my way in with them. Once I have their trust … well, you get the idea.</TEXT><PARA/><POP/></RDL>
 
 131396
 INFOCARD
@@ -19137,7 +19137,7 @@ INFOCARD
 
 131406
 INFOCARD
-<RDL><PUSH/><TEXT>The Bretonian authorities, the LSF, and the Liberty military are stalwart allies in our crusade against piracy upon the Trade Lanes. They can be trusted not to take bribes or be lenient upon the scum that plague the dark places in Sirius space. If only the Rheinland Federal Police or the LPI could be relied upon…</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Bretonian authorities, the LSF, and the Liberty military are stalwart allies in our crusade against piracy upon the Trade Lanes. They can be trusted not to take bribes or be lenient upon the scum that plague the dark places in Sirius space. If only the Rheinland Federal Police or the LPI could be relied upon….</TEXT><PARA/><POP/></RDL>
 
 131407
 INFOCARD
@@ -19529,7 +19529,7 @@ INFOCARD
 
 131515
 INFOCARD
-<RDL><PUSH/><TEXT>Be careful in those Barrier Clouds. It’s hard to see — lots of Lane Hackers and Outcasts — little in the way of security forces. My best friend’s convoy got nailed last week at the Manchester Gate by some Lane Hackers. He was hauling Gold from Bretonia to New York — not low-value stuff like Oxygen and Water.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Be careful in that Barrier Cloud. It’s hard to see — lots of Lane Hackers and Outcasts — little in the way of security forces. My best friend’s convoy got nailed last week at the Manchester Gate by some Lane Hackers. He was hauling Gold from Bretonia to New York — not low-value stuff like Oxygen and Water.</TEXT><PARA/><POP/></RDL>
 
 131516
 INFOCARD
@@ -19565,7 +19565,7 @@ INFOCARD
 
 131524
 INFOCARD
-<RDL><PUSH/><TEXT>The Lane Hackers and Outcasts prefer the safety of the Barrier Clouds for their attacks. The bloody Rogues don’t care — they’ll attack shipping in the Weddell Field, until the Liberty Navy shows up from the California Gate.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Lane Hackers and Outcasts prefer the safety of the Barrier Cloud for their attacks. The bloody Rogues don’t care — they’ll attack shipping in the Weddell Field, until the Liberty Navy shows up from the California Gate.</TEXT><PARA/><POP/></RDL>
 
 131525
 INFOCARD
@@ -19629,7 +19629,7 @@ INFOCARD
 
 131540
 INFOCARD
-<RDL><PUSH/><TEXT>Being a Lane Hacker is a commitment to a way of life. I guess some would call us hedonists — maybe we are. We live for pleasure and the moment. I used to work for Ageira and I can tell you that this is a much better way to live. We enjoy the finest things in life — we eat the best foods, we wear the best clothes, and we have the best toys. And the Cardamine… as much Cardamine as you want. If we could just land on Curaçao, life would be perfect.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Being a Lane Hacker is a commitment to a way of life. I guess some would call us hedonists — maybe we are. We live for pleasure and the moment. I used to work for Ageira and I can tell you that this is a much better way to live. We enjoy the finest things in life — we eat the best foods, we wear the best clothes, and we have the best toys. And the Cardamine … as much Cardamine as you want. If we could just land on Curaçao, life would be perfect.</TEXT><PARA/><POP/></RDL>
 
 131541
 INFOCARD
@@ -19781,7 +19781,7 @@ INFOCARD
 
 131578
 INFOCARD
-<RDL><PUSH/><TEXT>We mainly use Montezuma as a forward tactical base to stage attacks on Trade Lanes in Cortez via the Jump Hole into California. We prefer the safety of the Barrier Clouds, whereas the Rogues will attack almost anywhere.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We mainly use Montezuma as a forward tactical base to stage attacks on Trade Lanes in Cortez via the Jump Hole into California. We prefer the safety of the Barrier Cloud, whereas the Rogues will attack almost anywhere.</TEXT><PARA/><POP/></RDL>
 
 131579
 INFOCARD
@@ -20033,7 +20033,7 @@ INFOCARD
 
 131641
 INFOCARD
-<RDL><PUSH/><TEXT>There’s a Jump Hole into California in the Paloma Ice Clouds just south of the Jump Gate. If you’re trying to move some illegals and wanna stay clean of the scans, then that’s the way to get into California.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s a Jump Hole into California in the Paloma Ice Cloud just south of the Jump Gate. If you’re trying to move some illegals and wanna stay clean of the scans, then that’s the way to get into California.</TEXT><PARA/><POP/></RDL>
 
 131642
 INFOCARD
@@ -20521,7 +20521,7 @@ INFOCARD
 
 131770
 INFOCARD
-<RDL><PUSH/><TEXT>The Lane Hackers’ Trade Lane technology access is truly remarkable; Hackers give us specific information regarding ship manifests. As payment, they often alert us to high-value cargo coming through the system. If we could only get our hands on their technology… Perhaps one day they will give it to us for a large enough Cardamine shipment.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Lane Hackers’ Trade Lane technology access is truly remarkable; Hackers give us specific information regarding ship manifests. As payment, they often alert us to high-value cargo coming through the system. If we could only get our hands on their technology…. Perhaps one day they will give it to us for a large enough Cardamine shipment.</TEXT><PARA/><POP/></RDL>
 
 131771
 INFOCARD
@@ -21409,7 +21409,7 @@ INFOCARD
 
 131992
 INFOCARD
-<RDL><PUSH/><TEXT>Talk about bad luck… I got posted here six months ago. LPI shouldn’t even be here. This is practically Border World territory. We got a huge cloud full of nasties separating us from civilization. Can’t just go for a pleasure run to Los Angeles.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Talk about bad luck…. I got posted here six months ago. LPI shouldn’t even be here. This is practically Border World territory. We got a huge cloud full of nasties separating us from civilization. Can’t just go for a pleasure run to Los Angeles.</TEXT><PARA/><POP/></RDL>
 
 131993
 INFOCARD
@@ -21765,7 +21765,7 @@ INFOCARD
 
 132086
 INFOCARD
-<RDL><PUSH/><TEXT>IC pays me well to protect their interests in Texas. They don’t have any people or offices here, but this is a very important system for them. The majority of the crime that goes on in Liberty goes on right here in this system. And since most of the stolen cargo is insured by IC… well, you get the idea.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>IC pays me well to protect their interests in Texas. They don’t have any people or offices here, but this is a very important system for them. The majority of the crime that goes on in Liberty goes on right here in this system. And since most of the stolen cargo is insured by IC … well, you get the idea.</TEXT><PARA/><POP/></RDL>
 
 132087
 INFOCARD
@@ -22673,7 +22673,7 @@ INFOCARD
 
 132321
 INFOCARD
-<RDL><PUSH/><TEXT>If it wasn’t for the Green Front, I doubt the Gaians would be able to operate at all. We have the support of the intellectuals in Bretonia and the educated elite of Cambridge but without the financial assistance that Green Front brings in… Well, let’s just say that good causes don’t fund themselves.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If it wasn’t for the Green Front, I doubt the Gaians would be able to operate at all. We have the support of the intellectuals in Bretonia and the educated elite of Cambridge but without the financial assistance that Green Front brings in … well, let’s just say that good causes don’t fund themselves.</TEXT><PARA/><POP/></RDL>
 
 132322
 INFOCARD
@@ -22777,7 +22777,7 @@ INFOCARD
 
 132347
 INFOCARD
-<RDL><PUSH/><TEXT>Glasgow sells H-Fuel and buys Consumer Goods. It’s a nice run if you enjoy hauling more expensive Commodities than just the Oxygen and Water, and it keeps you in-system too, if that’s what you are looking for. Oh, I almost forgot, mate… York needs Pharmaceuticals.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Glasgow sells H-Fuel and buys Consumer Goods. It’s a nice run if you enjoy hauling more expensive Commodities than just the Oxygen and Water, and it keeps you in-system too, if that’s what you are looking for. Oh, I almost forgot, mate…. York needs Pharmaceuticals.</TEXT><PARA/><POP/></RDL>
 
 132348
 INFOCARD
@@ -23525,7 +23525,7 @@ INFOCARD
 
 132534
 INFOCARD
-<RDL><PUSH/><TEXT>The Grasmere Cloud patrol is a volunteer-only assignment — mostly young hotheads out to prove themselves. They’ve got plenty to do with all the Corsairs in there. There are heavy casualties on that one, sometimes 20% a week. The folly of youth…</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Grasmere Cloud patrol is a volunteer-only assignment — mostly young hotheads out to prove themselves. They’ve got plenty to do with all the Corsairs in there. There are heavy casualties on that one, sometimes 20% a week. The folly of youth….</TEXT><PARA/><POP/></RDL>
 
 132535
 INFOCARD
@@ -24093,7 +24093,7 @@ INFOCARD
 
 132685
 INFOCARD
-<RDL><PUSH/><TEXT>The nearby ice asteroid field is the source for most of this plant’s raw materials. Sometimes huge chunks of ice from the fields drift into the Trade Lanes. If a ship moving at Lane speed plows through a sizeable enough piece of ice… well, you can imagine what happens.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The nearby ice asteroid field is the source for most of this plant’s raw materials. Sometimes huge chunks of ice from the fields drift into the Trade Lanes. If a ship moving at Lane speed plows through a sizeable enough piece of ice … well, you can imagine what happens.</TEXT><PARA/><POP/></RDL>
 
 132686
 INFOCARD
@@ -24333,7 +24333,7 @@ INFOCARD
 
 132757
 INFOCARD
-<RDL><PUSH/><TEXT>The average lifespan of the fish workers here in Kurile is higher than anywhere else in all of house space, perhaps even Sirius. The only other place that has an average lifespan this long is Junyo, although I’ve heard that Outcasts are known for their longevity. Interesting…</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The average lifespan of the fish workers here in Kurile is higher than anywhere else in all of house space, perhaps even Sirius. The only other place that has an average lifespan this long is Junyo, although I’ve heard that Outcasts are known for their longevity. Interesting….</TEXT><PARA/><POP/></RDL>
 
 132758
 INFOCARD
@@ -24865,7 +24865,7 @@ INFOCARD
 
 132894
 INFOCARD
-<RDL><PUSH/><TEXT>Frankly speaking, I do not understand why we must persecute the Blood Dragons so strongly. They are not indiscriminate pirates like the Outcasts or Corsairs, only attacking Kishiro when they need supplies. Samura and the government have a deep hatred for the Dragons that have not diminished over the centuries. So I must follow orders …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Frankly speaking, I do not understand why we must persecute the Blood Dragons so strongly. They are not indiscriminate pirates like the Outcasts or Corsairs, only attacking Kishiro when they need supplies. Samura and the government have a deep hatred for the Dragons that have not diminished over the centuries. So I must follow orders….</TEXT><PARA/><POP/></RDL>
 
 132895
 INFOCARD
@@ -25025,7 +25025,7 @@ INFOCARD
 
 132934
 INFOCARD
-<RDL><PUSH/><TEXT>This is not a very lucrative run because it is only one Trade Lane jump to Yokohama. Republican ships its High-Temperature Alloys and Boron all the way from Rheinland but must terminate here at Narita. Only Samura ships are allowed to land at Yokohama — no Rheinland ships. Rules and regulations …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is not a very lucrative run because it is only one Trade Lane jump to Yokohama. Republican ships its High-Temperature Alloys and Boron all the way from Rheinland but must terminate here at Narita. Only Samura ships are allowed to land at Yokohama — no Rheinland ships. Rules and regulations….</TEXT><PARA/><POP/></RDL>
 
 132935
 INFOCARD
@@ -25121,7 +25121,7 @@ INFOCARD
 
 132958
 INFOCARD
-<RDL><PUSH/><TEXT>Roppongi is nice to visit. The foreigners are polite to us, much better than Kusari would ever be. They have lots of luxury boutiques for all those IC employees here, so we take advantage of the opportunity to shop in relative peace. I hate Ainu. If only I could live in New Tokyo again …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Roppongi is nice to visit. The foreigners are polite to us, much better than Kusari would ever be. They have lots of luxury boutiques for all those IC employees here, so we take advantage of the opportunity to shop in relative peace. I hate Ainu. If only I could live in New Tokyo again….</TEXT><PARA/><POP/></RDL>
 
 132959
 INFOCARD
@@ -25921,7 +25921,7 @@ INFOCARD
 
 133158
 INFOCARD
-<RDL><PUSH/><TEXT>Some guys around here call me “the Snake,” but I don’t do that anymore. No sir, I’m straight as an arrow now. I’m a miner. I mine … Niobium. I like it … Please kill me.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some guys around here call me “the Snake,” but I don’t do that anymore. No sir, I’m straight as an arrow now. I’m a miner. I mine … Niobium. I like it…. Please kill me.</TEXT><PARA/><POP/></RDL>
 
 133159
 INFOCARD
@@ -26505,7 +26505,7 @@ INFOCARD
 
 133305
 INFOCARD
-<RDL><PUSH/><TEXT>Rumor is that there will be an “attack” by the Blood Dragons someday soon that will result in the destruction of this facility, and a massive insurance claim will be filed with the government. Just business as usual for our company, I guess …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rumor is that there will be an “attack” by the Blood Dragons someday soon that will result in the destruction of this facility, and a massive insurance claim will be filed with the government. Just business as usual for our company, I guess….</TEXT><PARA/><POP/></RDL>
 
 133306
 INFOCARD
@@ -26517,7 +26517,7 @@ INFOCARD
 
 133308
 INFOCARD
-<RDL><PUSH/><TEXT>We have bought the GMG’s Gas at very reasonable prices for 400 years. Now they betray our trust and secretly negotiate with Kishiro. They will pay for this. Perhaps there will be fewer State Police available to patrol this system in the near future …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have bought the GMG’s Gas at very reasonable prices for 400 years. Now they betray our trust and secretly negotiate with Kishiro. They will pay for this. Perhaps there will be fewer State Police available to patrol this system in the near future….</TEXT><PARA/><POP/></RDL>
 
 133309
 INFOCARD
@@ -26705,7 +26705,7 @@ INFOCARD
 
 133355
 INFOCARD
-<RDL><PUSH/><TEXT>I have one more year in the field, then I can get a desk job in Tokyo. No more stress like this, wondering if you will live another day. My wife and her parents are back there always asking about my return date. Maybe it’s not so bad here …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I have one more year in the field, then I can get a desk job in Tokyo. No more stress like this, wondering if you will live another day. My wife and her parents are back there always asking about my return date. Maybe it’s not so bad here….</TEXT><PARA/><POP/></RDL>
 
 133356
 INFOCARD
@@ -26849,7 +26849,7 @@ INFOCARD
 
 133391
 INFOCARD
-<RDL><PUSH/><TEXT>We buy our Cardamine from the Outcasts on Cali in the Tau-23 system. They are disturbing people — always wearing those masks, but we need the Cardamine. It defines our cause and serves as an important security mechanism. All recruits of Matsuda must become addicted to the drug before they are allowed to become full-fledged members. This makes it difficult for the Kusari security forces to penetrate our cell. And of course, they are not women…</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We buy our Cardamine from the Outcasts on Cali in the Tau-23 system. They are disturbing people — always wearing those masks, but we need the Cardamine. It defines our cause and serves as an important security mechanism. All recruits of Matsuda must become addicted to the drug before they are allowed to become full-fledged members. This makes it difficult for the Kusari security forces to penetrate our cell. And of course, they are not women….</TEXT><PARA/><POP/></RDL>
 
 133392
 INFOCARD
@@ -26929,7 +26929,7 @@ INFOCARD
 
 133411
 INFOCARD
-<RDL><PUSH/><TEXT>Can I buy you a drink? I definitely need one. It was a difficult day. My unit was on a deep reconnaissance patrol in the Shiden Cloud, looking for the GC. We were engaged in battle with the GC for 15 minutes, and then they vanished. Our unit lost Takana-san and Ogawa-san. I was just singing karaoke with them last night, so sad …</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Can I buy you a drink? I definitely need one. It was a difficult day. My unit was on a deep reconnaissance patrol in the Shiden Cloud, looking for the GC. We were engaged in battle with the GC for 15 minutes, and then they vanished. Our unit lost Takana-san and Ogawa-san. I was just singing karaoke with them last night, so sad….</TEXT><PARA/><POP/></RDL>
 
 133412
 INFOCARD
@@ -27421,7 +27421,7 @@ INFOCARD
 
 133534
 INFOCARD
-<RDL><PUSH/><TEXT>The Farmers Alliance focuses its attacks on Foreigners’ Commodities moving through Shikoku, especially those produced by Synth Foods, who undermines the hard work that we… er the farmers do. The Alliance has also been known to make accidental attacks on Kishiro shipping convoys moving through the system. How unfortunate for Kishiro.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Farmers Alliance focuses its attacks on Foreigners’ Commodities moving through Shikoku, especially those produced by Synth Foods, who undermines the hard work that we … er the farmers do. The Alliance has also been known to make accidental attacks on Kishiro shipping convoys moving through the system. How unfortunate for Kishiro.</TEXT><PARA/><POP/></RDL>
 
 133535
 INFOCARD
@@ -29185,7 +29185,7 @@ INFOCARD
 
 133983
 INFOCARD
-<RDL><PUSH/><TEXT>My father died in “the Eighty,” and his father before him. I guess most of my family was killed by them GMG. It ain’t their fault though. We shouldn’t have been going to where we didn’t have any business. Damn the empire and damn the new government — a republic…ha!</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My father died in “the Eighty,” and his father before him. I guess most of my family was killed by them GMG. It ain’t their fault though. We shouldn’t have been going to where we didn’t have any business. Damn the empire and damn the new government — a republic … ha!</TEXT><PARA/><POP/></RDL>
 
 133984
 INFOCARD
@@ -29541,7 +29541,7 @@ INFOCARD
 
 134072
 INFOCARD
-<RDL><PUSH/><TEXT>The Oxygen content is very high on this planet. A man can work twice as hard without tiring when he has that much more Oxygen to breathe. And that euphoria you are feeling…also caused by the Oxygen concentration, the human body loves Oxygen.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Oxygen content is very high on this planet. A man can work twice as hard without tiring when he has that much more Oxygen to breathe. And that euphoria you are feeling … also caused by the Oxygen concentration. The human body loves Oxygen.</TEXT><PARA/><POP/></RDL>
 
 134073
 INFOCARD
@@ -29589,7 +29589,7 @@ INFOCARD
 
 134084
 INFOCARD
-<RDL><PUSH/><TEXT>While I’m here, I’m going to try and enjoy myself. But my miserable wife is eating every Luxury Food in sight. I keep telling her that this resort is not all-inclusive, I cannot put this all on my expense account — ach, I must not think of these things…relax, relax. I hate that fat cow.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>While I’m here, I’m going to try and enjoy myself. But my miserable wife is eating every Luxury Food in sight. I keep telling her that this resort is not all-inclusive, I cannot put this all on my expense account — ach, I must not think of these things … relax, relax. I hate that fat cow.</TEXT><PARA/><POP/></RDL>
 
 134085
 INFOCARD
@@ -29653,7 +29653,7 @@ INFOCARD
 
 134100
 INFOCARD
-<RDL><PUSH/><TEXT>The LWB has made a foolish mistake by attacking the tourist transports to this base. Orbital must get their food from somewhere; it might as well be Stuttgart. To attack innocent vacationers is going too far. They will be made to pay…later.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The LWB has made a foolish mistake by attacking the tourist transports to this base. Orbital must get their food from somewhere; it might as well be Stuttgart. To attack innocent vacationers is going too far. They will be made to pay … later.</TEXT><PARA/><POP/></RDL>
 
 134101
 INFOCARD
@@ -29821,7 +29821,7 @@ INFOCARD
 
 134142
 INFOCARD
-<RDL><PUSH/><TEXT>One of the other policemen at this station, Steiner, has two brothers, though he will only mention one. The third is a Red Hessian. One day, perhaps the two brothers will face each other out there. I don’t know who will win. Steiner is the best pilot here, but his brother…I hear he is an incredible pilot, a soldier in the Corsair Wars.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of the other policemen at this station, Steiner, has two brothers, though he will only mention one. The third is a Red Hessian. One day, perhaps the two brothers will face each other out there. I don’t know who will win. Steiner is the best pilot here, but his brother … I hear he is an incredible pilot, a soldier in the Corsair Wars.</TEXT><PARA/><POP/></RDL>
 
 134143
 INFOCARD
@@ -29857,7 +29857,7 @@ INFOCARD
 
 134151
 INFOCARD
-<RDL><PUSH/><TEXT>At Konstanz we have a saying: “If the engine fires up, it’s good enough to fly.” I used to believe that with the faint optimism of a man with no choice, but after I saw Wattenbarger’s ship go up last week when his shields failed him…well, I’ve been thinking I </TEXT><TRA italic="true"/><TEXT>do</TEXT><TRA italic="false"/><TEXT>  have a choice.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>At Konstanz we have a saying: “If the engine fires up, it’s good enough to fly.” I used to believe that with the faint optimism of a man with no choice, but after I saw Wattenbarger’s ship go up last week when his shields failed him … well, I’ve been thinking I </TEXT><TRA italic="true"/><TEXT>do</TEXT><TRA italic="false"/><TEXT>  have a choice.</TEXT><PARA/><POP/></RDL>
 
 134152
 INFOCARD
@@ -71833,7 +71833,7 @@ INFOCARD
 
 393578
 INFOCARD
-<RDL><PUSH/><TEXT>It’s good to meet you, Trent. I’m a friend of Michael King who I believe you know. He’s been bragging how he almost single-handedly took out the Rogue depot near Pittsburgh. You know how he is … not quiet Mr. Humble. Anyway, Michael told me that you might show up here. He’s waiting for you on Manhattan. Looks like he does need some help after all!</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s good to meet you, Trent. I’m a friend of Michael King who I believe you know. He’s been bragging how he almost single-handedly took out the Rogue depot near Pittsburgh. You know how he is … not quite Mr. Humble. Anyway, Michael told me that you might show up here. He’s waiting for you on Manhattan. Looks like he does need some help after all!</TEXT><PARA/><POP/></RDL>
 
 393579
 INFOCARD
@@ -72273,7 +72273,7 @@ INFOCARD
 
 393688
 INFOCARD
-<RDL><PUSH/><TEXT>I heard from the palace staff that even though the Shogun did agree to support the artifact ban, he’s not taking any kind of immediate action. President Jacobi dangled it in front of us like a carrot in return for their support. I am sure Bretonia was treated the same way…Jacobi and Niemann are cut from the same cloth.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I heard from the palace staff that even though the Shogun did agree to support the artifact ban, he’s not taking any kind of immediate action. President Jacobi dangled it in front of us like a carrot in return for their support. I am sure Bretonia was treated the same way … Jacobi and Niemann are cut from the same cloth.</TEXT><PARA/><POP/></RDL>
 
 393689
 INFOCARD
@@ -72281,7 +72281,7 @@ INFOCARD
 
 393690
 INFOCARD
-<RDL><PUSH/><TEXT>You can tell from the news that our people were treated horribly. Rheinland has no shame. Most of them were government workers or corporate employees — they’re going to have to spend a long time being reoriented after what they’ve suffered. Considering their status, I’m sure Intel is very interested in knowing what Rheinland may have tried to learn from them…</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You can tell from the news that our people were treated horribly. Rheinland has no shame. Most of them were government workers or corporate employees — they’re going to have to spend a long time being reoriented after what they’ve suffered. Considering their status, I’m sure Intel is very interested in knowing what Rheinland may have tried to learn from them….</TEXT><PARA/><POP/></RDL>
 
 393691
 INFOCARD
@@ -72293,7 +72293,7 @@ INFOCARD
 
 393693
 INFOCARD
-<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened…no one thought it could go this far, that the Chancellor would really provoke a full out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become hostile territory.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become hostile territory.</TEXT><PARA/><POP/></RDL>
 
 393694
 INFOCARD
@@ -72321,15 +72321,15 @@ INFOCARD
 
 393700
 INFOCARD
-<RDL><PUSH/><TEXT>You know, it wasn’t always this way…something’s happened to us. Rheinland used to be a noble place — full of culture and heritage. Now, it seems like all you hear about is war and violence. If I were you, I’d leave here as quickly as you can.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You know, it wasn’t always this way … something’s happened to us. Rheinland used to be a noble place — full of culture and heritage. Now, it seems like all you hear about is war and violence. If I were you, I’d leave here as quickly as you can.</TEXT><PARA/><POP/></RDL>
 
 393701
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve heard the military police are questioning even loyal Rheinland scientists and support personnel about some kind of theft… from a government research lab, I think it was. Probably those damn Kusari again. They have been stealing from us for years.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve heard the military police are questioning even loyal Rheinland scientists and support personnel about some kind of theft … from a government research lab, I think it was. Probably those damn Kusari again. They have been stealing from us for years.</TEXT><PARA/><POP/></RDL>
 
 393702
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve heard that Liberty has developed bombs that can turn a planet molten in a matter of minutes. They’ve been doing all sorts of illegal weapons research in that Zone 21 place of theirs. The Chancellor says they intend to use these weapons against us — they’re no better than The Order. We’ve got to stop them… Kill them before they can kill us, right?</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve heard that Liberty has developed bombs that can turn a planet molten in a matter of minutes. They’ve been doing all sorts of illegal weapons research in that Zone 21 place of theirs. The Chancellor says they intend to use these weapons against us — they’re no better than The Order. We’ve got to stop them … Kill them before they can kill us, right?</TEXT><PARA/><POP/></RDL>
 
 393703
 INFOCARD
