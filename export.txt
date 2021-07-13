@@ -257,15 +257,15 @@ This planet seems to be entirely inhabited by primates.
 
 900
 NAME
-No missions available. Come back when you’re friendlier with the factions on this base.
+No missions are available. Come back when you’re friendlier with the factions on this base.
 
 901
 NAME
-No missions available. Come back when you are a more advanced pilot.
+No missions are available. Come back when you’re a more advanced pilot.
 
 902
 NAME
-No missions available. Too many players are accessing the Job Board. Come back later.
+No missions are available. Too many players are accessing the Job Board. Come back later.
 
 903
 NAME
@@ -561,7 +561,7 @@ Storage capacity for this ammo is full.
 
 976
 NAME
-No missions available at this time. Come back later.
+No missions are available at this time. Come back later.
 
 977
 NAME
@@ -1089,7 +1089,7 @@ The Neural Net is like a PC, only better. (Test)
 
 1113
 NAME
-The bar is where friendly people like to meet before they launch to space and kill each other. (Test)
+The bar is where friendly people like to meet before they launch into space and kill each other. (Test)
 
 1114
 NAME
@@ -2845,7 +2845,7 @@ NEURAL NET LOG - EDISON TRENT
 
 1553
 NAME
-*PERSONAL ENTRY:\nI met Lonnigan as planned on Kurile yesterday and we came to an agreement on the price. The plan is to meet on Freeport 7 tomorrow to seal the deal on the ore shipment. If everything works out, they’ll owe me a million credits. It’s the deal of a lifetime.\n\nPERSONAL ENTRY:\nWell, I did the deal. I’m now the proud owner of over a ton of Boron. I put all my savings into this deal. It’s not entirely legal, but here in the Border Worlds, nobody really pays too much attention to this. I’ve been in contact with a man named Lonnigan, apparently a hired gun representing Samura Heavy Industries. He says his clients might be interested in the shipment.\n\nPERSONAL ENTRY:\nIt’s been six weeks since my last entry. Unfortunately, I couldn’t find out anything about alien ruins or uncharted systems. Very frustrating. The only thing I’ve heard was that there’ve been sightings of strange ships out near Sigma-17. Who knows? The good news is that I’ve managed to hook up with a captain of a Republican Shipping convoy. He’s transporting a large shipment of Boron from Mainz to Honshu, but wants to keep the profits for himself. We agreed to meet on Kurile tomorrow. We’ll see, maybe luck is on my side this time.\n\nPERSONAL ENTRY:\nAfter two weeks of travel, I finally managed to get to the Sigma system cluster. The trip through the Independent Worlds turned out to be much more dangerous than I thought. I was lucky several times that police patrols happened to be in the area when pirates wanted to blast me out of the stars. Anyway, word has it that there are a number of uncharted systems in this area of space. I will try to find out more information.\n\nPERSONAL ENTRY:\nI’ve finally decided to leave Bretonia and to try my luck in the Border Worlds. Despite what Tobias says, I can’t sit around Leeds for the rest of my life and fix up other people’s ships while more and more alien ruins are being discovered. They say that only 11 percent of the Border Worlds have been charted yet and hundreds of unknown planets are awaiting discovery. I’m starting this personal Neural Net Log to keep track of my travels and adventures.
+*PERSONAL ENTRY:\nI met Lonnigan as planned on Kurile yesterday and we came to an agreement on the price. The plan is to meet on Freeport 7 tomorrow to seal the deal on the ore shipment. If everything works out, they’ll owe me a million credits. It’s the deal of a lifetime.\n\nPERSONAL ENTRY:\nWell, I did the deal. I’m now the proud owner of over a ton of Boron. I put all my savings into this deal. It’s not entirely legal, but here in the Border Worlds, nobody really pays too much attention to this. I’ve been in contact with a man named Lonnigan, apparently a hired gun representing Samura Heavy Industries. He says his clients might be interested in the shipment.\n\nPERSONAL ENTRY:\nIt’s been six weeks since my last entry. Unfortunately, I couldn’t find out anything about alien ruins or uncharted systems. Very frustrating. The only thing I’ve heard was that there’ve been sightings of strange ships out near Sigma-17. Who knows? The good news is that I’ve managed to hook up with a captain of a Republican Shipping convoy. He’s transporting a large shipment of Boron from Mainz to Honshu but wants to keep the profits for himself. We agreed to meet on Kurile tomorrow. We’ll see, maybe luck is on my side this time.\n\nPERSONAL ENTRY:\nAfter two weeks of travel, I finally managed to get to the Sigma system cluster. The trip through the Independent Worlds turned out to be much more dangerous than I thought. I was lucky several times that police patrols happened to be in the area when pirates wanted to blast me out of the stars. Anyway, word has it that there are a number of uncharted systems in this area of space. I will try to find out more information.\n\nPERSONAL ENTRY:\nI’ve finally decided to leave Bretonia and to try my luck in the Border Worlds. Despite what Tobias says, I can’t sit around Leeds for the rest of my life and fix up other people’s ships while more and more alien ruins are being discovered. They say that only 11 percent of the Border Worlds have been charted yet and hundreds of unknown planets are awaiting discovery. I’m starting this personal Neural Net Log to keep track of my travels and adventures.
 
 1554
 NAME
@@ -2909,7 +2909,7 @@ Mission
 
 1569
 NAME
-Invite to join group.
+Invite to join the group.
 
 1570
 NAME
@@ -3753,7 +3753,7 @@ Toggles the background stars on/off.
 
 1781
 NAME
-Toggles the planet atmospheres on/off.
+Toggles the planet’s atmospheres on/off.
 
 1782
 NAME
@@ -4613,7 +4613,7 @@ The Nav Map displays the surrounding system, mission details and can be also use
 
 2021
 NAME
-Opens a communication channel with selected ship.
+Opens a communication channel with the selected ship.
 
 2022
 NAME
@@ -4625,7 +4625,7 @@ Displays your current status.
 
 2024
 NAME
-Allows you to zoom in the radar.
+Allows you to zoom in on the radar.
 
 2025
 NAME
@@ -4965,7 +4965,7 @@ Repairs items.
 
 2216
 NAME
-Purchases selected item.
+Purchases the selected item.
 
 2217
 NAME
@@ -4973,7 +4973,7 @@ Sells the selected Item.
 
 2218
 NAME
-Jettisons selected cargo.
+Jettisons the selected cargo.
 
 2219
 NAME
@@ -4993,7 +4993,7 @@ Selects none.
 
 2223
 NAME
-Displays the quantity of items.
+Displays the number of items.
 
 2224
 NAME
@@ -5013,7 +5013,7 @@ Shows your ship’s inventory.
 
 2228
 NAME
-Displays the sell price of the item per unit.
+Displays the selling price of the item per unit.
 
 2250
 NAME
@@ -5033,7 +5033,7 @@ Activates warp - no longer used.
 
 2254
 NAME
-Docks with selected station or Docking Ring.
+Docks with the selected station or Docking Ring.
 
 2255
 NAME
@@ -5097,7 +5097,7 @@ Opens the window for responding to trade and group requests.
 
 2301
 NAME
-The Launch Pad is the place from which you can launch to space.
+The Launch Pad is the place from which you can launch into space.
 
 2302
 NAME
@@ -5125,11 +5125,11 @@ The Ship Dealer is the place to buy and sell ships of different types.
 
 2308
 NAME
-This icon launches your ship to space.
+This icon launches your ship into space.
 
 2309
 NAME
-Don’t think this one is used any more.
+Don’t think this one is used anymore.
 
 2310
 NAME
@@ -5165,11 +5165,11 @@ Sells selected item.
 
 2318
 NAME
-The Launch Pad is the place from which you can launch to space.
+The Launch Pad is the place from which you can launch into space.
 
 2319
 NAME
-The Landing Deck is the place from which you can launch to space.
+The Landing Deck is the place from which you can launch into space.
 
 2320
 NAME
@@ -6385,7 +6385,7 @@ Toggles First/Third View.
 
 3318
 NAME
-Allows the player to take a screen shot of the scene or action.
+Allows the player to take a screenshot of the scene or action.
 
 3319
 NAME
@@ -6453,7 +6453,7 @@ Ship Dealer
 
 6508
 NAME
-Launch to Space
+Launch into Space
 
 6509
 NAME
@@ -7141,7 +7141,7 @@ Dock with the marked Jump Gate to reach the %S0 system.
 
 13081
 NAME
-Launch to space
+Launch into Space
 
 13082
 NAME
@@ -7173,23 +7173,23 @@ Mission Result:\nFailure – Target cargo destroyed.
 
 13090
 NAME
-Mission Result:\nFailure – Target’s escape pod destroyed.
+Mission Result:\nFailure – Target’s escape pod was destroyed.
 
 13091
 NAME
-Mission Result:\nFailure – Target’s escape pod destroyed in transit.
+Mission Result:\nFailure – Target’s escape pod was destroyed in transit.
 
 13092
 NAME
-Mission Result:\nFailure – Escape pod transported to wrong base.
+Mission Result:\nFailure – Escape pod transported to the wrong base.
 
 13093
 NAME
-Mission Result:\nFailure – You ran from battle.
+Mission Result:\nFailure – You ran from the battle.
 
 13094
 NAME
-Mission Result:\nFailure – Your group failed to stay in battle.
+Mission Result:\nFailure – Your group failed to stay in the battle.
 
 13095
 NAME
@@ -7213,7 +7213,7 @@ NAME
 
 15001
 NAME
-Arrival of Freeport 7 Survivors
+The arrival of Freeport 7 Survivors
 
 15002
 NAME
@@ -7297,7 +7297,7 @@ New York Crime Wave on the Rise?
 
 15022
 NAME
-Are we at greater risk at home now more than ever? That’s the question. When The Order penetrated our defenses to kill Otto Schultzky nearly on the very steps of the presidential palace, many of our illusions about our own security were affected. Add to this the destruction of Freeport 7 and the sharp increase of attacks by the Liberty Rogues in New York, and we begin to feel anxiety and uneasiness about our personal and economic security. The President and the LSF say that they are addressing these concerns, but without concrete results we are still left asking the questions, “Are these events related? And what can we do about The Order?”
+Are we at greater risk at home now more than ever? That’s the question. When The Order penetrated our defenses to kill Otto Schultzky nearly on the very steps of the presidential palace, many of our illusions about our own security were affected. Add to this the destruction of Freeport 7 and the sharp increase of attacks by the Liberty Rogues in New York, and we begin to feel anxiety and uneasiness about our personal and economic security. The President and the LSF say that they are addressing these concerns, but without concrete results, we are still left asking the questions, “Are these events related? And what can we do about The Order?”
 
 15023
 NAME
@@ -7313,7 +7313,7 @@ FP7 Survivors to Talk
 
 15026
 NAME
-Manhattan — Doctors at the WCMC have given the go ahead for special LSF investigators to interview many of the Freeport 7 survivors. Despite an earlier recommendation against this course of action, we are told that government pressures have motivated physicians to allow at least a conditional line of questioning of select patients. It is hoped that their eyewitness testimony will help to shed some light on who truly is responsible.
+Manhattan — Doctors at the WCMC have given the go-ahead for special LSF investigators to interview many of the Freeport 7 survivors. Despite an earlier recommendation against this course of action, we are told that government pressures have motivated physicians to allow at least a conditional line of questioning of select patients. It is hoped that their eyewitness testimony will help to shed some light on who truly is responsible.
 
 15027
 NAME
@@ -7433,7 +7433,7 @@ Is Orillion Operating in Liberty?
 
 15056
 NAME
-Sources say that there may be a relationship between organized crime and the movements of The Order. Moreover, there is a remote possibility that its leader, Orillion, may be operating within the confines of Liberty under criminal “protection.” Though the LSF has officially downplayed this idea, they say that they are following up on every legitimate lead to expose Orillion, The Order, and whatever ties they may have.
+Sources say that there may be a relationship between organized crime and the movements of The Order. Moreover, there is a remote possibility that its leader, Orillion, may be operating within the confines of Liberty under criminal “protection.” Though the LSF has officially downplayed this idea, they say that they are following up on every legitimate lead to exposing Orillion, The Order, and whatever ties they may have.
 
 15057
 NAME
@@ -7529,7 +7529,7 @@ Manifest Exposes Orillion
 
 15080
 NAME
-Based on its most current evidence and testimony, the LSF believes that Orillion, a.k.a. Sam Lonnigan, came to Freeport 7 to steal several large shipments of unusually expensive goods and Artifacts that were in its bays. Once his agents took control of the shipments and presumably eliminated its rightful owners, it is believed that he ordered the ships to take off and to destroy the station to cover their tracks. Lonnigan was likely to have been the last to leave. However, for whatever reason, he was caught in his own trap and was injured in the blast. Lonnigan was brought to Liberty by rescue ship and was admitted to the WCMC. Local Order operatives liberated him from Ward 13, and after his quick recovery, they implemented a wave of terror using Manhattan as a new base of operations. The LSF now says that it has all it needs to identify Lonnigan’s accomplices, who may still be at large.
+Based on its most current evidence and testimony, the LSF believes that Orillion, a.k.a. Sam Lonnigan, came to Freeport 7 to steal several large shipments of unusually expensive goods and Artifacts that were in its bays. Once his agents took control of the shipments and presumably eliminated their rightful owners, it is believed that he ordered the ships to take off and destroy the station to cover their tracks. Lonnigan was likely to have been the last to leave. However, for whatever reason, he was caught in his own trap and was injured in the blast. Lonnigan was brought to Liberty by rescue ship and was admitted to the WCMC. Local Order operatives liberated him from Ward 13, and after his quick recovery, they implemented a wave of terror using Manhattan as a new base of operations. The LSF now says that it has all it needs to identify Lonnigan’s accomplices, who may still be at large.
 
 15081
 NAME
@@ -7577,7 +7577,7 @@ Shots Fired on Bretonian Soil
 
 15092
 NAME
-Conflict broke out in Omega today as Rheinland ships, becoming ever bolder, opened fire on a nearby Bretonian patrol in the area. The Chancellor has said that the Rheinland blockade is only looking after Rheinland’s interests in the area and claimed that they were provoked by Bretonian fighters. As tempers flair and peace hangs in the balance, Queen Carina contemplates her next move with her advisors.
+Conflict broke out in Omega today as Rheinland ships, becoming ever bolder, opened fire on a nearby Bretonian patrol in the area. The Chancellor has said that the Rheinland blockade is only looking after Rheinland’s interests in the area and claimed that they were provoked by Bretonian fighters. As tempers flair and peace hang in the balance, Queen Carina contemplates her next move with her advisors.
 
 15093
 NAME
@@ -7585,7 +7585,7 @@ Are There Changes in Rheinland?
 
 15094
 NAME
-News from the Foreign Office indicates that things may be heating up in Rheinland. Reports from the inside say that Rheinland citizens are being stirred up against Kusari by what are being described as “agitator groups.” Meanwhile, the Chancellor has just announced that the military is now activating its reserve fighters to bolster homeland defense. Royal analysts have reported this information to the Queen and have advised her that Rheinland may be preparing for war.
+News from the Foreign Office indicates that things may be heating up in Rheinland. Reports from the inside say that Rheinland citizens are being stirred up against Kusari by what is being described as “agitator groups.” Meanwhile, the Chancellor has just announced that the military is now activating its reserve fighters to bolster homeland defense. Royal analysts have reported this information to the Queen and have advised her that Rheinland may be preparing for war.
 
 15095
 NAME
@@ -7673,7 +7673,7 @@ Curaçao Delegates Return Home
 
 15116
 NAME
-In light of recent events, all remaining delegates of the Curaçao summit have been recalled to their respective Houses. The Queen reaffirmed her support for the summit proceedings, hoping that when it resumes, it will act as an instrument to reestablish better understanding and a lasting peace.
+In light of recent events, all remaining delegates of the Curaçao summit have been recalled to their respective Houses. The Queen reaffirmed her support for the summit proceedings, hoping that when it resumes, it will act as an instrument to reestablish better understanding and lasting peace.
 
 15117
 NAME
@@ -7705,7 +7705,7 @@ Jacobi Addresses Rheinland
 
 15124
 NAME
-President Jacobi responded to Rheinland’s recent closure of its borders with stateswoman-like aplomb. In her address she asked Chancellor Niemann to reconsider this decision, to cease all hostile activities, and to release all Kusari citizens who are being held against their will. There has been no reaction yet from Rheinland.
+President Jacobi responded to Rheinland’s recent closure of its borders with stateswoman-like aplomb. In her address, she asked Chancellor Niemann to reconsider this decision, to cease all hostile activities, and to release all Kusari citizens who are being held against their will. There has been no reaction yet from Rheinland.
 
 15125
 NAME
@@ -7721,7 +7721,7 @@ Carina Decries Actions
 
 15128
 NAME
-Queen Carina spoke out against the recent attack of a Kusari medical convoy. In her statement she appealed to Chancellor Niemann to end his aggression with Kusari and to work with the other colonies to find a more peaceful solution to their differences.
+Queen Carina spoke out against the recent attack of a Kusari medical convoy. In her statement, she appealed to Chancellor Niemann to end his aggression with Kusari and to work with the other colonies to find a more peaceful solution to their differences.
 
 15129
 NAME
@@ -7729,7 +7729,7 @@ Niemann Defends Actions
 
 15130
 NAME
-Chancellor Niemann finally addressed the issue of Rheinland’s recent attack of a Kusari medical convoy. In his statement he said that the Kusari convoy was operating under direct orders from the Kusari government to implant a “weapon of mass destruction” near an unspecified target in Rheinland space. Therefore, he said, this defensive attack was deemed necessary to preserve Rheinland lives.
+Chancellor Niemann finally addressed the issue of Rheinland’s recent attack of a Kusari medical convoy. In his statement, he said that the Kusari convoy was operating under direct orders from the Kusari government to implant a “weapon of mass destruction” near an unspecified target in Rheinland space. Therefore, he said, this defensive attack was deemed necessary to preserve Rheinland lives.
 
 15131
 NAME
@@ -7745,7 +7745,7 @@ Device found in Convoy Wreck
 
 15134
 NAME
-Rheinland officials have presented evidence in support of their claims that the Kusari medical convoy, recently destroyed by Rheinland ships, was actually on a covert “seek and destroy mission.” In their analysis they discovered that a device, based on a fusion-bomb design, had been cleverly modified using Kusari components to be even more thorough in its destructive power. Meanwhile, Kusari officials demanded to inspect this so-called evidence, denouncing it as a feeble attempt by Rheinland to justify its war-like actions.
+Rheinland officials have presented evidence in support of their claims that the Kusari medical convoy, recently destroyed by Rheinland ships, was actually on a covert “seek and destroy mission.” In their analysis, they discovered that a device, based on a fusion-bomb design, had been cleverly modified using Kusari components to be even more thorough in its destructive power. Meanwhile, Kusari officials demanded to inspect this so-called evidence, denouncing it as a feeble attempt by Rheinland to justify its war-like actions.
 
 15135
 NAME
@@ -7761,7 +7761,7 @@ Rheinland Military Buildup
 
 15152
 NAME
-In breaking news, large numbers of military ships have been reported on the move in Rheinland and have taken up position along the remainder of their borders. The Queen has taken issue with this action and is being kept apprised of things as they unfold. Despite the atmosphere of apprehension, commercial and civilian traffic on our side of the Gates continues.
+In breaking news, large numbers of military ships have been reported on the move in Rheinland and have taken up position along with the remainder of their borders. The Queen has taken issue with this action and is being kept apprised of things as they unfold. Despite the atmosphere of apprehension, commercial and civilian traffic on our side of the Gates continues.
 
 15153
 NAME
@@ -7865,7 +7865,7 @@ Niemann Requests Tekagi
 
 15178
 NAME
-Governor Tekagi’s mission in Liberty has reportedly gone well, yielding a series of directives for Rheinland. Interestingly though, once these directives were transmitted, word came back that the Chancellor would not accept them unless they were personally hand delivered by the Governor. Despite being advised otherwise, Governor Tekagi has agreed to go.
+Governor Tekagi’s mission in Liberty has reportedly gone well, yielding a series of directives for Rheinland. Interestingly though, once these directives were transmitted, word came back that the Chancellor would not accept them unless they were personally hand-delivered by the Governor. Despite being advised otherwise, Governor Tekagi has agreed to go.
 
 15179
 NAME
@@ -7889,7 +7889,7 @@ Carina Signs Artifact Ban
 
 15184
 NAME
-On the heels of Governor Tekagi’s departure, Bretonia formalized its agreement with Liberty and Kusari by also signing the Artifact ban. It is hoped that this initiative will continue to put pressure on Rheinland and put much needed government credits into the pockets of local merchants.
+On the heels of Governor Tekagi’s departure, Bretonia formalized its agreement with Liberty and Kusari by also signing the Artifact ban. It is hoped that this initiative will continue to put pressure on Rheinland and put much-needed government credits into the pockets of local merchants.
 
 15185
 NAME
@@ -7897,7 +7897,7 @@ Search for Kusari Transport
 
 15186
 NAME
-The arrival of a special transport and her escorts from the Border Worlds is reportedly long overdue. Several patrols have been dispatched along the intended route, and though hopes of a rescue are high, there has been no discovery of wreckage. The disappearance of the single vessel, carrying a cargo of new Artifacts bound for a museum in Kusari, is ironic since it falls on the cusp of the signing of the colony-wide Artifact ban.
+The arrival of a special transport and her escorts from the Border Worlds is reportedly long overdue. Several patrols have been dispatched along the intended route, and though hopes of rescue are high, there has been no discovery of the wreckage. The disappearance of the single vessel, carrying a cargo of new Artifacts bound for a museum in Kusari, is ironic since it falls on the cusp of the signing of the colony-wide Artifact ban.
 
 15187
 NAME
@@ -8025,7 +8025,7 @@ TEKAGI MURDERED!
 
 15218
 NAME
-The Kusari people are in mourning today for one of the few great men of our time: Governor Yoshinobu Tekagi. Upon hearing of his murder by armed assassins, Shogun Edo was enraged and shouted for vengeance. An Imperial taskforce has been called in to investigate what is left of the Governor’s retreat.
+The Kusari people are in mourning today for one of the few great men of our time: Governor Yoshinobu Tekagi. Upon hearing of his murder by armed assassins, Shogun Edo was enraged and shouted for vengeance. An Imperial task force has been called in to investigate what is left of the Governor’s retreat.
 
 15219
 NAME
@@ -8041,7 +8041,7 @@ Bonnerille Alive and Well
 
 15222
 NAME
-Director Aemon Bonnerille of the Liberty Security Force, who was previously thought to be missing, resurfaced today. In a press conference he said that rumors of his disappearance were simply that — rumors. He blamed an irresponsible media for the controversy and confirmed that he had been sequestered in a secure location following a possible threat to his personal security.
+Director Aemon Bonnerille of the Liberty Security Force, who was previously thought to be missing, resurfaced today. In a press conference, he said that rumors of his disappearance were simply that — rumors. He blamed the irresponsible media for the controversy and confirmed that he had been sequestered in a secure location following a possible threat to his personal security.
 
 15223
 NAME
@@ -8185,7 +8185,7 @@ Explosions in New York
 
 15258
 NAME
-Incoming reports state that several large explosions have occurred near Zone 21. Although an official statement has yet to be issued by Admiral Baldwin’s new government, conflicting Intelligence reports have Kusari officials openly speculating that Liberty may be in the grip of an internal power struggle. Meanwhile in related news, there is still no word regarding President Jacobi’s whereabouts or status.
+Incoming reports state that several large explosions have occurred near Zone 21. Although an official statement has yet to be issued by Admiral Baldwin’s new government, conflicting Intelligence reports have Kusari officials openly speculating that Liberty may be in the grip of an internal power struggle. Meanwhile, in related news, there is still no word regarding President Jacobi’s whereabouts or status.
 
 15259
 NAME
@@ -8201,15 +8201,15 @@ Rheinland Takes New Tokyo
 
 15262
 NAME
-The decisive battle in the war between Rheinland and Kusari ended in the total destruction of the Kusari Naval Forces near New Tokyo. Rheinland has erected a blockade around the planet and has made clear that only an unconditional surrender from the Shogun can prevent a devastating planetary bombardment.
+The decisive battle in the war between Rheinland and Kusari ended in the total destruction of the Kusari Naval Forces near New Tokyo. Rheinland has erected a blockade around the planet and has made clear that only unconditional surrender from the Shogun can prevent a devastating planetary bombardment.
 
 16100
 NAME
-You could stand to have a better reputation with %F0v1. I could hack your record for %d0 credits...that should clear things up. Of course that will make you less popular with %F1v1, %F2v1 and %F3v1. What do you say?
+You could stand to have a better reputation with %F0v1. I could hack your record for %d0 credits...that should clear things up. Of course that will make you less popular with %F1v1, %F2v1, and %F3v1. What do you say?
 
 16101
 NAME
-For a small contribution of %d0 credits, I could put in a good word for you with the rest of %F0v1. You should know that groups like %F1v1, %F2v1 and %F3v1 might look down on our little transaction. How about it?
+For a small contribution of %d0 credits, I could put in a good word for you with the rest of %F0v1. You should know that groups like %F1v1, %F2v1, and %F3v1 might look down on our little transaction. How about it?
 
 16102
 NAME
@@ -8437,7 +8437,7 @@ Meet Jun’ko at the Equipment Dealer
 
 21825
 NAME
-Launch to Space
+Launch into Space
 
 21830
 NAME
@@ -8541,19 +8541,19 @@ Congratulations! You have advanced to Pilot Level 1.\n\nThis new status allows y
 
 21925
 NAME
-New objectives in Freelancer are displayed for several seconds at the top of the screen. Objectives are automatically redisplayed every three minutes.\n\nOBJECTIVE COMMANDS:\n• N key – redisplay an objective.\n• F5 key or star icon at top right – view log of objectives and player journal.\n\nKEY SETTINGS:\nYou can customize the default key settings by pressing F1, clicking Options and then choosing Controls.
+New objectives in Freelancer are displayed for several seconds at the top of the screen. Objectives are automatically redisplayed every three minutes.\n\nOBJECTIVE COMMANDS:\n• N key – redisplay an objective.\n• F5 key or star icon at the top right – view log of objectives and player journal.\n\nKEY SETTINGS:\nYou can customize the default key settings by pressing F1, clicking Options, and then choosing Controls.
 
 21930
 NAME
-When you are on a base or planet, a row of icons appears at the top center of your screen that you can use to move to different locations. If you move your mouse over an icon, a tooltip will appear to identify it, and descriptive text will display in the top left corner.\n\nROOM COMMANDS:\n• Click on character in room – talk to him or her.\n• Click on room icon (top row, top center of screen) – move to that room.\n• Click on service icon (top center of screen, bottom row) – use services in current\n  room.
+When you are on a base or planet, a row of icons appears at the top center of your screen that you can use to move to different locations. If you move your mouse over an icon, a tooltip will appear to identify it, and descriptive text will display in the top left corner.\n\nROOM COMMANDS:\n• Click on a character in the room – talk to him or her.\n• Click on the room icon (top row, top center of screen) – move to that room.\n• Click on service icon (top center of screen, bottom row) – use services in current\n  room.
 
 21935
 NAME
-PAUSING AND SAVING:\nWhenever you launch to space, the game updates the current Autosave. As you advance, the game will create progress-point saves and update the Autosave.\n• F1 key – pause game and view in-game menu.\n• F1 key and click Save Game – save game when on a base or planet.\n• F1 key and click Load Game – load game.\n\nSTATUS COMMANDS:\n• F6 key or grid icon at top right – open Nav Map of known locations.\n• F7 key or box icon – view and manipulate inventory.\n• F8 key or person icon – examine player status and reputation.\n• F9 or ‘i’ icon – read information on current location.
+PAUSING AND SAVING:\nWhenever you launch into space, the game updates the current Autosave. As you advance, the game will create progress-point saves and update the Autosave.\n• F1 key – pause the game and view the in-game menu.\n• F1 key and click Save Game – save the game when on a base or planet.\n• F1 key and click Load Game – load game.\n\nSTATUS COMMANDS:\n• F6 key or grid icon at top right – open Nav Map of known locations.\n• F7 key or box icon – view and manipulate inventory.\n• F8 key or person icon – examine player status and reputation.\n• F9 or ‘i’ icon – read information on current location.
 
 21940
 NAME
-SHIP MOVEMENT CONTROL:\n• FREE FLIGHT: Hold down the left mouse button and move your mouse in the\n  direction you want to turn.\n• MOUSE FLIGHT: Spacebar turns Mouse Flight on. Your ship now turns toward\n  the mouse cursor. To interact with heads-up display, tap spacebar again.\n\nSHIP SPEED CONTROL:\n• W key accelerates your ship; S key decelerates your ship.\n• Tab key (held down) activates afterburner speed boost.\n\nCOMBAT CONTROL:\n• Right mouse click fires active weapons; left mouse click on a target to select it.\n• R key selects the closest hostile target.
+SHIP MOVEMENT CONTROL:\n• FREE FLIGHT: Hold down the left mouse button and move your mouse in the\n  direction you want to turn.\n• MOUSE FLIGHT: Spacebar turns Mouse Flight on. Your ship now turns toward\n  the mouse cursor. To interact with the heads-up display, tap spacebar again.\n\nSHIP SPEED CONTROL:\n• W key accelerates your ship; S key decelerates your ship.\n• Tab key (held down) activates afterburner speed boost.\n\nCOMBAT CONTROL:\n• Right mouse click fires active weapons; left mouse click on a target to select it.\n• R key selects the closest hostile target.
 
 21945
 NAME
@@ -8565,7 +8565,7 @@ You have just experienced a Trade Lane attack. While fighting the enemy ships, y
 
 21947
 NAME
-You are now able to go anywhere in the New York solar system and accept missions as a freelancer. You need to increase your net worth to a set amount before Juni will contact you for the next mission. To view this amount, click on the Player Status icon (person icon, default key F8) at the top right of your HUD.\n\nThere are many ways to earn money. For example, you can complete a mission from a Job Board, mine asteroids, sell loot or trade commodities.\n\nDon’t forget — since you don’t have jump access, you cannot leave the New York system at this time.
+You are now able to go anywhere in the New York solar system and accept missions as a freelancer. You need to increase your net worth to a set amount before Juni will contact you for the next mission. To view this amount, click on the Player Status icon (person icon, default key F8) at the top right of your HUD.\n\nThere are many ways to earn money. For example, you can complete a mission from a Job Board, mine asteroids, sell loot, or trade commodities.\n\nDon’t forget — since you don’t have jump access, you cannot leave the New York system at this time.
 
 21950
 NAME
@@ -8685,7 +8685,7 @@ Destroy All the Hostile Fighters
 
 22100
 NAME
-King will now follow you to the nearest search pattern waypoint. To get there quickly, use your ship’s cruise engines.\n\nCRUISING:\n• Shift-W or three-triangle icon under FREE FLIGHT at top center of your screen –\n  activate or deactivate your cruise engines.\n\nCruise engines provide a good way to get somewhere quickly, but you cannot fire your weapons when they are charging up or engaged.
+King will now follow you to the nearest search pattern waypoint. To get there quickly, use your ship’s cruise engines.\n\nCRUISING:\n• Shift-W or three-triangle icon under FREE FLIGHT at the top center of your screen –\n  activate or deactivate your cruise engines.\n\nCruise engines provide a good way to get somewhere quickly, but you cannot fire your weapons when they are charging up or engaged.
 
 22150
 NAME
@@ -8741,7 +8741,7 @@ OBJECTIVE:\nCapture Artifact smuggler. The LSF has received information that a w
 
 22207
 NAME
-To scan a ship, target the ship in your HUD, or select the ship in your contact list. Click the Scan Cargo Icon in the lower left corner.\n\nRemember, you must be in range of the target to scan.
+To scan a ship, target the ship in your HUD, or select the ship in your contact list. Click the Scan Cargo Icon in the lower-left corner.\n\nRemember, you must be in range of the target to scan.
 
 22210
 NAME
@@ -8749,7 +8749,7 @@ Meet Juni in the Manhattan Bar
 
 22215
 NAME
-Launch to Space
+Launch into Space
 
 22220
 NAME
@@ -8857,7 +8857,7 @@ OBJECTIVE:\nEscort a convoy from the Magellan Gate to Research Station Willard. 
 
 22406
 NAME
-OBJECTIVE:\nTravel with Juni to discover more about the pirate attacks on the transport convoy. Between Juni’s LSF contacts and her more surreptitious sources she should be able to acquire more information.\n\nDIFFICULTY:\nThese criminals were very well equipped and there is likely going to be a tough fight ahead.
+OBJECTIVE:\nTravel with Juni to discover more about the pirate attacks on the transport convoy. Between Juni’s LSF contacts and her more surreptitious sources, she should be able to acquire more information.\n\nDIFFICULTY:\nThese criminals were very well equipped and there is likely going to be a tough fight ahead.
 
 22407
 NAME
@@ -9041,7 +9041,7 @@ OBJECTIVE:\nFollow Juni to the California System to find Walker. The last known 
 
 22606
 NAME
-OBJECTIVE:\nSomething has gone terribly wrong and now you and Juni must escape from Liberty alive.\n\nDIFFICULTY:\nStandard operating procedure would be for Liberty to launch a system wide dragnet for your capture. Escape will not be easy.\n\nREWARD:\nYour life.
+OBJECTIVE:\nSomething has gone terribly wrong and now you and Juni must escape from Liberty alive.\n\nDIFFICULTY:\nStandard operating procedure would be for Liberty to launch a system-wide dragnet for your capture. Escape will not be easy.\n\nREWARD:\nYour life.
 
 22607
 NAME
@@ -9145,7 +9145,7 @@ Meet Tobias in the Leeds Equipment Shop
 
 22710
 NAME
-Launch to Space
+Launch into Space
 
 22750
 NAME
@@ -9481,7 +9481,7 @@ Meet Quintaine in Space near Station Glorious
 
 23090
 NAME
-Launch to Space when You and Your Ship Are Ready to Race
+Launch into Space when You and Your Ship Are Ready to Race
 
 23095
 NAME
@@ -9521,7 +9521,7 @@ Fly to the Waypoint
 
 23140
 NAME
-Launch to Space
+Launch into Space
 
 23142
 NAME
@@ -9597,7 +9597,7 @@ MISSION 7
 
 23205
 NAME
-OBJECTIVE:\nYou have to hide from the Rheinland agents. Fly with Juni, Sinclair and Quintaine to the Border Worlds and find the base of the mysterious Kress.\n\nDIFFICULTY:\nThe Rheinland agents will be trying to stop you from reaching the Border Worlds. They will likely hunt you the entire way. It’s very advisable to fly a powerful combat vessel.\n\nREWARD:\nThis is not about money; it’s about survival.
+OBJECTIVE:\nYou have to hide from the Rheinland agents. Fly with Juni, Sinclair, and Quintaine to the Border Worlds and find the base of the mysterious Kress.\n\nDIFFICULTY:\nThe Rheinland agents will be trying to stop you from reaching the Border Worlds. They will likely hunt you the entire way. It’s very advisable to fly a powerful combat vessel.\n\nREWARD:\nThis is not about money; it’s about survival.
 
 23206
 NAME
@@ -9613,7 +9613,7 @@ Dock with Planet Leeds
 
 23215
 NAME
-Meet Juni, Quintaine and Sinclair in Space above Planet Leeds
+Meet Juni, Quintaine, and Sinclair in Space above Planet Leeds
 
 23220
 NAME
@@ -10197,7 +10197,7 @@ Dock with the Battleship Osiris
 
 23935
 NAME
-Launch to Space
+Launch into Space
 
 23950
 NAME
@@ -10553,7 +10553,7 @@ Dock with Planet Toledo
 
 24330
 NAME
-Launch to Space
+Launch into Space
 
 24350
 NAME
@@ -10589,7 +10589,7 @@ OBJECTIVE:\nFly into the Nomad home system and activate the Hyper Gate system.\n
 
 24410
 NAME
-Launch to Space
+Launch into Space
 
 24414
 NAME
@@ -11221,7 +11221,7 @@ NAME
 
 30205
 NAME
-*PERSONAL ENTRY:\nI made it back to Manhattan. No word yet from Lonnigan. I’ve checked Medical, but nobody there seemed to know where he is. Nice bureaucracy! Anyway, I met Juni and King in the bar as planned and accepted their offer. It’s an interesting assignment, and it actually pays well. The LSF is going after a smuggler — a guy named Ashcroft, who is transporting illegal Alien Artifacts in and out of Liberty. Juni has information that Ashcroft is trying to move a shipment of Alien Artifacts through the Colorado Gate. King and I have to find the convoy and stop it before it can enter the New York system. The tricky part is that we are supposed to bring Ashcroft in alive. The LSF wants to interrogate him about Artifact trading in Liberty. President Jacobi has made it the top priority of the LSF to stop all Artifact trading — legal and illegal — and to seize every Artifact they can find. It’s all a little bit strange, really. Usually, these things are just collectables for people with way too much money. I don’t think Jacobi has told the public the full story yet. The really good news about all this is that Juni has promised to give me the access codes to all Liberty Gates if we bring in Ashcroft.
+*PERSONAL ENTRY:\nI made it back to Manhattan. No word yet from Lonnigan. I’ve checked Medical, but nobody there seemed to know where he is. Nice bureaucracy! Anyway, I met Juni and King in the bar as planned and accepted their offer. It’s an interesting assignment, and it actually pays well. The LSF is going after a smuggler — a guy named Ashcroft, who is transporting illegal Alien Artifacts in and out of Liberty. Juni has information that Ashcroft is trying to move a shipment of Alien Artifacts through the Colorado Gate. King and I have to find the convoy and stop it before it can enter the New York system. The tricky part is that we are supposed to bring Ashcroft in alive. The LSF wants to interrogate him about Artifact trading in Liberty. President Jacobi has made it the top priority of the LSF to stop all Artifact trading — legal and illegal — and to seize every Artifact they can find. It’s all a little bit strange, really. Usually, these things are just collectibles for people with way too much money. I don’t think Jacobi has told the public the full story yet. The really good news about all this is that Juni has promised to give me the access codes to all Liberty Gates if we bring in Ashcroft.
 
 30210
 NAME
@@ -11229,7 +11229,7 @@ NAME
 
 30215
 NAME
-*PERSONAL ENTRY:\nI ran into Lonnigan on the landing pad. He was in pretty bad shape. Apparently, he actually escaped from Medical — no wonder I couldn’t find him before. That head injury must have been worse than I thought. He was totally confused, talked about people that were after him, and said that he knew who destroyed Freeport 7. Something about ships that weren’t there — a bunch of gibberish. I seriously thought he had lost his mind when suddenly two Liberty guards appeared and shot him with a smart dart. I had to dive out of the way or that thing would have hit me. Anyway, Lonnigan went down and I was still on the ground when one of the guards hit me with a stun baton. Not a pleasant feeling — it knocked me out in an instant. I have no idea how long I was out. Next thing I remember is Juni slapping me in the face. Looks like Lonnigan got himself into trouble with the local law. I’m starting to have the feeling that I’m never going to see my million credits. Oh, Tobias is going to have a field day. Looks like I’m going to have to work for Juni a while longer. I certainly need the money. Anyway, King is waiting for me in space above Manhattan.
+*PERSONAL ENTRY:\nI ran into Lonnigan on the landing pad. He was in pretty bad shape. Apparently, he actually escaped from Medical — no wonder I couldn’t find him before. That head injury must have been worse than I thought. He was totally confused, talked about people that were after him, and said that he knew who destroyed Freeport 7. Something about ships that weren’t there — a bunch of gibberish. I seriously thought he had lost his mind when suddenly two Liberty guards appeared and shot him with a smart dart. I had to dive out of the way or that thing would have hit me. Anyway, Lonnigan went down and I was still on the ground when one of the guards hit me with a stun baton. Not a pleasant feeling — it knocked me out in an instant. I have no idea how long I was out. The next thing I remember is Juni slapping me in the face. Looks like Lonnigan got himself into trouble with the local law. I’m starting to have the feeling that I’m never going to see my million credits. Oh, Tobias is going to have a field day. Looks like I’m going to have to work for Juni a while longer. I certainly need the money. Anyway, King is waiting for me in space above Manhattan.
 
 30220
 NAME
@@ -11249,7 +11249,7 @@ NAME
 
 30240
 NAME
-*PERSONAL ENTRY:\nWe surprised Ashcroft while his people were unloading the Artifacts into smaller ships. It’s a good thing that Juni sent us support, otherwise this could have been too much for us. We managed to destroy most of Ashcroft’s fighters, but Ashcroft himself got away. He’s activated his cruise engines, and headed deeper into the field. Thankfully, King tagged him. We’ll have to hurry or he’ll get away.
+*PERSONAL ENTRY:\nWe surprised Ashcroft while his people were unloading the Artifacts into smaller ships. It’s a good thing that Juni sent us support, otherwise this could have been too much for us. We managed to destroy most of Ashcroft’s fighters, but Ashcroft himself got away. He’s activated his cruise engines and headed deeper into the field. Thankfully, King tagged him. We’ll have to hurry or he’ll get away.
 
 30245
 NAME
@@ -11269,7 +11269,7 @@ NAME
 
 30305
 NAME
-*PERSONAL ENTRY:\nThis is just great! I flew to Manhattan to meet Juni and to also see if I could find Lonnigan. Well, I didn’t have to — he found me and held a gun to my head! That guy has seriously lost his mind. He told me that he had killed a man today. He was still totally paranoid. Babbled something about Freeport 7 and Zone 21. I told him that I knew that The Order was behind it, but he seems to think that it was Liberty. He says it has something to do with Artifacts. Lonnigan said he wanted to warn me to get out of Liberty. I don’t know, he was different this time — seemed focused and determined — not at all the man who was confused just a few days ago. After this pleasant encounter I went to the bar to meet Juni, and guess what — she wasn’t there. This whole trip to Manhattan is turning into a disaster. Well, at least she left a message with the bartender for me. I’m supposed to meet her on the terraforming station on California Minor. I asked the bartender — the California system is only one jump away from the New York System. All I have to do is take the Jump Gate to California. According to the bartender, there are Trade Lanes all the way up to California Minor. He’s uploaded the path to my Neural Net.
+*PERSONAL ENTRY:\nThis is just great! I flew to Manhattan to meet Juni and to also see if I could find Lonnigan. Well, I didn’t have to — he found me and held a gun to my head! That guy has seriously lost his mind. He told me that he had killed a man today. He was still totally paranoid. Babbled something about Freeport 7 and Zone 21. I told him that I knew that The Order was behind it, but he seems to think that it was Liberty. He says it has something to do with Artifacts. Lonnigan said he wanted to warn me to get out of Liberty. I don’t know, he was different this time — seemed focused and determined — not at all the man who was confused just a few days ago. After this pleasant encounter, I went to the bar to meet Juni, and guess what — she wasn’t there. This whole trip to Manhattan is turning into a disaster. Well, at least she left a message with the bartender for me. I’m supposed to meet her on the terraforming station on California Minor. I asked the bartender — the California system is only one jump away from the New York System. All I have to do is take the Jump Gate to California. According to the bartender, there are Trade Lanes all the way up to California Minor. He’s uploaded the path to my Neural Net.
 
 30310
 NAME
@@ -11281,7 +11281,7 @@ NAME
 
 30320
 NAME
-*PERSONAL ENTRY:\nI met Juni on California Minor. Wow, this place is basically a huge ice desert. Why anyone would want to settle here is a mystery to me. This has to be the worst bar in all of Liberty. Juni has less class than I thought. Her mission was interesting. Ashcroft claims that there is a traitor in the ranks of the LSF. Juni and I are to escort a convoy carrying Alien Artifacts from the Magellan system to a secret navy research lab here in California. Only a few people know about the convoy and its cargo. If we are attacked, it would prove that there really is a traitor within the LSF or the navy helping the Artifact smugglers. And just as we were about to leave, the News showed a breaking story that the leader of The Order had been killed. Guess what... they think it was Lonnigan! That’s the most ludicrous thing I’ve ever heard. He was a trader, and not even a good one. He didn’t plan the attack on Freeport 7, but he almost got killed in the blast. I tried to tell Juni, but she wouldn’t listen. I have to say that Rowlett was right about Freeport 7 survivors disappearing, and most of them violently. I have to be careful. As long as I work for the LSF, I should be pretty safe. I’ve to get going. Juni is waiting for me in space, and given how moody she is, I better not let her wait too long.
+*PERSONAL ENTRY:\nI met Juni on California Minor. Wow, this place is basically a huge ice desert. Why anyone would want to settle here is a mystery to me. This has to be the worst bar in all of Liberty. Juni has less class than I thought. Her mission was interesting. Ashcroft claims that there is a traitor in the ranks of the LSF. Juni and I are to escort a convoy carrying Alien Artifacts from the Magellan system to a secret navy research lab here in California. Only a few people know about the convoy and its cargo. If we are attacked, it would prove that there really is a traitor within the LSF or the navy helping the Artifact smugglers. And just as we were about to leave, the News showed a breaking story that the leader of The Order had been killed. Guess what... they think it was Lonnigan! That’s the most ludicrous thing I’ve ever heard. He was a trader, and not even a good one. He didn’t plan the attack on Freeport 7, but he almost got killed in the blast. I tried to tell Juni, but she wouldn’t listen. I have to say that Rowlett was right about Freeport 7 survivors disappearing, and most of them violently. I have to be careful. As long as I work for the LSF, I should be pretty safe. I’ve to get going. Juni is waiting for me in space and given how moody she is, I better not let her wait too long.
 
 30325
 NAME
@@ -11297,7 +11297,7 @@ NAME
 
 30340
 NAME
-*PERSONAL ENTRY:\nWhat in the world is going on? After we left Station Willard, Juni told me that her CO has been placed under arrest for treason, and that all of her friends at the LSF have somehow disappeared. She didn’t have an explanation, but maybe that traitor we were trying to weed out wasn’t alone. And then on our way back to California Minor, we were attacked by Rheinland Valkyries! I mean... what the hell are Rheinland ships doing in the middle of Liberty space? Seems to me that there’s a conspiracy going on, and that it’s much more serious than we thought. Juni wants to meet a guy named Walker on California Minor. He’s the captain of a Liberty cruiser. Juni says we can trust him and that she knows him from the past. I hope she’s right.
+*PERSONAL ENTRY:\nWhat in the world is going on? After we left Station Willard, Juni told me that her CO has been placed under arrest for treason and that all of her friends at the LSF have somehow disappeared. She didn’t have an explanation, but maybe that traitor we were trying to weed out wasn’t alone. And then on our way back to California Minor, we were attacked by Rheinland Valkyries! I mean... what the hell are Rheinland ships doing in the middle of Liberty space? Seems to me that there’s a conspiracy going on and that it’s much more serious than we thought. Juni wants to meet a guy named Walker on California Minor. He’s the captain of a Liberty cruiser. Juni says we can trust him and that she knows him from the past. I hope she’s right.
 
 30345
 NAME
@@ -11317,7 +11317,7 @@ NAME
 
 30405
 NAME
-*PERSONAL ENTRY:\nI’ve never seen Juni like this. She’s scared — no other word to describe it. She flew back to New York to ask Ashcroft what Rheinland ships have to do with the Artifact trade in Liberty, but when she got to the battleship where he was being held, she learned that all records of his arrest had been wiped clean. But that’s not the worst of it. Walker’s also disappeared. Official records show that his ship was lost five years ago! Something is terribly wrong here in Liberty. Juni thinks our best shot is to look for Walker in California, and given that all other people I know here in Liberty are either dead or have disappeared, that sounds like our best option. Juni went back to the equipment room to take care of some business when I was cornered on the landing deck by a suspicious-looking guy. He told me that he and I were the last two survivors of Freeport 7. I vaguely remembered him from the rescue ship. He told me that the station was blown to pieces because people were looking for an Artifact he has in his possession. Just as he showed me the piece, a navy officer appeared and shot him point blank. I was almost next, but Juni came back just in time. She told him to take me into custody, but he turned on her and opened fire. She was faster, but now we’re really in trouble. Murder of a military officer is a capital offense here in Liberty and I doubt they’ll buy it was self-defense. We have to get out of here — fast — while there’s still time. Juni says she knows a place to hide.
+*PERSONAL ENTRY:\nI’ve never seen Juni like this. She’s scared — no other word to describe it. She flew back to New York to ask Ashcroft what Rheinland ships have to do with the Artifact trade in Liberty, but when she got to the battleship where he was being held, she learned that all records of his arrest had been wiped clean. But that’s not the worst of it. Walker’s also disappeared. Official records show that his ship was lost five years ago! Something is terribly wrong here in Liberty. Juni thinks our best shot is to look for Walker in California, and given that all other people I know here in Liberty are either dead or have disappeared, that sounds like our best option. Juni went back to the equipment room to take care of some business when I was cornered on the landing deck by a suspicious-looking guy. He told me that he and I were the last two survivors of Freeport 7. I vaguely remembered him from the rescue ship. He told me that the station was blown to pieces because people were looking for an Artifact he has in his possession. Just as he showed me the piece, a navy officer appeared and shot him point-blank. I was almost next, but Juni came back just in time. She told him to take me into custody, but he turned on her and opened fire. She was faster, but now we’re really in trouble. Murder of a military officer is a capital offense here in Liberty and I doubt they’ll buy it was self-defense. We have to get out of here — fast — while there’s still time. Juni says she knows a place to hide.
 
 30410
 NAME
@@ -11349,7 +11349,7 @@ NAME
 
 30505
 NAME
-*PERSONAL ENTRY:\nWell, I flew all the way to Cambridge to hook up with Juni. I know she’s trying to keep a low profile, and that sometimes means blending into public places, but jeez. I mean we always seem to meet in bars. And no surprise — the Professor has disappeared. It feels like a curse — anyone we’re trying to find either dies, is on the run, or magically disappears. In this case, however, Juni found a trail that might give us a chance to find Quintaine: a guy named Vance — he’s a pilot that used to help Quintaine get to the various archeological dig sites throughout the Border Worlds. He’s not too smart and way too much in love with the bottle to be totally reliable, but he seemed trustworthy. Juni had told him that we were working for the Hammer Research Institute in Liberty and that we were interested in funding some of the Professor’s research. That certainly opened some doors. Vance told us that the Professor sometimes disappears for weeks without telling anyone. That’s good news — he might still be alive. Vance pointed us to a Dr. Sinclair, who has been working closely with Quintaine for years. She’s working on a dig site on Planet Sprague not too far from here in the Omega-3 system. Then, at the very end of the conversation, Vance told us that a group of Rheinlanders also came by today looking for the Professor. They claimed to be from the New Berlin Museum — fat chance. We have to hurry. If they get to Sinclair before we do, it’s over. Juni is waiting in space above Cambridge.
+*PERSONAL ENTRY:\nWell, I flew all the way to Cambridge to hook up with Juni. I know she’s trying to keep a low profile, and that sometimes means blending into public places, but jeez. I mean we always seem to meet in bars. And no surprise — the Professor has disappeared. It feels like a curse — anyone we’re trying to find either dies, is on the run, or magically disappears. In this case, however, Juni found a trail that might give us a chance to find Quintaine: a guy named Vance — he’s a pilot that used to help Quintaine get to the various archeological dig sites throughout the Border Worlds. He’s not too smart and way too much in love with the bottle to be totally reliable, but he seemed trustworthy. Juni had told him that we were working for the Hammer Research Institute in Liberty and that we were interested in funding some of the Professor’s research. That certainly opened some doors. Vance told us that the Professor sometimes disappears for weeks without telling anyone. That’s good news — he might still be alive. Vance pointed us to Dr. Sinclair, who has been working closely with Quintaine for years. She’s working on a dig site on Planet Sprague not too far from here in the Omega-3 system. Then, at the very end of the conversation, Vance told us that a group of Rheinlanders also came by today looking for the Professor. They claimed to be from the New Berlin Museum — fat chance. We have to hurry. If they get to Sinclair before we do, it’s over. Juni is waiting in space above Cambridge.
 
 30510
 NAME
@@ -11433,11 +11433,11 @@ NAME
 
 30715
 NAME
-*PERSONAL ENTRY:\nDamn Rheinlanders are persistent! How are they blocking us at every direction? In any case, we’ve managed to get out of this mess, and we’re one step closer to... to... Where are we going anyways? Shinden, Shinagawa... Shinkaku! That’s it! We’re supposed to meet some guy named Kress. I hope whoever he is, he can get Quintaine and Sinclair out of my hair. Dealing with Juni is about all I can take as it is.
+*PERSONAL ENTRY:\nDamn Rheinlanders are persistent! How are they blocking us in every direction? In any case, we’ve managed to get out of this mess, and we’re one step closer to... to... Where are we going anyways? Shinden, Shinagawa... Shinkaku! That’s it! We’re supposed to meet some guy named Kress. I hope whoever he is, he can get Quintaine and Sinclair out of my hair. Dealing with Juni is about all I can take as it is.
 
 30720
 NAME
-*PERSONAL ENTRY:\nI was hoping Kress was there to take this old fart away! Oh well, it’s not too far from here — small price to pay to keep from embedding my foot in his head. Tobias is going back home. I hope he doesn’t do some damn fool thing like re-enlist. Well, at least I won’t have too much to worry about. He’ll probably do something like hit on a higher ranked female officer. I get the impression there weren’t any female pilots in his days. Heh, that’s Tobias though. Hope he’s gonna be alright. Well, off to Kress’ base.
+*PERSONAL ENTRY:\nI was hoping Kress was there to take this old fart away! Oh well, it’s not too far from here — small price to pay to keep from embedding my foot in his head. Tobias is going back home. I hope he doesn’t do some damn fool thing like re-enlist. Well, at least I won’t have too much to worry about. He’ll probably do something like hit on a higher-ranked female officer. I get the impression there weren’t any female pilots in his days. Heh, that’s Tobias though. Hope he’s gonna be alright. Well, off to Kress’ base.
 
 30725
 NAME
@@ -11445,11 +11445,11 @@ NAME
 
 30730
 NAME
-*PERSONAL ENTRY:\nIf anyone gets to shoot Quintaine, it’s gonna be me, not some damned lackey. I’ve already been shot at, electrocuted, and nearly bombed to death. A good ol’ stand off isn’t gonna shake me. Well, at least Quintaine is outta my hair. At least Sinclair was easy on the eyes. Well, on to Kyushu to meet a Lord Hakkera. I’ve actually never been to Kusari before. I’m very curious to see what it’s like.
+*PERSONAL ENTRY:\nIf anyone gets to shoot Quintaine, it’s gonna be me, not some damned lackey. I’ve already been shot at, electrocuted, and nearly bombed to death. A good ol’ stand-off isn’t gonna shake me. Well, at least Quintaine is outta my hair. At least Sinclair was easy on the eyes. Well, on to Kyushu to meet a Lord Hakkera. I’ve actually never been to Kusari before. I’m very curious to see what it’s like.
 
 30735
 NAME
-*PERSONAL ENTRY:\nSo that was Lord Hakkera. There’s an air about that man. I don’t know — he’s very... commanding. Anyways, Juni seems to know him, not that that’s saved us in the past. Hopefully, her home system will provide better protection than Bretonia. I guess I’ll do some sight seeing and take up a few jobs while I’m here. It’s not often I get to be a tourist.
+*PERSONAL ENTRY:\nSo that was Lord Hakkera. There’s an air about that man. I don’t know — he’s very... commanding. Anyways, Juni seems to know him, not that that’s saved us in the past. Hopefully, her home system will provide better protection than Bretonia. I guess I’ll do some sightseeing and take up a few jobs while I’m here. It’s not often I get to be a tourist.
 
 30800
 NAME
@@ -11461,7 +11461,7 @@ NAME
 
 30810
 NAME
-*PERSONAL ENTRY:\nWe ended up taking this really backwards way to Honshu, mostly due to the fact we had to join up with a Blood Dragon wing. I’ve heard of these guys before. They’re this weird type of “good pirate” that roams through Kusari. People say that they’re the best pilots anywhere in the colonies. That doesn’t help explain Juni’s piloting abilities. Well, we still have one more leg on this journey. We have to get that transport out of impound and get it to the Blood Dragon home, the legendary Kyoto Base.
+*PERSONAL ENTRY:\nWe ended up taking this really backward way to Honshu, mostly due to the fact we had to join up with a Blood Dragon wing. I’ve heard of these guys before. They’re this weird type of “good pirate” that roams through Kusari. People say that they’re the best pilots anywhere in the colonies. That doesn’t help explain Juni’s piloting abilities. Well, we still have one more leg on this journey. We have to get that transport out of impound and get it to the Blood Dragon home, the legendary Kyoto Base.
 
 30815
 NAME
@@ -11509,7 +11509,7 @@ NAME
 
 31005
 NAME
-*PERSONAL ENTRY:\nI can’t say no to Hakkera. He saved my life back at the Arch, and I have to return the favor. Still, into the heart of Rheinland? This mission is suicide, but I guess I’ve earned myself quite the reputation for blindly accepting just about anything, no matter how suicidal. I better get to the equipment room before launching to space. Who knows what kind of trouble I’ll run into?
+*PERSONAL ENTRY:\nI can’t say no to Hakkera. He saved my life back at the Arch, and I have to return the favor. Still, into the heart of Rheinland? This mission is suicide, but I guess I’ve earned myself quite the reputation for blindly accepting just about anything, no matter how suicidal. I better get to the equipment room before launching into space. Who knows what kind of trouble I’ll run into?
 
 31010
 NAME
@@ -11517,7 +11517,7 @@ NAME
 
 31015
 NAME
-*PERSONAL ENTRY:\nLord Hakkera was good enough to escort me to Sigma-13, along with a full honor guard. He’s got a new second command, Cobo. Good enough kid — young though. Ozu, I didn’t know him that long, but at least he went down fighting. I hope he’s happier wherever he is. In any case, I better get my head out of the clouds and back in the cockpit. Rumor has it that Rheinland has begun amassing ships in this system in preparation for war. Part of the reason I’m even getting an honor guard is so they can strike them before they get the chance to gain a foothold. Remarkable, even though they’re outcast from Kusari society, the Blood Dragons still defend their home.
+*PERSONAL ENTRY:\nLord Hakkera was good enough to escort me to Sigma-13, along with a full honor guard. He’s got a new second command, Cobo. Good enough kid — young though. Ozu, I didn’t know him that long, but at least he went down fighting. I hope he’s happier wherever he is. In any case, I better get my head out of the clouds and back in the cockpit. Rumor has it that Rheinland has begun amassing ships in this system in preparation for war. Part of the reason I’m even getting an honor guard is so they can strike them before they get the chance to gain a foothold. Remarkable, even though they’re outcasts from Kusari society, the Blood Dragons still defend their home.
 
 31020
 NAME
@@ -11525,11 +11525,11 @@ NAME
 
 31025
 NAME
-*PERSONAL ENTRY:\nWho were those two idiots? I’ve never been so creeped out in my life, and after that bit with Tekagi, I thought I was prepared for anything. Well, at least it gave me a lead. Why is it whenever I’m told to meet someone somewhere, they’re never there? It just makes things harder. Well, I’ll say one thing about New Berlin — they’ve got a pretty well stocked bar. I’ll have to remember to come back one day if all this madness ever calms down.
+*PERSONAL ENTRY:\nWho were those two idiots? I’ve never been so creeped out in my life, and after that bit with Tekagi, I thought I was prepared for anything. Well, at least it gave me a lead. Why is it whenever I’m told to meet someone somewhere, they’re never there? It just makes things harder. Well, I’ll say one thing about New Berlin — they’ve got a pretty well-stocked bar. I’ll have to remember to come back one day if all this madness ever calms down.
 
 31030
 NAME
-*PERSONAL ENTRY:\nIt seems Herr Von Claussen’s intelligence networks are more extensive than I thought. He had this man, Hans Fischer, accompany me to Holstein. Good thing, too. Somehow, I doubt that Rheinland would have appreciated a wanted man wandering through their systems. The military buildup here is immense — like nothing I’ve ever seen. The war is really going to happen. For the first time I have to say I’m a little scared. Still, it’d be nice to have at least a few credits in the bank for later in life, assuming there is a later in life.
+*PERSONAL ENTRY:\nIt seems Herr Von Claussen’s intelligence networks are more extensive than I thought. He had this man, Hans Fischer, accompany me to Holstein. Good thing, too. Somehow, I doubt that Rheinland would have appreciated a wanted man wandering through their systems. The military buildup here is immense — like nothing I’ve ever seen. The war is really going to happen. For the first time, I have to say I’m a little scared. Still, it’d be nice to have at least a few credits in the bank for later in life, assuming there is a later in life.
 
 31035
 NAME
@@ -11577,7 +11577,7 @@ NAME
 
 31300
 NAME
-*PERSONAL ENTRY:\nSo the Artifact turns out to be a giant system map?! I have one of those on my ship!! Good for nothing bald headed windbag! Maybe I’m missing something. In any case, this base is incredibly impressive — the best ships and the best weapons I’ve ever seen. I’m getting that sinking feeling in my stomach about all of this. Like this is the ride into the sunset the hero makes, or maybe that heroic last stand. In any case, I’m taking up Orillion’s offer and stocking up on all the weapons and equipment I can.
+*PERSONAL ENTRY:\nSo the Artifact turns out to be a giant system map?! I have one of those on my ship!! Good for nothing, bald-headed windbag! Maybe I’m missing something. In any case, this base is incredibly impressive — the best ships and the best weapons I’ve ever seen. I’m getting that sinking feeling in my stomach about all of this. Like this is the ride into the sunset the hero makes, or maybe that heroic last stand. In any case, I’m taking up Orillion’s offer and stocking up on all the weapons and equipment I can.
 
 31305
 NAME
@@ -12513,7 +12513,7 @@ Xeno Attack Repulsed by the LPI
 
 56011
 NAME
-DETROIT — The Liberty outlaws known as the Xenos were routed after a brief firefight with LPI fighters today after they attempted to hijack an armored transport leaving the Detroit Munitions facility. The authorities were tipped of the impending attack on the weapons shipment and laid a trap, which resulted in the capture of three outlaws and the death of three others. “The alert citizens of Liberty enabled us to strike a blow for justice today,” LPI representatives stated in a press conference.
+DETROIT — The Liberty outlaws known as the Xenos were routed after a brief firefight with LPI fighters today after they attempted to hijack an armored transport leaving the Detroit Munitions facility. The authorities were tipped off the impending attack on the weapons shipment and laid a trap, which resulted in the capture of three outlaws and the death of three others. “The alert citizens of Liberty enabled us to strike a blow for justice today,” LPI representatives stated in a press conference.
 
 56012
 NAME
@@ -12529,7 +12529,7 @@ The Badlands, Not Just a Name
 
 56015
 NAME
-NEW YORK — Tucked into the southern end of New York lies the fields known as the Badlands. In a study conducted by IC it was discovered that the Badlands are actually the most dangerous area in all of Liberty space. Populated by a variety of dangerous criminals, the field claims hundreds of lives per year. “I don’t go in there; that’s a military job,” said LPI officer Mary Dennis. It seems that even the military and the LSF have their troubles in the Badlands. IC recommends that civilians give the area a wide berth.
+NEW YORK — Tucked into the southern end of New York lies the fields known as the Badlands. In a study conducted by IC, it was discovered that the Badlands is actually the most dangerous area in all of Liberty space. Populated by a variety of dangerous criminals, the field claims hundreds of lives per year. “I don’t go in there; that’s a military job,” said LPI officer Mary Dennis. It seems that even the military and the LSF have their troubles in the Badlands. IC recommends that civilians give the area a wide berth.
 
 56016
 NAME
@@ -12553,7 +12553,7 @@ California Minor: Fact or Fantasy?
 
 56021
 NAME
-CALIFORNIA — With California’s booming population growth many are wondering if Planetform will be able to deliver on the promises of California Minor. The company has assured the public that the planet will be finished within the next two generations. The future prosperity of Los Angeles may depend on that promise. “When my grandfather came here, he said there was a lot of wide-open space and plentiful water; now look at it — we’re jam packed here,” said California Tourism Director Mike Greeley. “People see how great it is to come here, and they decide to stay. That can’t go on forever.”
+CALIFORNIA — With California’s booming population growth many are wondering if Planetform will be able to deliver on the promises of California Minor. The company has assured the public that the planet will be finished within the next two generations. The future prosperity of Los Angeles may depend on that promise. “When my grandfather came here, he said there was a lot of wide-open space and plentiful water; now look at it — we’re jam-packed here,” said California Tourism Director Mike Greeley. “People see how great it is to come here, and they decide to stay. That can’t go on forever.”
 
 56022
 NAME
@@ -12657,7 +12657,7 @@ Squatters Appeal to Government
 
 56047
 NAME
-DENVER — A coalition of impoverished Colorado residents made an appeal to the Liberty government today, presenting a message entitled: “Being poor is not illegal.” The prepared statement was addressed to the legislature in Manhattan and summarized a list of the grievances that many long time Colorado residents held. They cited numerous examples of revised zoning laws that forced them to abandon their homes for temporary encampments scattered in the hills. There they faced harassment by LPI “squatter” patrols. There’s been no official acknowledgement from New York.
+DENVER — A coalition of impoverished Colorado residents made an appeal to the Liberty government today, presenting a message entitled: “Being poor is not illegal.” The prepared statement was addressed to the legislature in Manhattan and summarized a list of the grievances that many long-time Colorado residents held. They cited numerous examples of revised zoning laws that forced them to abandon their homes for temporary encampments scattered in the hills. There they faced harassment by LPI “squatter” patrols. There’s been no official acknowledgment from New York.
 
 56048
 NAME
@@ -12665,7 +12665,7 @@ Crime in the Family
 
 56049
 NAME
-HOUSTON — A recent poll showed that more than 80 percent of the entire population of Houston has a family member that has been convicted of a crime or has served time on an LPI ship. However, only 30 percent of all those employed in the Fertilizer or Construction machinery plants have been convicted of a felony offense. For many it seems that working the plants is their only chance at leading a legitimate life.
+HOUSTON — A recent poll showed that more than 80 percent of the entire population of Houston has a family member that has been convicted of a crime or has served time on an LPI ship. However, only 30 percent of all those employed in the Fertilizer or Construction machinery plants have been convicted of a felony offense. For many, it seems that working the plants is their only chance at leading a legitimate life.
 
 56050
 NAME
@@ -12681,7 +12681,7 @@ Houston Resident Recovers Loot
 
 56053
 NAME
-HOUSTON — Horace Whittaker was awakened last week to the sound of a terrific explosion outside his home. A smoking crater was all that remained of his backyard and a Liberty Rogue ship that had plummeted from the skies. The next day, as Whittaker surveyed the wreckage, he spotted something shining in the ashes. It turned out to be a Diamond. “I started digging through that mess like crazy,” Whittaker reported. When all was told, he had recovered over a million credits in Diamonds. According to Liberty law the Diamonds are his.
+HOUSTON — Horace Whittaker was awakened last week to the sound of a terrific explosion outside his home. A smoking crater was all that remained of his backyard and a Liberty Rogue ship that had plummeted from the skies. The next day, as Whittaker surveyed the wreckage, he spotted something shining in the ashes. It turned out to be a Diamond. “I started digging through that mess like crazy,” Whittaker reported. When all was told, he had recovered over a million credits in Diamonds. According to Liberty law, the Diamonds are his.
 
 56054
 NAME
@@ -12689,7 +12689,7 @@ The Guild is Looking for New Blood
 
 56055
 NAME
-HOUSTON — They say the best way to catch a criminal is to hire one, and that is exactly what the Bounty Hunters Guild is doing in the following months. Guild masters will be coming in from New York to recruit new Bounty Hunters into the organization. For many this is an excellent opportunity to leave Texas and make their fortunes adventuring in space. Any applicants who qualify will receive training and benefits, although all pay is earned exclusively through successful bounty collections.
+HOUSTON — They say the best way to catch a criminal is to hire one, and that is exactly what the Bounty Hunters Guild is doing in the following months. Guild masters will be coming in from New York to recruit new Bounty Hunters into the organization. For many, this is an excellent opportunity to leave Texas and make their fortunes adventuring in space. Any applicants who qualify will receive training and benefits, although all pay is earned exclusively through successful bounty collections.
 
 56056
 NAME
@@ -12713,7 +12713,7 @@ Xeno Prison Populations Growing
 
 56061
 NAME
-HUNTSVILLE — Soon a Xeno leader will finish his sentence aboard the Huntsville and likely rejoin his partners in crime. Figures show that for every Xeno that enters the Texas prison system, three more exit. Apparently the Xenos are using the LPI ships as prime recruiting stations for their war against foreign shippers. This criminal group is currently the fastest growing illegal faction within Liberty. If this trend continues, Xenos will outnumber Rogues in fifteen years.
+HUNTSVILLE — Soon a Xeno leader will finish his sentence aboard the Huntsville and likely rejoin his partners in crime. Figures show that for every Xeno that enters the Texas prison system, three more exit. Apparently, the Xenos are using the LPI ships as prime recruiting stations for their war against foreign shippers. This criminal group is currently the fastest-growing illegal faction within Liberty. If this trend continues, Xenos will outnumber Rogues in fifteen years.
 
 56062
 NAME
@@ -12737,7 +12737,7 @@ Today is Emperor Pausbeck’s Day
 
 56067
 NAME
-NEW BERLIN — This Pausbeck’s Day is of special significance because it marks the 500-year anniversary of the disaster that destroyed Muleheim. After spending millions to outfit the Ring with mirrors in the hopes of reflecting the sun’s energy onto the dark side of New Berlin, Emperor Pausbeck’s contraption fired a beam that was effectively an orbital laser strike on the city of Muleheim. Every year since it has become tradition to do something foolish for Pausbeck’s Day, so what are you going to do?
+NEW BERLIN — This Pausbeck’s Day is of special significance because it marks the 500th anniversary of the disaster that destroyed Muleheim. After spending millions to outfit the Ring with mirrors in the hopes of reflecting the sun’s energy onto the dark side of New Berlin, Emperor Pausbeck’s contraption fired a beam that was effectively an orbital laser strike on the city of Muleheim. Every year since it has become a tradition to do something foolish for Pausbeck’s Day, so what are you going to do?
 
 56068
 NAME
@@ -12753,7 +12753,7 @@ Daumann Introduces New Weapon
 
 56071
 NAME
-THE RING — Daumann’s weapons Research and Development Division announced that it had created a new Side Arm that would compete with the ever-popular Detroit Perforator. The new weapon will be called the Daumann Shredder, capable of firing extremely high velocity splinters made of depleted Uranium. The thousands of projectiles contained in a typical burst have been shredding targets in Daumann tests.
+THE RING — Daumann’s weapons Research and Development Division announced that it had created a new Side Arm that would compete with the ever-popular Detroit Perforator. The new weapon will be called the Daumann Shredder, capable of firing extremely high-velocity splinters made of depleted Uranium. The thousands of projectiles contained in a typical burst have been shredding targets in Daumann tests.
 
 56072
 NAME
@@ -12777,7 +12777,7 @@ Junkers: Too much Trash?
 
 56077
 NAME
-KREUZBERG — The scavengers of Sirius who make their home in New Berlin are complaining that just because they are called Junkers doesn’t mean that they will take anything. “People are bringing us their garbage and expecting us to trade for it,” Otto Schumann reported. Apparently Rheinland’s economic woes are affecting everyone, even the criminals. “I can’t sell it to ALG like Scrap Metal, and these people are expecting me to trade them Food and Consumer Goods for it,” Schumann later added.
+KREUZBERG — The scavengers of Sirius who make their home in New Berlin are complaining that just because they are called Junkers doesn’t mean that they will take anything. “People are bringing us their garbage and expecting us to trade for it,” Otto Schumann reported. Apparently, Rheinland’s economic woes are affecting everyone, even the criminals. “I can’t sell it to ALG like Scrap Metal, and these people are expecting me to trade them Food and Consumer Goods for it,” Schumann later added.
 
 56078
 NAME
@@ -12793,7 +12793,7 @@ Drug Ring Uncovered in Docks
 
 56081
 NAME
-HAMBURG — Dock loaders employed by Republican Shipping, working in the East Hamburg launch piers were detained yesterday and charged with distributing Cardamine. Republican claims that these men are Unioner operatives working to undermine the image of Republican Shipping. “The crimes that these men committed were reprehensible, and in no way represents the morality of other hard working Republican employees. We only hope that these criminals will be punished to the fullest extent of the law,” a Republican spokesperson was quoted saying.
+HAMBURG — Dock loaders employed by Republican Shipping, working in the East Hamburg launch piers were detained yesterday and charged with distributing Cardamine. Republican claims that these men are Unioner operatives working to undermine the image of Republican Shipping. “The crimes that these men committed were reprehensible, and in no way represents the morality of other hard-working Republican employees. We only hope that these criminals will be punished to the fullest extent of the law,” a Republican spokesperson was quoted saying.
 
 56082
 NAME
@@ -12809,7 +12809,7 @@ Racing Banned within City Limits
 
 56085
 NAME
-HAMBURG — Twenty-three employees of the accounting firm Junger and Prowst were killed and scores injured tonight in what officials are calling the worst tragedy ever resulting from skiff racing in Hamburg City. Four skiffs were racing on the third elevation deck of the north quadrant when one of the pilots lost control and barreled into an H-Fuel-laden transport. The transport’s driver ejected just as the ship crashed into the thirty fourth floor of Junger and Prowst’s main offices.
+HAMBURG — Twenty-three employees of the accounting firm Junger and Prowst were killed and scores injured tonight in what officials are calling the worst tragedy ever resulting from skiff racing in Hamburg City. Four skiffs were racing on the third elevation deck of the north quadrant when one of the pilots lost control and barreled into an H-Fuel-laden transport. The transport’s driver ejected just as the ship crashed into the thirty-fourth floor of Junger and Prowst’s main offices.
 
 56086
 NAME
@@ -12817,7 +12817,7 @@ Authorities Thwart Hessian Attack
 
 56087
 NAME
-LÜBECK — Fighters were scrambled yesterday from the battleship Westfalen and Lübeck police base when reports came in of two Red Hessian squads near Altona. The military patrols encountered the Hessians first, north of the Südheide. The two squads were identified as the 3rd and 4th belonging to the Broken Pick Brigade. Half of the pirates broke off to engage the military patrol while the others continued westward. Police intercepted the second group near Hannover. After several minutes of intense fighting the remaining Hessians fled.
+LÜBECK — Fighters were scrambled yesterday from the battleship Westfalen and Lübeck police base when reports came in of two Red Hessian squads near Altona. The military patrols encountered the Hessians first, north of the Südheide. The two squads were identified as the 3rd and 4th belonging to the Broken Pick Brigade. Half of the pirates broke off to engage the military patrol while the others continued westward. Police intercepted the second group near Hannover. After several minutes of intense fighting, the remaining Hessians fled.
 
 56088
 NAME
@@ -12841,7 +12841,7 @@ Celebrity Endorses Glitzy Cabaret
 
 56093
 NAME
-HAMBURG — Erika Muller is opening a new cabaret in the heart of Hamburg’s industrial district. The famous singer will be performing in an effort to boost attendances for the grand opening of the cabaret named “The Bomb,” which is scheduled to open next week. Audiences are expected to come from throughout the system. Muller hasn’t made a personal appearance in over three years, having isolated herself from the public after the death of her husband, the late Captain Hans Muller of Lübeck Station. Captain Muller was thrust into the limelight after rescuing Erika’s ship from Red Hessians several years ago.
+HAMBURG — Erika Muller is opening a new cabaret in the heart of Hamburg’s industrial district. The famous singer will be performing in an effort to boost attendance for the grand opening of the cabaret named “The Bomb,” which is scheduled to open next week. Audiences are expected to come from throughout the system. Muller hasn’t made a personal appearance in over three years, having isolated herself from the public after the death of her husband, the late Captain Hans Muller of Lübeck Station. Captain Muller was thrust into the limelight after rescuing Erika’s ship from Red Hessians several years ago.
 
 56094
 NAME
@@ -12857,7 +12857,7 @@ Farmers Singing the Blues
 
 56097
 NAME
-STUTTGART — Independent farmers on Stuttgart have been sending complaints to New Berlin again. This time it’s not about swine or squeloms, but blue jillies. The native Stuttgart flower has had yet another bad growing season. The farmers contend that the culprit is the Synth Foods sponsored CO2 enhancement project that began three decades ago. Synth Foods was not available for comment.
+STUTTGART — Independent farmers on Stuttgart have been sending complaints to New Berlin again. This time it’s not about swine or squeloms, but blue jillies. The native Stuttgart flower has had yet another bad growing season. The farmers contend that the culprit is the Synth Foods-sponsored CO2 enhancement project that began three decades ago. Synth Foods was not available for comment.
 
 56098
 NAME
@@ -12873,7 +12873,7 @@ WVS Ejects LWB Sympathizers
 
 56101
 NAME
-STUTTGART — A group of sixteen farmers from the Reichmann Plains chapter of the WVS were ejected from the organization after the discovery that they were funneling money to the LWB. WVS representative James Tomlinson said, “We can’t have our people supporting terrorists — it is just unethical.” The farmers thrown out of the growing association have made claims that the WVS is under Synth Foods control since the Rheinland government forced out the old board members.
+STUTTGART — A group of sixteen farmers from the Reichmann Plains chapter of the WVS were ejected from the organization after the discovery that they were funneling money to the LWB. WVS representative James Tomlinson said, “We can’t have our people supporting terrorists — it is just unethical.” The farmers thrown out of the growing association have made claims that the WVS is under Synth Foods’ control since the Rheinland government forced out the old board members.
 
 56102
 NAME
@@ -12881,7 +12881,7 @@ Trouble in Paradise
 
 56103
 NAME
-BADEN-BADEN — Orbital Spa and Cruise Line’s luxury liner Baden-Baden is posting record losses this quarter. Orbital representatives are blaming the declining Rheinland economy for the unexpected revenue shortfall. “We have resorts throughout Sirius, but Baden-Baden is the only unprofitable facility,” said Orbital’s Executive Vice President of Operations, Bill Johnson. To make up for the losses there has been talk of shipping in Liberty economy-class tourists to the resort. Many Stuttgart citizens who believe that there is enough Liberty presence in the system already picketed the Orbital office on Monday.
+BADEN-BADEN — Orbital Spa and Cruise Line’s luxury liner Baden-Baden is posting record losses this quarter. Orbital representatives are blaming the declining Rheinland economy for the unexpected revenue shortfall. “We have resorts throughout Sirius, but Baden-Baden is the only unprofitable facility,” said Orbital’s Executive Vice President of Operations, Bill Johnson. To make up for the losses, there has been talk of shipping in Liberty economy-class tourists to the resort. Many Stuttgart citizens who believe that there is enough Liberty presence in the system already picketed the Orbital office on Monday.
 
 56104
 NAME
@@ -12921,7 +12921,7 @@ GMG No Longer a Threat
 
 56113
 NAME
-FRANKFURT — It looks like the GMG probes into the Frankfurt system might finally be a thing of the past. Since the end of the Eighty Years War, the GMG have periodically launched raids against the Kruger-owned Mannheim H-fuel facility. The Fulda Border Station has reported no GMG activity during the last several years. Although this is good news for Frankfurt, it is unlikely that many people will ever populate the nearly deserted system.
+FRANKFURT — It looks like the GMG probes into the Frankfurt system might finally be a thing of the past. Since the end of the Eighty Years War, the GMG has periodically launched raids against the Kruger-owned Mannheim H-fuel facility. The Fulda Border Station has reported no GMG activity during the last several years. Although this is good news for Frankfurt, it is unlikely that many people will ever populate the nearly deserted system.
 
 56114
 NAME
@@ -12929,7 +12929,7 @@ Synth Foods Convoys Collide
 
 56115
 NAME
-STUTTGART — In its most daring attack to date, the LWB attacked two Synth Foods convoys traveling in opposite directions along the Trade Lanes between the New Berlin Jump Gate and Planet Stuttgart. “Next thing you know we’ve got four inbound missiles headed right for us,” said one of the transport gunners, Karl Gruber. Both ships dropped out of the Lanes to find themselves surrounded by the largest LWB force yet assembled. The momentum of the fast-moving transports in the Trade Lanes caused several ships to collide before they could undertake evasive maneuvers. This is a well-known Hessian tactic that the LWB have apparently adopted.
+STUTTGART — In its most daring attack to date, the LWB attacked two Synth Foods convoys traveling in opposite directions along the Trade Lanes between the New Berlin Jump Gate and Planet Stuttgart. “Next thing you know we’ve got four inbound missiles headed right for us,” said one of the transport gunners, Karl Gruber. Both ships dropped out of the Lanes to find themselves surrounded by the largest LWB force yet assembled. The momentum of the fast-moving transports in the Trade Lanes caused several ships to collide before they could undertake evasive maneuvers. This is a well-known Hessian tactic that the LWB has apparently adopted.
 
 56116
 NAME
@@ -12961,7 +12961,7 @@ Famous Bounty Hunter Dies
 
 56123
 NAME
-SHROPSHIRE — Emma Harris, one of Bretonia’s most successful Bounty Hunters, passed away at her estate on Sunday evening. From humble beginnings, Harris became renowned for her incredible skill as a pilot, including her daring tactics. She was catapulted to fame when she killed five Mollys single handedly and captured one of their top leaders, Seamus O’Riordan. Harris amassed great personal wealth from hunting and retired at the age of 57. Never one to sit still, Harris began a crusade against what she called “the social bigotry of our society.”
+SHROPSHIRE — Emma Harris, one of Bretonia’s most successful Bounty Hunters, passed away at her estate on Sunday evening. From humble beginnings, Harris became renowned for her incredible skill as a pilot, including her daring tactics. She was catapulted to fame when she killed five Mollys single-handedly and captured one of their top leaders, Seamus O’Riordan. Harris amassed great personal wealth from hunting and retired at the age of 57. Never one to sit still, Harris began a crusade against what she called “the social bigotry of our society.”
 
 56124
 NAME
@@ -12977,7 +12977,7 @@ BMM Executive Meets Violent End
 
 56127
 NAME
-THAMES — Quincy Pierce, Executive Vice President of Labor Relations for BMM and father of two, was found dead on Thursday. Molly assassins penetrated security at Thames Outpost late Wednesday night and made their way to Pierce’s office. The VP was often known to work late, and the Mollys used this information to strike. They killed him with a blow to the head by a pickaxe that was left in the office. The murderers also left some fools gold, the Mollys infamous and gruesome calling card, in the executive’s pocket.
+THAMES — Quincy Pierce, Executive Vice President of Labor Relations for BMM and father of two, was found dead on Thursday. Molly assassins penetrated security at Thames Outpost late Wednesday night and made their way to Pierce’s office. The VP was often known to work late, and the Mollys used this information to strike. They killed him with a blow to the head by a pickaxe that was left in the office. The murderers also left some fools’ gold, the Mollys infamous and gruesome calling card, in the executive’s pocket.
 
 56128
 NAME
@@ -13001,7 +13001,7 @@ Hackers Avoid Capture Yet Again
 
 56133
 NAME
-KINGSTON — Two days ago the Lane Hackers seized a Bowex Gold shipment headed for Liberty space and disappeared before authorities could get to them. The Hackers are known for their advanced technology that allows them to strike with stunning accuracy at the most valuable ship convoys. This attack was no different. IC is posting mammoth rewards for the live capture of any Lane Hacker, and many Bounty Hunters are getting ready to try and collect. As of yet the well financed pirate organization has been too slippery to let one of its own be captured alive.
+KINGSTON — Two days ago the Lane Hackers seized a Bowex Gold shipment headed for Liberty space and disappeared before authorities could get to them. The Hackers are known for their advanced technology that allows them to strike with stunning accuracy at the most valuable ship convoys. This attack was no different. IC is posting mammoth rewards for the live capture of any Lane Hacker, and many Bounty Hunters are getting ready to try and collect. As of yet, the well-financed pirate organization has been too slippery to let one of its own be captured alive.
 
 56134
 NAME
@@ -13009,7 +13009,7 @@ Outcast Plague Blamed on Liberty
 
 56135
 NAME
-SHEFFIELD STATION — A recent study funded by Bowex has shown that the majority of Outcasts that travel through Bretonia are trying to pass through to Liberty, where they sell their narcotic Cardamine into the black markets. “The damage they do here is circumstantial. They are criminals, so they have no qualms about piracy, but there is nothing drawing them to Bretonia in particular, except the path to Liberty,” researcher Alistair Jordan stated in a special press conference held on the station. Unfortunately, these findings do not diminish the effect that Outcasts have had in Manchester.
+SHEFFIELD STATION — A recent study funded by Bowex has shown that the majority of Outcasts that travel through Bretonia are trying to pass through to Liberty, where they sell their narcotic Cardamine into the black markets. “The damage they do here is circumstantial. They are criminals, so they have no qualms about piracy, but nothing is drawing them to Bretonia in particular, except the path to Liberty,” researcher Alistair Jordan stated in a special press conference held on the station. Unfortunately, these findings do not diminish the effect that Outcasts have had in Manchester.
 
 56136
 NAME
@@ -13033,7 +13033,7 @@ Another Prison in Manchester?
 
 56141
 NAME
-MANCHESTER — It looks like there may be a need to build another prison facility in addition to the infamous Newgate Prison in Manchester. Planners are just speculating right now, but it is more than likely that if a second penitentiary is added, it will be built adjacent to the first national prison ship. The belief is that it will be more efficient to protect the two facilities if they are in close proximity to each other. Projections show that the Newgate population will be at twice its intended capacity within ten years if current trends hold.
+MANCHESTER — It looks like there may be a need to build another prison facility in addition to the infamous Newgate Prison in Manchester. Planners are just speculating right now, but it is more than likely that if a second penitentiary is added, it will be built adjacent to the first national prison ship. The belief is that it will be more efficient to protect the two facilities if they close to each other. Projections show that the Newgate population will be at twice its intended capacity within ten years if current trends hold.
 
 56142
 NAME
@@ -13121,7 +13121,7 @@ BMM Pressured to Clean up Dump
 
 56163
 NAME
-SETTLEMENT 9171 — The residents of Mining Settlement 9171 are lodging an official complaint with the Bretonian Government today. It was recently discovered that the newly established settlement is situated on a centuries old toxic waste dump. Already there are reports of widespread sickness and some deaths. BMM built 9171 when it was discovered that there were previously unexploited copper deposits far below the surface. “The reason nobody did any digging around here was because of the toxic waste dump. BMM just figured they wouldn’t let that stop them anymore,” stated Brian Roberts, a resident of 9171.
+SETTLEMENT 9171 — The residents of Mining Settlement 9171 are lodging an official complaint with the Bretonian Government today. It was recently discovered that the newly established settlement is situated on a centuries-old toxic waste dump. Already there are reports of widespread sickness and some deaths. BMM built 9171 when it was discovered that there were previously unexploited copper deposits far below the surface. “The reason nobody did any digging around here was because of the toxic waste dump. BMM just figured they wouldn’t let that stop them anymore,” stated Brian Roberts, a resident of 9171.
 
 56164
 NAME
@@ -13129,7 +13129,7 @@ Mollys Captured Aboard LD-14
 
 56165
 NAME
-LD-14 — The security screening process that an individual must go through to work at the LD-14 MOX processing facility is rigorous, but recent events have shown that these measures may still be inadequate. Two Molly operatives where captured Wednesday as they attempted to transmit coded messages from a long-range mobile communicator aboard LD-14. Under interrogation the men reported that they had been coerced by Molly agents to transmit shipping schedules and cargo manifests. Both men have been detained on the battleship York until sentencing next week.
+LD-14 — The security screening process that an individual must go through to work at the LD-14 MOX processing facility is rigorous, but recent events have shown that these measures may still be inadequate. Two Molly operatives were captured Wednesday as they attempted to transmit coded messages from a long-range mobile communicator aboard LD-14. Under interrogation, the men reported that they had been coerced by Molly agents to transmit shipping schedules and cargo manifests. Both men have been detained on the battleship York until sentencing next week.
 
 56166
 NAME
@@ -13145,7 +13145,7 @@ BMM has Eye on the Border Worlds
 
 56169
 NAME
-STOKES — It is no secret that Leeds and the Stokes Field have almost been completely mined out. This is disturbing news for BMM officials who must begin to look elsewhere for the raw materials needed to fuel Bretonian industry. BMM executives have already begun searching for new sources of material and have met with some success in the Border Worlds. “Unfortunately, these systems beyond the edge of Bretonian rule are very dangerous to operate in, therefore incurring far greater security costs,” said BMM representative Patrick Chamberlain.
+STOKES — It is no secret that Leeds and the Stokes Field have almost been completely mined out. This is disturbing news for BMM officials who must begin to look elsewhere for the raw materials needed to fuel the Bretonian industry. BMM executives have already begun searching for new sources of material and have met with some success in the Border Worlds. “Unfortunately, these systems beyond the edge of Bretonian rule are very dangerous to operate in, therefore incurring far greater security costs,” said BMM representative Patrick Chamberlain.
 
 56170
 NAME
@@ -13161,7 +13161,7 @@ A New Regent for Cambridge
 
 56173
 NAME
-CAMBRIDGE — In a shocking move, Lord Arthur Braintree announced his retirement from the Cambridge University’s Board of Regents yesterday. He cited health problems and a want to: “spend [his] winter amongst family.” This means that a new professor will be chosen by the current regents and the college of professors to ascend to regency. This position is one of great power in Cambridge, and many say the regents are nearly as powerful as the crown in many respects. There are many possible candidates, but no date has been set for the academic games which will weed-out the less worthy scholars.
+CAMBRIDGE — In a shocking move, Lord Arthur Braintree announced his retirement from the Cambridge University’s Board of Regents yesterday. He cited health problems and a want to: “spend [his] winter amongst family.” This means that a new professor will be chosen by the current regents and the college of professors to ascend to the regency. This position is one of great power in Cambridge, and many say the regents are nearly as powerful as the crown in many respects. There are many possible candidates, but no date has been set for the academic games which will weed out the less worthy scholars.
 
 56174
 NAME
@@ -13241,7 +13241,7 @@ Shikoku Crime Wave Hits Workers
 
 56193
 NAME
-JUNYO — Many of Junyo’s workers are threatening to leave the planetside seafood farms if something is not done about the ever-increasing crime rates in Shikoku. The system is infamous for its prison and the foreigners’ base at Deshima. A large percentage of the employees who work on Junyo are forced to live at Deshima because of housing costs on the Junyo platforms and the lack of alternatives to the Bounty Hunter-owned base. “I don’t like being worried every time my transport enters the Trade Lanes,” quoted one fish farmer about his commute.
+JUNYO — Many of Junyo’s workers are threatening to leave the planetside seafood farms if something is not done about the ever-increasing crime rates in Shikoku. The system is infamous for its prison and the foreigners’ base at Deshima. A large percentage of the employees who work on Junyo is forced to live at Deshima because of housing costs on the Junyo platforms and the lack of alternatives to the Bounty Hunter-owned base. “I don’t like being worried every time my transport enters the Trade Lanes,” quoted one fish farmer about his commute.
 
 56194
 NAME
@@ -13273,7 +13273,7 @@ GC Popular with Younger Women
 
 56201
 NAME
-NEW TOKYO — An independent news organization conducted a secret poll recently and discovered some surprising results. It appears that three quarters of the female population in New Tokyo under the age of thirty support the actions of the terrorist group Golden Chrysanthemums. Many of those questioned in the polls stated that they believe what the Golden C. are doing is best for Kusari in the long run. Government sources responded to the findings in an official statement, “Since the terrorist organization began operations Cardamine abuse is up 200 percent, and piracy is up 29 percent.”
+NEW TOKYO — An independent news organization conducted a secret poll recently and discovered some surprising results. It appears that three-quarters of the female population in New Tokyo under the age of thirty support the actions of the terrorist group Golden Chrysanthemums. Many of those questioned in the polls stated that they believe what the Golden C. is doing is best for Kusari in the long run. Government sources responded to the findings in an official statement, “Since the terrorist organization began operations Cardamine abuse is up 200 percent, and piracy is up 29 percent.”
 
 56202
 NAME
@@ -13281,7 +13281,7 @@ Alliance Candidate Ahead in Polls
 
 56203
 NAME
-KYUSHU — Many have been surprised by Farmers Alliance-backed gubernatorial candidate for Kyushu Hakita Toho’s popularity and strength in the polls. It appears that Toho has a strong lead over current governor and incumbent Hitoshi Sasaki. Toho has been electrifying his audiences at rallies in the past two months, and now it looks like all that leg work is starting to pay off. The elections will be held within the next two weeks, and everyone is watching to see who will emerge as the new leader of Kyushu.
+KYUSHU — Many have been surprised by Farmers Alliance-backed gubernatorial candidate for Kyushu Hakita Toho’s popularity and strength in the polls. It appears that Toho has a strong lead over the current governor and incumbent Hitoshi Sasaki. Toho has been electrifying his audiences at rallies in the past two months, and now it looks like all that leg work is starting to pay off. The elections will be held within the next two weeks, and everyone is watching to see who will emerge as the new leader of Kyushu.
 
 56204
 NAME
@@ -13337,7 +13337,7 @@ Blood Dragon Threat Diminishes
 
 56217
 NAME
-NEW TOKYO — According to statistics and information gathered by the Kusari Military Intelligence Bureau, Blood Dragon activities are inexorably being purged from Kusari space, and the total number of the cursed pirates is declining. “It has been a hard-fought battle, but we are winning the war against evil,” quoted Admiral Nobu, head of the Intelligence Bureau. There are skeptics who say that these reports may be inaccurate since the actual number of Blood Dragon attacks has not diminished in recent years.
+NEW TOKYO — According to statistics and information gathered by the Kusari Military Intelligence Bureau, Blood Dragon activities are inexorably being purged from Kusari space, and the total number of the cursed pirates is declining. “It has been a hard-fought battle, but we are winning the war against evil,” quoted Admiral Nobu, head of the Intelligence Bureau. Some skeptics say that these reports may be inaccurate since the actual number of Blood Dragon attacks has not diminished in recent years.
 
 56218
 NAME
@@ -13377,7 +13377,7 @@ Osaka Negotiations Deadlocked
 
 56227
 NAME
-OSAKA — After the third week of talks it looks like Samura and the GMG cannot find common ground in negotiating future gas mining contracts. Samura representatives are not accepting the elevated prices that the GMG has proposed for business between the two entities. “The prices they are asking for are much higher than what we are paying in the current contracts,” said one Samura source. The GMG has argued that it is becoming more expensive to mine gas since its ships must go further afield looking for new gas sources.
+OSAKA — After the third week of talks, it looks like Samura and the GMG cannot find common ground in negotiating future gas mining contracts. Samura representatives are not accepting the elevated prices that the GMG has proposed for business between the two entities. “The prices they are asking for are much higher than what we are paying in the current contracts,” said one Samura source. The GMG has argued that it is becoming more expensive to mine gas since its ships must go further afield looking for new gas sources.
 
 56228
 NAME
@@ -13393,7 +13393,7 @@ Yukawa Posts Record Earnings
 
 56231
 NAME
-YUKAWA — Yukawa Shipyards, home of Kishiro’s famous Civilian Class spacecraft, is reporting record profits this quarter. “We are very excited about what this means for our company and shipbuilding in Kusari,” said Kazu Noda, Kishiro master ship builder. Many are beginning to question who will emerge as the dominant Kusari corporation in the coming years, especially if things continue to develop as they have of late. Samura’s long reign as largest corporation in the Sirius Sector may be over.
+YUKAWA — Yukawa Shipyards, home of Kishiro’s famous Civilian Class spacecraft, is reporting record profits this quarter. “We are very excited about what this means for our company and shipbuilding in Kusari,” said Kazu Noda, Kishiro master ship builder. Many are beginning to question who will emerge as the dominant Kusari corporation in the coming years, especially if things continue to develop as they have of late. Samura’s long reign as the largest corporation in the Sirius Sector may be over.
 
 56232
 NAME
@@ -13441,7 +13441,7 @@ Piracy Costs Millions Annually
 
 56243
 NAME
-CORTEZ — IC has released numbers detailing the credit amount of shipping losses incurred each year by the three criminal groups that populate the system. According to IC statistics the Lane Hackers are responsible for the greatest loss in profits of stolen goods. The Liberty Rogues account for the most strikes undertaken, and the Outcasts kill more than both of the other two groups combined. “These numbers are very disconcerting, and obviously more must be done to stop the perpetrators of these terrible crimes,” said Raymond Green, an IC representative.
+CORTEZ — IC has released numbers detailing the credit amount of shipping losses incurred each year by the three criminal groups that populate the system. According to IC statistics, the Lane Hackers are responsible for the greatest loss in profits of stolen goods. The Liberty Rogues account for the most strikes undertaken, and the Outcasts kill more than both of the other two groups combined. “These numbers are very disconcerting, and obviously more must be done to stop the perpetrators of these terrible crimes,” said Raymond Green, an IC representative.
 
 56244
 NAME
@@ -13509,11 +13509,11 @@ HOLMAN OUTPOST — The IMG-owned Holman Outpost in Tau-31 was the site of an ang
 
 56260
 NAME
-Dissention over Tau Border Worlds
+Dissension over Tau Border Worlds
 
 56261
 NAME
-FREEPORT 6 — The Kusari and Bretonia governments have offered sharply different views of the growing problem of Outcast piracy along the Tau system Trade Lanes in recent months. New Tokyo blames Bretonia for provoking the Outcast attacks by pushing too aggressively into the Tau-23 system. New London denies the accusations, attributing the growing losses to increased Samura activity in the northern area of Tau-29. An IC official close to the matter admitted that both arguments have some validity.
+FREEPORT 6 — The Kusari and Bretonia governments have offered sharply different views of the growing problem of Outcast piracy along with the Tau system Trade Lanes in recent months. New Tokyo blames Bretonia for provoking the Outcast attacks by pushing too aggressively into the Tau-23 system. New London denies the accusations, attributing the growing losses to increased Samura activity in the northern area of Tau-29. An IC official close to the matter admitted that both arguments have some validity.
 
 56262
 NAME
@@ -13537,7 +13537,7 @@ IC to stop Insuring Omega Shipping
 
 56267
 NAME
-FREISTADT — In recent weeks, the number of attacks on shipping by Hessians and Corsairs has reached crisis levels within Omega-7. Only 50 percent of all convoys have successfully completed their trips. Interspace Commerce has threatened to issue a travel warning for all shipping companies as soon as tomorrow, which would effectively shut down Bretonia-Rheinland trade. Travel warnings represent the most serious threat level assessed by IC, effectively ceasing any insurance coverage for a shipper who dares venture forth.
+FREISTADT — In recent weeks, the number of attacks on shipping by Hessians and Corsairs has reached crisis levels within Omega-7. Only 50 percent of all convoys have successfully completed their trips. Interspace Commerce has threatened to issue a travel warning for all shipping companies as soon as tomorrow, which would effectively shut down the Bretonia-Rheinland trade. Travel warnings represent the most serious threat level assessed by IC, effectively ceasing any insurance coverage for a shipper who dares venture forth.
 
 56268
 NAME
@@ -13561,7 +13561,7 @@ Two Companies Spar in Omega-3
 
 56273
 NAME
-FREEPORT 1 — Looking across the vast ice fields of the Barrier, one could imagine that there is little of economic value to find. In reality, the asteroids in Omega-3 contain valuable Hydrocarbons that have become the focus of competing claims by BMM and Daumann within the system. So far BMM appears to have the upper hand, thanks to the efforts of the Red Hessians, who harbor a deep hatred for all things Daumann. But the Corsairs may tip the balance in Daumann’s favor, as they do not discriminate when choosing their victims.
+FREEPORT 1 — Looking across the vast ice fields of the Barrier, one could imagine that there is little economic value to find. In reality, the asteroids in Omega-3 contain valuable Hydrocarbons that have become the focus of competing claims by BMM and Daumann within the system. So far BMM appears to have the upper hand, thanks to the efforts of the Red Hessians, who harbor a deep hatred for all things Daumann. But the Corsairs may tip the balance in Daumann’s favor, as they do not discriminate when choosing their victims.
 
 56274
 NAME
@@ -13577,7 +13577,7 @@ Is the GMG in Control of Sigma-13?
 
 56277
 NAME
-NAHA — Kusari and Rheinland shippers are questioning whether the GMG is able to control the mounting menace of Outcasts and Corsairs crossing its space within Sigma-13. Despite frequent GMG patrols, criminal activity in the system has steadily risen since the arrival of the Junkers and ALG several years ago. The Rheinland Military is forbidden to enter the system according to the rules laid out in the treaty that ended the 80-Years War. The Kusari Naval Forces are also reluctant to undertake the task, given New Tokyo’s often complicated relationship with the fiercely independent Guild.
+NAHA — Kusari and Rheinland shippers are questioning whether the GMG can control the mounting menace of Outcasts and Corsairs crossing its space within Sigma-13. Despite frequent GMG patrols, criminal activity in the system has steadily risen since the arrival of the Junkers and ALG several years ago. The Rheinland Military is forbidden to enter the system according to the rules laid out in the treaty that ended the 80-Years War. The Kusari Naval Forces are also reluctant to undertake the task, given New Tokyo’s often complicated relationship with the fiercely independent Guild.
 
 56278
 NAME
@@ -13593,7 +13593,7 @@ Outcasts Continue Sigma-17 Attacks
 
 56281
 NAME
-KURILE — The Outcasts continue to apply pressure in the Sigma-17 system, this time against corporate shipping. Several Samura transports and Cryer Research ships have been destroyed with all hands lost following a series of especially merciless attacks in recent days, leading authorities to speculate that the Outcasts harbor particularly negative feelings towards the two corporations active in the area. In all cases the cargos of Alien Organisms were destroyed on the spot by the pirates.
+KURILE — The Outcasts continue to apply pressure in the Sigma-17 system, this time against corporate shipping. Several Samura transports and Cryer Research ships have been destroyed with all hands lost following a series of especially merciless attacks in recent days, leading authorities to speculate that the Outcasts harbor particularly negative feelings towards the two corporations active in the area. In all cases, the cargos of Alien Organisms were destroyed on the spot by the pirates.
 
 56282
 NAME
@@ -13641,7 +13641,7 @@ No Junkers In Kusari
 
 56293
 NAME
-ROCHESTER — Ever wondered why there are no Junkers in Kusari? The answer is simple: the Hogosha. The Junkers want to expand into every corner of Sirius space, hoping to exploit the underworld trade in each House. But, true to their isolate nature, the Kusari crime syndicate has kept the foreigners out of Kusari systems. Open conflict has not erupted between the two opposing factions because it is not the Junkers’ way to wage open war. For now, the enterprising scavengers will bide their time until an opportunity in Kusari presents itself.
+ROCHESTER — Ever wondered why there are no Junkers in Kusari? The answer is simple: the Hogosha. The Junkers want to expand into every corner of Sirius space, hoping to exploit the underworld trade in each House. But, true to their isolated nature, the Kusari crime syndicate has kept the foreigners out of Kusari systems. Open conflict has not erupted between the two opposing factions because it is not the Junkers’ way to wage open war. For now, the enterprising scavengers will bide their time until an opportunity in Kusari presents itself.
 
 56294
 NAME
@@ -13665,7 +13665,7 @@ Kindred Spirits
 
 56299
 NAME
-DARMSTADT — There are two groups within Sirius that have never met each other, yet fight for almost the exact same things in different houses. The common link between the groups? Synth Foods. The Farmers Alliance of Kusari and the LWB of Rheinland are both fighting the Liberty corporation desperately, in an attempt to rid their homelands of the ever-encroaching food pastes that feed the majority of Sirius. The LWB is particularly interested in ending the Synth occupation of Planet Stuttgart, while the Farmers Alliance is battling for control of the Kusari food markets.
+DARMSTADT — Two groups within Sirius have never met each other, yet fight for almost the exact same things in different houses. The common link between the groups? Synth Foods. The Farmers Alliance of Kusari and the LWB of Rheinland are both fighting the Liberty corporation desperately, in an attempt to rid their homelands of the ever-encroaching food pastes that feed the majority of Sirius. The LWB is particularly interested in ending the Synth occupation of Planet Stuttgart, while the Farmers Alliance is battling for control of the Kusari food markets.
 
 56300
 NAME
@@ -13673,7 +13673,7 @@ Changing the Status Quo in Kusari
 
 56301
 NAME
-KYOTO — The Hogosha crime syndicate is trying to keep things as they are in the Kusari Empire. This brings them into conflict with the Blood Dragons, a faction whose primary goal is to overthrow the government. It also puts them at odds with the Golden Chrysanthemums, another group that is striving for revolution in Kusari, but for different reasons. The Dragons wish to eliminate government corruption and the Golden C. aim to bring about a new age for women, yet the common goal for these two groups brings them together as allies against the Hogosha.
+KYOTO — The Hogosha crime syndicate is trying to keep things as they are in the Kusari Empire. This brings them into conflict with the Blood Dragons, a faction whose primary goal is to overthrow the government. It also puts them at odds with the Golden Chrysanthemums, another group that is striving for revolution in Kusari, but for different reasons. The Dragons wish to eliminate government corruption and the Golden C. aims to bring about a new age for women, yet the common goal for these two groups brings them together as allies against the Hogosha.
 
 56302
 NAME
@@ -13681,7 +13681,7 @@ Neutral Ground for Everyone
 
 56303
 NAME
-ROCHESTER — It doesn’t matter what group of criminals you belong to, unless you are a Xeno. You are always welcome at a Junker base because you are a potential customer for black market items. From Molly Gold to Corsair Artifacts, the Junkers are willing to buy, sell or trade it all. They also deal in basic Commodities and therefore supply many outlaws. Junker bases also serve as neutral areas for criminals to meet without conflict.
+ROCHESTER — It doesn’t matter what group of criminals you belong to unless you are a Xeno. You are always welcome at a Junker base because you are a potential customer for black market items. From Molly Gold to Corsair Artifacts, the Junkers are willing to buy, sell or trade it all. They also deal in basic Commodities and therefore supply many outlaws. Junker bases also serve as neutral areas for criminals to meet without conflict.
 
 56304
 NAME
@@ -13705,7 +13705,7 @@ Bounty Hunters: Despised By All
 
 56309
 NAME
-HOUSTON — Criminals who’ve gone bad and have no problem hunting down their own join the Bounty Hunters Guild. Every crime organization in Sirius has lost many of their numbers to this group and will lose more. The worst insult to most pirates: Once the Bounty Hunter was just like him or her but now is a lap dog to the corporations. Hunters know the Jump Hole networks and how outlaws operate, which makes them more dangerous than police or military. If you have the opportunity to kill one of them, don’t hesitate.
+HOUSTON — Criminals who’ve gone bad and have no problem hunting down their own join the Bounty Hunters Guild. Every crime organization in Sirius has lost many of its numbers to this group and will lose more. The worst insult to most pirates: Once the Bounty Hunter was just like him or her but now is a lap dog to the corporations. Hunters know the Jump Hole networks and how outlaws operate, which makes them more dangerous than police or military. If you have the opportunity to kill one of them, don’t hesitate.
 
 56310
 NAME
@@ -13721,7 +13721,7 @@ On a Razor’s Edge
 
 56313
 NAME
-FREEPORT 10 — The relationship between Zoners and Outcasts is a precarious one. The Outcasts view the Zoners as somewhat useful, so they do not attack them. The moment that the Outcasts no longer find the Zoners necessary, they will have no compunctions about slaughtering any who are in or near their space. The IMG have a much worse rapport with the faction. Outcasts will kill any miners they come across in the northern Edge Worlds. The last thing that Outcasts want is undue attention by outside factions in their territory.
+FREEPORT 10 — The relationship between Zoners and Outcasts is a precarious one. The Outcasts view the Zoners as somewhat useful, so they do not attack them. The moment that the Outcasts no longer find the Zoners necessary, they will have no compunctions about slaughtering any who are in or near their space. The IMG has a much worse rapport with the faction. Outcasts will kill any miners they come across in the northern Edge Worlds. The last thing that Outcasts want is undue attention from outside factions in their territory.
 
 56314
 NAME
@@ -13761,7 +13761,7 @@ Red Hessian Membership Increasing
 
 56323
 NAME
-DRESDEN — It doesn’t take much in these times of economic woe to convince adventure hearted civilians to become a part of the Hessians. Many who cannot find work are deciding that a pirate’s life is right for them. From Dresden to New Berlin men and women are coming into the fold, and it is only strengthening the organization. The Red Hessians have suffered tragic losses in the war against the Corsairs, but new pilots flood to the Ronneburg daily. Soon the Hessians will stretch from Rheinland to Bretonia.
+DRESDEN — It doesn’t take much in these times of economic woe to convince adventure-hearted civilians to become a part of the Hessians. Many who cannot find work are deciding that a pirate’s life is right for them. From Dresden to New Berlin men and women are coming into the fold, and it is only strengthening the organization. The Red Hessians have suffered tragic losses in the war against the Corsairs, but new pilots flood to the Ronneburg daily. Soon the Hessians will stretch from Rheinland to Bretonia.
 
 56324
 NAME
@@ -13825,7 +13825,7 @@ Rogue Murdered in Bar Dispute
 
 56339
 NAME
-BEAUMONT — Wayne Hancock, a well-liked Liberty Rogue, was killed three days ago when he angered an Outcast drinking next to him at the bar in Beaumont. It is rumored that the two men were arguing, and the Outcast simply drew a weapon and killed the unlucky Rogue. “I heard Wayne say something about how them masks the Outcasts wear look silly. The next thing I know he’s out of his stool and on the floor with four shots in his belly,” said John Kincaid, the bartender who was serving the two.
+BEAUMONT — Wayne Hancock, a well-liked Liberty Rogue, was killed three days ago when he angered an Outcast drinking next to him at the bar in Beaumont. It is rumored that the two men were arguing, and the Outcast simply drew a weapon and killed the unlucky Rogue. “I heard Wayne say something about how the masks the Outcasts wear look silly. The next thing I know he’s out of his stool and on the floor with four shots in his belly,” said John Kincaid, the bartender who was serving the two.
 
 56340
 NAME
@@ -13857,7 +13857,7 @@ Blue Diamond Prices Going Up
 
 56347
 NAME
-KREUZBERG — The Red Hessians are demanding more for Dresden Diamonds recently and are getting what they ask for. Because of a recent craze for blue Diamonds among the Rheinland elite, it looks like the market is going to bear the higher prices. “It’s really getting ridiculous, the prices they are charging,” said Junker Wilhelm Flores. “They expect fair prices from us, so it should work both ways.” The Red Hessians claim that it is becoming harder to smuggle the Diamonds from the Schwefelnebel. “We lose men and ships everyday getting Diamonds here,” said a Hessian smuggler on the situation.
+KREUZBERG — The Red Hessians are demanding more for Dresden Diamonds recently and are getting what they ask for. Because of a recent craze for blue Diamonds among the Rheinland elite, it looks like the market is going to bear the higher prices. “It’s really getting ridiculous, the prices they are charging,” said Junker Wilhelm Flores. “They expect fair prices from us, so it should work both ways.” The Red Hessians claim that it is becoming harder to smuggle the Diamonds from the Schwefelnebel. “We lose men and ships every day getting Diamonds here,” said a Hessian smuggler on the situation.
 
 56348
 NAME
@@ -13865,7 +13865,7 @@ LWB Will Pay for Info on Synth Foods
 
 56349
 NAME
-STUTTGART — The LWB have alerted Kreuzberg that they are looking to buy information about Synth Foods activities. “We don’t have all the information we need about their activities and that is hampering our abilities to coordinate an effective resistance against Synth Foods,” said LWB representative Dietrich Leffler. Though the LWB are not renowned as a particular wealthy or large organization they have made it clear that accurate information will be well rewarded. “We need shipping routes and times, as well as dossiers on top Synth executives,” said Leffler.
+STUTTGART — The LWB has alerted Kreuzberg that they are looking to buy information about Synth Foods' activities. “We don’t have all the information we need about their activities and that is hampering our abilities to coordinate an effective resistance against Synth Foods,” said LWB representative Dietrich Leffler. Though the LWB is not renowned as a particularly wealthy or large organization they have made it clear that accurate information will be well rewarded. “We need shipping routes and times, as well as dossiers on top Synth executives,” said Leffler.
 
 56350
 NAME
@@ -13905,7 +13905,7 @@ More Folks Coming in from Texas
 
 56359
 NAME
-OURAY — Most of the people that our brotherhood is able to recruit from the Huntsville usually end up doing their duty in Hudson, but it looks like we might be getting a good number of members from Texas in the next few weeks. Jake Brown, one of our comrades in arms who is languishing in prison down south, is getting out soon, and according to reports, he’s bringing some new recruits with him. Brown was put away when he tangled with one too many LPI ships near Chisos a couple of years ago. Now it looks like his loss is our gain.
+OURAY — Most of the people that our brotherhood can recruit from the Huntsville usually end up doing their duty in Hudson, but it looks like we might be getting a good number of members from Texas in the next few weeks. Jake Brown, one of our comrades in arms who is languishing in prison down south, is getting out soon, and according to reports, he’s bringing some new recruits with him. Brown was put away when he tangled with one too many LPI ships near Chisos a couple of years ago. Now it looks like his loss is our gain.
 
 56360
 NAME
@@ -13929,7 +13929,7 @@ Cardamine is the Future
 
 56365
 NAME
-BARROW — What’s the best way to get rid of the corporates and the rich in New York? Cardamine. It must become every Xeno’s goal to wrestle away control of the Cardamine from the Junkers in Liberty. If we could find a way to take over their supplies, we could use the drug to control the Manhattan addicts. This would put us in a much stronger financial position and give us the ability to upgrade our weapons and fleet. Then we could truly begin the revolution that would set the Libertonian working class free from the bonds of corruption that restrict so many of us.
+BARROW — What’s the best way to get rid of the corporates and the rich in New York? Cardamine. It must become every Xeno’s goal to wrestle away control of the Cardamine from the Junkers in Liberty. If we could find a way to take over their supplies, we could use the drug to control the Manhattan addicts. This would put us in a much stronger financial position and give us the ability to upgrade our weapons and fleet. Then we could truly begin the revolution that would set the Libertonian working-class free from the bonds of corruption that restrict so many of us.
 
 56366
 NAME
@@ -13969,7 +13969,7 @@ Hackers Announce Record Profits
 
 56375
 NAME
-MAGELLAN — Despite increased bounties offered by IC and Ageira, Lane Hacker operations are just as successful as ever. This quarter both bases posted record profits from lucrative heists that we pulled off. “I don’t know how Liberty ever gets any Gold from Bretonia with the operations we are pulling,” Lane Hacker executive Bill Hunter quoted. Privately many members admit that mounting Cardamine abuse could be a serious drain on Hacker income if not curbed in the near future.
+MAGELLAN — Despite increased bounties offered by IC and Ageira, Lane Hacker operations are just as successful as ever. This quarter both bases posted record profits from lucrative heists that we pulled off. “I don’t know how Liberty ever gets any Gold from Bretonia with the operations we are pulling,” Lane Hacker executive Bill Hunter quoted. Privately many members admit that mounting Cardamine abuse could be a serious drain on Hacker income if not curbed soon.
 
 56376
 NAME
@@ -13985,7 +13985,7 @@ Artifacts Out of Vogue
 
 56379
 NAME
-MACTAN — Every Hacker has Artifacts these days, and it looks like there isn’t much of a market for them among our own numbers. This is a good thing, since we can sell directly on Liberty’s black market. “We’ll make more off them if we stop picking the best ones for ourselves anyway, plus with the new ban on Artifacts, the prices should go up, netting us more in the long run,” quoted John Gustafson.
+MACTAN — Every Hacker has Artifacts these days, and it looks like there isn’t much of a market for them among our own numbers. This is a good thing since we can sell directly on Liberty’s black market. “We’ll make more off them if we stop picking the best ones for ourselves anyway, plus with the new ban on Artifacts, the prices should go up, netting us more in the long run,” quoted John Gustafson.
 
 56380
 NAME
@@ -14001,7 +14001,7 @@ Technology Updates from Ageira
 
 56383
 NAME
-COLORADO — Our code breakers cracked the new encryption code that Ageira designed to protect its USI systems. It would not have been possible without the help of our company operatives. It looks like we are still one step ahead of the game; Ageira will have to come up with another way of stopping us from conducting business. Scores of Lane Hackers still work for Ageira and act as informants for our organization. Through their brave contributions we continue to prosper.
+COLORADO — Our code breakers cracked the new encryption code that Ageira designed to protect its USI systems. It would not have been possible without the help of our company operatives. It looks like we are still one step ahead of the game; Ageira will have to come up with another way of stopping us from conducting business. Scores of Lane Hackers still work for Ageira and act as informants for our organization. Through their brave contributions, we continue to prosper.
 
 56384
 NAME
@@ -14009,7 +14009,7 @@ Corsairs Feel the Pain in Dublin
 
 56385
 NAME
-DUBLIN — Dublin is ours, though it looks like we will have to protect our system and our Gold not only from the Bretonian government, but from the Corsairs, too. Their raids in this system have become increasingly frequent. Over the past month Mollys have destroyed more than fifteen Corsair ships, but at a price. Six of us will draw breath no more because of these new intruders. We must remain vigilant against these new foes, who are tougher and meaner than any Bretonian military.
+DUBLIN — Dublin is ours, though it looks like we will have to protect our system and our Gold not only from the Bretonian government, but from the Corsairs too. Their raids in this system have become increasingly frequent. Over the past month, Mollys have destroyed more than fifteen Corsair ships, but at a price. Six of us will draw breath no more because of these new intruders. We must remain vigilant against these new foes, who are tougher and meaner than any Bretonian military.
 
 56386
 NAME
@@ -14017,7 +14017,7 @@ Guerrilla Tactics Winning the War
 
 56387
 NAME
-DUBLIN — We may have less money and fewer pilots and resources, but we are winning. The Bretonian military cannot stop us from running operations in this system, nor are things much better for them in the rest of Bretonia, where we are able to operate freely. Despite setbacks, we have managed to fight Bretonia to a standstill, and we shall continue until we turn the tide. One day the Crown will realize that Dublin is not worth what it must pay to keep her.
+DUBLIN — We may have less money and fewer pilots and resources, but we are winning. The Bretonian military cannot stop us from running operations in this system, nor are things much better for them in the rest of Bretonia, where we can operate freely. Despite setbacks, we have managed to fight Bretonia to a standstill, and we shall continue until we turn the tide. One day the Crown will realize that Dublin is not worth what it must pay to keep her.
 
 56388
 NAME
@@ -14033,7 +14033,7 @@ More Lies from the Corporations
 
 56391
 NAME
-NEW BERLIN — In a press release issued today the Rheinland government stated that industrial casualties are declining. This information was compiled from annual worker statistics generated by Daumann, Kruger, and Republican. Government officials applauded the companies for their strict adherence to the Workers Rights Convention. Do not be fooled; this is nothing more than propaganda created to lull you into apathy. The truth is that these corporations ignore the Convention. Overworked, overpaid miners die everyday using unsafe equipment. Metal workers fall into vats of molten metal daily, too tired to be careful. This is no time for complacency.
+NEW BERLIN — In a press release issued today the Rheinland government stated that industrial casualties are declining. This information was compiled from annual worker statistics generated by Daumann, Kruger, and Republican. Government officials applauded the companies for their strict adherence to the Workers Rights Convention. Do not be fooled; this is nothing more than propaganda created to lull you into apathy. The truth is that these corporations ignore the Convention. Overworked, overpaid miners die every day using unsafe equipment. Metal workers fall into vats of molten metal daily, too tired to be careful. This is no time for complacency.
 
 56392
 NAME
@@ -14057,7 +14057,7 @@ Native Species on Gaia nearly Extinct
 
 56397
 NAME
-GAIA — The jeweled windbird is in danger of becoming extinct because of bacteria brought to the planet by tourists from Leeds. The small multicolored bird that populated the forests of Gaia is rapidly declining in numbers because of the sickness caused by the alien bacteria. The bacteria make the eggs of the windbird extremely brittle and susceptible to breakage before the fetuses can fully develop. The bacteria have been identified as originating from Leeds and must have been transported by a tourist aboard Orbital Spa’s Shetland liner. The windbird has been the focus of many works of art because of its dazzling beauty and iridescent feathers.
+GAIA — The jeweled wind bird is in danger of becoming extinct because of bacteria brought to the planet by tourists from Leeds. The small multicolored bird that populated the forests of Gaia is rapidly declining in numbers because of the sickness caused by the alien bacteria. The bacteria make the eggs of the wind bird extremely brittle and susceptible to breakage before the fetuses can fully develop. The bacteria have been identified as originating from Leeds and must have been transported by a tourist aboard Orbital Spa’s Shetland liner. The wind bird has been the focus of many works of art because of its dazzling beauty and iridescent feathers.
 
 56398
 NAME
@@ -14089,7 +14089,7 @@ Synth Foods Transport Escapes
 
 56405
 NAME
-HUDSON — Unioner raiders came close to destroying a Synth Foods ship in Hudson that was carrying Paste from Stuttgart to Liberty. Before they could finish the job, the flight of Unioners were set upon by Xenos, who seemed to come to the rescue of the Liberty vessel. The Synth ship was able to flee while our forces engaged the foreign menace. Unioner pilots have been fighting turf wars with the Xenos in Hudson for some time; soon they will be overcome and destroyed.
+HUDSON — Unioner raiders came close to destroying a Synth Foods ship in Hudson that was carrying Paste from Stuttgart to Liberty. Before they could finish the job, the flight of Unioners was set upon by Xenos, who seemed to come to the rescue of the Liberty vessel. The Synth ship was able to flee while our forces engaged the foreign menace. Unioner pilots have been fighting turf wars with the Xenos in Hudson for some time; soon they will be overcome and destroyed.
 
 56406
 NAME
@@ -14097,7 +14097,7 @@ Infiltrator Uncovered During Initiation
 
 56407
 NAME
-AINU — A government agent was discovered last week when she attempted to become a permanent member of our sisterhood. This is the third such spy. When will the government learn that Matsuda watches over us and will not let interlopers into the house of her visionaries? It is unfortunate that a potential sister of ours turned out to be nothing more than an agent for the chauvinists trying to oppress her own gender. It is our duty to enlighten women like her that have been dragged from the truth by the brainwashing of the patriarchal Kusari culture.
+AINU — A government agent was discovered last week when she attempted to become a permanent member of our sisterhood. This is the third such spy. When will the government learn that Matsuda watches over us and will not let interlopers into the house of her visionaries? Unfortunately, a potential sister of ours turned out to be nothing more than an agent for the chauvinists trying to oppress her own gender. We must enlighten women like her that have been dragged from the truth by the brainwashing of the patriarchal Kusari culture.
 
 56408
 NAME
@@ -14121,7 +14121,7 @@ Synth Foods Slowly Gaining Ground
 
 56413
 NAME
-STUTTGART — Though the LWB has been fighting Synth Foods steadily for several decades now, the fight has grown more difficult to protect our homeland from the imperialistic invaders. Soon 80 percent of Stuttgart will be in the hands of Synth, and the climate has already been irrevocably changed. This is not a call for surrender, but a renewal of will against the accursed Liberty corporation. The steps we have been taking to stop the foreign company is not enough; we must intensify pressure to free our lands.
+STUTTGART — Though the LWB has been fighting Synth Foods steadily for several decades now, the fight has grown more difficult to protect our homeland from the imperialistic invaders. Soon 80 percent of Stuttgart will be in the hands of Synth, and the climate has already been irrevocably changed. This is not a call for surrender, but a renewal of will against the accursed Liberty corporation. The steps we have been taking to stop the foreign company are not enough; we must intensify pressure to free our lands.
 
 56414
 NAME
@@ -14129,7 +14129,7 @@ A Century of Strife
 
 56415
 NAME
-DARMSTADT — LWB leaders are planning a massive strike on Synth Food operations next week on the one hundredth anniversary of the Liberty company’s invasion of Stuttgart. The details of the plan have not yet been released, but LWB veterans have been warned to be available for a large-scale operation. This plan only includes members of the LWB whose family had land taken from them by Synth Foods, since the risk factor is rumored to be very high. Next week will be one of great importance for our small band of freedom fighters.
+DARMSTADT — LWB leaders are planning a massive strike on Synth Food operations next week on the one-hundredth anniversary of the Liberty company’s invasion of Stuttgart. The details of the plan have not yet been released, but LWB veterans have been warned to be available for a large-scale operation. This plan only includes members of the LWB whose family had land taken from them by Synth Foods, since the risk factor is rumored to be very high. Next week will be one of great importance for our small band of freedom fighters.
 
 56416
 NAME
@@ -14145,7 +14145,7 @@ Alliance Enjoys Strong Support
 
 56419
 NAME
-KYUSHU — A poll recently taken by an independent news group found that the Farmers Alliance is very popular among a large portion of the Kyushu populace. Obviously, Alliance propaganda is taking affect in the minds and heart of the people of the system. Our organization enjoys particular support from the older, wiser generations living on the planet. Soon people will begin to realize that it was a mistake to let foreigners come into our space. It will not be long before the Farmers Alliance movement is sweeping through the empire.
+KYUSHU — A poll recently taken by an independent news group found that the Farmers Alliance is very popular among a large portion of the Kyushu populace. Obviously, Alliance propaganda is taking effect in the minds and hearts of the people of the system. Our organization enjoys particular support from the older, wiser generations living on the planet. Soon people will begin to realize that it was a mistake to let foreigners come into our space. It will not be long before the Farmers Alliance movement is sweeping through the empire.
 
 56420
 NAME
@@ -14161,7 +14161,7 @@ Life is Good in New York
 
 56423
 NAME
-BUFFALO — New York has the best that life has to offer for a criminal in Liberty. Here in the center of Sirius one can travel through the system aided by the numerous debris fields. Additionally, the Badlands hide Buffalo from the prying eyes of the military and the LPI. Everything is provided for those that have the guts to take it. Cardamine and loot is readily available, and if you get captured by the LPI, then room and board is free. If a Bounty Hunter pops you, then you aren’t feeling any pain anyway.
+BUFFALO — New York has the best that life has to offer for a criminal in Liberty. Here in the center of Sirius, one can travel through the system aided by the numerous debris fields. Additionally, the Badlands hide Buffalo from the prying eyes of the military and the LPI. Everything is provided for those that have the guts to take it. Cardamine and loot are readily available, and if you get captured by the LPI, then room and board are free. If a Bounty Hunter pops you, then you aren’t feeling any pain anyway.
 
 56424
 NAME
@@ -14177,7 +14177,7 @@ Largest Cardamine Haul Ever
 
 56427
 NAME
-ALCATRAZ — Rogue pilots recently smuggled a large shipment of Cardamine from California all the way to the Junkers at Rochester in New York. “Things got a little tense when we realized that we were being ghosted by a couple a Hunters, but we managed to get away from them — Woohoo!” cried Terry Donovan, one of the successful smugglers.
+ALCATRAZ — Rogue pilots recently smuggled a large shipment of Cardamine from California all the way to the Junkers at Rochester in New York. “Things got a little tense when we realized that we were being ghosted by a couple of Hunters, but we managed to get away from them — Woohoo!” cried Terry Donovan, one of the successful smugglers.
 
 56428
 NAME
@@ -14185,7 +14185,7 @@ New Recruits to Receive Training
 
 56429
 NAME
-ALCATRAZ — Leaders from around Liberty came together in California this week to discuss the possibility of training newer Rogue members to become better pilots and smugglers. “If we could take the acquired knowledge of our more experienced members and share it with some of the scrubs, then we’d have less casualties among our junior members,” said Montezuma chief, Nick Creeley. This is all part of a Rogue effort everywhere to try and become a more effective force within Liberty and Sirius.
+ALCATRAZ — Leaders from around Liberty came together in California this week to discuss the possibility of training newer Rogue members to become better pilots and smugglers. “If we could take the acquired knowledge of our more experienced members and share it with some of the scrubs, then we’d have fewer casualties among our junior members,” said Montezuma chief, Nick Creeley. This is all part of a Rogue effort everywhere to try and become a more effective force within Liberty and Sirius.
 
 56430
 NAME
@@ -14217,7 +14217,7 @@ Fight Like the Outcasts
 
 56437
 NAME
-MONTEZUMA — Rogue leaders aboard Dawson are attempting to convince Outcast smugglers on their way into Liberty space to train our own pilots. This initiative was created at the Rogue Chief meetings held in California recently. If the Outcasts are willing to share their knowledge of combat, gunnery, and piloting in return for favors and money, Rogue combat effectiveness should skyrocket. As of yet no Outcasts have been willing, but leaders remain optimistic that an arrangement can be made.
+MONTEZUMA — Rogue leaders aboard Dawson are attempting to convince Outcast smugglers on their way into Liberty space to train our own pilots. This initiative was created at the Rogue Chief meetings held in California recently. If the Outcasts are willing to share their knowledge of combat, gunnery, and piloting in return for favors and money, Rogue combat effectiveness should skyrocket. As of yet, no Outcasts have been willing, but leaders remain optimistic that an arrangement can be made.
 
 56438
 NAME
@@ -14241,7 +14241,7 @@ Food Shortages a Thing of the Past
 
 56443
 NAME
-CRETE — The Family Elders of Crete are discussing plans regarding the construction of biodomes. If successful, Corsairs would never have to worry about the Food shortages that have plagued our people for the 800 years since we were cast upon Crete. In recent years famine has not been a major issue for the Corsairs due to the wealth brought in from the Artifact trade and piracy. But the problem would be completely alleviated with the addition of biodomes, which could sustain the entire population for a fraction of the price now required.
+CRETE — The Family Elders of Crete are discussing plans regarding the construction of biodomes. If successful, Corsairs would never have to worry about the Food shortages that have plagued our people for the 800 years since we were cast upon Crete. In recent years, the famine has not been a major issue for the Corsairs due to the wealth brought in from the Artifact trade and piracy. But the problem would be completely alleviated with the addition of biodomes, which could sustain the entire population for a fraction of the price now required.
 
 56444
 NAME
@@ -14265,7 +14265,7 @@ New Advances in Ship Technology
 
 56449
 NAME
-TRIPOLI — Centuries of reverse engineering and building fighter crafts from the remnants of salvaged ships has paid off yet again. Tripoli engineers discovered a new way to fine-tune the H-Fuel intake components on a star drive, yielding much greater power than the original Kishiro designers thought possible. This latest discovery will allow any Corsair ship with the same engine to increase its speed by at least 50 percent after stabilizers are added to the ship’s hull and engine mountings.
+TRIPOLI — Centuries of reverse engineering and building fighter crafts from the remnants of salvaged ships have paid off yet again. Tripoli engineers discovered a new way to fine-tune the H-Fuel intake components on a star drive, yielding much greater power than the original Kishiro designers thought possible. This latest discovery will allow any Corsair ship with the same engine to increase its speed by at least 50 percent after stabilizers are added to the ship’s hull and engine mountings.
 
 56450
 NAME
@@ -14313,7 +14313,7 @@ Don Teofilo Dies of Natural Causes
 
 56461
 NAME
-MALTA — One of the oldest and most respected cartel dons has passed away at the age of 177. Teofilo Wenceslau died in his sleep at his plantation yesterday surrounded by his closest family members. Wenceslau was the oldest man in Outcast history, having outlived the next eldest by twelve years. Though the Cardamine mutation has lowered birthrates among our race, a positive effect has been the dramatic increase in the average lifespan, which is currently 124. Teofilo is survived by his eldest daughter, Dona Alicia, who will now assume command of the Wenceslau cartel.
+MALTA — One of the oldest and most respected cartel dons has passed away at the age of 177. Teofilo Wenceslau died in his sleep at his plantation yesterday surrounded by his closest family members. Wenceslau was the oldest man in Outcast history, having outlived the next eldest by twelve years. Though the Cardamine mutation has lowered birth rates among our race, a positive effect has been the dramatic increase in the average lifespan, which is currently 124. Teofilo is survived by his eldest daughter, Dona Alicia, who will now assume command of the Wenceslau cartel.
 
 56462
 NAME
@@ -14321,7 +14321,7 @@ Benitez takes Control of Solano
 
 56463
 NAME
-MALTA — Miguel Benitez rules the most powerful cartel in Outcast space after acquiring the Solano Plantation last month. The Toruella and Velez cartels have also pledged their loyalty to the Benitez family, in a surprise move that guarantees his ascension to Head Don of the Outcasts. Benitez’ primary rival, Don David of the Narvaez cartel, has decided not to oppose Benitez when he assumes leadership of the families of Malta.
+MALTA — Miguel Benitez rules the most powerful cartel in Outcast space after acquiring the Solano Plantation last month. The Toruella and Velez cartels have also pledged their loyalty to the Benitez family, in a surprise move that guarantees his ascension to Head Don of the Outcasts. Benitez’s primary rival, Don David of the Narvaez cartel, has decided not to oppose Benitez when he assumes leadership of the families of Malta.
 
 56464
 NAME
@@ -14353,7 +14353,7 @@ Outcast Raiding Fleet to be Updated
 
 56471
 NAME
-MALTA — Engineers are revamping 100 ships per month over the next two years in an effort to make the Raiders even more deadly than they already are. Master engineer Ibrahim Casse has developed a new design that will be implemented on the fleet. Casse’s 100+ years of experience as an engineer makes him the finest ship designer and builder in all of Sirius. His academy builds new prototypes every semester as he trains a new generation to follow in his footsteps.
+MALTA — Engineers are revamping 100 ships per month over the next two years to make the Raiders even more deadly than they already are. Master engineer Ibrahim Casse has developed a new design that will be implemented on the fleet. Casse’s 100+ years of experience as an engineer makes him the finest ship designer and builder in all of Sirius. His academy builds new prototypes every semester as he trains a new generation to follow in his footsteps.
 
 56472
 NAME
@@ -14361,7 +14361,7 @@ Benitez Calls Upon all Outcasts
 
 56473
 NAME
-MALTA — Don Miguel Benitez called upon Outcasts throughout Sirius to help him locate his missing son. Benitez even summoned Santiago Llorens, who was in Liberty conducting business. Llorens responded to the call by returning to Malta. Benitez’ third eldest son, who has been missing for some time, sent a distress call from the Sigma Border Worlds two days ago. “I ask that all Outcasts use their powers and talents to find my son, whose safe return will bring a six million credit reward,” offered Don Miguel.
+MALTA — Don Miguel Benitez called upon Outcasts throughout Sirius to help him locate his missing son. Benitez even summoned Santiago Llorens, who was in Liberty conducting business. Llorens responded to the call by returning to Malta. Benitez’s third eldest son, who has been missing for some time, sent a distress call from the Sigma Border Worlds two days ago. “I ask that all Outcasts use their powers and talents to find my son, whose safe return will bring a six million credit reward,” offered Don Miguel.
 
 56474
 NAME
@@ -14413,7 +14413,7 @@ Docking Ring
 
 60208
 NAME
-A docking ring is a piece of orbiting technology that, through the use of super strong crystalline polymers and frictionless bearings, assists the smooth atmospheric entry of any interstellar vessel that has the ability to land. Invented in 130 AS by Ageira Technologies, these ‘orbital elevators’ almost completely negate the cost of boosting people or materials out of a planetary gravity well. Docking rings revolutionized exploration and industry almost overnight, opening up entire systems for commercial exploration and exploitation.\n\nAgeira Technologies licenses this technology to the other houses, who in turn agree to design all ships (except for special exploratory and survey vessels), to work with the docking ring system.\n\nWARNING: Do not approach a planet and attempt a landing without using the docking ring.
+A docking ring is a piece of orbiting technology that, through the use of super strong crystalline polymers and frictionless bearings, assists the smooth atmospheric entry of any interstellar vessel that can land. Invented in 130 AS by Ageira Technologies, these ‘orbital elevators’ almost completely negate the cost of boosting people or materials out of a planetary gravity well. Docking rings revolutionized exploration and industry almost overnight, opening up entire systems for commercial exploration and exploitation.\n\nAgeira Technologies licenses this technology to the other houses, who in turn agree to design all ships (except for special exploratory and survey vessels), to work with the docking ring system.\n\nWARNING: Do not approach a planet and attempt a landing without using the docking ring.
 
 60209
 NAME
@@ -14469,7 +14469,7 @@ Trade Outpost
 
 60222
 NAME
-A medium sized base, usually a hub for goods and equipment traders.
+A medium-sized base, usually a hub for goods and equipment traders.
 
 60223
 NAME
