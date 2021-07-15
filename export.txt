@@ -32689,7 +32689,7 @@ Great Lakes
 
 202615
 NAME
-Lake Keechobee
+Lake Okeechobee
 
 202616
 NAME
@@ -33069,7 +33069,7 @@ Cheviot
 
 202710
 NAME
-Penine
+Peninne
 
 202711
 NAME
@@ -33149,7 +33149,7 @@ Braan
 
 202730
 NAME
-Kinglas
+Kinglass
 
 202731
 NAME
@@ -33465,7 +33465,7 @@ Fujiyama
 
 202809
 NAME
-Kusiro
+Kushiro
 
 202810
 NAME
@@ -33477,7 +33477,7 @@ Nara Yoshino
 
 202812
 NAME
-Simannto
+Shimanto
 
 202813
 NAME
@@ -33485,7 +33485,7 @@ Yoshino
 
 202814
 NAME
-Nisiki
+Nishiki
 
 202815
 NAME
@@ -33501,7 +33501,7 @@ Osako
 
 202818
 NAME
-Yanse
+Yanase
 
 202819
 NAME
@@ -33541,7 +33541,7 @@ Mikata-goko
 
 202828
 NAME
-Jizou-ga-take
+Jizo-ga-take
 
 202829
 NAME
@@ -33561,7 +33561,7 @@ Oka-Hijiri
 
 202833
 NAME
-Kamikouchi-dake
+Kamikuchi-dake
 
 202834
 NAME
@@ -33593,11 +33593,11 @@ Tanzawa
 
 202841
 NAME
-Senjou-dake
+Senjo-ga-take
 
 202842
 NAME
-Nishi-Noutori-dake
+Nishi-Notori-dake
 
 202843
 NAME
@@ -33677,7 +33677,7 @@ Kisarazu
 
 202862
 NAME
-Kitakiushu
+Kitakyushu
 
 202863
 NAME
@@ -34021,7 +34021,7 @@ Oberhafen
 
 202948
 NAME
-Blauberen
+Blaubeuren
 
 202949
 NAME
@@ -34873,7 +34873,7 @@ Cruiser RNC Ludwigshafen
 
 216908
 NAME
-Destroyer KNF Nagamo
+Destroyer KNF Nagano
 
 216909
 NAME
@@ -35893,7 +35893,7 @@ Kishiro Technologies\nToshi Kaneko
 
 220093
 NAME
-Liberty Police, Inc.\nLt. Sherri Traviat
+Liberty Police, Inc.\nLt. Sherri Traviata
 
 220094
 NAME
@@ -36097,7 +36097,7 @@ Border World Exports\nGarrett Twidell
 
 220144
 NAME
-Cryer Pharmaceuticals\nDr. David Haverla
+Cryer Pharmaceuticals\nDr. David Haverly
 
 220145
 NAME
@@ -36121,7 +36121,7 @@ Liberty Police, Inc.\nSgt. Linda Kennedy
 
 220150
 NAME
-Liberty Police, Inc.\nLt. Travis Macson
+Liberty Police, Inc.\nLt. Travis Mason
 
 220151
 NAME
@@ -36129,7 +36129,7 @@ Planetform, Inc.\nMichael Bruunt
 
 220152
 NAME
-Synth Foods, Inc.\nDr. Carson Mothis
+Synth Foods, Inc.\nDr. Carson Motis
 
 220153
 NAME
@@ -36625,7 +36625,7 @@ Bretonia Mining and Metal\nJohn Davies
 
 220276
 NAME
-Bretonia Mining and Metal\nHugh Bromly
+Bretonia Mining and Metal\nHugh Bromley
 
 220277
 NAME
@@ -37289,7 +37289,7 @@ Orbital Spa and Cruise Lines\nAttendant Nicole Phillips
 
 220442
 NAME
-Bounty Hunter\nHunter Neve Stepheson
+Bounty Hunter\nHunter Neve Stephenson
 
 220443
 NAME
@@ -37525,7 +37525,7 @@ Kusari State Police\nInspector Yoshiko Endo
 
 220501
 NAME
-Kusari State Police\nDetective Kazua Yamashita
+Kusari State Police\nDetective Kazuo Yamashita
 
 220502
 NAME
@@ -37737,7 +37737,7 @@ Kusari State Police\nDetective Sachiko Hiraga
 
 220554
 NAME
-Kusari State Police\nDetective Yuki Watanbe
+Kusari State Police\nDetective Yuki Watanabe
 
 220555
 NAME
@@ -38485,7 +38485,7 @@ Rheinland Military\nColonel Annike Prohasky
 
 220741
 NAME
-Rheinland Military\nColonel Sven Nehaus
+Rheinland Military\nColonel Sven Neuhaus
 
 220742
 NAME
@@ -38645,7 +38645,7 @@ Republican Shipping\nFreder Prange
 
 220781
 NAME
-Rheinland Military\nColonel Maren Nehaus
+Rheinland Military\nColonel Maren Neuhaus
 
 220782
 NAME
@@ -39109,7 +39109,7 @@ Gas Miners Guild\nRep. Keiko Matsuki
 
 220897
 NAME
-Gas Miners Guild\nSales Rep. Mariko Sakubara
+Gas Miners Guild\nSales Rep. Mariko Sakuraba
 
 220898
 NAME
@@ -39301,7 +39301,7 @@ Kishiro Technologies\nSales Rep. Yuichi Ito
 
 220945
 NAME
-Kishiro Technologies\nDr. Jussai Takeshita
+Kishiro Technologies\nDr. Jusai Takeshita
 
 220946
 NAME
@@ -41217,7 +41217,7 @@ Dryer
 
 227095
 NAME
-Dryeton
+Drayton
 
 227096
 NAME
@@ -42773,11 +42773,11 @@ Alban
 
 227713
 NAME
-Aldebourne
+Aldbourne
 
 227714
 NAME
-Alfray
+Alfrey
 
 227715
 NAME
@@ -42825,7 +42825,7 @@ Archer
 
 227726
 NAME
-Ardall
+Ardell
 
 227727
 NAME
@@ -42933,7 +42933,7 @@ Branch
 
 227753
 NAME
-Branwhaite
+Branthwaite
 
 227754
 NAME
@@ -42969,7 +42969,7 @@ Brett
 
 227762
 NAME
-Brewiss
+Brewis
 
 227763
 NAME
@@ -43033,7 +43033,7 @@ Brown
 
 227778
 NAME
-Brownflet
+Brownfield
 
 227779
 NAME
@@ -43141,7 +43141,7 @@ Covert
 
 227805
 NAME
-Cowill
+Cowell
 
 227806
 NAME
@@ -43177,7 +43177,7 @@ Crisp
 
 227814
 NAME
-Cristemas
+Christmas
 
 227815
 NAME
@@ -43321,7 +43321,7 @@ Franklin
 
 227850
 NAME
-Fraunces
+Frost
 
 227851
 NAME
@@ -43357,11 +43357,11 @@ Froggenhall
 
 227859
 NAME
-Fromond
+Fremond
 
 227860
 NAME
-Froste
+Frost
 
 227861
 NAME
@@ -43429,7 +43429,7 @@ Henshawe
 
 227877
 NAME
-Herleston
+Harleston
 
 227878
 NAME
@@ -43529,7 +43529,7 @@ Hornebolt
 
 227902
 NAME
-Hornley
+Horley
 
 227903
 NAME
@@ -43561,7 +43561,7 @@ Huddleston
 
 227910
 NAME
-Hugeford
+Hungerford
 
 227911
 NAME
@@ -43605,7 +43605,7 @@ Hussey
 
 227921
 NAME
-Litcott
+Lescott
 
 227922
 NAME
@@ -43709,7 +43709,7 @@ Malster
 
 227947
 NAME
-Maltoun
+Malton
 
 227948
 NAME
@@ -43729,7 +43729,7 @@ Marcheford
 
 227952
 NAME
-Markeley
+Markley
 
 227953
 NAME
@@ -43765,7 +43765,7 @@ Maycott
 
 227961
 NAME
-Maydestone
+Maidstone
 
 227962
 NAME
@@ -43773,7 +43773,7 @@ Mayne
 
 227963
 NAME
-Maynwaring
+Mainwaring
 
 227964
 NAME
@@ -45821,7 +45821,7 @@ Fritzsche
 
 228475
 NAME
-Frogatt
+Froggatt
 
 228476
 NAME
@@ -45957,7 +45957,7 @@ Jahn
 
 228509
 NAME
-Janj
+Jan
 
 228510
 NAME
@@ -46137,7 +46137,7 @@ Muller
 
 228554
 NAME
-Nehaus
+Neuhaus
 
 228555
 NAME
@@ -46705,7 +46705,7 @@ Iwao
 
 228740
 NAME
-Iwazumi
+Iwaizumi
 
 228741
 NAME
@@ -47033,7 +47033,7 @@ Imako
 
 228822
 NAME
-Inoe
+Inoue
 
 228823
 NAME
@@ -47433,7 +47433,7 @@ Funabashi
 
 228939
 NAME
-Fuschida
+Fushida
 
 228940
 NAME
@@ -50709,7 +50709,7 @@ Bundschuh\nBruchsal Commodity Trader\nErnst Schulze
 
 244990
 NAME
-Bundschuh\nBruchsal Equipment Dealer\nHartmut Nehaus
+Bundschuh\nBruchsal Equipment Dealer\nHartmut Neuhaus
 
 244991
 NAME
@@ -51041,7 +51041,7 @@ Gas Miners Guild\nNaha Commodity Trader\nMorinaga Yonai
 
 245079
 NAME
-Gas Miners Guild\nNaha Equipment Dealer\nIwazumi Shimazaki
+Gas Miners Guild\nNaha Equipment Dealer\nIwaizumi Shimazaki
 
 245080
 NAME
@@ -65441,7 +65441,7 @@ Our most recent scans of %Z0v1 uncovered something very interesting.
 
 327784
 NAME
-We found %I0v1 and %I1v1 in an area that was previously empty. Your mission is to mount a quick surgical strike to remove this new threat. 
+We found %I0v1 and %I1v1 in a previously empty area. Your mission is to mount a quick surgical strike to remove this new threat. 
 
 327785
 NAME
@@ -65485,7 +65485,7 @@ Recon has discovered a small installation run by %F0v1.
 
 327795
 NAME
-Currently it consists of %I0v1. 
+Currently, it consists of %I0v1. 
 
 327796
 NAME
@@ -65821,7 +65821,7 @@ We aren’t sure, but there may also be %I0v1 out there as well, so be prepared.
 
 327879
 NAME
-In order to make your job easier, we sent out a few of our own people to prepare for your arrival. 
+To make your job easier, we sent out a few of our own people to prepare for your arrival. 
 
 327880
 NAME
@@ -65889,7 +65889,7 @@ Between us, a new base belonging to %F0v1 has been sighted.
 
 327896
 NAME
-They only have %I0v1, but still it can’t be tolerated. 
+They only have %I0v1, but still, it can’t be tolerated. 
 
 327897
 NAME
@@ -65953,7 +65953,7 @@ I am pleased to report that %F0v1 have finally made a critical mistake.
 
 327912
 NAME
-It appears that one of their number, %s0 %s1, has just been seen boarding a ship in an effort to move %L0v2. 
+It appears that one of their number, %s0 %s1, has just been seen boarding a ship to move %L0v2. 
 
 327913
 NAME
@@ -66013,7 +66013,7 @@ One final note, there is the possibility that your target has %I0v1 in the area.
 
 327927
 NAME
-Word from %Z0v1 is that there is a new infestation of scum out there. 
+A word from %Z0v1 is that there is a new infestation of scum out there. 
 
 327928
 NAME
@@ -66117,7 +66117,7 @@ You are also hereby authorized to destroy any other %F0v2 ships in the course of
 
 327953
 NAME
-In addition, Intelligence says there doesn’t appear to be any additional %F0v2 ships in the area, so you may be in luck. 
+In addition, intelligence says there don't appear to be any additional %F0v2 ships in the area, so you may be in luck. 
 
 327954
 NAME
@@ -66217,11 +66217,11 @@ Use caution, though. We believe that %I0v1 may be in the same area as your targe
 
 327978
 NAME
-We have word that a number of %F0v2 ships have just been identified. 
+We have word that several %F0v2 ships have just been identified. 
 
 327979
 NAME
-We have word that a number of %F0v2 ships have just been identified. 
+We have word that several %F0v2 ships have just been identified. 
 
 327980
 NAME
@@ -66305,7 +66305,7 @@ Apparently, they’ve set up a new base of operations in %Z0v1.
 
 328000
 NAME
-This may not seem like a problem for us now — it’s just %I0v1, after all — but it might be in the near future. So rather than undertake the unnecessary risk of removal ourselves, we’d rather pay you to do it for us. 
+This may not seem like a problem for us now — it’s just %I0v1, after all — but it might be soon. So rather than undertake the unnecessary risk of removal ourselves, we’d rather pay you to do it for us. 
 
 328001
 NAME
@@ -66829,11 +66829,11 @@ However, we also understand that there may be %I0v1 operating in the area, so us
 
 328131
 NAME
-A reconnaissance unit has reported that a number of %F0v2 ships have just been spotted. 
+A reconnaissance unit has reported that several %F0v2 ships have just been spotted. 
 
 328132
 NAME
-A reconnaissance unit has reported that a number of %F0v2 ships have just been spotted. 
+A reconnaissance unit has reported that several %F0v2 ships have just been spotted. 
 
 328133
 NAME
@@ -66845,7 +66845,7 @@ Be advised, there may also be %I0v1 operating in the area.
 
 328135
 NAME
-Meanwhile, some advance ships have already been dispatched. They will be expecting you. 
+Meanwhile, some advanced ships have already been dispatched. They will be expecting you. 
 
 328136
 NAME
@@ -67089,7 +67089,7 @@ You are to go to %Z0v1 and prevent this from happening.
 
 328196
 NAME
-We believe %F0v1 is trying to increase their presence. 
+We believe %F0v1 is trying to increase its presence. 
 
 328197
 NAME
@@ -67177,7 +67177,7 @@ It looks like %F0v1 just blew it.
 
 328218
 NAME
-Seems that one of their guys, %s0 %s1, has just been seen boarding a ship in an effort to shift %L0v2. 
+Seems that one of their guys, %s0 %s1, has just been seen boarding a ship to shift %L0v2. 
 
 328219
 NAME
@@ -70917,7 +70917,7 @@ INFOCARD
 
 393348
 INFOCARD
-<RDL><PUSH/><TEXT>The IMG uses Positron-based shields, so any kind of Tachyon- or Neutron- based weapons you might have won’t work well against them. I’d swap them out and buy something else.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The IMG uses Positron-based shields, so any kind of Tachyon- or Neutron-based weapons you might have won’t work well against them. I’d swap them out and buy something else.</TEXT><PARA/><POP/></RDL>
 
 393349
 INFOCARD
@@ -70945,7 +70945,7 @@ INFOCARD
 
 393355
 INFOCARD
-<RDL><PUSH/><TEXT>If you want to take out Zoners, don’t bother using Plasma- or Particle- based weapons. The Zoner Molecular-based shields are very effective against those weapon classes.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you want to take out Zoners, don’t bother using Plasma- or Particle-based weapons. The Zoner Molecular-based shields are very effective against those weapon classes.</TEXT><PARA/><POP/></RDL>
 
 393356
 INFOCARD
@@ -70969,7 +70969,7 @@ INFOCARD
 
 393361
 INFOCARD
-<RDL><PUSH/><TEXT>Laser-based weapons may have the highest refire rate, but they offer the lowest amount of damage per shot. If you want to hit harder, try a different ordnance.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Laser-based weapons may have the highest refire rate, but they offer the lowest amount of damage per shot. If you want to hit harder, try different ordnance.</TEXT><PARA/><POP/></RDL>
 
 393362
 INFOCARD
@@ -70985,7 +70985,7 @@ INFOCARD
 
 393365
 INFOCARD
-<RDL><PUSH/><TEXT>If you find yourself in a combat situation and you’re using Lasers, they will have a reduced affect against Graviton-based shields. You’ll want to switch to another weapon.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you find yourself in a combat situation and you’re using Lasers, they will have a reduced effect against Graviton-based shields. You’ll want to switch to another weapon.</TEXT><PARA/><POP/></RDL>
 
 393366
 INFOCARD
@@ -71001,7 +71001,7 @@ INFOCARD
 
 393369
 INFOCARD
-<RDL><PUSH/><TEXT>The Houses and larger factions have invested heavily in creating multiple weapons that are effective against a given type of shield. Usually there are two different types of weapons available for the task at hand.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Houses and larger factions have invested heavily in creating multiple weapons that are effective against a given type of shield. Usually, there are two different types of weapons available for the task at hand.</TEXT><PARA/><POP/></RDL>
 
 393370
 INFOCARD
@@ -71117,7 +71117,7 @@ INFOCARD
 
 393398
 INFOCARD
-<RDL><PUSH/><TEXT>Word has it that the Bundschuh are using Tachyon-based weapons. If you think you’ll be running up against them, you should prepare with the right shield type.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Word has it that the Bundschuh is using Tachyon-based weapons. If you think you’ll be running up against them, you should prepare with the right shield type.</TEXT><PARA/><POP/></RDL>
 
 393399
 INFOCARD
@@ -71205,7 +71205,7 @@ INFOCARD
 
 393420
 INFOCARD
-<RDL><PUSH/><TEXT>The first rule of piracy is, “What’s behind you doesn’t matter, it’s what’s ahead.” In support of this, you’ll notice that the Pirate Freighter class has the fewest number of total turrets, but has the most forward mounted guns of any freighter.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The first rule of piracy is, “What’s behind you doesn’t matter, it’s what’s ahead.” In support of this, you’ll notice that the Pirate Freighter class has the fewest number of total turrets, but has the most forward-mounted guns of any freighter.</TEXT><PARA/><POP/></RDL>
 
 393421
 INFOCARD
@@ -71289,7 +71289,7 @@ INFOCARD
 
 393441
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve never even heard of “The Order” before the whole Schultzky incident. I’m no expert but I find it difficult to believe that the LSF, who is supposed to be protecting our interests and who we already know has a deep intelligence channel, didn’t know much about the attack. How could they not see this coming? Well at least they got the Rogues around Pittsburgh. That’s something.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve never even heard of “The Order” before the whole Schultzky incident. I’m no expert but I find it difficult to believe that the LSF, who is supposed to be protecting our interests and who we already know has a deep intelligence channel, didn’t know much about the attack. How could they not see this coming? Well, at least they got the Rogues around Pittsburgh. That’s something.</TEXT><PARA/><POP/></RDL>
 
 393442
 INFOCARD
@@ -71313,7 +71313,7 @@ INFOCARD
 
 393447
 INFOCARD
-<RDL><PUSH/><TEXT>If you are low on cash or just looking for work, search the Job Boards. Employers will post contracts that they need completed on these boards; you can find them in most bars. Once you fulfill a contract the payment will be automatically deposited in your account.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you are low on cash or just looking for work, search the Job Boards. Employers will post contracts that they need to be completed on these boards; you can find them in most bars. Once you fulfill a contract the payment will be automatically deposited in your account.</TEXT><PARA/><POP/></RDL>
 
 393448
 INFOCARD
@@ -71341,7 +71341,7 @@ INFOCARD
 
 393454
 INFOCARD
-<RDL><PUSH/><TEXT>Be careful with highly perishable Commodities such as Luxury Foods and Alien Organisms; they will begin decaying as soon as you purchase them, so plan on making a speedy run to your planned point of sale in order to maximize profit.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Be careful with highly perishable Commodities such as Luxury Foods and Alien Organisms; they will begin decaying as soon as you purchase them, so plan on making a speedy run to your planned point of sale to maximize profit.</TEXT><PARA/><POP/></RDL>
 
 393455
 INFOCARD
@@ -71381,7 +71381,7 @@ INFOCARD
 
 393464
 INFOCARD
-<RDL><PUSH/><TEXT>The Best Path command will use your ship’s navigational systems to plot the best course for your ship to take between your current position and a spot you click on the Nav Map. It will set waypoints which you can target and follow.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Best Path command will use your ship’s navigational systems to plot the best course for your ship to take between your current position and a spot you click on the Nav Map. It will set waypoints that you can target and follow.</TEXT><PARA/><POP/></RDL>
 
 393465
 INFOCARD
@@ -71413,7 +71413,7 @@ INFOCARD
 
 393472
 INFOCARD
-<RDL><PUSH/><TEXT>Missiles are very fast, but do not turn well. If you’ve got one coming at you, turn perpendicular to it, drop countermeasures, and punch the afterburners. The missile should fly right by.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Missiles are very fast but do not turn well. If you’ve got one coming at you, turn perpendicular to it, drop countermeasures, and punch the afterburners. The missile should fly right by.</TEXT><PARA/><POP/></RDL>
 
 393473
 INFOCARD
@@ -71453,7 +71453,7 @@ INFOCARD
 
 393482
 INFOCARD
-<RDL><PUSH/><TEXT>If you are going to take on a gunboat, try and stay beneath it where the fewest weapons can be used against you. A gunboat’s firepower is concentrated in the front, so don’t take him head on.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you are going to take on a gunboat, try and stay beneath it where the fewest weapons can be used against you. A gunboat’s firepower is concentrated in the front, so don’t take him head-on.</TEXT><PARA/><POP/></RDL>
 
 393483
 INFOCARD
@@ -71469,7 +71469,7 @@ INFOCARD
 
 393486
 INFOCARD
-<RDL><PUSH/><TEXT>The most successful pirates use their cargo scanner to find out what a potential target is carrying. There’s no sense in attacking a transport if the cargo isn’t worth the fight.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The most successful pirates use their cargo scanners to find out what a potential target is carrying. There’s no sense in attacking a transport if the cargo isn’t worth the fight.</TEXT><PARA/><POP/></RDL>
 
 393487
 INFOCARD
@@ -71505,11 +71505,11 @@ INFOCARD
 
 393496
 INFOCARD
-<RDL><PUSH/><TEXT>A smart freelancer is one that stays informed. Make sure you talk to people when the opportunity arises to learn what they know. News Vendors are also an excellent source of information for what’s going on around Sirius.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A smart freelancer stays informed. Make sure you talk to people when the opportunity arises to learn what they know. News Vendors are also an excellent source of information for what’s going on around Sirius.</TEXT><PARA/><POP/></RDL>
 
 393497
 INFOCARD
-<RDL><PUSH/><TEXT>Once you purchase new missile, mine, or countermeasure launchers, stock up on ammo and supplies. The new gear doesn’t do you any good if it isn’t loaded.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Once you purchase a new missile, mine, or countermeasure launchers, stock up on ammo and supplies. The new gear doesn’t do you any good if it isn’t loaded.</TEXT><PARA/><POP/></RDL>
 
 393498
 INFOCARD
@@ -71517,7 +71517,7 @@ INFOCARD
 
 393499
 INFOCARD
-<RDL><PUSH/><TEXT>When trading in goods, check the pricing indicator shown after the price — if it’s green on the dealer’s list, it’s a good time to buy; if it’s red, the item is overpriced. The same applies for your side of the dealer interface — if the indicator is green, you’re getting a good price; if it’s red, you are paying too much. Keep in mind that these indicators reflect market price, not necessarily the price you paid.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>When trading in goods, check the pricing indicator shown after the price — if it’s green on the dealer’s list, it’s a good time to buy; if it’s red, the item is overpriced. The same applies to your side of the dealer interface — if the indicator is green, you’re getting a good price; if it’s red, you are paying too much. Keep in mind that these indicators reflect market price, not necessarily the price you paid.</TEXT><PARA/><POP/></RDL>
 
 393500
 INFOCARD
@@ -71581,7 +71581,7 @@ INFOCARD
 
 393515
 INFOCARD
-<RDL><PUSH/><TEXT>Some of the heavier fighter classes can carry torpedoes. The torpedo’s velocity is too slow to use in dogfights, but is excellent against battleships and bases. They are extremely expensive but can cause incredible damage.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some of the heavier fighter classes can carry torpedoes. The torpedo’s velocity is too slow to use in dogfights but is excellent against battleships and bases. They are extremely expensive but can cause incredible damage.</TEXT><PARA/><POP/></RDL>
 
 393516
 INFOCARD
@@ -71649,7 +71649,7 @@ INFOCARD
 
 393532
 INFOCARD
-<RDL><PUSH/><TEXT>A lot of the objects you encounter in space will have a set of brackets marking them. These brackets make it easier to find and select small objects and are also color coded: friendly objects in green, hostile in red, and neutral in white.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A lot of the objects you encounter in space will have a set of brackets marking them. These brackets make it easier to find and select small objects and are also color-coded: friendly objects in green, hostile in red, and neutral in white.</TEXT><PARA/><POP/></RDL>
 
 393533
 INFOCARD
@@ -71693,7 +71693,7 @@ INFOCARD
 
 393543
 INFOCARD
-<RDL><PUSH/><TEXT>When a pilot broadcasts a message you will see a signal. If the ship is your current target or is off screen, a set of yellow arrows will point to the target indicator; if the ship is onscreen, its targeting bracket will turn yellow.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>When a pilot broadcasts a message you will see a signal. If the ship is your current target or is off-screen, a set of yellow arrows will point to the target indicator; if the ship is onscreen, its targeting bracket will turn yellow.</TEXT><PARA/><POP/></RDL>
 
 393544
 INFOCARD
@@ -71717,7 +71717,7 @@ INFOCARD
 
 393549
 INFOCARD
-<RDL><PUSH/><TEXT>Every ship is equipped with a number of equipment mounts called “hard points.” These hard points interface with different kinds of equipment at certain power ratings. This means you can’t put a shield generator on a weapon hard point, and you can’t put a high-power consumption weapon on a low- power weapon mount.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Every ship is equipped with several equipment mounts called “hard points.” These hard points interface with different kinds of equipment at certain power ratings. This means you can’t put a shield generator on a weapon hard point, and you can’t put a high-power consumption weapon on a low- power weapon mount.</TEXT><PARA/><POP/></RDL>
 
 393550
 INFOCARD
@@ -71729,7 +71729,7 @@ INFOCARD
 
 393552
 INFOCARD
-<RDL><PUSH/><TEXT>Once you’ve taken a job, the Mission Commission doesn’t care how long you take to begin; but once you start, they insist that you focus solely on the job until it is complete. If you fail to comply, your contract will be cancelled, your credits forfeited, and your reputation marred.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Once you’ve taken a job, the Mission Commission doesn’t care how long you take to begin; but once you start, they insist that you focus solely on the job until it is complete. If you fail to comply, your contract will be canceled, your credits forfeited, and your reputation marred.</TEXT><PARA/><POP/></RDL>
 
 393553
 INFOCARD
@@ -71789,7 +71789,7 @@ INFOCARD
 
 393567
 INFOCARD
-<RDL><PUSH/><TEXT>While you’re checking out the weapons that are available, remember that turrets inherently have a longer range than standard guns.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>While you’re checking out the available weapons, remember that turrets inherently have a longer range than standard guns.</TEXT><PARA/><POP/></RDL>
 
 393568
 INFOCARD
@@ -71813,7 +71813,7 @@ INFOCARD
 
 393573
 INFOCARD
-<RDL><PUSH/><TEXT>The President apparently called Bonnerille and the LSF on the carpet for the whole Schultzky screw up. The Chancellor is furious, holding us responsible for Schultzky’s death. There’s a rumor floating around that Intelligence knew more about The Order than they are letting on.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The President apparently called Bonnerille and the LSF on the carpet for the whole Schultzky screw-up. The Chancellor is furious, holding us responsible for Schultzky’s death. There’s a rumor floating around that Intelligence knew more about The Order than they are letting on.</TEXT><PARA/><POP/></RDL>
 
 393574
 INFOCARD
@@ -71841,7 +71841,7 @@ INFOCARD
 
 393580
 INFOCARD
-<RDL><PUSH/><TEXT>Have you heard about the artifact ban? Jacobi can pretend like there’s some security concern, but in the end it’s all about Liberty getting their cut of a market they’ve been dying to get into. If they make it a controlled substance — and then later tax the hell out of it — they’ll get their chance.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Have you heard about the artifact ban? Jacobi can pretend like there’s some security concern, but in the end, it’s all about Liberty getting their cut of a market they’ve been dying to get into. If they make it a controlled substance — and then later tax the hell out of it — they’ll get their chance.</TEXT><PARA/><POP/></RDL>
 
 393581
 INFOCARD
@@ -71849,7 +71849,7 @@ INFOCARD
 
 393582
 INFOCARD
-<RDL><PUSH/><TEXT>I know a nurse over at the Williams-Creek Medical Center. I’m sure you’ve heard the news by now that several of the Freeport 7 survivors have died in the last few days supposedly due to severe injuries. Well, my nurse friend told me that she was taking care of this one guy who was in perfectly good health; the doctors had even scheduled him for release. But when she came in the next day, she was told that he had suddenly up and died in the night. No explanation and no cause of death was reported other than “general trauma”. His body was removed before she reported to work in the morning and even his medical chart was confiscated by the LSF. I’m telling you, we’re not hearing everything that’s going on around there.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I know a nurse over at the Williams-Creek Medical Center. I’m sure you’ve heard the news by now that several of the Freeport 7 survivors have died in the last few days supposedly due to severe injuries. Well, my nurse friend told me that she was taking care of this one guy who was in perfectly good health; the doctors had even scheduled him for release. But when she came in the next day, she was told that he had suddenly up and died in the night. No explanation nor cause of death was reported other than “general trauma”. His body was removed before she reported to work in the morning and even his medical chart was confiscated by the LSF. I’m telling you, we’re not hearing everything that’s going on around there.</TEXT><PARA/><POP/></RDL>
 
 393583
 INFOCARD
@@ -71857,7 +71857,7 @@ INFOCARD
 
 393584
 INFOCARD
-<RDL><PUSH/><TEXT>Did you hear in the news that there was an attack in Zone 21 after all? First the Navy denied it, but now they confirmed that The Order has taken out a cruiser near the entrance passage to the Zone. It’s really scary how much damage an organization like The Order is able to inflict.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Did you hear in the news that there was an attack in Zone 21 after all? First, the Navy denied it, but now they confirmed that The Order has taken out a cruiser near the entrance passage to the Zone. It’s really scary how much damage an organization like The Order can inflict.</TEXT><PARA/><POP/></RDL>
 
 393585
 INFOCARD
@@ -71869,7 +71869,7 @@ INFOCARD
 
 393587
 INFOCARD
-<RDL><PUSH/><TEXT>A friend of yours was looking for you earlier. His name is Lonnigan or something. He didn’t leave a message, but said that he’d find you. Not that it’s any of my business, but he was pretty worked up. Your friend should see a doctor.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A friend of yours was looking for you earlier. His name is Lonnigan or something. He didn’t leave a message but said that he’d find you. Not that it’s any of my business, but he was pretty worked up. Your friend should see a doctor.</TEXT><PARA/><POP/></RDL>
 
 393588
 INFOCARD
@@ -71889,7 +71889,7 @@ INFOCARD
 
 393592
 INFOCARD
-<RDL><PUSH/><TEXT>We just heard that a convoy was attacked in the Barrera Passage. It must have been an undercover operation since it wasn’t listed on any official flight path. They should have talked to us before trying to take the Passage; artifact smugglers, Rogues and Outcasts have been operating in that area for a few days now. I wonder who was crazy enough to try this.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We just heard that a convoy was attacked in the Barrera Passage. It must have been an undercover operation since it wasn’t listed on any official flight path. They should have talked to us before trying to take the Passage; artifact smugglers, Rogues, and Outcasts have been operating in that area for a few days now. I wonder who was crazy enough to try this.</TEXT><PARA/><POP/></RDL>
 
 393593
 INFOCARD
@@ -71897,7 +71897,7 @@ INFOCARD
 
 393594
 INFOCARD
-<RDL><PUSH/><TEXT>Say whatever you want about its methods or politics, but the navy is an impressive organization. They have tracked down just about all of the survivors from Freeport 7. Last report was that a patrol tracked down a man named Brandon Rowlett. He tried to flee, but these navy pilots are among the very best here in Liberty. He never had a chance.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Say whatever you want about its methods or politics, but the navy is an impressive organization. They have tracked down just about all of the survivors from Freeport 7. The last report was that a patrol tracked down a man named Brandon Rowlett. He tried to flee, but these navy pilots are among the very best here in Liberty. He never had a chance.</TEXT><PARA/><POP/></RDL>
 
 393595
 INFOCARD
@@ -71913,7 +71913,7 @@ INFOCARD
 
 393598
 INFOCARD
-<RDL><PUSH/><TEXT>Those people you came here with, Jun’ko Zane and Captain Walker, they’re currently talking to our station commander. I don’t know exactly what’s going on, but apparently it got pretty loud in there — lots of yelling and shouting. Then after a while, they sent out a top-priority dispatch to Manhattan. Something’s going on, that’s for sure.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Those people you came here with, Jun’ko Zane and Captain Walker, they’re currently talking to our station commander. I don’t know exactly what’s going on, but apparently, it got pretty loud in there — lots of yelling and shouting. Then after a while, they sent out a top-priority dispatch to Manhattan. Something’s going on, that’s for sure.</TEXT><PARA/><POP/></RDL>
 
 393599
 INFOCARD
@@ -71965,7 +71965,7 @@ INFOCARD
 
 393611
 INFOCARD
-<RDL><PUSH/><TEXT>I don’t know what’s going on, but the Liberty Navy is going crazy right now. It’s like they completely switched gears. I always thought of them as rather open minded and peace loving. Then the hammer fell and now they’re arresting anyone with connections to artifacts. In fact, I’ve even heard that Rheinland is slowly moving into Zone 21 with Liberty’s approval!</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I don’t know what’s going on, but the Liberty Navy is going crazy right now. It’s like they completely switched gears. I always thought of them as rather open-minded and peace-loving. Then the hammer fell and now they’re arresting anyone with connections to artifacts. In fact, I’ve even heard that Rheinland is slowly moving into Zone 21 with Liberty’s approval!</TEXT><PARA/><POP/></RDL>
 
 393612
 INFOCARD
@@ -71993,7 +71993,7 @@ INFOCARD
 
 393618
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve heard that you’re looking for Doctor Ronald Quintaine. I’ve known him for over twenty years. He’s an emeritus Professor of Archeology and Pre-Human Colonization at Cambridge University. His main interest for the last twenty years has been the study of Alien Artifacts. Many people consider him the foremost authority in that field. I haven’t seen him in a few weeks, but I’m sure he’s crawling around some ruins somewhere in the Border Worlds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve heard that you’re looking for Doctor Ronald Quintaine. I’ve known him for over twenty years. He’s an Emeritus Professor of Archeology and Pre-Human Colonization at Cambridge University. His main interest for the last twenty years has been the study of Alien Artifacts. Many people consider him the foremost authority in that field. I haven’t seen him in a few weeks, but I’m sure he’s crawling around some ruins somewhere in the Border Worlds.</TEXT><PARA/><POP/></RDL>
 
 393619
 INFOCARD
@@ -72033,7 +72033,7 @@ INFOCARD
 
 393628
 INFOCARD
-<RDL><PUSH/><TEXT>I saw you talking to Vance earlier. That guy used to be one of the best combat pilots around here, but he’s totally washed-up now. All he does nowadays is shuttle people from planet to planet, and whatever money he makes, he uses to buy this terrible Sidewinder Fang stuff.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I saw you talking to Vance earlier. That guy used to be one of the best combat pilots around here, but he’s totally washed up now. All he does nowadays is shuttle people from planet to planet, and whatever money he makes, he uses to buy this terrible Sidewinder Fang stuff.</TEXT><PARA/><POP/></RDL>
 
 393629
 INFOCARD
@@ -72109,7 +72109,7 @@ INFOCARD
 
 393647
 INFOCARD
-<RDL><PUSH/><TEXT>I hear that Rheinland has managed to spread its forces to the borders of every major house. The military build up is accelerated but we don’t know how. They must have converted all their mining facilities to strip Rheinland of all of its resources. Even if they win, they lose.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I hear that Rheinland has managed to spread its forces to the borders of every major house. The military build-up is accelerated but we don’t know how. They must have converted all their mining facilities to strip Rheinland of all of its resources. Even if they win, they lose.</TEXT><PARA/><POP/></RDL>
 
 393648
 INFOCARD
@@ -72197,7 +72197,7 @@ INFOCARD
 
 393669
 INFOCARD
-<RDL><PUSH/><TEXT>What do you think about Liberty and the artifact ban? I mean, you know how Liberty is — credits, credits, credits. I used to think it was all a smoke screen but now I’m not so sure. Supposedly Jacobi’s been talking to the Queen for a while in private about the importance of the artifact ban and the potential threat to Bretonia; she wants us to extend the ban here, too. No worries, though. The Queen is young but she’s smart and has good people around her. If there’s any kind of real danger, I believe she’ll act in our best interests.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>What do you think about Liberty and the artifact ban? I mean, you know how Liberty is — credits, credits, credits. I used to think it was all a smokescreen but now I’m not so sure. Supposedly Jacobi’s been talking to the Queen for a while in private about the importance of the artifact ban and the potential threat to Bretonia; she wants us to extend the ban here, too. No worries, though. The Queen is young but she’s smart and has good people around her. If there’s any kind of real danger, I believe she’ll act in our best interests.</TEXT><PARA/><POP/></RDL>
 
 393670
 INFOCARD
@@ -72257,11 +72257,11 @@ INFOCARD
 
 393684
 INFOCARD
-<RDL><PUSH/><TEXT>I don’t trust Liberty anymore. I’ve actually heard that they are secretly working with Rheinland to divide us on two fronts, and then come in to bleed us dry of our resources and technology. It’s in total disregard of the Boorman Treaty — that they themselves set up, but that’s the way they operate. They stand behind the law as long as it serves their interests. I’ve even heard they’ve been kidnapping some of our best scientists and forcing them to work on some secret project.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I don’t trust Liberty anymore. I’ve actually heard that they are secretly working with Rheinland to divide us on into two fronts, and then come in to bleed us dry of our resources and technology. It’s in total disregard of the Boorman Treaty — that they themselves set up, but that’s the way they operate. They stand behind the law as long as it serves their interests. I’ve even heard they’ve been kidnapping some of our best scientists and forcing them to work on some secret project.</TEXT><PARA/><POP/></RDL>
 
 393685
 INFOCARD
-<RDL><PUSH/><TEXT>You know, despite the harsh feelings around here about Liberty and the Artifact ban, it doesn’t make sense that they’re trying to get this under government control just for a few more credits. Before my Liberty contact was reassigned, I heard of “vast fields of impounded Artifacts” in Zone 21 and learned that the Artifacts are being carefully examined by “special personnel.” It sounds more like they’re looking for something specific and they wanted some place very private to look for it. This expanded impound will just give them more to sift through.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You know, despite the harsh feelings around here about Liberty and the Artifact ban, it doesn’t make sense that they’re trying to get this under government control just for a few more credits. Before my Liberty contact was reassigned, I heard of “vast fields of impounded Artifacts” in Zone 21 and learned that the Artifacts are being carefully examined by “special personnel.” It sounds more like they’re looking for something specific and they wanted someplace very private to look for it. This expanded impound will just give them more to sift through.</TEXT><PARA/><POP/></RDL>
 
 393686
 INFOCARD
@@ -72293,7 +72293,7 @@ INFOCARD
 
 393693
 INFOCARD
-<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become hostile territory.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full-out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become hostile territory.</TEXT><PARA/><POP/></RDL>
 
 393694
 INFOCARD
