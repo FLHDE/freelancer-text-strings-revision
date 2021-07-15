@@ -10585,7 +10585,7 @@ MISSION 13
 
 24405
 NAME
-OBJECTIVE:\nFly into the Nomad home system and activate the Hyper Gate system.\n\nDIFFICULTY:\nThe attack on the Nomad home world is another suicide mission.\n\nREWARD:\nThis is not about money; it’s about the survival of mankind. Orillion offers you one of the highly sophisticated Order Heavy Fighters as a reward. The dealers on Toledo will give you whatever you desire – a new ship, weapons, shield.
+OBJECTIVE:\nFly into the Nomad home system and activate the Hyper Gate system.\n\nDIFFICULTY:\nThe attack on the Nomad homeworld is another suicide mission.\n\nREWARD:\nThis is not about money; it’s about the survival of mankind. Orillion offers you one of the highly sophisticated Order Heavy Fighters as a reward. The dealers on Toledo will give you whatever you desire – a new ship, weapons, shield.
 
 24410
 NAME
@@ -11549,7 +11549,7 @@ NAME
 
 31105
 NAME
-*PERSONAL ENTRY:\nI can’t believe I’m back here in New York — and with Walker no less. What the hell did he have to do to stay alive? It’s unbelievable! So much has happened since the last time we worked together. Didn't he once say something about fighting for a cause? Okay, here I am. Let’s get to it.
+*PERSONAL ENTRY:\nI can’t believe I’m back here in New York — and with Walker no less. What the hell did he have to do to stay alive? It’s unbelievable! So much has happened since the last time we worked together. Didn’t he once say something about fighting for a cause? Okay, here I am. Let’s get to it.
 
 31110
 NAME
@@ -14249,7 +14249,7 @@ The Bounty Hunter Scourge
 
 56445
 NAME
-CRETE — Many Corsairs believe that it is no longer necessary to tolerate the Zoner presence in Omicron Gamma’s sister system. There is concern that they allow Bounty Hunters to come too close to the home world. It has also been argued that the biodomes in Freeport 9 could be salvaged after the Zoner expulsion and used to grow food solely for Corsairs. Right now, the Zoners enjoy relative safety in Omicron Theta, but that could soon change.
+CRETE — Many Corsairs believe that it is no longer necessary to tolerate the Zoner presence in Omicron Gamma’s sister system. There is concern that they allow Bounty Hunters to come too close to the homeworld. It has also been argued that the biodomes in Freeport 9 could be salvaged after the Zoner expulsion and used to grow food solely for Corsairs. Right now, the Zoners enjoy relative safety in Omicron Theta, but that could soon change.
 
 56446
 NAME
@@ -16025,7 +16025,7 @@ INFOCARD
 
 65900
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HIGH TEMPERATURE ALLOY</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>High temperature alloys are essential to the construction of engine components: only a material with the strength of cobalt and the temperature resistance of niobium could withstand the tremendous amount of heat and pressure that exists within the combustion chamber of a fusion engine. However, the rarity of niobium and the complex fabrication methods employed mean that high temperature alloys are relatively expensive — but without them, modern space travel would be impossible.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>HIGH-TEMPERATURE ALLOY</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>High-temperature alloys are essential to the construction of engine components: only a material with the strength of cobalt and the temperature resistance of niobium could withstand the tremendous amount of heat and pressure that exists within the combustion chamber of a fusion engine. However, the rarity of niobium and the complex fabrication methods employed mean that high-temperature alloys are relatively expensive — but without them, modern space travel would be impossible.</TEXT><PARA/><POP/></RDL>
 
 65901
 INFOCARD
@@ -16125,7 +16125,7 @@ INFOCARD
 
 65925
 INFOCARD
-<RDL><PUSH/><TEXT>A medium-sized asteroid field notable for its large deposits of Beryllium. A branch of the Independent Mining Guild (IMG) based on the Cardiff Mining Facility has been working in the field with lucrative results, despite occasional raids by Corsairs who have managed to circumvent the Cambridge Line.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A medium-sized asteroid field notable for its large deposits of Beryllium. A branch of the Independent Mining Guild (IMG) based on the Cardiff Mining Facility has been working the field with lucrative results, despite occasional raids by Corsairs who have managed to circumvent the Cambridge Line.</TEXT><PARA/><POP/></RDL>
 
 65926
 INFOCARD
@@ -18261,7 +18261,7 @@ INFOCARD
 
 131159
 INFOCARD
-<RDL><PUSH/><TEXT>When the Xenos began, we were just miners who kept getting shafted by Liberty. There were fewer and fewer jobs as the years rolled by. Finally, there was nothing left for us, no jobs, not unless you could use a data pad instead of an auto-digger. All our jobs were being done by somebody in Rheinland or Kusari. Well, we decided to take back what had been taken from us.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>When the Xenos began, we were just miners who kept getting shafted by Liberty. There were fewer and fewer jobs as the years rolled by. Finally, there was nothing left for us, no jobs, not unless you could use a datapad instead of an auto-digger. All our jobs were being done by somebody in Rheinland or Kusari. Well, we decided to take back what had been taken from us.</TEXT><PARA/><POP/></RDL>
 
 131160
 INFOCARD
@@ -24457,7 +24457,7 @@ INFOCARD
 
 132788
 INFOCARD
-<RDL><PUSH/><TEXT>It was best for both the Corsairs and the Hogosha to cut the GMG out of our business dealings. The GMG are indeed closer our people than the Corsairs, but “money makes friends of strangers” as the saying goes.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It was best for both the Corsairs and the Hogosha to cut the GMG out of our business dealings. The GMG are indeed closer to our people than the Corsairs, but “money makes friends of strangers” as the saying goes.</TEXT><PARA/><POP/></RDL>
 
 132789
 INFOCARD
@@ -24469,7 +24469,7 @@ INFOCARD
 
 132791
 INFOCARD
-<RDL><PUSH/><TEXT>Security caught a thief among our guests. Thankfully, all the stolen items have been returned to their rightful owners. The unfortunate criminal will be delivered to the proper authorities in Honshu tomorrow. Within a few weeks, she will be working in the Hydrocarbon mines of the Fuchu Ring.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Security caught a thief among our guests. Thankfully, all the stolen items have been returned to their rightful owners. The unfortunate criminal will be delivered to the proper authorities in Honshu tomorrow. Within a few weeks, she will be working the Hydrocarbon mines of the Fuchu Ring.</TEXT><PARA/><POP/></RDL>
 
 132792
 INFOCARD
@@ -25825,7 +25825,7 @@ INFOCARD
 
 133134
 INFOCARD
-<RDL><PUSH/><TEXT>The Bermejo Cloud hides the Jump Hole that leads to the Outcast home world. There are a few Bounty Hunters that will go into Omicron Alpha, but I’m not one of them. What good is money if you aren’t alive to spend it? In there it’s a different game.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Bermejo Cloud hides the Jump Hole that leads to the Outcast homeworld. There are a few Bounty Hunters that will go into Omicron Alpha, but I’m not one of them. What good is money if you aren’t alive to spend it? In there it’s a different game.</TEXT><PARA/><POP/></RDL>
 
 133135
 INFOCARD
@@ -26393,7 +26393,7 @@ INFOCARD
 
 133277
 INFOCARD
-<RDL><PUSH/><TEXT>We must bring in many supplies to support our factories here. High Temperature Alloys, Cobalt, and Basic Alloys come from Mainz.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We must bring in many supplies to support our factories here. High-Temperature Alloys, Cobalt, and Basic Alloys come from Mainz.</TEXT><PARA/><POP/></RDL>
 
 133278
 INFOCARD
@@ -27653,7 +27653,7 @@ INFOCARD
 
 133592
 INFOCARD
-<RDL><PUSH/><TEXT>Some of the Zoners at this base are always lookin' at me sideways, acting like I’m the almighty hand of BMM itself. Ah, stupid base snipes is all they are. Next one I see looking at me funny is gonna get some teeth popped outta his head.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some of the Zoners at this base are always lookin’ at me sideways, acting like I’m the almighty hand of BMM itself. Ah, stupid base snipes is all they are. Next one I see looking at me funny is gonna get some teeth popped outta his head.</TEXT><PARA/><POP/></RDL>
 
 133593
 INFOCARD
@@ -28377,7 +28377,7 @@ INFOCARD
 
 133778
 INFOCARD
-<RDL><PUSH/><TEXT>The Ring is one of Rheinland’s most famous landmarks. On a clear day, you can see it from Berlin's planetside. It is positioned at the Lagrange point between Potsdam and Berlin, where the gravitational attraction of the planet and moon effectively neutralize each other. That enables the Ring to maintain a stable orbit with minimal attitude and speed corrections, which would otherwise exert substantial forces on such a large structure.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Ring is one of Rheinland’s most famous landmarks. On a clear day, you can see it from Berlin’s planetside. It is positioned at the Lagrange point between Potsdam and Berlin, where the gravitational attraction of the planet and moon effectively neutralize each other. That enables the Ring to maintain a stable orbit with minimal attitude and speed corrections, which would otherwise exert substantial forces on such a large structure.</TEXT><PARA/><POP/></RDL>
 
 133779
 INFOCARD
@@ -29085,7 +29085,7 @@ INFOCARD
 
 133958
 INFOCARD
-<RDL><PUSH/><TEXT>Most of our traffic is northbound out of Altona. Copper and Cobalt are the chief metals being shipped into Liberty. Mining Machinery and High Temperature Alloys make up the remainder. Most of the ships unload in Houston, although some continue to New York or Colorado.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Most of our traffic is northbound out of Altona. Copper and Cobalt are the chief metals being shipped into Liberty. Mining Machinery and High-Temperature Alloys make up the remainder. Most of the ships unload in Houston, although some continue to New York or Colorado.</TEXT><PARA/><POP/></RDL>
 
 133959
 INFOCARD
@@ -29113,7 +29113,7 @@ INFOCARD
 
 133965
 INFOCARD
-<RDL><PUSH/><TEXT>We bring in Superconductors from Houston, then turn back north with High Temperature Alloys. It’s not a hugely profitable run, but you can make money. It’s probably better if you went all the way to the source.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We bring in Superconductors from Houston, then turn back north with High-Temperature Alloys. It’s not a hugely profitable run, but you can make money. It’s probably better if you went all the way to the source.</TEXT><PARA/><POP/></RDL>
 
 133966
 INFOCARD
@@ -34425,7 +34425,7 @@ Sean Ashcroft
 
 216207
 NAME
-Ashcroft's Life pod
+Ashcroft’s Life pod
 
 216208
 NAME
@@ -37037,7 +37037,7 @@ Gateway Shipping\nErnest Parker
 
 220379
 NAME
-Kishiro Technologies\nKazua Hayashi
+Kishiro Technologies\nKazuo Hayashi
 
 220380
 NAME
@@ -37525,7 +37525,7 @@ Kusari State Police\nInspector Yoshiko Endo
 
 220501
 NAME
-Kusari State Police\nDetective Kazuo Yamashita
+Kusari State Police\nDetective Kazua Yamashita
 
 220502
 NAME
@@ -72101,7 +72101,7 @@ INFOCARD
 
 393645
 INFOCARD
-<RDL><PUSH/><TEXT>Ah, yes — Kress. He left a message for you in this data pad. It’s encrypted, but he said Quintaine would know the password. Nice guy, but he had some really creepy bodyguards with him. Hope that helps.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Ah, yes — Kress. He left a message for you in this datapad. It’s encrypted, but he said Quintaine would know the password. Nice guy, but he had some really creepy bodyguards with him. Hope that helps.</TEXT><PARA/><POP/></RDL>
 
 393646
 INFOCARD
@@ -72257,7 +72257,7 @@ INFOCARD
 
 393684
 INFOCARD
-<RDL><PUSH/><TEXT>I don’t trust Liberty anymore. I’ve actually heard that they are secretly working with Rheinland to divide us on into two fronts, and then come in to bleed us dry of our resources and technology. It’s in total disregard of the Boorman Treaty — that they themselves set up, but that’s the way they operate. They stand behind the law as long as it serves their interests. I’ve even heard they’ve been kidnapping some of our best scientists and forcing them to work on some secret project.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I don’t trust Liberty anymore. I’ve actually heard that they are secretly working with Rheinland to divide us into two fronts, and then come in to bleed us dry of our resources and technology. It’s in total disregard of the Boorman Treaty — that they themselves set up, but that’s the way they operate. They stand behind the law as long as it serves their interests. I’ve even heard they’ve been kidnapping some of our best scientists and forcing them to work on some secret project.</TEXT><PARA/><POP/></RDL>
 
 393685
 INFOCARD
