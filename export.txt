@@ -13525,7 +13525,7 @@ TAU-23 — The BMM mining operation in Tau-23 is under daily attack by Outcasts,
 
 56264
 NAME
-Kusari Plans Jump Gate into Tau-23
+Kusari Plans Jump Gate to Tau-23
 
 56265
 NAME
@@ -17125,7 +17125,7 @@ INFOCARD
 
 66179
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Daumann, Kruger, Rheinland Police, Rheinland Military, Bounty Hunters, GMG, Outcasts</TEXT><PARA/><PARA/><TEXT>The Bundschuh are a populist political faction that has been declared “enemy of the State” by the Rheinland Reichstag.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Daumann, Kruger, Rheinland Police, Rheinland Military, Bounty Hunters, GMG, Outcasts</TEXT><PARA/><PARA/><TEXT>The Bundschuh is a populist political faction that has been declared “enemy of the State” by the Rheinland Reichstag.</TEXT><PARA/><POP/></RDL>
 
 66180
 INFOCARD
@@ -18161,7 +18161,7 @@ INFOCARD
 
 131134
 INFOCARD
-<RDL><PUSH/><TEXT>We get most of our supplies from Beaumont because it’s actually safer to hit the Jump Hole into Texas. The Junker base is right on the other side of the Jump Hole in a debris field, plus we don’t have to leave the cover of the Badlands on our side. It’s all about the cover; we try and expose ourselves as little as possible.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We get most of our supplies from Beaumont because it’s actually safer to hit the Jump Hole to Texas. The Junker base is right on the other side of the Jump Hole in a debris field, plus we don’t have to leave the cover of the Badlands on our side. It’s all about the cover; we try and expose ourselves as little as possible.</TEXT><PARA/><POP/></RDL>
 
 131135
 INFOCARD
@@ -19541,7 +19541,7 @@ INFOCARD
 
 131518
 INFOCARD
-<RDL><PUSH/><TEXT>There’s a Jump Hole into Cortez from here; that’s how the Rogues get into this system. There’s no way directly into California except through the Gate. It’s been a while since I’ve seen the beautiful skies of Los Angeles.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s a Jump Hole to Cortez from here; that’s how the Rogues get into this system. There’s no way directly into California except through the Gate. It’s been a while since I’ve seen the beautiful skies of Los Angeles.</TEXT><PARA/><POP/></RDL>
 
 131519
 INFOCARD
@@ -19597,7 +19597,7 @@ INFOCARD
 
 131532
 INFOCARD
-<RDL><PUSH/><TEXT>There’s a Jump Hole into Manchester just to the west of this base. We often pop through and hang out in the North Sheffield Field, waiting for an unsuspecting Bowex Gold shipment on the Trade Lanes.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s a Jump Hole to Manchester just to the west of this base. We often pop through and hang out in the North Sheffield Field, waiting for an unsuspecting Bowex Gold shipment on the Trade Lanes.</TEXT><PARA/><POP/></RDL>
 
 131533
 INFOCARD
@@ -19781,7 +19781,7 @@ INFOCARD
 
 131578
 INFOCARD
-<RDL><PUSH/><TEXT>We mainly use Montezuma as a forward tactical base to stage attacks on Trade Lanes in Cortez via the Jump Hole into California. We prefer the safety of the Barrier Cloud, whereas the Rogues will attack almost anywhere.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We mainly use Montezuma as a forward tactical base to stage attacks on Trade Lanes in Cortez via the Jump Hole to California. We prefer the safety of the Barrier Cloud, whereas the Rogues will attack almost anywhere.</TEXT><PARA/><POP/></RDL>
 
 131579
 INFOCARD
@@ -20033,7 +20033,7 @@ INFOCARD
 
 131641
 INFOCARD
-<RDL><PUSH/><TEXT>There’s a Jump Hole into California in the Paloma Ice Cloud just south of the Jump Gate. If you’re trying to move some illegals and wanna stay clean of the scans, then that’s the way to get into California.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s a Jump Hole to California in the Paloma Ice Cloud just south of the Jump Gate. If you’re trying to move some illegals and wanna stay clean of the scans, then that’s the way to get into California.</TEXT><PARA/><POP/></RDL>
 
 131642
 INFOCARD
@@ -20045,7 +20045,7 @@ INFOCARD
 
 131644
 INFOCARD
-<RDL><PUSH/><TEXT>Our base is fairly well hidden here in the Corcovado. It’s useful to know that there is a Jump Hole into Magellan in this ice cloud, too. From Magellan there’s a Jump Hole to Manchester, so you can cross into Bretonia space unscanned if you need to.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our base is fairly well hidden here in the Corcovado. It’s useful to know that there is a Jump Hole to Magellan in this ice cloud, too. From Magellan there’s a Jump Hole to Manchester, so you can cross into Bretonia space unscanned if you need to.</TEXT><PARA/><POP/></RDL>
 
 131645
 INFOCARD
@@ -22209,7 +22209,7 @@ INFOCARD
 
 132205
 INFOCARD
-<RDL><PUSH/><TEXT>New London is a just a sideshow for the Outcasts, ’cause there’s no Jump Hole into Manchester from here. The main Cardamine route is through the Leeds smog clouds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New London is a just a sideshow for the Outcasts, ’cause there’s no Jump Hole to Manchester from here. The main Cardamine route is through the Leeds smog clouds.</TEXT><PARA/><POP/></RDL>
 
 132206
 INFOCARD
@@ -22321,7 +22321,7 @@ INFOCARD
 
 132233
 INFOCARD
-<RDL><PUSH/><TEXT>There’s a Jump Hole into Dublin from the Cumbria. The military would love to know about it, but hey, us Bounty Hunters have to make a livin’ now, don’t we?</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s a Jump Hole to Dublin from the Cumbria. The military would love to know about it, but hey, us Bounty Hunters have to make a livin’ now, don’t we?</TEXT><PARA/><POP/></RDL>
 
 132234
 INFOCARD
@@ -24617,7 +24617,7 @@ INFOCARD
 
 132829
 INFOCARD
-<RDL><PUSH/><TEXT>When DSE was building the Jump Gate into this system, there were never any Outcast attacks. Those crafty bastards were biding their time until the Gate was completed, and then they attacked in force. They were just waiting until we had committed ourselves to this area so they could pirate our shipping.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>When DSE was building the Jump Gate to this system, there were never any Outcast attacks. Those crafty bastards were biding their time until the Gate was completed, and then they attacked in force. They were just waiting until we had committed ourselves to this area so they could pirate our shipping.</TEXT><PARA/><POP/></RDL>
 
 132830
 INFOCARD
@@ -25453,7 +25453,7 @@ INFOCARD
 
 133041
 INFOCARD
-<RDL><PUSH/><TEXT>There is a Jump Hole into Honshu in the northern end of this system just west of the Jump Gate. Beware of the oxygen pocket, though, and stay well to the west until you are even with the Gate.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There is a Jump Hole to Honshu in the northern end of this system just west of the Jump Gate. Beware of the oxygen pocket, though, and stay well to the west until you are even with the Gate.</TEXT><PARA/><POP/></RDL>
 
 133042
 INFOCARD
@@ -26025,7 +26025,7 @@ INFOCARD
 
 133184
 INFOCARD
-<RDL><PUSH/><TEXT>The trick to killing Corsairs is taking them head on. They aren’t used to someone getting in their face and fighting them squarely; it throws them off balance. Then you have the advantage. I know. I’ve killed two Corsairs already.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The trick to killing Corsairs is taking them head-on. They aren’t used to someone getting in their face and fighting them squarely; it throws them off balance. Then you have the advantage. I know. I’ve killed two Corsairs already.</TEXT><PARA/><POP/></RDL>
 
 133185
 INFOCARD
@@ -26681,7 +26681,7 @@ INFOCARD
 
 133349
 INFOCARD
-<RDL><PUSH/><TEXT>We have heard that there is a Hole into Sigma-13, but the GMG will not tell us. They keep their secrets close; they are not truly Kusari anymore.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have heard that there is a Hole to Sigma-13, but the GMG will not tell us. They keep their secrets close; they are not truly Kusari anymore.</TEXT><PARA/><POP/></RDL>
 
 133350
 INFOCARD
@@ -28809,7 +28809,7 @@ INFOCARD
 
 133889
 INFOCARD
-<RDL><PUSH/><TEXT>There’s a Hole into Frankfurt in the Alsterfeld. That’s where you’ll see Junkers running contraband and the odd Bundschuh raiding party headed for the Westfalen. And there are always plenty of Unioners to keep you company.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s a Hole to Frankfurt in the Alsterfeld. That’s where you’ll see Junkers running contraband and the odd Bundschuh raiding party headed for the Westfalen. And there are always plenty of Unioners to keep you company.</TEXT><PARA/><POP/></RDL>
 
 133890
 INFOCARD
@@ -29461,7 +29461,7 @@ INFOCARD
 
 134052
 INFOCARD
-<RDL><PUSH/><TEXT>The LWB are sensible enough not to harass Daumann too much; that is why we do not pay to have them killed by Bounty Hunters. We leave that to the Synth Foods invaders. Personally, I hope all their damn cellulose crops burn.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The LWB is sensible enough not to harass Daumann too much; that is why we do not pay to have them killed by Bounty Hunters. We leave that to the Synth Foods invaders. Personally, I hope all their damn cellulose crops burn.</TEXT><PARA/><POP/></RDL>
 
 134053
 INFOCARD
@@ -62705,7 +62705,7 @@ INFOCARD
 
 264310
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Bundschuh "Luger" Tachyon Cannon Type C</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons, but requires enormous amounts of power to fire. This weapon is most effective against molecular shields, and weakest against positron shields. Bundschuh weapons do a bit more damage, at a reduced rate of fire. This is the best Tachyon Cannon the Bundschuh have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Bundschuh "Luger" Tachyon Cannon Type C</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons, but requires enormous amounts of power to fire. This weapon is most effective against molecular shields, and weakest against positron shields. Bundschuh weapons do a bit more damage, at a reduced rate of fire. This is the best Tachyon Cannon the Bundschuh has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264311
 INFOCARD
@@ -62713,7 +62713,7 @@ INFOCARD
 
 264312
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Bundschuh "Luger" Tachyon Turret Type B</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons, but requires enormous amounts of power to fire. This weapon is most effective against molecular shields, and weakest against positron shields. Bundschuh weapons do a bit more damage, at a reduced rate of fire. This is the best Tachyon Turret the Bundschuh have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Bundschuh "Luger" Tachyon Turret Type B</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons, but requires enormous amounts of power to fire. This weapon is most effective against molecular shields, and weakest against positron shields. Bundschuh weapons do a bit more damage, at a reduced rate of fire. This is the best Tachyon Turret the Bundschuh has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264313
 INFOCARD
@@ -62861,7 +62861,7 @@ INFOCARD
 
 264349
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LWB "Advanced Eliminator" Tachyon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons, but requires enormous amounts of power to fire. This weapon is most effective against molecular shields, and weakest against positron shields. LWB weapons are a bit more energy efficient, but have a slower rate of fire. This is the best Tachyon Cannon the LWB have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>LWB "Advanced Eliminator" Tachyon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons, but requires enormous amounts of power to fire. This weapon is most effective against molecular shields, and weakest against positron shields. LWB weapons are a bit more energy efficient, but have a slower rate of fire. This is the best Tachyon Cannon the LWB has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264350
 INFOCARD
