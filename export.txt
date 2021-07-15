@@ -33069,7 +33069,7 @@ Cheviot
 
 202710
 NAME
-Peninne
+Penine
 
 202711
 NAME
@@ -33149,7 +33149,7 @@ Braan
 
 202730
 NAME
-Kinglass
+Kinglas
 
 202731
 NAME
@@ -33501,7 +33501,7 @@ Osako
 
 202818
 NAME
-Yanase
+Yanse
 
 202819
 NAME
@@ -33561,7 +33561,7 @@ Oka-Hijiri
 
 202833
 NAME
-Kamikuchi-dake
+Kamikochi-dake
 
 202834
 NAME
@@ -35893,7 +35893,7 @@ Kishiro Technologies\nToshi Kaneko
 
 220093
 NAME
-Liberty Police, Inc.\nLt. Sherri Traviata
+Liberty Police, Inc.\nLt. Sherri Traviat
 
 220094
 NAME
@@ -36097,7 +36097,7 @@ Border World Exports\nGarrett Twidell
 
 220144
 NAME
-Cryer Pharmaceuticals\nDr. David Haverly
+Cryer Pharmaceuticals\nDr. David Haverla
 
 220145
 NAME
@@ -36121,7 +36121,7 @@ Liberty Police, Inc.\nSgt. Linda Kennedy
 
 220150
 NAME
-Liberty Police, Inc.\nLt. Travis Mason
+Liberty Police, Inc.\nLt. Travis Macson
 
 220151
 NAME
@@ -36129,7 +36129,7 @@ Planetform, Inc.\nMichael Bruunt
 
 220152
 NAME
-Synth Foods, Inc.\nDr. Carson Motis
+Synth Foods, Inc.\nDr. Carson Mothis
 
 220153
 NAME
@@ -36625,7 +36625,7 @@ Bretonia Mining and Metal\nJohn Davies
 
 220276
 NAME
-Bretonia Mining and Metal\nHugh Bromley
+Bretonia Mining and Metal\nHugh Bromly
 
 220277
 NAME
@@ -37037,7 +37037,7 @@ Gateway Shipping\nErnest Parker
 
 220379
 NAME
-Kishiro Technologies\nKazuo Hayashi
+Kishiro Technologies\nKazua Hayashi
 
 220380
 NAME
@@ -39301,7 +39301,7 @@ Kishiro Technologies\nSales Rep. Yuichi Ito
 
 220945
 NAME
-Kishiro Technologies\nDr. Jusai Takeshita
+Kishiro Technologies\nDr. Jussai Takeshita
 
 220946
 NAME
@@ -42773,11 +42773,11 @@ Alban
 
 227713
 NAME
-Aldbourne
+Aldebourne
 
 227714
 NAME
-Alfrey
+Alfray
 
 227715
 NAME
@@ -42825,7 +42825,7 @@ Archer
 
 227726
 NAME
-Ardell
+Ardall
 
 227727
 NAME
@@ -42933,7 +42933,7 @@ Branch
 
 227753
 NAME
-Branthwaite
+Branwhaite
 
 227754
 NAME
@@ -42969,7 +42969,7 @@ Brett
 
 227762
 NAME
-Brewis
+Brewiss
 
 227763
 NAME
@@ -43033,7 +43033,7 @@ Brown
 
 227778
 NAME
-Brownfield
+Brownflet
 
 227779
 NAME
@@ -43141,7 +43141,7 @@ Covert
 
 227805
 NAME
-Cowell
+Cowill
 
 227806
 NAME
@@ -43177,7 +43177,7 @@ Crisp
 
 227814
 NAME
-Christmas
+Cristemas
 
 227815
 NAME
@@ -43321,7 +43321,7 @@ Franklin
 
 227850
 NAME
-Frost
+Fraunces
 
 227851
 NAME
@@ -43357,7 +43357,7 @@ Froggenhall
 
 227859
 NAME
-Fremond
+Fromond
 
 227860
 NAME
@@ -43429,7 +43429,7 @@ Henshawe
 
 227877
 NAME
-Harleston
+Herleston
 
 227878
 NAME
@@ -43529,7 +43529,7 @@ Hornebolt
 
 227902
 NAME
-Horley
+Hornley
 
 227903
 NAME
@@ -43561,7 +43561,7 @@ Huddleston
 
 227910
 NAME
-Hungerford
+Hugeford
 
 227911
 NAME
@@ -43605,7 +43605,7 @@ Hussey
 
 227921
 NAME
-Lescott
+Litcott
 
 227922
 NAME
@@ -43709,7 +43709,7 @@ Malster
 
 227947
 NAME
-Malton
+Maltoun
 
 227948
 NAME
@@ -43729,7 +43729,7 @@ Marcheford
 
 227952
 NAME
-Markley
+Markeley
 
 227953
 NAME
@@ -43765,7 +43765,7 @@ Maycott
 
 227961
 NAME
-Maidstone
+Maydestone
 
 227962
 NAME
@@ -43773,7 +43773,7 @@ Mayne
 
 227963
 NAME
-Mainwaring
+Maynwaring
 
 227964
 NAME
@@ -45821,7 +45821,7 @@ Fritzsche
 
 228475
 NAME
-Froggatt
+Frogatt
 
 228476
 NAME
@@ -48173,7 +48173,7 @@ Sakoda
 
 229124
 NAME
-Sakubara
+Sakuraba
 
 229125
 NAME
