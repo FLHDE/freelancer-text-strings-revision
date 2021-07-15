@@ -21061,7 +21061,7 @@ INFOCARD
 
 131905
 INFOCARD
-<RDL><PUSH/><TEXT>California is Rogue central. We got ’em in all the asteroid fields. No Xenos, though. Never been any mining or manufacturing workers in this system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>California is Rogue central. We got ’em in all the asteroid fields. No Xenos, though. Never seen any mining or manufacturing workers in this system.</TEXT><PARA/><POP/></RDL>
 
 131906
 INFOCARD
@@ -25273,7 +25273,7 @@ INFOCARD
 
 132996
 INFOCARD
-<RDL><PUSH/><TEXT>The Hogosha serves us well by relieving our suppliers and competitors of extra Commodities in storage, we can keep our costs down and remain clear of suspicion. The occasional Hogosha gets caught, but that is the risk that they take. We will deny any knowledge of the arrangement if they are caught.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hogosha serves us well. By relieving our suppliers and competitors of extra Commodities in storage, we can keep our costs down and remain clear of suspicion. The occasional Hogosha gets caught, but that is the risk that they take. We will deny any knowledge of the arrangement if they are caught.</TEXT><PARA/><POP/></RDL>
 
 132997
 INFOCARD
@@ -71485,7 +71485,7 @@ INFOCARD
 
 393490
 INFOCARD
-<RDL><PUSH/><TEXT>Thrusters are one of the most useful items you can equip on your ship.  Most pilots believe they are absolutely essential. Thrusters help you stay on enemies in a dogfight, dodge incoming mines and missiles, and they can get you out of somebody’s targeting sights quickly.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Thrusters are one of the most useful items you can equip on your ship. Most pilots believe they are absolutely essential. Thrusters help you stay on enemies in a dogfight, dodge incoming mines and missiles, and they can get you out of somebody’s targeting sights quickly.</TEXT><PARA/><POP/></RDL>
 
 393491
 INFOCARD
@@ -72149,7 +72149,7 @@ INFOCARD
 
 393657
 INFOCARD
-<RDL><PUSH/><TEXT>Now it’s strictly a rumor mind you, but I’ve heard that there’s a new kind of Artifact that a Rheinland survey team discovered in the Border Worlds.  Not the usual stuff. As you probably know, most Artifacts are just the remnants of the technology used by the race of people who lived in Sirius thousands of years ago. Some are really elegant, crystalline structures that generate musical tones, light, colors, and other energy. Most of them are traded as art trinkets, but apparently Rheinland has hit the motherload and is trying to keep it </TEXT><TRA italic="true"/><TEXT>all</TEXT><TRA italic="false"/><TEXT>  for itself.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Now it’s strictly a rumor mind you, but I’ve heard that there’s a new kind of Artifact that a Rheinland survey team discovered in the Border Worlds. Not the usual stuff. As you probably know, most Artifacts are just the remnants of the technology used by the race of people who lived in Sirius thousands of years ago. Some are really elegant, crystalline structures that generate musical tones, light, colors, and other energy. Most of them are traded as art trinkets, but apparently Rheinland has hit the motherload and is trying to keep it </TEXT><TRA italic="true"/><TEXT>all</TEXT><TRA italic="false"/><TEXT>  for itself.</TEXT><PARA/><POP/></RDL>
 
 393658
 INFOCARD
