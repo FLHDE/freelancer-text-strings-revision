@@ -14297,7 +14297,7 @@ The Road To Rheinland Part II
 
 56457
 NAME
-CRETE — The Hogosha have agreed to use their contacts in Kusari to put focused pressure upon the Outcasts, alleviating the possibility of a flank attack by our northern enemies. In return, the Hogosha will be given exclusive Artifacts-distribution rights for all of Sirius. The Junkers at Sigma-13 cannot withstand a focused attack and will fall. The Northern Fleet will then invade Frankfurt, where we should encounter minimal resistance from the Bundschuh or the Rheinland Federal Police. As soon as Frankfurt falls, a base of operations will be established there and lines drawn for the push into Dresden.
+CRETE — The Hogosha has agreed to use their contacts in Kusari to put focused pressure upon the Outcasts, alleviating the possibility of a flank attack by our northern enemies. In return, the Hogosha will be given exclusive Artifacts-distribution rights for all of Sirius. The Junkers at Sigma-13 cannot withstand a focused attack and will fall. The Northern Fleet will then invade Frankfurt, where we should encounter minimal resistance from the Bundschuh or the Rheinland Federal Police. As soon as Frankfurt falls, a base of operations will be established there and lines drawn for the push into Dresden.
 
 56458
 NAME
@@ -15181,7 +15181,7 @@ INFOCARD
 
 65686
 INFOCARD
-<RDL><PUSH/><TEXT>Lane Hackers are mostly composed of former Los Angeles Ageira Technologies employees who created the extremely complex scanning and database system known as USI (Universal Ship Identification). Departing the company rather acrimoniously in 750 AS, they have become a growing problem in the Independent Worlds.</TEXT><PARA/><TEXT>The Lane Hackers in Magellan and Galileo share one common origin — Ageira. The scandal that erupted within the company after the great Galileo bypass project, which resulted in the unnecessary construction of a hugely expensive set of Jump Gates and Trade Lanes, forced several executives and an elite development team out. This would become the second part of the core of the Lane Hackers, along with the original California scanner group that fled to Magellan.</TEXT><PARA/><PARA/><TEXT>The investigation continues to this day but has so far been unsuccessful in locating the Lane Hacker bases. No Hacker has ever been captured, although various Rogues in the Independent Worlds have been caught possessing remarkably accurate information regarding upcoming high-value shipments.</TEXT><PARA/><PARA/><TEXT>Security measures have been added to the software, but the Hackers remain one step ahead, leading Ageira security experts to believe that there are many sympathetic programmers still within the company, possibly being secretly paid off with the proceeds from the thefts. The Lane Hackers prefer to sell their information to others rather than do the dirty work themselves, although they sometimes swoop in and tractor in cargo if it’s particularly juicy. Fancying themselves as modern-day Robinhoods, they avoid direct confrontation when possible, unless it is the henchmen of the despised IC and Ageira.</TEXT><PARA/><PARA/><TEXT>They like to frequent Freeport 4 and the Ames Research Station, as their asteroid bases within the clouds can become claustrophobic. Their Cardamine addiction forces the Hackers to trade drugs for Trade Lane info with the Outcasts at the Mactan base. Leiden is a key transfer point for smuggled goods between Kusari and Liberty, especially the Artifact trade, which the Hogosha dominate. A steady stream of Hogosha ships make the journey to the Galileo System. The Lane Hackers have also been spotted in Colorado, leading authorities to speculate that there may be multiple Jump Hole routes into that system from the Independent Worlds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Lane Hackers are mostly composed of former Los Angeles Ageira Technologies employees who created the extremely complex scanning and database system known as USI (Universal Ship Identification). Departing the company rather acrimoniously in 750 AS, they have become a growing problem in the Independent Worlds.</TEXT><PARA/><TEXT>The Lane Hackers in Magellan and Galileo share one common origin — Ageira. The scandal that erupted within the company after the great Galileo bypass project, which resulted in the unnecessary construction of a hugely expensive set of Jump Gates and Trade Lanes, forced several executives and an elite development team out. This would become the second part of the core of the Lane Hackers, along with the original California scanner group that fled to Magellan.</TEXT><PARA/><PARA/><TEXT>The investigation continues to this day but has so far been unsuccessful in locating the Lane Hacker bases. No Hacker has ever been captured, although various Rogues in the Independent Worlds have been caught possessing remarkably accurate information regarding upcoming high-value shipments.</TEXT><PARA/><PARA/><TEXT>Security measures have been added to the software, but the Hackers remain one step ahead, leading Ageira security experts to believe that there are many sympathetic programmers still within the company, possibly being secretly paid off with the proceeds from the thefts. The Lane Hackers prefer to sell their information to others rather than do the dirty work themselves, although they sometimes swoop in and tractor in cargo if it’s particularly juicy. Fancying themselves as modern-day Robinhoods, they avoid direct confrontation when possible, unless it is the henchmen of the despised IC and Ageira.</TEXT><PARA/><PARA/><TEXT>They like to frequent Freeport 4 and the Ames Research Station, as their asteroid bases within the clouds can become claustrophobic. Their Cardamine addiction forces the Hackers to trade drugs for Trade Lane info with the Outcasts at the Mactan base. Leiden is a key transfer point for smuggled goods between Kusari and Liberty, especially the Artifact trade, which the Hogosha dominates. A steady stream of Hogosha ships make the journey to the Galileo System. The Lane Hackers have also been spotted in Colorado, leading authorities to speculate that there may be multiple Jump Hole routes into that system from the Independent Worlds.</TEXT><PARA/><POP/></RDL>
 
 65687
 INFOCARD
@@ -15357,7 +15357,7 @@ INFOCARD
 
 65732
 INFOCARD
-<RDL><PUSH/><TEXT>Hogosha translates literally as “guardian” or “protector,” reflecting the organization’s rather romantic view held not only by its own members, but by a large portion of the Kusari population — though by no means the majority. Far from protectors, the Hogosha are actually descendants of the organized crime syndicates that grow within the shadow of any sizable human society — though the Hogosha have an oddly symbiotic relationship with both the government and Samura.</TEXT><PARA/><PARA/><TEXT>Their political connections would make any serious attempt to dismantle them an embarrassment to Kusari as any number of secrets and deals that had been kept out of the public eye came to light. However, neither do the Hogosha have a free license to operate. Arrests of low-level Hogosha operators who flaunt their activities are frequent and help keep up appearances — very important in Kusari. “Hard” crime, such as drug smuggling, is not tolerated.</TEXT><PARA/><PARA/><TEXT>Individual opinions vary, but most police consider the Hogosha a necessary evil required for the smooth functioning of Kusari society. The government simply treats the Hogosha like any other large </TEXT><TRA italic="true"/><TEXT>keiretsu</TEXT><TRA italic="false"/><TEXT>. The Kusari population as a whole has a similar attitude: It is pointless to like or dislike the Hogosha; they are simply a fact of life.</TEXT><PARA/><PARA/><TEXT>The Hogosha handle Artifact and gun smuggling and the fencing of stolen goods. They also do occasional dirty work for Samura. They view the Blood Dragons as a major threat to their existence and have engaged in turf wars with them, mostly in the asteroid fields of Tokyo. The Golden Chrysanthemums are a new problem, as they have few qualms about dealing in the drug trade or its consequences. Since they have no corruptible leaders or long associations with Samura or the Kusari government and police, the GC — like the Blood Dragons — are dangerous to the Hogosha way of life. They view the Junkers as their only real competitors within the Sirius Sector, and their only obstacle to expansion into the other Houses. They have approached the Corsairs to assist them in their plan, although no concrete steps have been taken.</TEXT><PARA/><PARA/><TEXT>The Hogosha made a recent arrangement to purchase Artifacts directly from the Corsairs on the cruise ship </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>, a move that infuriated the GMG, who formerly served as the middleman between the two crime syndicates. It also raised the ire of the LSF, who applied pressure on Orbital Spa to deny landing privileges to the two factions.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Hogosha translates literally as “guardian” or “protector,” reflecting the organization’s rather romantic view held not only by its own members, but by a large portion of the Kusari population — though by no means the majority. Far from protectors, the Hogosha are actually descendants of the organized crime syndicates that grow within the shadow of any sizable human society — though the Hogosha has an oddly symbiotic relationship with both the government and Samura.</TEXT><PARA/><PARA/><TEXT>Their political connections would make any serious attempt to dismantle them an embarrassment to Kusari as any number of secrets and deals that had been kept out of the public eye came to light. However, neither does the Hogosha have a free license to operate. Arrests of low-level Hogosha operators who flaunt their activities are frequent and help keep up appearances — very important in Kusari. “Hard” crime, such as drug smuggling, is not tolerated.</TEXT><PARA/><PARA/><TEXT>Individual opinions vary, but most police consider the Hogosha a necessary evil required for the smooth functioning of Kusari society. The government simply treats the Hogosha like any other large </TEXT><TRA italic="true"/><TEXT>keiretsu</TEXT><TRA italic="false"/><TEXT>. The Kusari population as a whole has a similar attitude: It is pointless to like or dislike the Hogosha; they are simply a fact of life.</TEXT><PARA/><PARA/><TEXT>The Hogosha handles Artifact and gun smuggling and the fencing of stolen goods. They also do occasional dirty work for Samura. They view the Blood Dragons as a major threat to their existence and have engaged in turf wars with them, mostly in the asteroid fields of Tokyo. The Golden Chrysanthemums are a new problem, as they have few qualms about dealing in the drug trade or its consequences. Since they have no corruptible leaders or long associations with Samura or the Kusari government and police, the GC — like the Blood Dragons — are dangerous to the Hogosha way of life. They view the Junkers as their only real competitors within the Sirius Sector, and their only obstacle to expansion into the other Houses. They have approached the Corsairs to assist them in their plan, although no concrete steps have been taken.</TEXT><PARA/><PARA/><TEXT>The Hogosha made a recent arrangement to purchase Artifacts directly from the Corsairs on the cruise ship </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>, a move that infuriated the GMG, who formerly served as the middleman between the two crime syndicates. It also raised the ire of the LSF, who applied pressure on Orbital Spa to deny landing privileges to the two factions.</TEXT><PARA/><POP/></RDL>
 
 65733
 INFOCARD
@@ -16401,7 +16401,7 @@ INFOCARD
 
 65995
 INFOCARD
-<RDL><PUSH/><TEXT>An asteroid field mined out centuries before during the initial Kusari burst of expansion. The field is entirely deserted today except for Kabukicho Depot, where the Hogosha endeavor to “protect the anonymity of their clients.” Police patrols have recently been increased as terrorist groups such as the Blood Dragons and Farmers Alliance have been using the field to launch strikes against targets uncomfortably close to New Tokyo itself.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>An asteroid field mined out centuries before during the initial Kusari burst of expansion. The field is entirely deserted today except for Kabukicho Depot, where the Hogosha endeavors to “protect the anonymity of their clients.” Police patrols have recently been increased as terrorist groups such as the Blood Dragons and Farmers Alliance have been using the field to launch strikes against targets uncomfortably close to New Tokyo itself.</TEXT><PARA/><POP/></RDL>
 
 65996
 INFOCARD
@@ -17177,7 +17177,7 @@ INFOCARD
 
 66192
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Golden C., Blood Dragons, Junkers, GMG, Outcasts, Xenos</TEXT><PARA/><PARA/><TEXT>The Hogosha are a quasi-legal organization that ostensibly exists to promote the “welfare and prosperity of the Kusari people.”</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Golden C., Blood Dragons, Junkers, GMG, Outcasts, Xenos</TEXT><PARA/><PARA/><TEXT>The Hogosha is a quasi-legal organization that ostensibly exists to promote the “welfare and prosperity of the Kusari people.”</TEXT><PARA/><POP/></RDL>
 
 66193
 INFOCARD
@@ -18193,7 +18193,7 @@ INFOCARD
 
 131142
 INFOCARD
-<RDL><PUSH/><TEXT>We get our Artifacts from Leiden, up in the Galileo system. The Hogosha hand them over to the Rogues there.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We get our Artifacts from Leiden, up in the Galileo system. The Hogosha hands them over to the Rogues there.</TEXT><PARA/><POP/></RDL>
 
 131143
 INFOCARD
@@ -19925,7 +19925,7 @@ INFOCARD
 
 131614
 INFOCARD
-<RDL><PUSH/><TEXT>This base serves as the primary trans-shipment point for Artifacts inbound from Sigma-17. The Hogosha run them through Kusari space, terminating their long run here. The Rogues then haul the Artifacts into Rochester via their base in the southern end of the system. Don’t know why people love those Artifacts so much.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This base serves as the primary trans-shipment point for Artifacts inbound from Sigma-17. The Hogosha runs them through Kusari space, terminating their long run here. The Rogues then haul the Artifacts into Rochester via their base in the southern end of the system. Don’t know why people love those Artifacts so much.</TEXT><PARA/><POP/></RDL>
 
 131615
 INFOCARD
@@ -24517,7 +24517,7 @@ INFOCARD
 
 132803
 INFOCARD
-<RDL><PUSH/><TEXT>The Hogosha may be all-powerful in Kusari space, but this is not Kusari space. When the Hogosha agreed to deal us out of the lucrative Artifact trade between them and the Corsairs, they made a powerful  enemy for themselves. Samura should have intervened. The fact that they didn’t show us how little Samura respects us.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hogosha may be all-powerful in Kusari space, but this is not Kusari space. When the Hogosha agree to deal us out of the lucrative Artifact trade between them and the Corsairs, they made a powerful enemy for themselves. Samura should have intervened. The fact that they didn’t show us how little Samura respects us.</TEXT><PARA/><POP/></RDL>
 
 132804
 INFOCARD
@@ -24849,11 +24849,11 @@ INFOCARD
 
 132890
 INFOCARD
-<RDL><PUSH/><TEXT>The Kanto Field is directly behind Tokyo. It was once Kusari’s most important mining area, many centuries ago. Now it has become a criminal gathering place. The Hogosha keep things under control for us in there. In exchange, we let them do as they please around their base, Kabukicho.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Kanto Field is directly behind Tokyo. It was once Kusari’s most important mining area, many centuries ago. Now it has become a criminal gathering place. The Hogosha keeps things under control for us in there. In exchange, we let them do as they please around their base, Kabukicho.</TEXT><PARA/><POP/></RDL>
 
 132891
 INFOCARD
-<RDL><PUSH/><TEXT>We believe there is a Jump Hole in the Kanto Field that leads to Kyushu and points beyond. From there, the Blood Dragons and Golden C. can access our system and attack the Kusari people. We are certain that the Hogosha know its location, but they will not tell us, as it is most likely used for Artifact smuggling.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We believe there is a Jump Hole in the Kanto Field that leads to Kyushu and points beyond. From there, the Blood Dragons and Golden C. can access our system and attack the Kusari people. We are certain that the Hogosha knows its location, but they will not tell us, as it is most likely used for Artifact smuggling.</TEXT><PARA/><POP/></RDL>
 
 132892
 INFOCARD
@@ -24989,7 +24989,7 @@ INFOCARD
 
 132925
 INFOCARD
-<RDL><PUSH/><TEXT>We have problems with Hogosha stealing from the storage depots around this base. Narita is too small to store all of the cargo that is generated. The Hogosha are harmless, though — just skimming a little bit from the Gaijin shippers.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have problems with Hogosha stealing from the storage depots around this base. Narita is too small to store all of the cargo that is generated. The Hogosha is harmless, though — just skimming a little bit from the Gaijin shippers.</TEXT><PARA/><POP/></RDL>
 
 132926
 INFOCARD
@@ -25017,7 +25017,7 @@ INFOCARD
 
 132932
 INFOCARD
-<RDL><PUSH/><TEXT>It seems like the Hogosha always manage to steal shipments from the storage area before they are officially signed over to Samura. This port is too small. If it had proper storage, we wouldn’t need to expose our goods to theft. It’s probably all part of Samura and the government’s grand plan.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It seems like the Hogosha always manages to steal shipments from the storage area before they are officially signed over to Samura. This port is too small. If it had proper storage, we wouldn’t need to expose our goods to theft. It’s probably all part of Samura and the government’s grand plan.</TEXT><PARA/><POP/></RDL>
 
 132933
 INFOCARD
@@ -25033,7 +25033,7 @@ INFOCARD
 
 132936
 INFOCARD
-<RDL><PUSH/><TEXT>Just between you and me, the real reason Samura doesn’t want Republican landing on Yokohama is that the Samura use the Hogosha to steal shipbuilding supplies here. It’s always cheaper to steal than to buy, and it keeps costs down. Is it any wonder why they put the foreign commercial shipbuilders out of business?</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Just between you and me, the real reason Samura doesn’t want Republican landing on Yokohama is that the Samura uses the Hogosha to steal shipbuilding supplies here. It’s always cheaper to steal than to buy, and it keeps costs down. Is it any wonder why they put the foreign commercial shipbuilders out of business?</TEXT><PARA/><POP/></RDL>
 
 132937
 INFOCARD
@@ -25273,7 +25273,7 @@ INFOCARD
 
 132996
 INFOCARD
-<RDL><PUSH/><TEXT>The Hogosha serve us well. By relieving our suppliers and competitors of extra Commodities in storage, we can keep our costs down and remain clear of suspicion. The occasional Hogosha gets caught, but that is the risk that they take. We will deny any knowledge of the arrangement if they are caught.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hogosha serves us well by relieving our suppliers and competitors of extra Commodities in storage, we can keep our costs down and remain clear of suspicion. The occasional Hogosha gets caught, but that is the risk that they take. We will deny any knowledge of the arrangement if they are caught.</TEXT><PARA/><POP/></RDL>
 
 132997
 INFOCARD
@@ -26417,7 +26417,7 @@ INFOCARD
 
 133283
 INFOCARD
-<RDL><PUSH/><TEXT>The Hogosha run their Artifacts across Honshu to Tokyo from Sigma-19. We have begged them to tell us the location of their Jump Hole so that we can stop the Outcast scourge, but they will not cooperate.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hogosha runs its Artifacts across Honshu to Tokyo from Sigma-19. We have begged them to tell us the location of their Jump Hole so that we can stop the Outcast scourge, but they will not cooperate.</TEXT><PARA/><POP/></RDL>
 
 133284
 INFOCARD
@@ -26593,7 +26593,7 @@ INFOCARD
 
 133327
 INFOCARD
-<RDL><PUSH/><TEXT>Kusari is tolerant of the Artifact trade for different reasons than Liberty and the LSF realize. The Hogosha are required to turn over any that appear to be technology-related to the government, in exchange for minimal police interference with their other affairs. They end up here, where we have been patiently unlocking their secrets.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kusari is tolerant of the Artifact trade for different reasons than Liberty and the LSF realize. The Hogosha is required to turn over any that appear to be technology-related to the government, in exchange for minimal police interference with their other affairs. They end up here, where we have been patiently unlocking their secrets.</TEXT><PARA/><POP/></RDL>
 
 133328
 INFOCARD
@@ -27021,7 +27021,7 @@ INFOCARD
 
 133434
 INFOCARD
-<RDL><PUSH/><TEXT>It has been difficult to voice our opinion in Kusari, as the Hogosha apply pressure to anyone in the media who dares report anything favorably about us. The Hogosha are merely following Samura’s orders.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It has been difficult to voice our opinion in Kusari, as the Hogosha applies pressure to anyone in the media who dares report anything favorably about us. The Hogosha is merely following Samura’s orders.</TEXT><PARA/><POP/></RDL>
 
 133435
 INFOCARD
@@ -27409,7 +27409,7 @@ INFOCARD
 
 133531
 INFOCARD
-<RDL><PUSH/><TEXT>The Hogosha don’t really bother anyone in this system; they are usually just passing through. We can’t divert manpower from the really dangerous criminals to see that Hogosha activity is one hundred percent legal. We let them slide a bit.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hogosha doesn’t really bother anyone in this system; they are usually just passing through. We can’t divert manpower from the really dangerous criminals to see that Hogosha activity is one hundred percent legal. We let them slide a bit.</TEXT><PARA/><POP/></RDL>
 
 133532
 INFOCARD
@@ -62777,7 +62777,7 @@ INFOCARD
 
 264328
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hogosha "Drake" Type C Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon that delivers large amounts of damage, but cannot be refired quickly. This weapon is most effective against graviton shields, and weakest against molecular shields. Hogosha weapons have improved rates of fire, but at a reduced range. This is the best Plasma Cannon the Hogosha have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hogosha "Drake" Type C Plasma Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon that delivers large amounts of damage, but cannot be refired quickly. This weapon is most effective against graviton shields, and weakest against molecular shields. Hogosha weapons have improved rates of fire, but at a reduced range. This is the best Plasma Cannon the Hogosha has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264329
 INFOCARD
@@ -62785,7 +62785,7 @@ INFOCARD
 
 264330
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hogosha "Drake" Type B Plasma Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon that delivers large amounts of damage, but cannot be refired quickly. This weapon is most effective against graviton shields, and weakest against molecular shields. Hogosha weapons have improved rates of fire, but at a reduced range. This is the best Plasma Turret the Hogosha have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Hogosha "Drake" Type B Plasma Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon that delivers large amounts of damage, but cannot be refired quickly. This weapon is most effective against graviton shields, and weakest against molecular shields. Hogosha weapons have improved rates of fire, but at a reduced range. This is the best Plasma Turret the Hogosha has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264331
 INFOCARD
@@ -62873,7 +62873,7 @@ INFOCARD
 
 264352
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>FA "Vulture 3" Neutron Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a neutron-based weapon which, though very energy efficient, has a shorter effective range than most energy weapons. This weapon is most effective against molecular shields, and weakest against positron shields. FA weapons are a bit more energy efficient, but have a slower rate of fire. This is the best Neutron Cannon the Farmers Alliance have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>FA "Vulture 3" Neutron Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a neutron-based weapon which, though very energy efficient, has a shorter effective range than most energy weapons. This weapon is most effective against molecular shields, and weakest against positron shields. FA weapons are a bit more energy efficient, but have a slower rate of fire. This is the best Neutron Cannon the Farmers Alliance has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264353
 INFOCARD
