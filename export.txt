@@ -1101,7 +1101,7 @@ In the equipment room, you can buy equipment for your ship and decide which equi
 
 1116
 NAME
-The ship trader will swap your old, shot-up ship with one of his shiny new ships... for a price. (Test)
+The ship trader will swap your old, shot-up ship with one of his shiny new ships … for a price. (Test)
 
 1117
 NAME
@@ -2845,7 +2845,7 @@ NEURAL NET LOG - EDISON TRENT
 
 1553
 NAME
-*PERSONAL ENTRY:\nI met Lonnigan as planned on Kurile yesterday and we came to an agreement on the price. The plan is to meet on Freeport 7 tomorrow to seal the deal on the ore shipment. If everything works out, they’ll owe me a million credits. It’s the deal of a lifetime.\n\nPERSONAL ENTRY:\nWell, I did the deal. I’m now the proud owner of over a ton of Boron. I put all my savings into this deal. It’s not entirely legal, but here in the Border Worlds, nobody really pays too much attention to this. I’ve been in contact with a man named Lonnigan, apparently a hired gun representing Samura Heavy Industries. He says his clients might be interested in the shipment.\n\nPERSONAL ENTRY:\nIt’s been six weeks since my last entry. Unfortunately, I couldn’t find out anything about alien ruins or uncharted systems. Very frustrating. The only thing I’ve heard was that there’ve been sightings of strange ships out near Sigma-17. Who knows? The good news is that I’ve managed to hook up with a captain of a Republican Shipping convoy. He’s transporting a large shipment of Boron from Mainz to Honshu but wants to keep the profits for himself. We agreed to meet on Kurile tomorrow. We’ll see, maybe luck is on my side this time.\n\nPERSONAL ENTRY:\nAfter two weeks of travel, I finally managed to get to the Sigma system cluster. The trip through the Independent Worlds turned out to be much more dangerous than I thought. I was lucky several times that police patrols happened to be in the area when pirates wanted to blast me out of the stars. Anyway, word has it that there are several uncharted systems in this area of space. I will try to find out more information.\n\nPERSONAL ENTRY:\nI’ve finally decided to leave Bretonia and to try my luck in the Border Worlds. Despite what Tobias says, I can’t sit around Leeds for the rest of my life and fix up other people’s ships while more and more alien ruins are being discovered. They say that only 11 percent of the Border Worlds have been charted yet and hundreds of unknown planets are awaiting discovery. I’m starting this personal Neural Net Log to keep track of my travels and adventures.
+*PERSONAL ENTRY:\nI met Lonnigan as planned on Kurile yesterday and we came to an agreement on the price. The plan is to meet on Freeport 7 tomorrow to seal the deal on the ore shipment. If everything works out, they’ll owe me a million credits. It’s the deal of a lifetime.\n\nPERSONAL ENTRY:\nWell, I did the deal. I’m now the proud owner of over a ton of Boron. I put all my savings into this deal. It’s not entirely legal, but here in the Border Worlds, nobody really pays too much attention to this. I’ve been in contact with a man named Lonnigan. Apparently, he’s a hired gun representing Samura Heavy Industries. He says his clients might be interested in the shipment.\n\nPERSONAL ENTRY:\nIt’s been six weeks since my last entry. Unfortunately, I couldn’t find out anything about alien ruins or uncharted systems. Very frustrating. The only thing I’ve heard was that there’ve been sightings of strange ships out near Sigma-17. Who knows? The good news is that I’ve managed to hook up with a captain of a Republican Shipping convoy. He’s transporting a large shipment of Boron from Mainz to Honshu but wants to keep the profits for himself. We agreed to meet on Kurile tomorrow. We’ll see, maybe luck is on my side this time.\n\nPERSONAL ENTRY:\nAfter two weeks of travel, I finally managed to get to the Sigma system cluster. The trip through the Independent Worlds turned out to be much more dangerous than I thought. I was lucky several times that police patrols happened to be in the area when pirates wanted to blast me out of the stars. Anyway, word has it that there are several uncharted systems in this area of space. I will try to find out more information.\n\nPERSONAL ENTRY:\nI’ve finally decided to leave Bretonia and to try my luck in the Border Worlds. Despite what Tobias says, I can’t sit around Leeds for the rest of my life and fix up other people’s ships while more and more alien ruins are being discovered. They say that only 11 percent of the Border Worlds have been charted yet and hundreds of unknown planets are awaiting discovery. I’m starting this personal Neural Net Log to keep track of my travels and adventures.
 
 1554
 NAME
@@ -4101,7 +4101,7 @@ OPTIONS
 
 1869
 NAME
-Testing...
+Testing…
 
 1870
 NAME
@@ -5749,7 +5749,7 @@ Chat to entire universe
 
 3034
 NAME
-Chat to one person...
+Chat to one person…
 
 3035
 NAME
@@ -8205,7 +8205,7 @@ The decisive battle in the war between Rheinland and Kusari ended in the total d
 
 16100
 NAME
-You could stand to have a better reputation with %F0v1. I could hack your record for %d0 credits...that should clear things up. Of course that will make you less popular with %F1v1, %F2v1, and %F3v1. What do you say?
+You could stand to have a better reputation with %F0v1. I could hack your record for %d0 credits … that should clear things up. Of course that will make you less popular with %F1v1, %F2v1, and %F3v1. What do you say?
 
 16101
 NAME
@@ -8213,7 +8213,7 @@ For a small contribution of %d0 credits, I could put in a good word for you with
 
 16102
 NAME
-You could stand to have a better reputation with %F0v1. I could hack your record for %d0 credits...that should clear things up. What do you say?
+You could stand to have a better reputation with %F0v1. I could hack your record for %d0 credits … that should clear things up. What do you say?
 
 16103
 NAME
@@ -8525,15 +8525,15 @@ Destinations are marked with waypoints. A waypoint appears as a purple diamond i
 
 21905
 NAME
-Make sure the waypointed Trade Lane ring is selected and then activate the DOCK maneuver.\n\nWhen selected, the ring has a distance indicator and is identified as ‘Planet Manhattan –> Fort Bush.’\n\nTo select the ring:\n• Click on any part of the ring in space, or\n• Click on ‘Mission Waypoint’ in the Contact List at the bottom left of your HUD.\n\nThen click the DOCK maneuver icon in the Neural Net at the top of your screen.
+Make sure the waypointed Trade Lane ring is selected and then activate the DOCK maneuver.\n\nWhen selected, the ring has a distance indicator and is identified as ‘Planet Manhattan –> Fort Bush.’\n\nTo select the ring:\n• Click on any part of the ring in space, or\n• Click on ‘Mission Waypoint’ in the Contact List on the bottom-left of your HUD.\n\nThen click the DOCK maneuver icon in the Neural Net at the top of your screen.
 
 21910
 NAME
-Select the transport and then activate the FORMATION maneuver.\n\nTo select the USV Brandt:\n• Click on any part of the ship in space, or\n• Click on ‘USV Brandt’ in the Contact List at the bottom left of your HUD.\n\nThen click the FORMATION maneuver icon in the Neural Net at the top of your screen.
+Select the transport and then activate the FORMATION maneuver.\n\nTo select the USV Brandt:\n• Click on any part of the ship in space, or\n• Click on ‘USV Brandt’ in the Contact List on the bottom-left of your HUD.\n\nThen click the FORMATION maneuver icon in the Neural Net at the top of your screen.
 
 21915
 NAME
-Select the Pittsburgh docking ring and then activate the DOCK maneuver. To help you find the docking ring, the waypoint is currently marking that object.\n\nTo select the docking ring:\n• Click on any part of the docking ring in space, or\n• Click on ‘Mission Waypoint’ in the Contact List at the bottom left of your HUD.\n\nThen click the DOCK maneuver icon in the Neural Net at the top of your screen.
+Select the Pittsburgh docking ring and then activate the DOCK maneuver. To help you find the docking ring, the waypoint is currently marking that object.\n\nTo select the docking ring:\n• Click on any part of the docking ring in space, or\n• Click on ‘Mission Waypoint’ in the Contact List in the bottom-left of your HUD.\n\nThen click the DOCK maneuver icon in the Neural Net at the top of your screen.
 
 21920
 NAME
@@ -8541,15 +8541,15 @@ Congratulations! You have advanced to Pilot Level 1.\n\nThis new status allows y
 
 21925
 NAME
-New objectives in Freelancer are displayed for several seconds at the top of the screen. Objectives are automatically redisplayed every three minutes.\n\nOBJECTIVE COMMANDS:\n• N key – redisplay an objective.\n• F5 key or star icon on the top-right corner – view log of objectives and player journal.\n\nKEY SETTINGS:\nYou can customize the default key settings by pressing F1, clicking Options, and then choosing Controls.
+New objectives in Freelancer are displayed for several seconds at the top of the screen. Objectives are automatically redisplayed every three minutes.\n\nOBJECTIVE COMMANDS:\n• N key – redisplay an objective.\n• F5 key or star icon in the top-right corner – view log of objectives and player journal.\n\nKEY SETTINGS:\nYou can customize the default key settings by pressing F1, clicking Options, and then choosing Controls.
 
 21930
 NAME
-When you are on a base or planet, a row of icons appears at the top center of your screen that you can use to move to different locations. If you move your mouse over an icon, a tooltip will appear to identify it, and descriptive text will display in the top-left corner.\n\nROOM COMMANDS:\n• Click on a character in the room – talk to him or her.\n• Click on the room icon (top row, top center of screen) – move to that room.\n• Click on service icon (top center of screen, bottom row) – use services in current\n  room.
+When you are on a base or planet, a row of icons appears in the top-center of your screen that you can use to move to different locations. If you move your mouse over an icon, a tooltip will appear to identify it, and descriptive text will display in the top-left corner.\n\nROOM COMMANDS:\n• Click on a character in the room – talk to him or her.\n• Click on the room icon (top row, top-center of screen) – move to that room.\n• Click on service icon (top-center of screen, bottom row) – use services in current\n  room.
 
 21935
 NAME
-PAUSING AND SAVING:\nWhenever you launch into space, the game updates the current Autosave. As you advance, the game will create progress-point saves and update the Autosave.\n• F1 key – pause the game and view the in-game menu.\n• F1 key and click Save Game – save the game when on a base or planet.\n• F1 key and click Load Game – load game.\n\nSTATUS COMMANDS:\n• F6 key or grid icon at the top-right corner – open Nav Map of known locations.\n• F7 key or box icon – view and manipulate inventory.\n• F8 key or person icon – examine player status and reputation.\n• F9 or ‘i’ icon – read information on current location.
+PAUSING AND SAVING:\nWhenever you launch into space, the game updates the current Autosave. As you advance, the game will create progress-point saves and update the Autosave.\n• F1 key – pause the game and view the in-game menu.\n• F1 key and click Save Game – save the game when on a base or planet.\n• F1 key and click Load Game – load game.\n\nSTATUS COMMANDS:\n• F6 key or grid icon in the top-right corner – open Nav Map of known locations.\n• F7 key or box icon – view and manipulate inventory.\n• F8 key or person icon – examine player status and reputation.\n• F9 or ‘i’ icon – read information on current location.
 
 21940
 NAME
@@ -8561,11 +8561,11 @@ When objects are destroyed, you can often salvage items from the wreckage.\n\nTR
 
 21946
 NAME
-You have just experienced a Trade Lane attack. While fighting the enemy ships, your ship may take some damage.\n\nRECOVERING FROM DAMAGE:\n• F or circled-ship icon at bottom right – use shield batteries to help restore energy to\n  shields.\n• G or wrench icon – repair hull damage with nanobots.
+You have just experienced a Trade Lane attack. While fighting the enemy ships, your ship may take some damage.\n\nRECOVERING FROM DAMAGE:\n• F or circled-ship icon at bottom-right – use shield batteries to help restore energy to\n  shields.\n• G or wrench icon – repair hull damage with nanobots.
 
 21947
 NAME
-You are now able to go anywhere in the New York solar system and accept missions as a freelancer. You need to increase your net worth to a set amount before Juni will contact you for the next mission. To view this amount, click on the Player Status icon (person icon, default key F8) at the top right of your HUD.\n\nThere are many ways to earn money. For example, you can complete a mission from a Job Board, mine asteroids, sell loot, or trade commodities.\n\nDon’t forget — since you don’t have jump access, you cannot leave the New York system at this time.
+You are now able to go anywhere in the New York solar system and accept missions as a freelancer. You need to increase your net worth to a set amount before Juni will contact you for the next mission. To view this amount, click on the Player Status icon (person icon, default key F8) in the top-right of your HUD.\n\nThere are many ways to earn money. For example, you can complete a mission from a Job Board, mine asteroids, sell loot, or trade commodities.\n\nDon’t forget — since you don’t have jump access, you cannot leave the New York system at this time.
 
 21950
 NAME
@@ -8685,7 +8685,7 @@ Destroy All the Hostile Fighters
 
 22100
 NAME
-King will now follow you to the nearest search pattern waypoint. To get there quickly, use your ship’s cruise engines.\n\nCRUISING:\n• Shift-W or three-triangle icon under FREE FLIGHT at the top center of your screen –\n  activate or deactivate your cruise engines.\n\nCruise engines provide a good way to get somewhere quickly, but you cannot fire your weapons when they are charging up or engaged.
+King will now follow you to the nearest search pattern waypoint. To get there quickly, use your ship’s cruise engines.\n\nCRUISING:\n• Shift-W or three-triangle icon under FREE FLIGHT in the top-center of your screen –\n  activate or deactivate your cruise engines.\n\nCruise engines provide a good way to get somewhere quickly, but you cannot fire your weapons when they are charging up or engaged.
 
 22150
 NAME
@@ -11281,11 +11281,11 @@ NAME
 
 30320
 NAME
-*PERSONAL ENTRY:\nI met Juni on California Minor. Wow, this place is basically a huge ice desert. Why anyone would want to settle here is a mystery to me. This has to be the worst bar in all of Liberty. Juni has less class than I thought. Her mission was interesting. Ashcroft claims that there is a traitor in the ranks of the LSF. Juni and I are to escort a convoy carrying Alien Artifacts from the Magellan system to a secret navy research lab here in California. Only a few people know about the convoy and its cargo. If we are attacked, it would prove that there really is a traitor within the LSF or the navy helping the Artifact smugglers. And just as we were about to leave, the News showed a breaking story that the leader of The Order had been killed. Guess what... they think it was Lonnigan! That’s the most ludicrous thing I’ve ever heard. He was a trader, and not even a good one. He didn’t plan the attack on Freeport 7, but he almost got killed in the blast. I tried to tell Juni, but she wouldn’t listen. I have to say that Rowlett was right about Freeport 7 survivors disappearing, and most of them violently. I have to be careful. As long as I work for the LSF, I should be pretty safe. I’ve to get going. Juni is waiting for me in space and given how moody she is, I better not let her wait too long.
+*PERSONAL ENTRY:\nI met Juni on California Minor. Wow, this place is basically a huge ice desert. Why anyone would want to settle here is a mystery to me. This has to be the worst bar in all of Liberty. Juni has less class than I thought. Her mission was interesting. Ashcroft claims that there is a traitor in the ranks of the LSF. Juni and I are to escort a convoy carrying Alien Artifacts from the Magellan system to a secret navy research lab here in California. Only a few people know about the convoy and its cargo. If we are attacked, it would prove that there really is a traitor within the LSF or the navy helping the Artifact smugglers. And just as we were about to leave, the News showed a breaking story that the leader of The Order had been killed. Guess what … they think it was Lonnigan! That’s the most ludicrous thing I’ve ever heard. He was a trader, and not even a good one. He didn’t plan the attack on Freeport 7, but he almost got killed in the blast. I tried to tell Juni, but she wouldn’t listen. I have to say that Rowlett was right about Freeport 7 survivors disappearing, and most of them violently. I have to be careful. As long as I work for the LSF, I should be pretty safe. I’ve to get going. Juni is waiting for me in space and given how moody she is, I better not let her wait too long.
 
 30325
 NAME
-*PERSONAL ENTRY:\nNo doubt about it... Juni is angry. I flew all the way out to this desolate planet and all she has to offer is a basic escort mission that doesn’t even pay very well. I told her that I wasn’t interested and Juni just about blew up on me. What a temperament! I might look her up later, after she has cooled off a bit.
+*PERSONAL ENTRY:\nNo doubt about it … Juni is angry. I flew all the way out to this desolate planet and all she has to offer is a basic escort mission that doesn’t even pay very well. I told her that I wasn’t interested and Juni just about blew up on me. What a temperament! I might look her up later, after she has cooled off a bit.
 
 30330
 NAME
@@ -11297,7 +11297,7 @@ NAME
 
 30340
 NAME
-*PERSONAL ENTRY:\nWhat in the world is going on? After we left Station Willard, Juni told me that her CO has been placed under arrest for treason and that all of her friends at the LSF have somehow disappeared. She didn’t have an explanation, but maybe that traitor we were trying to weed out wasn’t alone. And then on our way back to California Minor, we were attacked by Rheinland Valkyries! I mean... what the hell are Rheinland ships doing in the middle of Liberty space? Seems to me that there’s a conspiracy going on and that it’s much more serious than we thought. Juni wants to meet a guy named Walker on California Minor. He’s the captain of a Liberty cruiser. Juni says we can trust him and that she knows him from the past. I hope she’s right.
+*PERSONAL ENTRY:\nWhat in the world is going on? After we left Station Willard, Juni told me that her CO has been placed under arrest for treason and that all of her friends at the LSF have somehow disappeared. She didn’t have an explanation, but maybe that traitor we were trying to weed out wasn’t alone. And then on our way back to California Minor, we were attacked by Rheinland Valkyries! I mean … what the hell are Rheinland ships doing in the middle of Liberty space? Seems to me that there’s a conspiracy going on and that it’s much more serious than we thought. Juni wants to meet a guy named Walker on California Minor. He’s the captain of a Liberty cruiser. Juni says we can trust him and that she knows him from the past. I hope she’s right.
 
 30345
 NAME
@@ -11345,7 +11345,7 @@ NAME
 
 30500
 NAME
-*PERSONAL ENTRY:\nLooks like Juni finally found something... She sent me a message to meet her on Cambridge. Never liked going there — just a bunch of stuffy bookworms. She says she has a lead on Professor Quintaine. I better get going. The less time I spend in Bretonia the better.
+*PERSONAL ENTRY:\nLooks like Juni finally found something …. She sent me a message to meet her on Cambridge. Never liked going there — just a bunch of stuffy bookworms. She says she has a lead on Professor Quintaine. I better get going. The less time I spend in Bretonia the better.
 
 30505
 NAME
@@ -11433,7 +11433,7 @@ NAME
 
 30715
 NAME
-*PERSONAL ENTRY:\nDamn Rheinlanders are persistent! How are they blocking us in every direction? In any case, we’ve managed to get out of this mess, and we’re one step closer to... to... Where are we going anyways? Shinden, Shinagawa... Shinkaku! That’s it! We’re supposed to meet some guy named Kress. I hope whoever he is, he can get Quintaine and Sinclair out of my hair. Dealing with Juni is about all I can take as it is.
+*PERSONAL ENTRY:\nDamn Rheinlanders are persistent! How are they blocking us in every direction? In any case, we’ve managed to get out of this mess, and we’re one step closer to … to … Where are we going anyways? Shinden, Shinagawa … Shinkaku! That’s it! We’re supposed to meet some guy named Kress. I hope whoever he is, he can get Quintaine and Sinclair out of my hair. Dealing with Juni is about all I can take as it is.
 
 30720
 NAME
@@ -11449,7 +11449,7 @@ NAME
 
 30735
 NAME
-*PERSONAL ENTRY:\nSo that was Lord Hakkera. There’s an air about that man. I don’t know — he’s very... commanding. Anyways, Juni seems to know him, not that that’s saved us in the past. Hopefully, her home system will provide better protection than Bretonia. I guess I’ll do some sightseeing and take up a few jobs while I’m here. It’s not often I get to be a tourist.
+*PERSONAL ENTRY:\nSo that was Lord Hakkera. There’s an air about that man. I don’t know — he’s very … commanding. Anyways, Juni seems to know him, not that that’s saved us in the past. Hopefully, her home system will provide better protection than Bretonia. I guess I’ll do some sightseeing and take up a few jobs while I’m here. It’s not often I get to be a tourist.
 
 30800
 NAME
@@ -11489,7 +11489,7 @@ NAME
 
 30920
 NAME
-*PERSONAL ENTRY:\nWhat the hell was THAT! That thing killed Ozu in cold blood! What is going on here?! This was supposed to be a simple little mission — then the fat man’s eyes start glowing. Excellent, all this way to see Ozu die. I wouldn’t have even made it out if it wasn’t for Lord Hakkera. How did he get that ship in here anyways? No time to mourn, gotta get outta here before something else shows up intent on killing us. Ozu... sensei... sayonara...
+*PERSONAL ENTRY:\nWhat the hell was THAT! That thing killed Ozu in cold blood! What is going on here?! This was supposed to be a simple little mission — then the fat man’s eyes start glowing. Excellent, all this way to see Ozu die. I wouldn’t have even made it out if it wasn’t for Lord Hakkera. How did he get that ship in here anyways? No time to mourn, gotta get outta here before something else shows up intent on killing us. Ozu … sensei … sayonara ….
 
 30925
 NAME
@@ -11541,7 +11541,7 @@ NAME
 
 31045
 NAME
-*PERSONAL ENTRY:\nOnly Von Claussen and I made it — the rest all died. It was a massacre... Capital ships everywhere... Botzler’s wing didn’t know what to do. They weren’t as experienced as Von Claussen or Botzler, and they weren’t nearly as skilled as Hakkera’s Honor Guard. They died protecting a home they’ll never see again. Botzler did it all. He took out the entire dry dock by himself. So many people have died. Then, to add insult to injury, the flagship of the South Rheinland Fleet decloaked right in front of our noses! Thankfully, Hakkera showed up out of nowhere in this ship I’d never seen before. Far be it from me to look a gift horse in the mouth. Turns out it’s owned by The Order and commanded by Orillion. Quite an impressive man, and a far stretch from that idiot Lonnigan they accused as being Orillion. We don’t have a lot of time left, and now that Von Claussen is safe and sound, I think I’ll treat myself to a drink. Where is the bar in this place, anyways?
+*PERSONAL ENTRY:\nOnly Von Claussen and I made it — the rest all died. It was a massacre … Capital ships everywhere … Botzler’s wing didn’t know what to do. They weren’t as experienced as Von Claussen or Botzler, and they weren’t nearly as skilled as Hakkera’s Honor Guard. They died protecting a home they’ll never see again. Botzler did it all. He took out the entire dry dock by himself. So many people have died. Then, to add insult to injury, the flagship of the South Rheinland Fleet decloaked right in front of our noses! Thankfully, Hakkera showed up out of nowhere in this ship I’d never seen before. Far be it from me to look a gift horse in the mouth. Turns out it’s owned by The Order and commanded by Orillion. Quite an impressive man, and a far stretch from that idiot Lonnigan they accused as being Orillion. We don’t have a lot of time left, and now that Von Claussen is safe and sound, I think I’ll treat myself to a drink. Where is the bar in this place, anyways?
 
 31100
 NAME
@@ -11597,7 +11597,7 @@ NAME
 
 31325
 NAME
-*PERSONAL ENTRY:\nWe managed to make it out of there after all. The Nomads all got sucked away into some kind of wormhole above the Nomad City. Orillion and The Order intend on keeping a close eye on it. They’ve even asked me to be their contact in Liberty. Hakkera has gone back to Kusari to rebuild. Tobias ended up getting kicked out of the Bretonia Royal Space Force just like I thought he would, but I think he got a girlfriend or something out of it. Von Claussen was nowhere to be found after the fight. He’s presumed dead, but somehow I doubt that. A man like Von Claussen doesn’t just fade away. President Jacobi gave Juni, King, and I a full pardon. We even got a medal... the Lone Star. Sounds kind of goofy, doesn’t it? Anyway, as much as I appreciate that, it doesn’t make up for the fact that I never got paid. Just my luck... I’m a hero, but I’m back to freelancing. In the end, maybe that’s not all that bad. There are still lots of worlds to discover and systems to explore. I don’t think I’m ready to call Liberty home yet. A not insignificant reason for that is that I don’t think I’ll ever get used to Liberty Ale.
+*PERSONAL ENTRY:\nWe managed to make it out of there after all. The Nomads all got sucked away into some kind of wormhole above the Nomad City. Orillion and The Order intend on keeping a close eye on it. They’ve even asked me to be their contact in Liberty. Hakkera has gone back to Kusari to rebuild. Tobias ended up getting kicked out of the Bretonia Royal Space Force just like I thought he would, but I think he got a girlfriend or something out of it. Von Claussen was nowhere to be found after the fight. He’s presumed dead, but somehow I doubt that. A man like Von Claussen doesn’t just fade away. President Jacobi gave Juni, King, and I a full pardon. We even got a medal … the Lone Star. Sounds kind of goofy, doesn’t it? Anyway, as much as I appreciate that, it doesn’t make up for the fact that I never got paid. Just my luck …. I’m a hero, but I’m back to freelancing. In the end, maybe that’s not all that bad. There are still lots of worlds to discover and systems to explore. I don’t think I’m ready to call Liberty home yet. A not insignificant reason for that is that I don’t think I’ll ever get used to Liberty Ale.
 
 32000
 NAME
@@ -16485,7 +16485,7 @@ INFOCARD
 
 66017
 INFOCARD
-<RDL><PUSH/><TEXT>SCANNING...... profiling indicates that there is a 78.3% probability that this field is the remains of the sleeper ship </TEXT><TRA italic="true"/><TEXT>Hispania</TEXT><TRA italic="false"/><TEXT>.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>SCANNING …… profiling indicates that there is a 78.3% probability that this field is the remains of the sleeper ship </TEXT><TRA italic="true"/><TEXT>Hispania</TEXT><TRA italic="false"/><TEXT>.</TEXT><PARA/><POP/></RDL>
 
 66018
 INFOCARD
@@ -16501,7 +16501,7 @@ INFOCARD
 
 66021
 INFOCARD
-<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>SCANNING......profiling indicates a massive nebula cloud, but tomographic imaging is unable to ascertain any details of its internal structure.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>SCANNING …… profiling indicates a massive nebula cloud, but tomographic imaging is unable to ascertain any details of its internal structure.</TEXT><PARA/><POP/></RDL>
 
 66022
 INFOCARD
@@ -66353,7 +66353,7 @@ Please go after him and destroy his ship. Once you have done this, tractor in hi
 
 328012
 NAME
-Then return to %B... He will pay for his transgressions. 
+Then return to %B …. He will pay for his transgressions. 
 
 328013
 NAME
@@ -66745,7 +66745,7 @@ You will also be flying solo on this one, so don’t take any unnecessary risks.
 
 328110
 NAME
-After days of interrogation, one of our sources has finally told us where %s0 %s1 is. We’ve been after him for a long time... 
+After days of interrogation, one of our sources has finally told us where %s0 %s1 is. We’ve been after him for a long time…. 
 
 328111
 NAME
@@ -70737,7 +70737,7 @@ INFOCARD
 
 393303
 INFOCARD
-<RDL><PUSH/><TEXT>Connecting to global server...</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Connecting to global server…</TEXT><PARA/><POP/></RDL>
 
 393304
 INFOCARD
@@ -70977,7 +70977,7 @@ INFOCARD
 
 393363
 INFOCARD
-<RDL><PUSH/><TEXT>Neutron-based weapons may be the most energy efficient, but they don’t really have much of a range.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Neutron-based weapons may be the most energy-efficient, but they don’t really have much of a range.</TEXT><PARA/><POP/></RDL>
 
 393364
 INFOCARD
@@ -71425,7 +71425,7 @@ INFOCARD
 
 393475
 INFOCARD
-<RDL><PUSH/><TEXT>If you need information about your present location, click on the Question Mark icon in the top right of your HUD.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you need information about your present location, click on the Question Mark icon in the top-right of your HUD.</TEXT><PARA/><POP/></RDL>
 
 393476
 INFOCARD
@@ -71669,15 +71669,15 @@ INFOCARD
 
 393537
 INFOCARD
-<RDL><PUSH/><TEXT>Remember: Your three most important indicators are Weapon Power, Shield Status, and Hull Integrity. They are located at the bottom center of your HUD, represented by yellow, blue, and red bars respectively.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Remember: Your three most important indicators are Weapon Power, Shield Status, and Hull Integrity. They are located in the bottom-center of your HUD, represented by yellow, blue, and red bars respectively.</TEXT><PARA/><POP/></RDL>
 
 393538
 INFOCARD
-<RDL><PUSH/><TEXT>You can click the Universe Map icon in the top right of your Nav Map to view every system you have information on. To zoom in on a system, click the system’s marker.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You can click the Universe Map icon in the top-right of your Nav Map to view every system you have information on. To zoom in on a system, click the system’s marker.</TEXT><PARA/><POP/></RDL>
 
 393539
 INFOCARD
-<RDL><PUSH/><TEXT>The universe is a big place; you can always find your location on the Nav Map by the blinking ship indicator. If you’ve changed maps to show the universe or a different system, click the Player Location button located in the top left of the Nav Map to refocus on your ship.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The universe is a big place; you can always find your location on the Nav Map by the blinking ship indicator. If you’ve changed maps to show the universe or a different system, click the Player Location button located in the top-left of the Nav Map to refocus on your ship.</TEXT><PARA/><POP/></RDL>
 
 393540
 INFOCARD
