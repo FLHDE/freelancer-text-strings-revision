@@ -8525,11 +8525,11 @@ Destinations are marked with waypoints. A waypoint appears as a purple diamond i
 
 21905
 NAME
-Make sure the waypointed Trade Lane ring is selected and then activate the DOCK maneuver.\n\nWhen selected, the ring has a distance indicator and is identified as ‘Planet Manhattan –> Fort Bush.’\n\nTo select the ring:\n• Click on any part of the ring in space, or\n• Click on ‘Mission Waypoint’ in the Contact List on the bottom-left of your HUD.\n\nThen click the DOCK maneuver icon in the Neural Net at the top of your screen.
+Make sure the waypointed Trade Lane ring is selected and then activate the DOCK maneuver.\n\nWhen selected, the ring has a distance indicator and is identified as ‘Planet Manhattan –> Fort Bush.’\n\nTo select the ring:\n• Click on any part of the ring in space, or\n• Click on ‘Mission Waypoint’ in the Contact List in the bottom-left of your HUD.\n\nThen click the DOCK maneuver icon in the Neural Net at the top of your screen.
 
 21910
 NAME
-Select the transport and then activate the FORMATION maneuver.\n\nTo select the USV Brandt:\n• Click on any part of the ship in space, or\n• Click on ‘USV Brandt’ in the Contact List on the bottom-left of your HUD.\n\nThen click the FORMATION maneuver icon in the Neural Net at the top of your screen.
+Select the transport and then activate the FORMATION maneuver.\n\nTo select the USV Brandt:\n• Click on any part of the ship in space, or\n• Click on ‘USV Brandt’ in the Contact List in the bottom-left of your HUD.\n\nThen click the FORMATION maneuver icon in the Neural Net at the top of your screen.
 
 21915
 NAME
@@ -16485,7 +16485,7 @@ INFOCARD
 
 66017
 INFOCARD
-<RDL><PUSH/><TEXT>SCANNING …… profiling indicates that there is a 78.3% probability that this field is the remains of the sleeper ship </TEXT><TRA italic="true"/><TEXT>Hispania</TEXT><TRA italic="false"/><TEXT>.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>SCANNING…… profiling indicates that there is a 78.3% probability that this field is the remains of the sleeper ship </TEXT><TRA italic="true"/><TEXT>Hispania</TEXT><TRA italic="false"/><TEXT>.</TEXT><PARA/><POP/></RDL>
 
 66018
 INFOCARD
@@ -16501,7 +16501,7 @@ INFOCARD
 
 66021
 INFOCARD
-<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>SCANNING …… profiling indicates a massive nebula cloud, but tomographic imaging is unable to ascertain any details of its internal structure.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>SCANNING…… profiling indicates a massive nebula cloud, but tomographic imaging is unable to ascertain any details of its internal structure.</TEXT><PARA/><POP/></RDL>
 
 66022
 INFOCARD
@@ -66353,7 +66353,7 @@ Please go after him and destroy his ship. Once you have done this, tractor in hi
 
 328012
 NAME
-Then return to %B …. He will pay for his transgressions. 
+Then return to %B…. He will pay for his transgressions. 
 
 328013
 NAME
