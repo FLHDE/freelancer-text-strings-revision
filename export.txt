@@ -285,43 +285,43 @@ NAME
 
 907
 NAME
-This is a gun or missile hard point.
+This is a gun or missile hardpoint.
 
 908
 NAME
-This is a torpedo or cruise disruptor hard point.
+This is a torpedo or cruise disruptor hardpoint.
 
 909
 NAME
-This is a turret hard point.
+This is a turret hardpoint.
 
 910
 NAME
-This is a countermeasure hard point.
+This is a countermeasure hardpoint.
 
 911
 NAME
-This is a mine dropper hard point.
+This is a mine dropper hardpoint.
 
 912
 NAME
-This is a fighter shield hard point.
+This is a fighter shield hardpoint.
 
 913
 NAME
-This is a heavy fighter shield hard point.
+This is a heavy fighter shield hardpoint.
 
 914
 NAME
-This is a freighter shield hard point.
+This is a freighter shield hardpoint.
 
 915
 NAME
-This is a thruster hard point.
+This is a thruster hardpoint.
 
 916
 NAME
-This is a cruise disruptor hard point.
+This is a cruise disruptor hardpoint.
 
 917
 NAME
@@ -2997,7 +2997,7 @@ HOSTILE
 
 1591
 NAME
-Your ship does not have a hard point capable of mounting this piece of equipment.
+Your ship does not have a hardpoint capable of mounting this piece of equipment.
 
 1592
 NAME
@@ -3029,7 +3029,7 @@ Don’t drop the requested cargo.
 
 1599
 NAME
-Your ship doesn’t have a free hard point for this equipment.
+Your ship doesn’t have a free hardpoint for this equipment.
 
 1600
 NAME
@@ -4561,7 +4561,7 @@ Indicates the ship’s weight.
 
 2008
 NAME
-Indicates how many hard points the ship has for weapons and equipment.
+Indicates how many hardpoints the ship has for weapons and equipment.
 
 2009
 NAME
@@ -7329,7 +7329,7 @@ Local Prison Ship Rescued
 
 15030
 NAME
-Just before LSF fighters closed in on a secret Rogue base near Pittsburgh, they were instrumental in fighting off a coordinated attack on a local prison ship. Prison Ship XT-19 is generally used as a staging area for prisoners being shuttled between processing stations and more permanent lockdowns in Texas. It was during such a transfer that the Rogues suddenly attacked and overran its defenses. Authorities believe that the Rogues were attempting to liberate a group of its own members being interrogated onboard. Fortunately, however, the LSF arrived just in time to repel the pirates and avert disaster. Though XT-19 sustained heavy damage, we are told that the ship was successfully towed to Baltimore Shipyard for repairs.
+Just before LSF fighters closed in on a secret Rogue base near Pittsburgh, they were instrumental in fighting off a coordinated attack on a local prison ship. Prison Ship XT-19 is generally used as a staging area for prisoners being shuttled between processing stations and more permanent lockdowns in Texas. It was during such a transfer that the Rogues suddenly attacked and overran its defenses. Authorities believe that the Rogues were attempting to liberate a group of its own members being interrogated on  board. Fortunately, however, the LSF arrived just in time to repel the pirates and avert disaster. Though XT-19 sustained heavy damage, we are told that the ship was successfully towed to Baltimore Shipyard for repairs.
 
 15031
 NAME
@@ -7505,7 +7505,7 @@ Freeport 7 Manifest Found!
 
 15074
 NAME
-The Freeport 7 data manifest has been found, according to the LSF. Agents finally discovered the sought-after module in a palette of wreckage reportedly salvaged by the Junkers. The data manifest, we are told, was acquired and immediately taken to the LSF labs for analysis. Based on the extracted data, investigators are certain that Orillion was indeed on Freeport 7 just prior to its destruction.
+The Freeport 7 data manifest has been found, according to the LSF. Agents finally discovered the sought-after module in a palette of wreckage reportedly salvaged by the Junkers. The data manifest, we are told, was acquired and immediately taken to the LSF labs for analysis. Based on the extracted data, investigators are certain that Orillion was indeed on Freeport 7 just before its destruction.
 
 15075
 NAME
@@ -11401,7 +11401,7 @@ NAME
 
 30610
 NAME
-*PERSONAL ENTRY:\nI’m not racing this old, backwoods hick. What’s he doing out here anyways? Shouldn’t he be out in Texas or in the Border Worlds or something? Well, in any case, I’m not racing him just so he can get a sucker to burn. Juni will just have to find another lead.
+*PERSONAL ENTRY:\nI’m not racing this old, backwoods hick. What’s he doing out here anyway? Shouldn’t he be out in Texas or in the Border Worlds or something? Well, in any case, I’m not racing him just so he can get a sucker to burn. Juni will just have to find another lead.
 
 30615
 NAME
@@ -11433,7 +11433,7 @@ NAME
 
 30715
 NAME
-*PERSONAL ENTRY:\nDamn Rheinlanders are persistent! How are they blocking us in every direction? In any case, we’ve managed to get out of this mess, and we’re one step closer to … to … Where are we going anyways? Shinden, Shinagawa … Shinkaku! That’s it! We’re supposed to meet some guy named Kress. I hope whoever he is, he can get Quintaine and Sinclair out of my hair. Dealing with Juni is about all I can take as it is.
+*PERSONAL ENTRY:\nDamn Rheinlanders are persistent! How are they blocking us in every direction? In any case, we’ve managed to get out of this mess, and we’re one step closer to … to … Where are we going anyway? Shinden, Shinagawa … Shinkaku! That’s it! We’re supposed to meet some guy named Kress. I hope whoever he is, he can get Quintaine and Sinclair out of my hair. Dealing with Juni is about all I can take as it is.
 
 30720
 NAME
@@ -11453,7 +11453,7 @@ NAME
 
 30800
 NAME
-*PERSONAL ENTRY:\nThere’s something different about the people Juni knows in this system. They’re so strong in their convictions — kinda makes me forget about more trivial things. That reminds me — I still haven’t gotten paid! Well, in any case, we’re off to intercept some transport with one of the heads of the Kusari government, Governor Tekagi, onboard. I’ve read about this guy in the news. I thought he was working for peace, but if there’s anything I’ve learned, it’s that things aren’t always as they seem.
+*PERSONAL ENTRY:\nThere’s something different about the people Juni knows in this system. They’re so strong in their convictions — kinda makes me forget about more trivial things. That reminds me — I still haven’t gotten paid! Well, in any case, we’re off to intercept some transport with one of the heads of the Kusari government, Governor Tekagi, on board. I’ve read about this guy in the news. I thought he was working for peace, but if there’s anything I’ve learned, it’s that things aren’t always as they seem.
 
 30805
 NAME
@@ -11489,7 +11489,7 @@ NAME
 
 30920
 NAME
-*PERSONAL ENTRY:\nWhat the hell was THAT! That thing killed Ozu in cold blood! What is going on here?! This was supposed to be a simple little mission — then the fat man’s eyes start glowing. Excellent, all this way to see Ozu die. I wouldn’t have even made it out if it wasn’t for Lord Hakkera. How did he get that ship in here anyways? No time to mourn, gotta get outta here before something else shows up intent on killing us. Ozu … sensei … sayonara ….
+*PERSONAL ENTRY:\nWhat the hell was THAT! That thing killed Ozu in cold blood! What is going on here?! This was supposed to be a simple little mission — then the fat man’s eyes start glowing. Excellent, all this way to see Ozu die. I wouldn’t have even made it out if it wasn’t for Lord Hakkera. How did he get that ship in here anyway? No time to mourn, gotta get outta here before something else shows up intent on killing us. Ozu … sensei … sayonara ….
 
 30925
 NAME
@@ -11541,7 +11541,7 @@ NAME
 
 31045
 NAME
-*PERSONAL ENTRY:\nOnly Von Claussen and I made it — the rest all died. It was a massacre … Capital ships everywhere … Botzler’s wing didn’t know what to do. They weren’t as experienced as Von Claussen or Botzler, and they weren’t nearly as skilled as Hakkera’s Honor Guard. They died protecting a home they’ll never see again. Botzler did it all. He took out the entire dry dock by himself. So many people have died. Then, to add insult to injury, the flagship of the South Rheinland Fleet decloaked right in front of our noses! Thankfully, Hakkera showed up out of nowhere in this ship I’d never seen before. Far be it from me to look a gift horse in the mouth. Turns out it’s owned by The Order and commanded by Orillion. Quite an impressive man, and a far stretch from that idiot Lonnigan they accused as being Orillion. We don’t have a lot of time left, and now that Von Claussen is safe and sound, I think I’ll treat myself to a drink. Where is the bar in this place, anyways?
+*PERSONAL ENTRY:\nOnly Von Claussen and I made it — the rest all died. It was a massacre … Capital ships everywhere … Botzler’s wing didn’t know what to do. They weren’t as experienced as Von Claussen or Botzler, and they weren’t nearly as skilled as Hakkera’s Honor Guard. They died protecting a home they’ll never see again. Botzler did it all. He took out the entire dry dock by himself. So many people have died. Then, to add insult to injury, the flagship of the South Rheinland Fleet decloaked right in front of our noses! Thankfully, Hakkera showed up out of nowhere in this ship I’d never seen before. Far be it from me to look a gift horse in the mouth. Turns out it’s owned by The Order and commanded by Orillion. Quite an impressive man, and a far stretch from that idiot Lonnigan they accused as being Orillion. We don’t have a lot of time left, and now that Von Claussen is safe and sound, I think I’ll treat myself to a drink. Where is the bar in this place anyway?
 
 31100
 NAME
@@ -12513,7 +12513,7 @@ Xeno Attack Repulsed by the LPI
 
 56011
 NAME
-DETROIT — The Liberty outlaws known as the Xenos were routed after a brief firefight with LPI fighters today after they attempted to hijack an armored transport leaving the Detroit Munitions facility. The authorities were tipped of the impending attack on the weapons shipment and laid a trap, which resulted in the capture of three outlaws and the death of three others. “The alert citizens of Liberty enabled us to strike a blow for justice today,” LPI representatives stated in a press conference.
+DETROIT — The Liberty outlaws known as the Xenos were routed after a brief firefight with LPI fighters today after they attempted to hijack an armored transport leaving the Detroit Munitions facility. The authorities were tipped off the impending attack on the weapons shipment and laid a trap, which resulted in the capture of three outlaws and the death of three others. “The alert citizens of Liberty enabled us to strike a blow for justice today,” LPI representatives stated in a press conference.
 
 56012
 NAME
@@ -13697,7 +13697,7 @@ The Cardamine Connection
 
 56307
 NAME
-BUFFALO — The trade and use of Cardamine has brought three criminal factions together around the Outcasts, who produce the powerful narcotic. The Golden C. use Cardamine as part of their ritualistic subculture and distribute it into Kusari space. The Lane Hackers trade valuable shipping information to the Outcasts in exchange for the drug. Finally, there are the Rogues. They supply and shelter the Outcast smugglers on their way through Liberty space. This symbiotic relationship has been very effective in spreading the drug throughout Sirius.
+BUFFALO — The trade and use of Cardamine has brought three criminal factions together around the Outcasts, who produce the powerful narcotic. The Golden C. uses Cardamine as part of their ritualistic subculture and distributes it into Kusari space. The Lane Hackers trade valuable shipping information to the Outcasts in exchange for the drug. Finally, there are the Rogues. They supply and shelter the Outcast smugglers on their way through Liberty space. This symbiotic relationship has been very effective in spreading the drug throughout Sirius.
 
 56308
 NAME
@@ -13793,7 +13793,7 @@ Sakura Strike Planned
 
 56331
 NAME
-CHUGOKU — With the approach of the Sakura Festival, the Blood Dragons will mourn the anniversary of the fall of the Hideyoshi Shogunate. This is a day of great shame not only for the Blood Dragons, but for all the people of Kusari. It is our sacred role to reestablish a legitimate government. On this anniversary Kusari will be reminded of how our honor was taken from us. Expect a day of reckoning during the upcoming Sakura Festival. Our leaders shall not let the travesty that occurred centuries ago be forgotten.
+CHUGOKU — With the approach of the Sakura Festival, the Blood Dragons will mourn the anniversary of the fall of the Hideyoshi Shogunate. This is a day of great shame not only for the Blood Dragons but for all the people of Kusari. It is our sacred role to reestablish a legitimate government. On this anniversary Kusari will be reminded of how our honor was taken from us. Expect a day of reckoning during the upcoming Sakura Festival. Our leaders shall not let the travesty that occurred centuries ago be forgotten.
 
 56332
 NAME
@@ -14009,7 +14009,7 @@ Corsairs Feel the Pain in Dublin
 
 56385
 NAME
-DUBLIN — Dublin is ours, though it looks like we will have to protect our system and our Gold not only from the Bretonian government, but from the Corsairs too. Their raids in this system have become increasingly frequent. Over the past month, Mollys have destroyed more than fifteen Corsair ships, but at a price. Six of us will draw breath no more because of these new intruders. We must remain vigilant against these new foes, who are tougher and meaner than any Bretonian military.
+DUBLIN — Dublin is ours, though it looks like we will have to protect our system and our Gold not only from the Bretonian government but from the Corsairs too. Their raids in this system have become increasingly frequent. Over the past month, Mollys have destroyed more than fifteen Corsair ships, but at a price. Six of us will draw breath no more because of these new intruders. We must remain vigilant against these new foes, who are tougher and meaner than any Bretonian military.
 
 56386
 NAME
@@ -14709,7 +14709,7 @@ INFOCARD
 
 65568
 INFOCARD
-<RDL><PUSH/><TEXT>The history of the Blood Dragons goes back to the fourth century. The founding members of the group were the Shogun’s Royal Guard during the Hideyoshi family dynasty. In a bloody coup during the celebration of the revived Sakura festival in 321 AS, the Shogun was surrounded in the palace by Samura-backed elements of the military and asked to surrender, along with the Royal Guard. The Shogun, humiliated by the shame he had brought his family, committed suicide. The guards, headed by Kozue Okamura, did not acquiesce so easily. In a bloody battle, they fought their way out of the palace and retreated into the darkness of northern Kusari space. Here they regrouped and began a long guerrilla campaign aimed at overthrowing the Samura-controlled Kusari government.</TEXT><PARA/><PARA/><TEXT>The Blood Dragons are a tight group who hold the sympathy and support of individuals in the highest levels of the Kusari government. They periodically launch surgical strikes and commando raids from their Kyoto base designed to destabilize the current government to the point where sympathetic officials could potentially seize power. Blood Dragons prefer to target Samura and Kusari Naval Forces bases and ships, although they occasionally attack other House shippers for supplies.</TEXT><PARA/><PARA/><TEXT>The group is loosely allied with the Golden Chrysanthemums, who provide refuge and a forward tactical base for assault crews in the Hokkaido System. The Golden C. also provide many of the essential Commodities that the Blood Dragons need, a critical function given the complete lack of Blood Dragon landing rights within the rest of Kusari space. The Chugoku Gate construction is viewed as a direct threat to the continued survival of the group.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The history of the Blood Dragons goes back to the fourth century. The founding members of the group were the Shogun’s Royal Guard during the Hideyoshi family dynasty. In a bloody coup during the celebration of the revived Sakura festival in 321 AS, the Shogun was surrounded in the palace by Samura-backed elements of the military and asked to surrender, along with the Royal Guard. The Shogun, humiliated by the shame he had brought his family, committed suicide. The guards, headed by Kozue Okamura, did not acquiesce so easily. In a bloody battle, they fought their way out of the palace and retreated into the darkness of northern Kusari space. Here they regrouped and began a long guerrilla campaign aimed at overthrowing the Samura-controlled Kusari government.</TEXT><PARA/><PARA/><TEXT>The Blood Dragons are a tight group that hold the sympathy and support of individuals in the highest levels of the Kusari government. They periodically launch surgical strikes and commando raids from their Kyoto base designed to destabilize the current government to the point where sympathetic officials could potentially seize power. Blood Dragons prefer to target Samura and Kusari Naval Forces bases and ships, although they occasionally attack other House shippers for supplies.</TEXT><PARA/><PARA/><TEXT>The group is loosely allied with the Golden Chrysanthemums, who provide refuge and a forward tactical base for assault crews in the Hokkaido System. The Golden C. also provide many of the essential Commodities that the Blood Dragons need, a critical function given the complete lack of Blood Dragon landing rights within the rest of Kusari space. The Chugoku Gate construction is viewed as a direct threat to the continued survival of the group.</TEXT><PARA/><POP/></RDL>
 
 65569
 INFOCARD
@@ -14789,7 +14789,7 @@ INFOCARD
 
 65588
 INFOCARD
-<RDL><PUSH/><TEXT>The story of the Hessians emerges from the turbulent history of the Dresden System, the mining heartland of Rheinland since the beginning of the third century. Mining there was dirty, dangerous work, but Daumann and Kruger had little reason to lose sleep over the welfare of their employees. The price of the occasional disability pension or life insurance policy was nothing compared to the money made from extracting and refining the metals and materials that fed Rheinland industry.</TEXT><PARA/><PARA/><TEXT>As the 80-Years War wound down to its ignoble conclusion, Rheinland found itself virtually bankrupt. Kruger and Daumann released thousands of employees throughout Rheinland. Promises of bonuses were left unfulfilled, and in many cases, miners were left completely destitute. An uprising was almost inevitable. A group of miners took control of the Daumann Heavy Construction facility on Von Rohe’s Day in 700 AS.</TEXT><PARA/><PARA/><TEXT>The revolt soon spread from Dresden to the rest of the Rheinland, gaining widespread backing from the legions of newly unemployed workers. The industrial heart of Rheinland stopped beating; the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Within five months a new coalition government was established. Both Kruger and Daumann were required to pay reparations, and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention. They have been careful to adhere to the letter of the law, if not the spirit. The compromise left many that had fought in the revolution bitter. Many workers could not accept the prospect of working for their old taskmasters and decided to form the Red Hessians, a group dedicated to destroying the two companies.</TEXT><PARA/><PARA/><TEXT>It was not long before Red Hessian political ideals were replaced by greed, which has led them to become more like pirates than activists. The police have been forced to maintain a significant presence in Dresden to prevent Hessian strikes from clogging the gears of the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>The Hessians have gradually expanded, assisted by their close proximity to Stuttgart Food shipments and an extensive Jump Hole network within the southern Sirius Sector. They now own a string of bases in the southern Rheinland Border Worlds. In Omega-5 they encountered their first real obstacle — the Corsairs. They have fought the Edge World faction to a tenuous stalemate, with the Ronneburg base barely holding on against the stronger Corsair presence in that system. Fortunately, they live in a rich area of Sirius in terms of raw materials, especially Diamonds. Their preferred targets are Daumann and Kruger, although almost any shipper is vulnerable to attack.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The story of the Hessians emerges from the turbulent history of the Dresden System, the mining heartland of Rheinland since the beginning of the third century. Mining there was dirty, dangerous work, but Daumann and Kruger had little reason to lose sleep over the welfare of their employees. The price of the occasional disability pension or life insurance policy was nothing compared to the money made from extracting and refining the metals and materials that fed the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>As the 80-Years War wound down to its ignoble conclusion, Rheinland found itself virtually bankrupt. Kruger and Daumann released thousands of employees throughout Rheinland. Promises of bonuses were left unfulfilled, and in many cases, miners were left completely destitute. An uprising was almost inevitable. A group of miners took control of the Daumann Heavy Construction facility on Von Rohe’s Day in 700 AS.</TEXT><PARA/><PARA/><TEXT>The revolt soon spread from Dresden to the rest of the Rheinland, gaining widespread backing from the legions of newly unemployed workers. The industrial heart of Rheinland stopped beating; the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Within five months a new coalition government was established. Both Kruger and Daumann were required to pay reparations, and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention. They have been careful to adhere to the letter of the law, if not the spirit. The compromise left many that had fought in the revolution bitter. Many workers could not accept the prospect of working for their old taskmasters and decided to form the Red Hessians, a group dedicated to destroying the two companies.</TEXT><PARA/><PARA/><TEXT>It was not long before Red Hessian political ideals were replaced by greed, which has led them to become more like pirates than activists. The police have been forced to maintain a significant presence in Dresden to prevent Hessian strikes from clogging the gears of the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>The Hessians have gradually expanded, assisted by their close proximity to Stuttgart Food shipments and an extensive Jump Hole network within the southern Sirius Sector. They now own a string of bases in the southern Rheinland Border Worlds. In Omega-5 they encountered their first real obstacle — the Corsairs. They have fought the Edge World faction to a tenuous stalemate, with the Ronneburg base barely holding on against the stronger Corsair presence in that system. Fortunately, they live in a rich area of Sirius in terms of raw materials, especially Diamonds. Their preferred targets are Daumann and Kruger, although almost any shipper is vulnerable to attack.</TEXT><PARA/><POP/></RDL>
 
 65589
 INFOCARD
@@ -14869,7 +14869,7 @@ INFOCARD
 
 65608
 INFOCARD
-<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the 80-Years War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann's manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh were driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the 80-Years War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann's manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
 
 65609
 INFOCARD
@@ -15181,7 +15181,7 @@ INFOCARD
 
 65686
 INFOCARD
-<RDL><PUSH/><TEXT>Lane Hackers are mostly composed of former Los Angeles Ageira Technologies employees who created the extremely complex scanning and database system known as USI (Universal Ship Identification). Departing the company rather acrimoniously in 750 AS, they have become a growing problem in the Independent Worlds.</TEXT><PARA/><TEXT>The Lane Hackers in Magellan and Galileo share one common origin — Ageira. The scandal that erupted within the company after the great Galileo bypass project, which resulted in the unnecessary construction of a hugely expensive set of Jump Gates and Trade Lanes, forced several executives and an elite development team out. This would become the second part of the core of the Lane Hackers, along with the original California scanner group that fled to Magellan.</TEXT><PARA/><PARA/><TEXT>The investigation continues to this day but has so far been unsuccessful in locating the Lane Hacker bases. No Hacker has ever been captured, although various Rogues in the Independent Worlds have been caught possessing remarkably accurate information regarding upcoming high-value shipments.</TEXT><PARA/><PARA/><TEXT>Security measures have been added to the software, but the Hackers remain one step ahead, leading Ageira security experts to believe that there are many sympathetic programmers still within the company, possibly being secretly paid off with the proceeds from the thefts. The Lane Hackers prefer to sell their information to others rather than do the dirty work themselves, although they sometimes swoop in and tractor in cargo if it’s particularly juicy. Fancying themselves as modern-day Robinhoods, they avoid direct confrontation when possible, unless it is the henchmen of the despised IC and Ageira.</TEXT><PARA/><PARA/><TEXT>They like to frequent Freeport 4 and the Ames Research Station, as their asteroid bases within the clouds can become claustrophobic. Their Cardamine addiction forces the Hackers to trade drugs for Trade Lane info with the Outcasts at the Mactan base. Leiden is a key transfer point for smuggled goods between Kusari and Liberty, especially the Artifact trade, which the Hogosha dominates. A steady stream of Hogosha ships make the journey to the Galileo System. The Lane Hackers have also been spotted in Colorado, leading authorities to speculate that there may be multiple Jump Hole routes into that system from the Independent Worlds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Lane Hackers are mostly composed of former Los Angeles Ageira Technologies employees who created the extremely complex scanning and database system known as USI (Universal Ship Identification). Departing the company rather acrimoniously in 750 AS, they have become a growing problem in the Independent Worlds.</TEXT><PARA/><TEXT>The Lane Hackers in Magellan and Galileo share one common origin — Ageira. The scandal that erupted within the company after the great Galileo bypass project, which resulted in the unnecessary construction of a hugely expensive set of Jump Gates and Trade Lanes, forced several executives and an elite development team out. This would become the second part of the core of the Lane Hackers, along with the original California scanner group that fled to Magellan.</TEXT><PARA/><PARA/><TEXT>The investigation continues to this day but has so far been unsuccessful in locating the Lane Hacker bases. No Hacker has ever been captured, although various Rogues in the Independent Worlds have been caught possessing remarkably accurate information regarding upcoming high-value shipments.</TEXT><PARA/><PARA/><TEXT>Security measures have been added to the software, but the Hackers remain one step ahead, leading Ageira security experts to believe that there are many sympathetic programmers still within the company, possibly being secretly paid off with the proceeds from the thefts. The Lane Hackers prefer to sell their information to others rather than do the dirty work themselves, although they sometimes swoop in and tractor in cargo if it’s particularly juicy. Fancying themselves as modern-day Robinhoods, they avoid direct confrontation when possible, unless it is the henchmen of the despised IC and Ageira.</TEXT><PARA/><PARA/><TEXT>They like to frequent Freeport 4 and the Ames Research Station, as their asteroid bases within the clouds can become claustrophobic. Their Cardamine addiction forces the Hackers to trade drugs for Trade Lane info with the Outcasts at the Mactan base. Leiden is a key transfer point for smuggled goods between Kusari and Liberty, especially the Artifact trade, which the Hogosha dominates. A steady stream of Hogosha ships makes the journey to the Galileo System. The Lane Hackers have also been spotted in Colorado, leading authorities to speculate that there may be multiple Jump Hole routes into that system from the Independent Worlds.</TEXT><PARA/><POP/></RDL>
 
 65687
 INFOCARD
@@ -15269,7 +15269,7 @@ INFOCARD
 
 65708
 INFOCARD
-<RDL><PUSH/><TEXT>One of the first large-scale projects undertaken by Daumann Heavy Construction, the Oder Shipyards, is the largest in Sirius. In the past the majority of the Rheinland Navy was constructed in its massive bays, but after the destruction of the Navy during the 80-Years War and the economic crash that followed, Daumann has been forced to transition into the less lucrative fields of commercial and civilian ship construction.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of the first large-scale projects undertaken by Daumann Heavy Construction, the Oder Shipyards, is the largest in Sirius. In the past, the majority of the Rheinland Navy was constructed in its massive bays, but after the destruction of the Navy during the 80-Years War and the economic crash that followed, Daumann has been forced to transition into the less lucrative fields of commercial and civilian ship construction.</TEXT><PARA/><POP/></RDL>
 
 65709
 INFOCARD
@@ -15341,7 +15341,7 @@ INFOCARD
 
 65726
 INFOCARD
-<RDL><PUSH/><TEXT>A Junker base. Junkers are an itinerant population unaffiliated with any colony . They salvage and then resell abandoned ships, equipment, and other scraps.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A Junker base. Junkers are an itinerant population unaffiliated with any colony. They salvage and then resell abandoned ships, equipment, and other scraps.</TEXT><PARA/><POP/></RDL>
 
 65727
 INFOCARD
@@ -15653,7 +15653,7 @@ INFOCARD
 
 65806
 INFOCARD
-<RDL><PUSH/><TEXT>The ancestors of the Corsairs that had set adrift from the crippled </TEXT><TRA italic="true"/><TEXT>Hispania</TEXT><TRA italic="false"/><TEXT>  made planetfall on Crete shortly after the other Houses arrived in the Sirius Sector.</TEXT><PARA/><PARA/><TEXT>Scratching out a living, the Corsairs managed a bleak existence for four centuries. Eventually, they developed a strong self-identity, isolated from the rest of the Houses. In 450 AS, that insular world changed. An exploratory expedition headed by Franz Schulman — financed by Daumann and the Rheinland government — stumbled into the system while mapping the far reaches of the Walker Nebula. The local inhabitants, sensing a historic opportunity, attacked the landing party en masse, killing all save Schulman, whom they took hostage to gain control of the mother ship Schiller in orbit above the planet.</TEXT><PARA/><PARA/><TEXT>No one is entirely sure who first nicknamed them the “Corsairs,” recalling the ancient pirate clans of the Mediterranean, but the name came into popular use among the Houses sometime around 500 AS. The Corsairs began attacking unprotected outposts and ships, plundering whatever supplies and equipment they could lay their hands on, before escaping through one of their secret Jump Holes. The systematic expansion of the Houses into the Omega Border Worlds further fueled the Corsair movement, dramatically increasing the quantity and variety of accessible goods.</TEXT><PARA/><PARA/><TEXT>The final chapter began in the sixth century AS, when an enterprising, well-armed Liberty freelancer named Jim Bown made his way to Omicron Gamma. He brought various Consumer Goods to trade, but the Corsairs could offer little but Artifacts. A year later, he returned. Those trinkets were all the rage with the elite of Manhattan. He saw a great business opportunity if they could set up a viable trade route to Liberty. The Corsairs were on their way. They grew rapidly in size and sophistication as they built up the Artifact trade.</TEXT><PARA/><PARA/><TEXT>The primary smuggling route goes north to Sigma-19, where Artifacts are traded with the Hogosha onboard the </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>. They have also opened up a route into Rheinland via the Yanagi Junker base in Sigma-13. In the west, the Corsairs invaded Bretonia to reach the Junker Trafalgar base in New London.</TEXT><PARA/><PARA/><TEXT>The Bounty Hunters Guild has taken advantage of several Freeports in the Edge Worlds to attack the Corsairs’ home system. So far, they’ve been more of a nuisance than a real threat, but the presence of Zoner-controlled bases so close to Omicron Gamma has provoked intense debate among the Elders of Crete regarding the future of nearby Independent bases.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The ancestors of the Corsairs that had set adrift from the crippled </TEXT><TRA italic="true"/><TEXT>Hispania</TEXT><TRA italic="false"/><TEXT>  made planetfall on Crete shortly after the other Houses arrived in the Sirius Sector.</TEXT><PARA/><PARA/><TEXT>Scratching out a living, the Corsairs managed a bleak existence for four centuries. Eventually, they developed a strong self-identity, isolated from the rest of the Houses. In 450 AS, that insular world changed. An exploratory expedition headed by Franz Schulman — financed by Daumann and the Rheinland government — stumbled into the system while mapping the far reaches of the Walker Nebula. The local inhabitants, sensing a historic opportunity, attacked the landing party en masse, killing all save Schulman, whom they took hostage to gain control of the mother ship Schiller in orbit above the planet.</TEXT><PARA/><PARA/><TEXT>No one is entirely sure who first nicknamed them the “Corsairs,” recalling the ancient pirate clans of the Mediterranean, but the name came into popular use among the Houses sometime around 500 AS. The Corsairs began attacking unprotected outposts and ships, plundering whatever supplies and equipment they could lay their hands on, before escaping through one of their secret Jump Holes. The systematic expansion of the Houses into the Omega Border Worlds further fueled the Corsair movement, dramatically increasing the quantity and variety of accessible goods.</TEXT><PARA/><PARA/><TEXT>The final chapter began in the sixth century AS, when an enterprising, well-armed Liberty freelancer named Jim Bown made his way to Omicron Gamma. He brought various Consumer Goods to trade, but the Corsairs could offer little but Artifacts. A year later, he returned. Those trinkets were all the rage with the elite of Manhattan. He saw a great business opportunity if they could set up a viable trade route to Liberty. The Corsairs were on their way. They grew rapidly in size and sophistication as they built up the Artifact trade.</TEXT><PARA/><PARA/><TEXT>The primary smuggling route goes north to Sigma-19, where Artifacts are traded with the Hogosha on board the </TEXT><TRA italic="true"/><TEXT>Hawaii</TEXT><TRA italic="false"/><TEXT>. They have also opened up a route into Rheinland via the Yanagi Junker base in Sigma-13. In the west, the Corsairs invaded Bretonia to reach the Junker Trafalgar base in New London.</TEXT><PARA/><PARA/><TEXT>The Bounty Hunters Guild has taken advantage of several Freeports in the Edge Worlds to attack the Corsairs’ home system. So far, they’ve been more of a nuisance than a real threat, but the presence of Zoner-controlled bases so close to Omicron Gamma has provoked intense debate among the Elders of Crete regarding the future of nearby Independent bases.</TEXT><PARA/><POP/></RDL>
 
 65807
 INFOCARD
@@ -16393,7 +16393,7 @@ INFOCARD
 
 65993
 INFOCARD
-<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The Southampton Debris Field is a monument to government expediency, the product of centuries of ship construction without any form of government environmental oversight in an effort to expand the Bretonian space fleet as quickly as possible. The resulting eyesore, an ocean of scrap, is as emblematic of Bretonia as the Southampton Shipyard itself. No serious attempt to clear the field was ever made, and eventually a large population of Junkers took up residence — despite the presence of dangerously radioactive areas around leaking engine cores.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The Southampton Debris Field is a monument to government expediency, the product of centuries of ship construction without any form of government environmental oversight in an effort to expand the Bretonian space fleet as quickly as possible. The resulting eyesore, an ocean of scrap, is as emblematic of Bretonia as the Southampton Shipyard itself. No serious attempt to clear the field was ever made, and eventually, a large population of Junkers took up residence — despite the presence of dangerously radioactive areas around leaking engine cores.</TEXT><PARA/><POP/></RDL>
 
 65994
 INFOCARD
@@ -16449,7 +16449,7 @@ INFOCARD
 
 66007
 INFOCARD
-<RDL><PUSH/><TEXT>A medium-sized field of ice asteroids. Freeport 1 is located near the inner edge of the field, and will sell its excess supplies to anyone without prejudice — including Corsairs, who frequent the area.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A medium-sized field of ice asteroids. Freeport 1 is located near the inner edge of the field and will sell its excess supplies to anyone without prejudice — including Corsairs, who frequent the area.</TEXT><PARA/><POP/></RDL>
 
 66008
 INFOCARD
@@ -17845,7 +17845,7 @@ INFOCARD
 
 66543
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M10 Class "Titan" Corsair Very Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Corsairs’ survival is rooted in their ability to survive and adapt. the Titan is no different. On the surface the design is somewhat visually similar to the M7 Class. However, the power system is a revolutionary step forward and the armor rating is the heaviest available. This provides maximum offensive and defensive capabilities while still delivering speed and maneuverability. This ship is, in short, the one.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>M10 Class "Titan" Corsair Very Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>The Corsairs’ survival is rooted in their ability to survive and adapt. the Titan is no different. On the surface, the design is somewhat visually similar to the M7 Class. However, the power system is a revolutionary step forward and the armor rating is the heaviest available. This provides maximum offensive and defensive capabilities while still delivering speed and maneuverability. This ship is, in short, the one.</TEXT><PARA/><POP/></RDL>
 
 66544
 INFOCARD
@@ -18373,7 +18373,7 @@ INFOCARD
 
 131206
 INFOCARD
-<RDL><PUSH/><TEXT>Here in Manhattan, DSE purchase the supplies necessary to run our New York bases. We ship Water and Food to Pittsburgh and Oxygen to Baltimore. Men die every week protecting shipments of basic supplies. I know the criminals need them too, I just can’t get used to the idea of dying over a shipment of Water.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Here in Manhattan, DSE purchases the supplies necessary to run our New York bases. We ship Water and Food to Pittsburgh and Oxygen to Baltimore. Men die every week protecting shipments of basic supplies. I know the criminals need them too, I just can’t get used to the idea of dying over a shipment of Water.</TEXT><PARA/><POP/></RDL>
 
 131207
 INFOCARD
@@ -18473,7 +18473,7 @@ INFOCARD
 
 131231
 INFOCARD
-<RDL><PUSH/><TEXT>Scrap Metal ain’t the only kind of debris you’ll find in the Jersey. Ever heard somebody refer to another person as “good debris”? That means the guy they’re talking about went on a little space walk without a suit on. That’s what happens to rats and traitors. You want to hear the juicy part? LPI will put you into the debris too if you make ’em angry enough.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Scrap Metal ain’t the only kind of debris you’ll find in the Jersey. Ever heard somebody refer to another person as “good debris”? That means the guy they’re talking about went on a little spacewalk without a suit on. That’s what happens to rats and traitors. You want to hear the juicy part? LPI will put you into the debris too if you make ’em angry enough.</TEXT><PARA/><POP/></RDL>
 
 131232
 INFOCARD
@@ -18577,7 +18577,7 @@ INFOCARD
 
 131257
 INFOCARD
-<RDL><PUSH/><TEXT>We bring all manner of Commodities into Manhattan: Gold from New London, Silver from Bonn, Niobium from New Tokyo, and Consumer Goods from Houston. Universal uses her best pilots to make these runs; the Commodities onboard are very valuable and their loss is sorely felt.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We bring all manner of Commodities into Manhattan: Gold from New London, Silver from Bonn, Niobium from New Tokyo, and Consumer Goods from Houston. Universal uses her best pilots to make these runs; the Commodities on board are very valuable and their loss is sorely felt.</TEXT><PARA/><POP/></RDL>
 
 131265
 INFOCARD
@@ -18669,7 +18669,7 @@ INFOCARD
 
 131287
 INFOCARD
-<RDL><PUSH/><TEXT>The Rogues in the area can make it difficult for us to keep our operations running smoothly. The LPI at Ft. Bush are spread too thinly in this area to interdict all the Rogue attacks on our Trade Lane.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Rogues in the area can make it difficult for us to keep our operations running smoothly. The LPI at Ft. Bush is spread too thinly in this area to interdict all the Rogue attacks on our Trade Lane.</TEXT><PARA/><POP/></RDL>
 
 131288
 INFOCARD
@@ -18685,7 +18685,7 @@ INFOCARD
 
 131291
 INFOCARD
-<RDL><PUSH/><TEXT>The Bounty Hunters will hunt down and kill just about anybody for the right price. A lot of talk around here makes them sound more like hit men than Bounty Hunters. Sure, they nab a lot of criminals and make Liberty space safer, but they smoke plenty of innocents, too. Just because you are wanted by a corporation doesn’t necessarily mean you did anything illegal; you might have made the wrong enemies is all.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Bounty Hunters will hunt down and kill just about anybody for the right price. A lot of talk around here makes them sound more like hitmen than Bounty Hunters. Sure, they nab a lot of criminals and make Liberty space safer, but they smoke plenty of innocents, too. Just because you are wanted by a corporation doesn’t necessarily mean you did anything illegal; you might have made the wrong enemies is all.</TEXT><PARA/><POP/></RDL>
 
 131292
 INFOCARD
@@ -18853,7 +18853,7 @@ INFOCARD
 
 131333
 INFOCARD
-<RDL><PUSH/><TEXT>The Trade Lane components at this base are shipped by us to Waterloo in New London. We are part of the life blood of shipping that is Jump Gate technology, and all of Sirius benefits from our shipping convoys.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Trade Lane components at this base are shipped by us to Waterloo in New London. We are part of the lifeblood of shipping that is Jump Gate technology, and all of Sirius benefits from our shipping convoys.</TEXT><PARA/><POP/></RDL>
 
 131334
 INFOCARD
@@ -19113,7 +19113,7 @@ INFOCARD
 
 131400
 INFOCARD
-<RDL><PUSH/><TEXT>The Bounty Hunters Guild, though perceived as not entirely trustworthy by some, is very helpful to us. They handle all of the nasty work that goes into insuring the progress of Sirius and Liberty.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Bounty Hunters Guild, though perceived as not entirely trustworthy by some, is very helpful to us. They handle all of the nasty work that goes into ensuring the progress of Sirius and Liberty.</TEXT><PARA/><POP/></RDL>
 
 131401
 INFOCARD
@@ -19425,7 +19425,7 @@ INFOCARD
 
 131489
 INFOCARD
-<RDL><PUSH/><TEXT>We run Side Arms in from Hamburg. The senior council of the station is split on that policy, as Zoners do not condone violence. However, it’s profitable and it fulfills a need for the criminals that visit our base.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We run Side Arms in from Hamburg. The senior counsel of the station is split on that policy, as Zoners do not condone violence. However, it’s profitable and it fulfills a need for the criminals that visit our base.</TEXT><PARA/><POP/></RDL>
 
 131490
 INFOCARD
@@ -19441,7 +19441,7 @@ INFOCARD
 
 131493
 INFOCARD
-<RDL><PUSH/><TEXT>This system only exists as a way point on the Jump Gate routes because the distance between Hamburg and Texas was longer than the six-light-year limit of early Jump Gates. Before the Trade Lanes were built, the asteroids caused constant problems with shipping.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This system only exists as a waypoint on the Jump Gate routes because the distance between Hamburg and Texas was longer than the six-light-year limit of early Jump Gates. Before the Trade Lanes were built, the asteroids caused constant problems with shipping.</TEXT><PARA/><POP/></RDL>
 
 131494
 INFOCARD
@@ -19613,7 +19613,7 @@ INFOCARD
 
 131536
 INFOCARD
-<RDL><PUSH/><TEXT>The Outcasts use our base as one of their R &amp; R bases on the long journey into Liberty from the Edge Worlds. We trade information for Cardamine, which we need daily. Funny, we didn’t use to need it all the time like nowadays. We have to take Cardamine with us any time we leave base, as we start to get sick pretty quick otherwise.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Outcasts use our base as one of their R &amp; R bases on the long journey into Liberty from the Edge Worlds. We trade information for Cardamine, which we need daily. Funny, we didn’t use to need it all the time like nowadays. We have to take Cardamine with us any time we leave the base, as we start to get sick pretty quick otherwise.</TEXT><PARA/><POP/></RDL>
 
 131537
 INFOCARD
@@ -19713,7 +19713,7 @@ INFOCARD
 
 131561
 INFOCARD
-<RDL><PUSH/><TEXT>I’m taking a well-deserved R&amp;R, compliments of Orbital Spa and Cruise. My patrol saved Orbital’s butt last week on the east Trade Lane to the California Gate. A crew of Rogues was about to make off with a Luxury Goods shipment. We saved the day.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’m taking a well-deserved R &amp; R, compliments of Orbital Spa and Cruise. My patrol saved Orbital’s butt last week on the east Trade Lane to the California Gate. A crew of Rogues was about to make off with a Luxury Goods shipment. We saved the day.</TEXT><PARA/><POP/></RDL>
 
 131562
 INFOCARD
@@ -19925,7 +19925,7 @@ INFOCARD
 
 131614
 INFOCARD
-<RDL><PUSH/><TEXT>This base serves as the primary trans-shipment point for Artifacts inbound from Sigma-17. The Hogosha runs them through Kusari space, terminating their long run here. The Rogues then haul the Artifacts into Rochester via their base in the southern end of the system. Don’t know why people love those Artifacts so much.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This base serves as the primary transshipment point for Artifacts inbound from Sigma-17. The Hogosha runs them through Kusari space, terminating their long run here. The Rogues then haul the Artifacts into Rochester via their base in the southern end of the system. Don’t know why people love those Artifacts so much.</TEXT><PARA/><POP/></RDL>
 
 131615
 INFOCARD
@@ -20141,7 +20141,7 @@ INFOCARD
 
 131668
 INFOCARD
-<RDL><PUSH/><TEXT>Let me tell you, never stray into Zone 21. One of our patrols got off course chasing some Rogues. They went straight into the mine field and got heavily damaged. Then the Navy flyboys showed up and started shooting, no questions asked. One of the LPI guys didn’t make it home that night. No apology or anything from them military folks.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Let me tell you, never stray into Zone 21. One of our patrols got off course chasing some Rogues. They went straight into the minefield and got heavily damaged. Then the Navy flyboys showed up and started shooting, no questions asked. One of the LPI guys didn’t make it home that night. No apology or anything from them military folks.</TEXT><PARA/><POP/></RDL>
 
 131669
 INFOCARD
@@ -20221,7 +20221,7 @@ INFOCARD
 
 131688
 INFOCARD
-<RDL><PUSH/><TEXT>I’m on R&amp;R from the </TEXT><TRA italic="true"/><TEXT>Rio Grande</TEXT><TRA italic="false"/><TEXT>. That’s the battleship out by Gunnison. If we weren’t around, those worthless LPI drones wouldn’t even bother to patrol the areas they do. We take care of the Independent World patrols, too. That’s another story. It’s no joke out there.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’m on R &amp; R from the </TEXT><TRA italic="true"/><TEXT>Rio Grande</TEXT><TRA italic="false"/><TEXT>. That’s the battleship out by Gunnison. If we weren’t around, those worthless LPI drones wouldn’t even bother to patrol the areas they do. We take care of the Independent World patrols, too. That’s another story. It’s no joke out there.</TEXT><PARA/><POP/></RDL>
 
 131689
 INFOCARD
@@ -20493,7 +20493,7 @@ INFOCARD
 
 131757
 INFOCARD
-<RDL><PUSH/><TEXT>The Xenos are a constant thorn in our side in Galileo and Colorado. We’ve had to invest in better ships and more escorts to protect ourselves. Samura doesn’t understand why the Xenos blame us for their misfortunes. Most of it can be blamed on their own Deep Space Engineering and Ageira, who did not respond to the Kusari challenge in commercial ship building.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Xenos are a constant thorn in our side in Galileo and Colorado. We’ve had to invest in better ships and more escorts to protect ourselves. Samura doesn’t understand why the Xenos blame us for their misfortunes. Most of it can be blamed on their own Deep Space Engineering and Ageira, who did not respond to the Kusari challenge in commercial shipbuilding.</TEXT><PARA/><POP/></RDL>
 
 131758
 INFOCARD
@@ -20813,7 +20813,7 @@ INFOCARD
 
 131843
 INFOCARD
-<RDL><PUSH/><TEXT>This company received the first royal shipping charter from the Crown; we have hauled and shipped material throughout Bretonia’s long and illustrious history. Through it all, we have remained steadfast and vigilant to the needs of our customers, often times not only shipping but insuring precious Commodities.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This company received the first royal shipping charter from the Crown; we have hauled and shipped material throughout Bretonia’s long and illustrious history. Through it all, we have remained steadfast and vigilant to the needs of our customers, oftentimes not only shipping but insuring precious Commodities.</TEXT><PARA/><POP/></RDL>
 
 131844
 INFOCARD
@@ -21021,7 +21021,7 @@ INFOCARD
 
 131895
 INFOCARD
-<RDL><PUSH/><TEXT>My ship has been running Beryllium into Colorado for some time now. We pick it up in Kensington, New London. That’s just a way point. It gets mined in the Cambridge system. We usually stop here and pick up a load of Optical Chips for the Cambridge Consumer Goods factory on our return. Sure beats hauling Food to Freeport 4.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My ship has been running Beryllium into Colorado for some time now. We pick it up in Kensington, New London. That’s just a waypoint. It gets mined in the Cambridge system. We usually stop here and pick up a load of Optical Chips for the Cambridge Consumer Goods factory on our return. Sure beats hauling Food to Freeport 4.</TEXT><PARA/><POP/></RDL>
 
 131896
 INFOCARD
@@ -21145,7 +21145,7 @@ INFOCARD
 
 131926
 INFOCARD
-<RDL><PUSH/><TEXT>This is a good location to launch into the Tahoe Cloud. You don’t have to go far to find trouble in there. It’s also a straight shot across the system to the Whitney Field, if that doesn't offer enough action for you.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is a good location to launch into the Tahoe Cloud. You don’t have to go far to find trouble in there. It’s also a straight shot across the system to the Whitney Field if that doesn't offer enough action for you.</TEXT><PARA/><POP/></RDL>
 
 131927
 INFOCARD
@@ -21793,7 +21793,7 @@ INFOCARD
 
 132093
 INFOCARD
-<RDL><PUSH/><TEXT>All of the work done at this ship actually takes place onboard. If you were ever to find yourself an inmate on the Sugarland, you might be put on a work detail clearing radioactive debris from one of the debris fields in this system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>All of the work done at this ship actually takes place on board. If you were ever to find yourself an inmate on the Sugarland, you might be put on a work detail clearing radioactive debris from one of the debris fields in this system.</TEXT><PARA/><POP/></RDL>
 
 132094
 INFOCARD
@@ -21877,7 +21877,7 @@ INFOCARD
 
 132114
 INFOCARD
-<RDL><PUSH/><TEXT>One of my ancestors was on guard duty aboard the Dallas on that fateful day. He and everyone else onboard was killed instantly. The ironic part was that the naval commander had recommended the ship be moved to a safe distance from the experimental Jump Gate, so the test didn’t begin until they had repositioned the Dallas to twice the normal distance.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of my ancestors was on guard duty aboard the Dallas on that fateful day. He and everyone else on board was killed instantly. The ironic part was that the naval commander had recommended the ship be moved to a safe distance from the experimental Jump Gate, so the test didn’t begin until they had repositioned the Dallas to twice the normal distance.</TEXT><PARA/><POP/></RDL>
 
 132115
 INFOCARD
@@ -22209,7 +22209,7 @@ INFOCARD
 
 132205
 INFOCARD
-<RDL><PUSH/><TEXT>New London is a just a sideshow for the Outcasts, ’cause there’s no Jump Hole to Manchester from here. The main Cardamine route is through the Leeds smog clouds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New London is just a sideshow for the Outcasts, ’cause there’s no Jump Hole to Manchester from here. The main Cardamine route is through the Leeds smog clouds.</TEXT><PARA/><POP/></RDL>
 
 132206
 INFOCARD
@@ -22225,7 +22225,7 @@ INFOCARD
 
 132209
 INFOCARD
-<RDL><PUSH/><TEXT>Running the MOX in from LD-14 can be a real-nail biter. Rumor has it that the Mollys are trying to steal some to make a bomb.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Running the MOX in from LD-14 can be a real nail-biter. Rumor has it that the Mollys are trying to steal some to make a bomb.</TEXT><PARA/><POP/></RDL>
 
 132210
 INFOCARD
@@ -22577,7 +22577,7 @@ INFOCARD
 
 132297
 INFOCARD
-<RDL><PUSH/><TEXT>I almost caught myselff a Corsair smuggler crossing the Manchester Trade Lane the other day. Saw him scurry across in front of us. We pursued him but lost him in the fields. The Corsairs mostly ship Artifacts, which wouldn’t be a business model if those idiot aristocrats back in London would stop buying them.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I almost caught myself a Corsair smuggler crossing the Manchester Trade Lane the other day. Saw him scurry across in front of us. We pursued him but lost him in the fields. The Corsairs mostly ship Artifacts, which wouldn’t be a business model if those idiot aristocrats back in London would stop buying them.</TEXT><PARA/><POP/></RDL>
 
 132298
 INFOCARD
@@ -22785,7 +22785,7 @@ INFOCARD
 
 132349
 INFOCARD
-<RDL><PUSH/><TEXT>Ooh, fancy yerself a tough one do ya, laddie? Well, how do you like the sound of the Border Worlds, eh? I thought that might get your attention. Bowex supplies Freeport 6 in Tau-29 with Mining Machinery. Yup, there’s money to be made out there if you’ve got the sand for it. My guess is you’ll be dusted before you ever make landing in Freeport 6.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Ooh, fancy yerself a tough one do ya, laddie? Well, how do you like the sound of the Border Worlds, eh? I thought that might get your attention. Bowex supplies Freeport 6 in Tau-29 with Mining Machinery. Yup, there’s money to be made out there if you’ve got the sand for it. My guess is you’ll be dusted before you ever make a landing in Freeport 6.</TEXT><PARA/><POP/></RDL>
 
 132350
 INFOCARD
@@ -22825,7 +22825,7 @@ INFOCARD
 
 132359
 INFOCARD
-<RDL><PUSH/><TEXT>My folks and their ancestors all come from Leeds. We’ve been workin’ the foundries in my family as long as I can remember — except me. My father was always moaning about getting the rake from BMM, so I figured I’d get out from under that thumb. I apprenticed myself to a freelancer and learned to fly. After a bit I, took the opportunity to join the authorities.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My folks and their ancestors all come from Leeds. We’ve been workin’ the foundries in my family as long as I can remember — except me. My father was always moaning about getting the rake from BMM, so I figured I’d get out from under that thumb. I apprenticed myself to a freelancer and learned to fly. After a bit, I took the opportunity to join the authorities.</TEXT><PARA/><POP/></RDL>
 
 132360
 INFOCARD
@@ -23081,7 +23081,7 @@ INFOCARD
 
 132423
 INFOCARD
-<RDL><PUSH/><TEXT>We are experts at shipping between Kusari and Bretonia. It has been this way for several centuries, and though it was Bretonia’s industry that kept the system alive, Bowex was the life blood of Bretonia’s industrial prowess. Remember that the next time you encounter some Gateway trash trying to haul scrap across Bowex space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We are experts at shipping between Kusari and Bretonia. It has been this way for several centuries, and though it was Bretonia’s industry that kept the system alive, Bowex was the lifeblood of Bretonia’s industrial prowess. Remember that the next time you encounter some Gateway trash trying to haul scrap across Bowex space.</TEXT><PARA/><POP/></RDL>
 
 132424
 INFOCARD
@@ -23209,7 +23209,7 @@ INFOCARD
 
 132455
 INFOCARD
-<RDL><PUSH/><TEXT>One of the more satisfying jobs on this base is escorting the prison convoy into New London, a big ship full of criminals. Any Outcasts onboard aren’t coming back; they usually kick off in prison, for some reason. Of course we don’t capture too many of them in the first place.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of the more satisfying jobs on this base is escorting the prison convoy into New London, a big ship full of criminals. Any Outcasts on board aren’t coming back; they usually kick off in prison, for some reason. Of course we don’t capture too many of them in the first place.</TEXT><PARA/><POP/></RDL>
 
 132456
 INFOCARD
@@ -23333,7 +23333,7 @@ INFOCARD
 
 132486
 INFOCARD
-<RDL><PUSH/><TEXT>We are outraged that the government, at the urging of the researchers on Gaia, has refused our Oxygen and Water supply ships to land. This necessitates a trip to the Planetform operation at Perth, with all of the inherent risks of Gaian attack.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We are outraged that the government, at the urging of the researchers on Gaia, has refused our Oxygen and Water supply ships to land. This necessitates a trip to the Planetform operation at Perth, with all of the inherent risks of Gaian attacks.</TEXT><PARA/><POP/></RDL>
 
 132487
 INFOCARD
@@ -23345,7 +23345,7 @@ INFOCARD
 
 132489
 INFOCARD
-<RDL><PUSH/><TEXT>Some of our ships run Luxury Goods all the way from the source in Manhattan to our location. It’s one of the most lucrative legal cargo runs in Sirius, but it goes without saying that there several hurdles to cross. The Barrier is probably the most difficult.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some of our ships run Luxury Goods all the way from the source in Manhattan to our location. It’s one of the most lucrative legal cargo runs in Sirius, but it goes without saying that there are several hurdles to cross. The Barrier is probably the most difficult.</TEXT><PARA/><POP/></RDL>
 
 132490
 INFOCARD
@@ -23813,7 +23813,7 @@ INFOCARD
 
 132612
 INFOCARD
-<RDL><PUSH/><TEXT>The mine field surrounding the Molly Gold field has dissuaded the military from sending any of its larger ships into the field. The smaller patrols are pretty hesitant to enter as well, but that doesn’t stop me from going in. I kill Mollys for a living, so that’s where I go.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The minefield surrounding the Molly Gold field has dissuaded the military from sending any of its larger ships into the field. The smaller patrols are pretty hesitant to enter as well, but that doesn’t stop me from going in. I kill Mollys for a living, so that’s where I go.</TEXT><PARA/><POP/></RDL>
 
 132613
 INFOCARD
@@ -24069,7 +24069,7 @@ INFOCARD
 
 132679
 INFOCARD
-<RDL><PUSH/><TEXT>Some of the guards here used to know Willy Logan. He was an escape artist who some people say busted out of the Newgate. Maybe he did. His cell mate says that the vac-suit he made looked pretty good. The closest base sure is a long way to go using a stolen fire extinguisher as propulsion.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some of the guards here used to know Willy Logan. He was an escape artist who some people say busted out of the Newgate. Maybe he did. His cellmate says that the vac-suit he made looked pretty good. The closest base sure is a long way to go using a stolen fire extinguisher as propulsion.</TEXT><PARA/><POP/></RDL>
 
 132680
 INFOCARD
@@ -24357,7 +24357,7 @@ INFOCARD
 
 132763
 INFOCARD
-<RDL><PUSH/><TEXT>I was able to capture an Outcast in Omicron Beta a few months ago. First, I disabled his ship and hit it with a pulse beam to knock out the people inside. It’s an old Bounty Hunter weapon that’s available to Guild members only. Once he was unconscious I suited up and went space walking. That was it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I was able to capture an Outcast in Omicron Beta a few months ago. First, I disabled his ship and hit it with a pulse beam to knock out the people inside. It’s an old Bounty Hunter weapon that’s available to Guild members only. Once he was unconscious I suited up and went spacewalking. That was it.</TEXT><PARA/><POP/></RDL>
 
 132764
 INFOCARD
@@ -24445,7 +24445,7 @@ INFOCARD
 
 132785
 INFOCARD
-<RDL><PUSH/><TEXT>A Hogosha Artifacts dealer will soon turn up onboard this ship with a Corsair’s knife in his back. One of our men was able to get the knife from the Corsair while she was passed out drunk. The incident will certainly put a dent in their business dealings.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A Hogosha Artifacts dealer will soon turn up on board this ship with a Corsair’s knife in his back. One of our men was able to get the knife from the Corsair while she was passed out drunk. The incident will certainly put a dent in their business dealings.</TEXT><PARA/><POP/></RDL>
 
 132786
 INFOCARD
@@ -24453,11 +24453,11 @@ INFOCARD
 
 132787
 INFOCARD
-<RDL><PUSH/><TEXT>I could swear that someone has been following me around onboard this ship. I am not a paranoid man, yet I cannot help but feel a presence behind me in the halls. When I turn around there is nothing. Maybe I’m the one that needs a vacation.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I could swear that someone has been following me around on board this ship. I am not a paranoid man, yet I cannot help but feel a presence behind me in the halls. When I turn around there is nothing. Maybe I’m the one that needs a vacation.</TEXT><PARA/><POP/></RDL>
 
 132788
 INFOCARD
-<RDL><PUSH/><TEXT>It was best for both the Corsairs and the Hogosha to cut the GMG out of our business dealings. The GMG are indeed closer to our people than the Corsairs, but “money makes friends of strangers” as the saying goes.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It was best for both the Corsairs and the Hogosha to cut the GMG out of our business dealings. The GMG is indeed closer to our people than the Corsairs, but “money makes friends of strangers” as the saying goes.</TEXT><PARA/><POP/></RDL>
 
 132789
 INFOCARD
@@ -24517,7 +24517,7 @@ INFOCARD
 
 132803
 INFOCARD
-<RDL><PUSH/><TEXT>The Hogosha may be all-powerful in Kusari space, but this is not Kusari space. When the Hogosha agree to deal us out of the lucrative Artifact trade between them and the Corsairs, they made a powerful enemy for themselves. Samura should have intervened. The fact that they didn’t show us how little Samura respects us.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hogosha may be all-powerful in Kusari space, but this is not Kusari space. When the Hogosha agrees to deal us out of the lucrative Artifact trade between them and the Corsairs, they made a powerful enemy for themselves. Samura should have intervened. The fact that they didn’t show us how little Samura respects us.</TEXT><PARA/><POP/></RDL>
 
 132804
 INFOCARD
@@ -24581,7 +24581,7 @@ INFOCARD
 
 132820
 INFOCARD
-<RDL><PUSH/><TEXT>It’s been hard to crack into the Kusari market with our drug because their strongest crime syndicate, the Hogosha, refuse to deal with us. But we have found allies within Kusari who will help us tap that well. The Golden Chrysanthemums have discovered the allure of Cardamine.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s been hard to crack into the Kusari market with our drug because their strongest crime syndicate, the Hogosha, refuses to deal with us. But we have found allies within Kusari who will help us tap that well. The Golden Chrysanthemums have discovered the allure of Cardamine.</TEXT><PARA/><POP/></RDL>
 
 132821
 INFOCARD
@@ -24641,7 +24641,7 @@ INFOCARD
 
 132835
 INFOCARD
-<RDL><PUSH/><TEXT>My shift starts soon, and I’ll have to get onboard that death trap we call a mining ship. DSE is still working on the Trade Lane that runs to the Beryllium fields, so in the meantime, we are most vulnerable to the Outcasts aboard the miner. It’s pretty safe once you get to the mining area; the trip is the dangerous part.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My shift starts soon, and I’ll have to get on board that death trap we call a mining ship. DSE is still working on the Trade Lane that runs to the Beryllium fields, so in the meantime, we are most vulnerable to the Outcasts aboard the miner. It’s pretty safe once you get to the mining area; the trip is the dangerous part.</TEXT><PARA/><POP/></RDL>
 
 132836
 INFOCARD
@@ -24693,7 +24693,7 @@ INFOCARD
 
 132851
 INFOCARD
-<RDL><PUSH/><TEXT>Sure, the Outcasts attack this base every once in a while. What they really focus on is the BMM site. Still, it’s kind of a rush knowing that an Outcast might be sitting in the Niobium fields waiting to smoke you. I always get goose bumps when I set my mining skiff down out there, so I guess I like it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Sure, the Outcasts attack this base every once in a while. What they really focus on is the BMM site. Still, it’s kind of a rush knowing that an Outcast might be sitting in the Niobium fields waiting to smoke you. I always get goosebumps when I set my mining skiff down out there, so I guess I like it.</TEXT><PARA/><POP/></RDL>
 
 132852
 INFOCARD
@@ -24745,7 +24745,7 @@ INFOCARD
 
 132864
 INFOCARD
-<RDL><PUSH/><TEXT>The IMG gets its hands on a lot of Niobium out here. It is Gateway’s responsibility to ship it back to Kensington, where it will either be used for ship building components or anodized and made into Luxury Goods.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The IMG gets its hands on a lot of Niobium out here. It is Gateway’s responsibility to ship it back to Kensington, where it will either be used for shipbuilding components or anodized and made into Luxury Goods.</TEXT><PARA/><POP/></RDL>
 
 132865
 INFOCARD
@@ -24789,7 +24789,7 @@ INFOCARD
 
 132875
 INFOCARD
-<RDL><PUSH/><TEXT>Being an independent miner isn’t a picnic, but at least we don’t have to answer to some corporate task master. That’s why we can expand more quickly than the larger corporations, like BMM. They paid tremendously for Jump Gates to Tau-23; we used Jump Holes and got there first, and that’s why the Niobium is ours.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Being an independent miner isn’t a picnic, but at least we don’t have to answer to some corporate taskmaster. That’s why we can expand more quickly than the larger corporations, like BMM. They paid tremendously for Jump Gates to Tau-23; we used Jump Holes and got there first, and that’s why the Niobium is ours.</TEXT><PARA/><POP/></RDL>
 
 132876
 INFOCARD
@@ -24829,7 +24829,7 @@ INFOCARD
 
 132885
 INFOCARD
-<RDL><PUSH/><TEXT>We have a large factory staffed with foreign workers at the Deshima Station in Shikoku. Producing Kusari Consumer Goods cheaply and efficiently is the only way to stay competitive with LPI, who uses free prison labor to keep its production costs down.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have a large factory staffed with foreign workers at the Deshima Station in Shikoku. Producing Kusari Consumer Goods cheaply and efficiently is the only way to stay competitive with LPI, which uses free prison labor to keep its production costs down.</TEXT><PARA/><POP/></RDL>
 
 132886
 INFOCARD
@@ -24953,7 +24953,7 @@ INFOCARD
 
 132916
 INFOCARD
-<RDL><PUSH/><TEXT>I’ve been doing the Kensington-Narita run for some time now. Normally we ship in Beryllium and Gold, and then return with H-Fuel. We’d like to expand to more lucrative return cargos, but the Bretonian government has some absurd law which states that only Bowex can import those Commodities directly from Kusari.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’ve been doing the Kensington-Narita run for some time now. Normally we ship in Beryllium and Gold and then return with H-Fuel. We’d like to expand to more lucrative return cargos, but the Bretonian government has some absurd law which states that only Bowex can import those Commodities directly from Kusari.</TEXT><PARA/><POP/></RDL>
 
 132917
 INFOCARD
@@ -24985,7 +24985,7 @@ INFOCARD
 
 132924
 INFOCARD
-<RDL><PUSH/><TEXT>It is tiresome to guard against the Hogosha here. They patiently wait until all of our patrols are out. They seem to prefer shipbuilding materials, which is puzzling because they use generic off-the-lot ships. I hear they’ve been spotted in Shinjuku on occasion. Apparently, some of them work for Samura as salary men.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It is tiresome to guard against the Hogosha here. They patiently wait until all of our patrols are out. They seem to prefer shipbuilding materials, which is puzzling because they use generic off-the-lot ships. I hear they’ve been spotted in Shinjuku on occasion. Apparently, some of them work for Samura as salarymen.</TEXT><PARA/><POP/></RDL>
 
 132925
 INFOCARD
@@ -25129,7 +25129,7 @@ INFOCARD
 
 132960
 INFOCARD
-<RDL><PUSH/><TEXT>I think it’s time for my afternoon Cardamine break. We sell our cargo here since they won’t let us land on Tokyo. All the hip Tokyo types come here to get their supply. That’s how we recruit new girls to join the cause.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I think it’s time for my afternoon Cardamine break. We sell our cargo here since they won’t let us land on New Tokyo. All the hip New Tokyo types come here to get their supply. That’s how we recruit new girls to join the cause.</TEXT><PARA/><POP/></RDL>
 
 132961
 INFOCARD
@@ -25261,7 +25261,7 @@ INFOCARD
 
 132993
 INFOCARD
-<RDL><PUSH/><TEXT>The Hokkaido system is now ours. The government-funded and constructed the Hokkaido Gates in the name of security, which allows us access to the newly discovered H-Fuel fields there. Then we will be free of the GMG and their new partner, Kishiro.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hokkaido system is now ours. The government funded and constructed the Hokkaido Gates in the name of security, which allows us access to the newly discovered H-Fuel fields there. Then we will be free of the GMG and their new partner, Kishiro.</TEXT><PARA/><POP/></RDL>
 
 132994
 INFOCARD
@@ -25577,7 +25577,7 @@ INFOCARD
 
 133072
 INFOCARD
-<RDL><PUSH/><TEXT>The Mollys hit the Trade Lane between here and the New London Jump Gate quite frequently. I specialize in killing Mollys. My brother was onboard the Newgate as an inmate when Mollys attacked it trying to free one of their own. He got killed in the raid, with only six months left to serve.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Mollys hit the Trade Lane between here and the New London Jump Gate quite frequently. I specialize in killing Mollys. My brother was on board the Newgate as an inmate when Mollys attacked it trying to free one of their own. He got killed in the raid, with only six months left to serve.</TEXT><PARA/><POP/></RDL>
 
 133073
 INFOCARD
@@ -25753,7 +25753,7 @@ INFOCARD
 
 133116
 INFOCARD
-<RDL><PUSH/><TEXT>Liverpool has a proud history of Bretonian police. Many familes have been police officers at this station for several generations. This station is responsible for over ten thousand C and I’s — that’s captures and incarcerations to the layman.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Liverpool has a proud history of Bretonian police. Many families have been police officers at this station for several generations. This station is responsible for over ten thousand C and I’s — that’s captures and incarcerations to the layman.</TEXT><PARA/><POP/></RDL>
 
 133117
 INFOCARD
@@ -25801,7 +25801,7 @@ INFOCARD
 
 133128
 INFOCARD
-<RDL><PUSH/><TEXT>I wish I knew how the Outcasts and Lane Hackers are getting into this system. They don’t come through the Jump Gates, that’s for certain, unless it’s some kind of crazy Lane Hacker technology we don’t know about.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I wish I knew how the Outcasts and Lane Hackers are getting into this system. They don’t come through the Jump Gates, that’s for certain unless it’s some kind of crazy Lane Hacker technology we don’t know about.</TEXT><PARA/><POP/></RDL>
 
 133129
 INFOCARD
@@ -25893,7 +25893,7 @@ INFOCARD
 
 133151
 INFOCARD
-<RDL><PUSH/><TEXT>Some of them Outcast women sure are fine to look at, but don’t let them catch you giving them the eye. They are all killers, man and woman alike. I heard about one of their women killing a Corsair in a brawl on a Junker base somewhere.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some of them Outcast women sure are fine to look at, but don’t let them catch you giving them the eye. They are all killers, men and women alike. I heard about one of their women killing a Corsair in a brawl on a Junker base somewhere.</TEXT><PARA/><POP/></RDL>
 
 133152
 INFOCARD
@@ -26057,7 +26057,7 @@ INFOCARD
 
 133192
 INFOCARD
-<RDL><PUSH/><TEXT>People often wonder how Corsairs can have such excellent ships when they are all pieced together from other stolen and salvaged vessels. Corsairs are masters of making something from nothing, and we have an advantage. Not all Artifacts are useless; many we recovered offered insight into the science of ship building.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>People often wonder how Corsairs can have such excellent ships when they are all pieced together from other stolen and salvaged vessels. Corsairs are masters of making something from nothing, and we have an advantage. Not all Artifacts are useless; many we recovered offered insight into the science of shipbuilding.</TEXT><PARA/><POP/></RDL>
 
 133193
 INFOCARD
@@ -26145,7 +26145,7 @@ INFOCARD
 
 133214
 INFOCARD
-<RDL><PUSH/><TEXT>You can’t kill anyone onboard or in the immediate area of a Zoner base. That’s why the Bounty Hunters are still breathing here. I would like nothing better than to walk over to a Bounty Hunter and eliminate them with my Daumann Devastator.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You can’t kill anyone on board or in the immediate area of a Zoner base. That’s why the Bounty Hunters are still breathing here. I would like nothing better than to walk over to a Bounty Hunter and eliminate them with my Daumann Devastator.</TEXT><PARA/><POP/></RDL>
 
 133215
 INFOCARD
@@ -26317,7 +26317,7 @@ INFOCARD
 
 133258
 INFOCARD
-<RDL><PUSH/><TEXT>We get many different goods and basic supplies from the Freeports in nearby zones. Often times it is easier to buy what we need with Artifact income than to steal it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We get many different goods and basic supplies from the Freeports in nearby zones. Oftentimes it is easier to buy what we need with Artifact income than to steal it.</TEXT><PARA/><POP/></RDL>
 
 133259
 INFOCARD
@@ -26581,7 +26581,7 @@ INFOCARD
 
 133324
 INFOCARD
-<RDL><PUSH/><TEXT>This is the most well-paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the mine field.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is the most well-paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the minefield.</TEXT><PARA/><POP/></RDL>
 
 133325
 INFOCARD
@@ -26589,7 +26589,7 @@ INFOCARD
 
 133326
 INFOCARD
-<RDL><PUSH/><TEXT>This is the most well-paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the mine field.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is the most well-paid location for Kishiro research scientists. If we can deliver on our promises, all of Kusari will view us as heroes one day. If we fail, I will enter the airlock and eject myself into the minefield.</TEXT><PARA/><POP/></RDL>
 
 133327
 INFOCARD
@@ -26605,7 +26605,7 @@ INFOCARD
 
 133330
 INFOCARD
-<RDL><PUSH/><TEXT>We buy our supplies from the Yukawa shipyard or Shinagawa. Since we produce our own life support Gases, our needs are few. It is a lonely life, surrounded by our protective mine field. Once you enter this complex, you rarely leave.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We buy our supplies from the Yukawa shipyard or Shinagawa. Since we produce our own life support Gases, our needs are few. It is a lonely life, surrounded by our protective minefield. Once you enter this complex, you rarely leave.</TEXT><PARA/><POP/></RDL>
 
 133331
 INFOCARD
@@ -26617,7 +26617,7 @@ INFOCARD
 
 133333
 INFOCARD
-<RDL><PUSH/><TEXT>The Blood Dragons think that we are creating some super weapon here that Tokyo will use to destroy them. Nothing could be further from the truth. We are interested in creating the ultimate battleship that can traverse space without the aid of Jump Gates or Lanes. We have reliable information that Liberty has achieved exactly this goal.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Blood Dragons think that we are creating some superweapon here that Tokyo will use to destroy them. Nothing could be further from the truth. We are interested in creating the ultimate battleship that can traverse space without the aid of Jump Gates or Lanes. We have reliable information that Liberty has achieved exactly this goal.</TEXT><PARA/><POP/></RDL>
 
 133334
 INFOCARD
@@ -26689,7 +26689,7 @@ INFOCARD
 
 133351
 INFOCARD
-<RDL><PUSH/><TEXT>This one of the most difficult postings for a Kusari State Police officer in our colony. Maybe Sapporo is worse. The most dreaded patrol does a circuit into the Hiryo Cloud, where the Corsairs lurk. We had 50% casualties on it last month. That’s enough to make one superstitious.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is one of the most difficult postings for a Kusari State Police officer in our colony. Maybe Sapporo is worse. The most dreaded patrol does a circuit into the Hiryo Cloud, where the Corsairs lurk. We had 50% casualties on it last month. That’s enough to make one superstitious.</TEXT><PARA/><POP/></RDL>
 
 133352
 INFOCARD
@@ -26709,7 +26709,7 @@ INFOCARD
 
 133356
 INFOCARD
-<RDL><PUSH/><TEXT>The Kusari State Police prides itself in being a highly ethical organization. Hogosha often attempt bribes when they are caught, but we will never accept them. The bureaucrats of Tokyo are another matter, however. There are many stories of the criminal bribes and gifts that are accepted by the rulers of our nation.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Kusari State Police prides itself on being a highly ethical organization. Hogosha often attempt bribes when they are caught, but we will never accept them. The bureaucrats of Tokyo are another matter, however. There are many stories of the criminal bribes and gifts that are accepted by the rulers of our nation.</TEXT><PARA/><POP/></RDL>
 
 133357
 INFOCARD
@@ -26829,7 +26829,7 @@ INFOCARD
 
 133386
 INFOCARD
-<RDL><PUSH/><TEXT>The only place we can land in Kusari space is Roppongi. The foreigners find us more amusing than threatening and tolerate our presence there. So we buy Luxury Goods in the boutiques onboard, and sell our Cardamine to the highest bidders in the bars scattered around the station.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The only place we can land in Kusari space is Roppongi. The foreigners find us more amusing than threatening and tolerate our presence there. So we buy Luxury Goods in the boutiques on board, and sell our Cardamine to the highest bidders in the bars scattered around the station.</TEXT><PARA/><POP/></RDL>
 
 133387
 INFOCARD
@@ -26997,7 +26997,7 @@ INFOCARD
 
 133428
 INFOCARD
-<RDL><PUSH/><TEXT>We prefer to attack installations and Samura-owned transports rather than raid foreign shipping, which does not help our cause. Unfortunately, sometimes we must obtain supplies. The Golden Chrysanthemums are not nearly as discriminating, which has created a publicity problem for us, since they are perceived by the press as our allies.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We prefer to attack installations and Samura-owned transports rather than raid foreign shipping, which does not help our cause. Unfortunately, sometimes we must obtain supplies. The Golden Chrysanthemums are not nearly as discriminating, which has created a publicity problem for us since they are perceived by the press as our allies.</TEXT><PARA/><POP/></RDL>
 
 133429
 INFOCARD
@@ -27013,7 +27013,7 @@ INFOCARD
 
 133432
 INFOCARD
-<RDL><PUSH/><TEXT>Samura’s plan was to open Hokkaido to gas mining in order to compete with the GMG, a partner whom they have exploited for centuries. I assure you that Hokkaido will not be a good place for Samura to do business for many years to come. The GMG will make sure of that.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Samura’s plan was to open Hokkaido to gas mining to compete with the GMG, a partner whom they have exploited for centuries. I assure you that Hokkaido will not be a good place for Samura to do business for many years to come. The GMG will make sure of that.</TEXT><PARA/><POP/></RDL>
 
 133433
 INFOCARD
@@ -27105,7 +27105,7 @@ INFOCARD
 
 133455
 INFOCARD
-<RDL><PUSH/><TEXT>I fly a patrol into the Keiun to hunt down Gaijin pirates. They are mostly coming in from that area. I also escort convoys from the Border Worlds. Often times the ships have been so beaten up out there that to be attacked here in Shikoku almost ensures their death.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I fly a patrol into the Keiun to hunt down Gaijin pirates. They are mostly coming in from that area. I also escort convoys from the Border Worlds. Oftentimes the ships have been so beaten up out there that to be attacked here in Shikoku almost ensures their death.</TEXT><PARA/><POP/></RDL>
 
 133456
 INFOCARD
@@ -27149,7 +27149,7 @@ INFOCARD
 
 133466
 INFOCARD
-<RDL><PUSH/><TEXT>If you are looking to kill Golden Chrysanthemums, head north to the Kyushu Hole in Saiun. The Golden C. also use the clouds to move through the system. I get paid good money to vaporize those ladies. Watch out, if they sense that they are about to be destroyed, they have no problem ramming you.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you are looking to kill Golden Chrysanthemums, head north to the Kyushu Hole in Saiun. The Golden C. also uses the clouds to move through the system. I get paid good money to vaporize those ladies. Watch out, if they sense that they are about to be destroyed, they have no problem ramming you.</TEXT><PARA/><POP/></RDL>
 
 133467
 INFOCARD
@@ -27301,11 +27301,11 @@ INFOCARD
 
 133504
 INFOCARD
-<RDL><PUSH/><TEXT>Sometimes I will look across these waters and wonder what creatures might have eventually emerged from these depths had we not meddled with nature here. Sometimes it is better for a man to eat rice, but you didn’t hear that from me.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Sometimes I will look across these waters and wonder what creatures might have eventually emerged from these depths had we not meddled with nature here. Sometimes a man should eat rice, but you didn’t hear that from me.</TEXT><PARA/><POP/></RDL>
 
 133505
 INFOCARD
-<RDL><PUSH/><TEXT>I used to be an important man in New Tokyo. My division was always ahead of schedule, and my team very efficient. One of my men was a terrible worker, so I fired him. Little did I know he was the cousin to a powerful executive.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I used to be an important man in New Tokyo. My division was always ahead of schedule, and my team was very efficient. One of my men was a terrible worker, so I fired him. Little did I know he was the cousin to a powerful executive.</TEXT><PARA/><POP/></RDL>
 
 133506
 INFOCARD
@@ -27673,7 +27673,7 @@ INFOCARD
 
 133597
 INFOCARD
-<RDL><PUSH/><TEXT>Many people on Rügen fear that Bretonia will eventually control this system. I say there isn’t a chance. They are counting on colonizing Sprague once it’s terraformed, then forcing us out. Have you ever heard of Planetform, Inc. ever finishing a project? No. This is Rheinland space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many people on Rügen fear that Bretonia will eventually control this system. I say there isn’t a chance. They are counting on colonizing Sprague once it’s terraformed, then forcing us out. Have you ever heard of Planetform, Inc. finishing a project? No. This is Rheinland space.</TEXT><PARA/><POP/></RDL>
 
 133598
 INFOCARD
@@ -27717,7 +27717,7 @@ INFOCARD
 
 133608
 INFOCARD
-<RDL><PUSH/><TEXT>We tried to make this facility as independent as possible. We produce many necessary Commodities here. The Corsairs need these at their base Cadiz. Along with the basics, Corsairs will pay for Engine Components.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We tried to make this facility as independent as possible. We produce many necessary Commodities here. The Corsairs need these at their base, Cadiz. Along with the basics, Corsairs will pay for Engine Components.</TEXT><PARA/><POP/></RDL>
 
 133609
 INFOCARD
@@ -27745,7 +27745,7 @@ INFOCARD
 
 133615
 INFOCARD
-<RDL><PUSH/><TEXT>You are in some tough space, you know. The Zoners here, though we don’t go looking for fights can all handle ourselves. I used to be a pilot in the BAF. That’s right. But I gave it up when I realized there wasen’t a future in it for me but a gold watch or a space burial.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>You are in some tough space, you know. The Zoners here, though we don’t go looking for fights can all handle ourselves. I used to be a pilot in the BAF. That’s right. But I gave it up when I realized there wasn’t a future in it for me but a gold watch or a space burial.</TEXT><PARA/><POP/></RDL>
 
 133616
 INFOCARD
@@ -28341,7 +28341,7 @@ INFOCARD
 
 133769
 INFOCARD
-<RDL><PUSH/><TEXT>Our shipyard is actually just part of the Ring. We like to consider it as a separate entity, however. We do not approve of Daumann’s methods, and would like to cultivate a different culture that is more respectful of the rank-and-file worker.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our shipyard is actually just part of the Ring. We like to consider it as a separate entity, however. We do not approve of Daumann’s methods and would like to cultivate a different culture that is more respectful of the rank-and-file worker.</TEXT><PARA/><POP/></RDL>
 
 133770
 INFOCARD
@@ -28609,7 +28609,7 @@ INFOCARD
 
 133839
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger could once compete with Daumann, but they are now much larger and more diversified. We still hold a commanding lead in Mining Machinery, and hold key deposits of Diamonds and Silver. But that is not enough. Kruger Minerals will eventually be crushed by the Daumann goliath if radical steps are not taken soon.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kruger could once compete with Daumann, but they are now much larger and more diversified. We still hold a commanding lead in Mining Machinery and hold key deposits of Diamonds and Silver. But that is not enough. Kruger Minerals will eventually be crushed by the Daumann goliath if radical steps are not taken soon.</TEXT><PARA/><POP/></RDL>
 
 133840
 INFOCARD
@@ -29045,7 +29045,7 @@ INFOCARD
 
 133948
 INFOCARD
-<RDL><PUSH/><TEXT>Privately, Republican committed some management blunders in the early days of Alster. There were many ongoing safety lapses that eventually led to major industrial accidents. The unions would never have become as strong as they did without those galvanizing events.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Privately, Republican committed some management blunders in the early days of Alster. Many ongoing safety lapses eventually led to major industrial accidents. The unions would never have become as strong as they did without those galvanizing events.</TEXT><PARA/><POP/></RDL>
 
 133949
 INFOCARD
@@ -29549,7 +29549,7 @@ INFOCARD
 
 134074
 INFOCARD
-<RDL><PUSH/><TEXT>Synth Foods earns more money shipping our yummy pastes to the LPI Huntsville and Sugarland in Houston, than supplying all of Frankfurt. The truth is we prefer to ship our pastes to people who will pay what they are worth. These silly Rheinlanders are too poor to deserve our pastes.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Synth Foods earns more money shipping our yummy pastes to the LPI Huntsville and Sugarland in Houston than supplying all of Frankfurt. The truth is we prefer to ship our pastes to people who will pay what they are worth. These silly Rheinlanders are too poor to deserve our pastes.</TEXT><PARA/><POP/></RDL>
 
 134075
 INFOCARD
@@ -29589,7 +29589,7 @@ INFOCARD
 
 134084
 INFOCARD
-<RDL><PUSH/><TEXT>While I’m here, I’m going to try and enjoy myself. But my miserable wife is eating every Luxury Food in sight. I keep telling her that this resort is not all-inclusive, I cannot put this all on my expense account — ach, I must not think of these things … relax, relax. I hate that fat cow.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>While I’m here, I’m going to try and enjoy myself. But my miserable wife is eating every Luxury Food in sight. I keep telling her that this resort is not all-inclusive, I cannot put this all on my expense account — ah, I must not think of these things … relax, relax. I hate that fat cow.</TEXT><PARA/><POP/></RDL>
 
 134085
 INFOCARD
@@ -66521,7 +66521,7 @@ You can kill what you like out there, but we’re only paying you for your actua
 
 328054
 NAME
-To our knowledge there are no %F0v2 ships around your target. Great. Now’s your chance. 
+To our knowledge, there are no %F0v2 ships around your target. Great. Now’s your chance. 
 
 328055
 NAME
@@ -71409,7 +71409,7 @@ INFOCARD
 
 393471
 INFOCARD
-<RDL><PUSH/><TEXT>Sometimes when a ship gets destroyed not all of the equipment onboard is lost. There may be salvageable equipment floating around that you can pick up, so don’t forget to look for loot after a fight.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Sometimes when a ship gets destroyed not all of the equipment on board is lost. There may be salvageable equipment floating around that you can pick up, so don’t forget to look for loot after a fight.</TEXT><PARA/><POP/></RDL>
 
 393472
 INFOCARD
@@ -71709,7 +71709,7 @@ INFOCARD
 
 393547
 INFOCARD
-<RDL><PUSH/><TEXT>The target read out will tell you where a Trade Lane is coming from and going to. If you want to go the other direction, just fly around to the other side.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The target readout will tell you where a Trade Lane is coming from and going to. If you want to go the other direction, just fly around to the other side.</TEXT><PARA/><POP/></RDL>
 
 393548
 INFOCARD
@@ -71717,7 +71717,7 @@ INFOCARD
 
 393549
 INFOCARD
-<RDL><PUSH/><TEXT>Every ship is equipped with several equipment mounts called “hard points.” These hard points interface with different kinds of equipment at certain power ratings. This means you can’t put a shield generator on a weapon hard point, and you can’t put a high-power consumption weapon on a low- power weapon mount.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Every ship is equipped with several equipment mounts called hardpoints. These hardpoints interface with different kinds of equipment at certain power ratings. This means you can’t put a shield generator on a weapon hardpoint, and you can’t put a high-power consumption weapon on a low-power weapon mount.</TEXT><PARA/><POP/></RDL>
 
 393550
 INFOCARD
@@ -71737,11 +71737,11 @@ INFOCARD
 
 393554
 INFOCARD
-<RDL><PUSH/><TEXT>To quickly target the nearest enemy, click the Closest Enemy icon on the Target window, or press the hot key assigned to that icon.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>To quickly target the nearest enemy, click the Closest Enemy icon on the Target window, or press the hotkey assigned to that icon.</TEXT><PARA/><POP/></RDL>
 
 393555
 INFOCARD
-<RDL><PUSH/><TEXT>Some of your weapon hard points are going to have limits on how far they can rotate; this is for your own protection, since full rotation on some hard points would allow you to shoot your own ship.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Some of your weapon hardpoints are going to have limits on how far they can rotate; this is for your own protection, since full rotation on some hardpoints would allow you to shoot your own ship.</TEXT><PARA/><POP/></RDL>
 
 393556
 INFOCARD
@@ -71905,7 +71905,7 @@ INFOCARD
 
 393596
 INFOCARD
-<RDL><PUSH/><TEXT>I hear that Walker has offered to help you. He’s probably the most respected officer in the entire Liberty Fleet. He’s been the skipper of the </TEXT><TRA italic="true"/><TEXT>Utah</TEXT><TRA italic="false"/><TEXT>  for over five years now. They’re actually stationed in Los Angeles, but regularly patrol in these parts of the system to fight off all the pirates and smugglers in this area.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I hear that Walker has offered to help you. He’s probably the most respected officer in the entire Liberty Fleet. He’s been the skipper of the </TEXT><TRA italic="true"/><TEXT>Utah</TEXT><TRA italic="false"/><TEXT>  for over five years now. They’re actually stationed on Los Angeles, but regularly patrol in these parts of the system to fight off all the pirates and smugglers in this area.</TEXT><PARA/><POP/></RDL>
 
 393597
 INFOCARD
@@ -71977,11 +71977,11 @@ INFOCARD
 
 393614
 INFOCARD
-<RDL><PUSH/><TEXT>Apparently, all of Liberty went into lockdown because of a few fugitives. What did these guys do anyways? From what we heard, they blasted right through West Point and blew up some research station before coming here. They must either be really good or really stupid to pull all that off and still make it out alive. I don’t think they even have a good lead on them anymore.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Apparently, all of Liberty went into lockdown because of a few fugitives. What did these guys do anyway? From what we heard, they blasted right through West Point and blew up some research station before coming here. They must either be really good or really stupid to pull all that off and still make it out alive. I don’t think they even have a good lead on them anymore.</TEXT><PARA/><POP/></RDL>
 
 393615
 INFOCARD
-<RDL><PUSH/><TEXT>I just got back from Freeport 4. All I can say is that the Liberty Navy was all over that place! When I left, I saw a full cruiser formation coming in. What the hell happened in Liberty anyways? You’d think someone blew up a planet or something.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I just got back from Freeport 4. All I can say is that the Liberty Navy was all over that place! When I left, I saw a full cruiser formation coming in. What the hell happened in Liberty anyway? You’d think someone blew up a planet or something.</TEXT><PARA/><POP/></RDL>
 
 393616
 INFOCARD
@@ -72069,7 +72069,7 @@ INFOCARD
 
 393637
 INFOCARD
-<RDL><PUSH/><TEXT>Did you hear, the Rheinlanders blew up that old station Glorious in Dublin? At least it was abandoned for the most part. It was always a heap of scrap metal anyways.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Did you hear, the Rheinlanders blew up that old station Glorious in Dublin? At least it was abandoned for the most part. It was always a heap of scrap metal anyway.</TEXT><PARA/><POP/></RDL>
 
 393638
 INFOCARD
@@ -72293,7 +72293,7 @@ INFOCARD
 
 393693
 INFOCARD
-<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full-out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become hostile territory.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full-out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become a hostile territory.</TEXT><PARA/><POP/></RDL>
 
 393694
 INFOCARD
