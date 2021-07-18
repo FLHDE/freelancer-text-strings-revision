@@ -10081,7 +10081,7 @@ OBJECTIVE:\nLord Hakkera’s key informant in Rheinland, Herr Von Claussen, has 
 
 23806
 NAME
-OBJECTIVE:\nHerr Von Claussen’s contacts have located a secret experimental shipyard located west of Bruchsal Base. Rheinland’s mobilization for war against Kusari has afforded us a rare opportunity. Form up with Herr Von Claussen and await further instructions.\n\nDIFFICULTY:\nEven with their forces spread thin, the installation will still be heavily guarded by both passive and active defenses. Herr Von Claussen’s extensive intelligence networks have been unable to retrieve tactical data on the area. No matter what, that installation must fall.\n\nREWARD:\nTime is running short for the colonies. This action will hopefully buy them the time they need.
+OBJECTIVE:\nHerr Von Claussen’s contacts have located a secret experimental shipyard located to the west of Bruchsal Base. Rheinland’s mobilization for war against Kusari has afforded us a rare opportunity. Form up with Herr Von Claussen and await further instructions.\n\nDIFFICULTY:\nEven with their forces spread thin, the installation will still be heavily guarded by both passive and active defenses. Herr Von Claussen’s extensive intelligence networks have been unable to retrieve tactical data on the area. No matter what, that installation must fall.\n\nREWARD:\nTime is running short for the colonies. This action will hopefully buy them the time they need.
 
 23810
 NAME
@@ -10857,7 +10857,7 @@ NAME
 
 25855
 NAME
-\nBaxter Station should be a good place for you to hide.
+\nBaxter Research Station should be a good place for you to hide.
 
 25860
 NAME
@@ -10949,7 +10949,7 @@ NAME
 
 26433
 NAME
-\nDestroy the Rheinland Defenses to Hijack the Transport.
+\nDestroy the Kusari Defenses to Hijack the Transport.
 
 26437
 NAME
@@ -11345,7 +11345,7 @@ NAME
 
 30500
 NAME
-*PERSONAL ENTRY:\nLooks like Juni finally found something …. She sent me a message to meet her on Cambridge. Never liked going there — just a bunch of stuffy bookworms. She says she has a lead on Professor Quintaine. I better get going. The less time I spend in Bretonia the better.
+*PERSONAL ENTRY:\nLooks like Juni finally found something…. She sent me a message to meet her on Cambridge. Never liked going there — just a bunch of stuffy bookworms. She says she has a lead on Professor Quintaine. I better get going. The less time I spend in Bretonia the better.
 
 30505
 NAME
@@ -11553,7 +11553,7 @@ NAME
 
 31110
 NAME
-*PERSONAL ENTRY:\nAn intra-system Jump Hole — what a ride! Taking out the satellite wasn’t too much of a problem, but Liberty has definitely increased its security from the last time I was here. The entrance to Zone-21 was a little more difficult. I can’t say I didn’t expect that. But we’ve come this far, we’re committed. Orillion’s last words concern me though, “Rescue or terminate.” Does this mean we may have to execute the President if she’s too far gone? I don’t know how to react to that yet. Whatever. It looks like we’re going to get the president — one way or another.
+*PERSONAL ENTRY:\nAn intra-system Jump Hole — what a ride! Taking out the satellite wasn’t too much of a problem, but Liberty has definitely increased its security from the last time I was here. The entrance to Zone 21 was a little more difficult. I can’t say I didn’t expect that. But we’ve come this far, we’re committed. Orillion’s last words concern me though, “Rescue or terminate.” Does this mean we may have to execute the President if she’s too far gone? I don’t know how to react to that yet. Whatever. It looks like we’re going to get the president — one way or another.
 
 31115
 NAME
@@ -11597,7 +11597,7 @@ NAME
 
 31325
 NAME
-*PERSONAL ENTRY:\nWe managed to make it out of there after all. The Nomads all got sucked away into some kind of wormhole above the Nomad City. Orillion and The Order intend on keeping a close eye on it. They’ve even asked me to be their contact in Liberty. Hakkera has gone back to Kusari to rebuild. Tobias ended up getting kicked out of the Bretonia Royal Space Force just like I thought he would, but I think he got a girlfriend or something out of it. Von Claussen was nowhere to be found after the fight. He’s presumed dead, but somehow I doubt that. A man like Von Claussen doesn’t just fade away. President Jacobi gave Juni, King, and I a full pardon. We even got a medal … the Lone Star. Sounds kind of goofy, doesn’t it? Anyway, as much as I appreciate that, it doesn’t make up for the fact that I never got paid. Just my luck …. I’m a hero, but I’m back to freelancing. In the end, maybe that’s not all that bad. There are still lots of worlds to discover and systems to explore. I don’t think I’m ready to call Liberty home yet. A not insignificant reason for that is that I don’t think I’ll ever get used to Liberty Ale.
+*PERSONAL ENTRY:\nWe managed to make it out of there after all. The Nomads all got sucked away into some kind of wormhole above the Nomad City. Orillion and The Order intend on keeping a close eye on it. They’ve even asked me to be their contact in Liberty. Hakkera has gone back to Kusari to rebuild. Tobias ended up getting kicked out of the Bretonia Royal Space Force just like I thought he would, but I think he got a girlfriend or something out of it. Von Claussen was nowhere to be found after the fight. He’s presumed dead, but somehow I doubt that. A man like Von Claussen doesn’t just fade away. President Jacobi gave Juni, King, and I a full pardon. We even got a medal … the Lone Star. Sounds kind of goofy, doesn’t it? Anyway, as much as I appreciate that, it doesn’t make up for the fact that I never got paid. Just my luck…. I’m a hero, but I’m back to freelancing. In the end, maybe that’s not all that bad. There are still lots of worlds to discover and systems to explore. I don’t think I’m ready to call Liberty home yet. A not insignificant reason for that is that I don’t think I’ll ever get used to Liberty Ale.
 
 32000
 NAME
@@ -12577,7 +12577,7 @@ Planetform Demands More Money
 
 56027
 NAME
-CALIFORNIA MINOR — California Minor is costing more than first expected to terraform. Or at least this is what Planetform claimed today as they again lobbied for additional funds from the Libertonian government and other investors. The company claims that the process is on schedule, but there have been extra expenses due to the difficult terrain encountered on the planet’s surface. Manhattan sources speculate that Liberty will deny any further funding requests made before the project’s targeted completion date of 845 AS.
+CALIFORNIA MINOR — California Minor is costing more than first expected to terraform. Or at least this is what Planetform claimed today as they again lobbied for additional funds from the Liberty government and other investors. The company claims that the process is on schedule, but there have been extra expenses due to the difficult terrain encountered on the planet’s surface. Manhattan sources speculate that Liberty will deny any further funding requests made before the project’s targeted completion date of 845 AS.
 
 56028
 NAME
@@ -17749,7 +17749,7 @@ INFOCARD
 
 66519
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Series Y "Stiletto" Border Worlds Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Men and women of action need a ship that can deliver all of the speed, resilience, and firepower available. The Stiletto answers the call by combining exceptional weapon support, reinforced cargo spacem and the maximum armor rating in its class. The result is a ship that is the only true option for success and survival in the Border Worlds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Series Y "Stiletto" Border Worlds Heavy Fighter</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Men and women of action need a ship that can deliver all of the speed, resilience, and firepower available. The Stiletto answers the call by combining exceptional weapon support, reinforced cargo space and the maximum armor rating in its class. The result is a ship that is the only true option for success and survival in the Border Worlds.</TEXT><PARA/><POP/></RDL>
 
 66520
 INFOCARD
@@ -57873,7 +57873,7 @@ Pittsburgh Debris Field
 
 261212
 NAME
-Zone-21
+Zone 21
 
 261213
 NAME
@@ -69269,7 +69269,7 @@ Pittsburgh Debris Field
 
 331685
 NAME
-Zone-21
+Zone 21
 
 331686
 NAME
@@ -69841,7 +69841,7 @@ the Pittsburgh Debris Field
 
 331885
 NAME
-Zone-21
+Zone 21
 
 331886
 NAME
