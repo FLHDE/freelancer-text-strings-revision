@@ -14709,7 +14709,7 @@ INFOCARD
 
 65568
 INFOCARD
-<RDL><PUSH/><TEXT>The history of the Blood Dragons goes back to the fourth century. The founding members of the group were the Shogun’s Royal Guard during the Hideyoshi family dynasty. In a bloody coup during the celebration of the revived Sakura festival in 321 AS, the Shogun was surrounded in the palace by Samura-backed elements of the military and asked to surrender, along with the Royal Guard. The Shogun, humiliated by the shame he had brought his family, committed suicide. The guards, headed by Kozue Okamura, did not acquiesce so easily. In a bloody battle, they fought their way out of the palace and retreated into the darkness of northern Kusari space. Here they regrouped and began a long guerrilla campaign aimed at overthrowing the Samura-controlled Kusari government.</TEXT><PARA/><PARA/><TEXT>The Blood Dragons are a tight group that holds the sympathy and support of individuals in the highest levels of the Kusari government. They periodically launch surgical strikes and commando raids from their Kyoto base designed to destabilize the current government to the point where sympathetic officials could potentially seize power. Blood Dragons prefer to target Samura and Kusari Naval Forces bases and ships, although they occasionally attack other House shippers for supplies.</TEXT><PARA/><PARA/><TEXT>The group is loosely allied with the Golden Chrysanthemums, who provide refuge and a forward tactical base for assault crews in the Hokkaido System. The Golden C. also provide many of the essential Commodities that the Blood Dragons need, a critical function given the complete lack of Blood Dragon landing rights within the rest of Kusari space. The Chugoku Gate construction is viewed as a direct threat to the continued survival of the group.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The history of the Blood Dragons goes back to the fourth century. The founding members of the group were the Shogun’s Royal Guard during the Hideyoshi family dynasty. In a bloody coup during the celebration of the revived Sakura festival in 321 AS, the Shogun was surrounded in the palace by Samura-backed elements of the military and asked to surrender, along with the Royal Guard. The Shogun, humiliated by the shame he had brought his family, committed suicide. The guards, headed by Kozue Okamura, did not acquiesce so easily. In a bloody battle, they fought their way out of the palace and retreated into the darkness of northern Kusari space. Here they regrouped and began a long guerrilla campaign aimed at overthrowing the Samura-controlled Kusari government.</TEXT><PARA/><PARA/><TEXT>The Blood Dragons are a tight group that holds the sympathy and support of individuals in the highest levels of the Kusari government. They periodically launch surgical strikes and commando raids from their Kyoto base designed to destabilize the current government to the point where sympathetic officials could potentially seize power. Blood Dragons prefer to target Samura and Kusari Naval Forces bases and ships, although they occasionally attack other House shippers for supplies.</TEXT><PARA/><PARA/><TEXT>The group is loosely allied with the Golden Chrysanthemums, who provide refuge and a forward tactical base for assault crews in the Hokkaido System. The Golden C. also provide many of the essential Commodities that the Blood Dragons need, a critical function given the complete lack of landing rights for Blood Dragons within the rest of Kusari space. The Chugoku Gate construction is viewed as a direct threat to the continued survival of the group.</TEXT><PARA/><POP/></RDL>
 
 65569
 INFOCARD
@@ -19129,7 +19129,7 @@ INFOCARD
 
 131404
 INFOCARD
-<RDL><PUSH/><TEXT>Our relations with Kusari and Rheinland have never really recovered. They have banished our company from residence in their major planets, and we cannot even build bases in any of their minor systems. The irony is that we were the ones who lost all the money.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our relations with Kusari and Rheinland have never really recovered. They have banished our company from residence on their major planets, and we cannot even build bases in any of their minor systems. The irony is that we were the ones who lost all the money.</TEXT><PARA/><POP/></RDL>
 
 131405
 INFOCARD
@@ -19233,7 +19233,7 @@ INFOCARD
 
 131430
 INFOCARD
-<RDL><PUSH/><TEXT>The Junkers are a crafty bunch of scumbags; they know the dirt on everybody — and they’re willing to talk if the price is right. It’s not my money that pays ’em off. That’s part of my bill for offing my mark. Give me a little bribe, some gas money, and a reward for completion of assignment, and I’ll smoke anyone you want.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Junkers are a crafty bunch of scumbags; they know the dirt on everybody — and they’re willing to talk if the price is right. It’s not my money that pays ’em off. That’s part of my bill for offing my mark. Give me a little bribe, some gas money, and a reward for completing the assignment, and I’ll smoke anyone you want.</TEXT><PARA/><POP/></RDL>
 
 131431
 INFOCARD
@@ -21117,7 +21117,7 @@ INFOCARD
 
 131919
 INFOCARD
-<RDL><PUSH/><TEXT>They got me running basic supplies to all the bases in California. There’s the Yukon, the Police border station, California Minor, and then that research base, Willard. Gets a little exciting in the clouds, especially when I’m hauling Food and Pharmaceuticals. They don’t care much about the Oxygen and Water.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>They got me running basic supplies to all the bases in California. There’s the Yukon, the Police border station, California Minor, and then that research base, Willard. Gets a little exciting in the clouds, especially when I’m hauling Food and Pharmaceuticals. They don’t care much about Oxygen and Water.</TEXT><PARA/><POP/></RDL>
 
 131920
 INFOCARD
@@ -21877,7 +21877,7 @@ INFOCARD
 
 132114
 INFOCARD
-<RDL><PUSH/><TEXT>One of my ancestors was on guard duty aboard the Dallas on that fateful day. He and everyone else on board was killed instantly. The ironic part was that the naval commander had recommended the ship be moved to a safe distance from the experimental Jump Gate, so the test didn’t begin until they had repositioned the Dallas to twice the normal distance.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of my ancestors was on guard duty aboard the Dallas on that fateful day. He and everyone else on board were killed instantly. The ironic part was that the naval commander had recommended the ship be moved to a safe distance from the experimental Jump Gate, so the test didn’t begin until they had repositioned the Dallas to twice the normal distance.</TEXT><PARA/><POP/></RDL>
 
 132115
 INFOCARD
@@ -22069,7 +22069,7 @@ INFOCARD
 
 132170
 INFOCARD
-<RDL><PUSH/><TEXT>Gateway is in partnership with the IMG, Bowex with BMM. Until we came along, BMM had IMG in a stranglehold since Bowex would refuse to ship their products in many cases. We’ve had a rough time ourselves, since Bowex has powerful government connections that ensure them exclusive contracts with the Armed Forces and Police Authority.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Gateway is in partnership with the IMG, Bowex with BMM. Until we came along, BMM had IMG in a stranglehold since Bowex would refuse to ship their products in many cases. We’ve had a rough time ourselves, since Bowex has powerful government connections that ensure their exclusive contracts with the Armed Forces and Police Authority.</TEXT><PARA/><POP/></RDL>
 
 132171
 INFOCARD
@@ -22777,7 +22777,7 @@ INFOCARD
 
 132347
 INFOCARD
-<RDL><PUSH/><TEXT>Glasgow sells H-Fuel and buys Consumer Goods. It’s a nice run if you enjoy hauling more expensive Commodities than just the Oxygen and Water, and it keeps you in-system too if that’s what you are looking for. Oh, I almost forgot, mate…. York needs Pharmaceuticals.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Glasgow sells H-Fuel and buys Consumer Goods. It’s a nice run if you enjoy hauling more expensive Commodities than just Oxygen and Water, and it keeps you in-system too if that’s what you are looking for. Oh, I almost forgot, mate…. York needs Pharmaceuticals.</TEXT><PARA/><POP/></RDL>
 
 132348
 INFOCARD
@@ -29469,7 +29469,7 @@ INFOCARD
 
 134054
 INFOCARD
-<RDL><PUSH/><TEXT>The LWB base is located near the Jump Hole to Dresden. Do you know where that is? Aye, it’s in the Ostnebel. The LWB conduct operations from that area. Mostly they run attacks on the lanes between here and the New Berlin Jump Gate.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The LWB base is located near the Jump Hole to Dresden. Do you know where that is? Aye, it’s in the Ostnebel. The LWB conducts operations from that area. Mostly they run attacks on the lanes between here and the New Berlin Jump Gate.</TEXT><PARA/><POP/></RDL>
 
 134055
 INFOCARD
@@ -66053,7 +66053,7 @@ Thanks to these efforts, we’ve noticed a lot of recent activity in %Z0v1.
 
 327937
 NAME
-Recon has identified %I0v1 and %I1v1 in this area. We cannot afford to let this group continue to expand their influence there. We want you to cut them down to size. 
+Recon has identified %I0v1 and %I1v1 in this area. We cannot afford to let this group continue to expand its influence there. We want you to cut them down to size. 
 
 327938
 NAME
@@ -71561,7 +71561,7 @@ INFOCARD
 
 393510
 INFOCARD
-<RDL><PUSH/><TEXT>If your ship has sustained any damage when you land at a base, you can repair the ship immediately by clicking the Wrench icon on your Neural Net display. That way you can land, repair, and get back into space quickly.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If your ship has sustained any damage when you land at a base, you can repair the ship immediately by clicking the wrench icon on your Neural Net display. That way you can land, repair, and get back into space quickly.</TEXT><PARA/><POP/></RDL>
 
 393511
 INFOCARD
@@ -72237,7 +72237,7 @@ INFOCARD
 
 393679
 INFOCARD
-<RDL><PUSH/><TEXT>What they’re not telling us is that the Rheinlanders aren’t just sending some ships over. They’ve developed a new kind of ship — one that can cloak.  That’s what I heard, at least. Got a friend whose brother works for the Signals Corp. He says they’re worried, and with good reason. It’s the perfect recon and first strike weapon. No evidence — total surprise.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>What they’re not telling us is that the Rheinlanders aren’t just sending some ships over. They’ve developed a new kind of ship — one that can cloak. That’s what I heard, at least. Got a friend whose brother works for the Signals Corp. He says they’re worried, and with good reason. It’s the perfect recon and first strike weapon. No evidence — total surprise.</TEXT><PARA/><POP/></RDL>
 
 393680
 INFOCARD
@@ -72293,7 +72293,7 @@ INFOCARD
 
 393693
 INFOCARD
-<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full-out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become a hostile territory.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many Rheinland citizens here are mystified by what’s happened … no one thought it could go this far, that the Chancellor would really provoke a full-out war. And now that all communication with Rheinland has been cut off, our people still inside are more alone than ever before — in what’s become hostile territory.</TEXT><PARA/><POP/></RDL>
 
 393694
 INFOCARD
