@@ -10081,7 +10081,7 @@ OBJECTIVE:\nLord Hakkera’s key informant in Rheinland, Herr Von Claussen, has 
 
 23806
 NAME
-OBJECTIVE:\nHerr Von Claussen’s contacts have located a secret experimental shipyard located to the west of Bruchsal Base. Rheinland’s mobilization for war against Kusari has afforded us a rare opportunity. Form up with Herr Von Claussen and await further instructions.\n\nDIFFICULTY:\nEven with their forces spread thin, the installation will still be heavily guarded by both passive and active defenses. Herr Von Claussen’s extensive intelligence networks have been unable to retrieve tactical data on the area. No matter what, that installation must fall.\n\nREWARD:\nTime is running short for the colonies. This action will hopefully buy them the time they need.
+OBJECTIVE:\nHerr Von Claussen’s contacts have located a secret experimental shipyard to the west of Bruchsal Base. Rheinland’s mobilization for war against Kusari has afforded us a rare opportunity. Form up with Herr Von Claussen and await further instructions.\n\nDIFFICULTY:\nEven with their forces spread thin, the installation will still be heavily guarded by both passive and active defenses. Herr Von Claussen’s extensive intelligence networks have been unable to retrieve tactical data on the area. No matter what, that installation must fall.\n\nREWARD:\nTime is running short for the colonies. This action will hopefully buy them the time they need.
 
 23810
 NAME
