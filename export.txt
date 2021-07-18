@@ -11309,7 +11309,7 @@ NAME
 
 30355
 NAME
-*PERSONAL ENTRY:\nThat must have been the biggest battle since the 80-Year War! Station Willard was under attack by several Rheinland gunboats and dozens of fighters. The station took heavy damage, and we barely managed to fight them off. There is general confusion as to what is going on. Walker and Juni are going to meet on the station to try to figure out what’s going on. Juni wants me to take a few jobs and to keep my head down. She promised to contact me once she knows more.
+*PERSONAL ENTRY:\nThat must have been the biggest battle since the Eighty Years’ War! Station Willard was under attack by several Rheinland gunboats and dozens of fighters. The station took heavy damage, and we barely managed to fight them off. There is general confusion as to what is going on. Walker and Juni are going to meet on the station to try to figure out what’s going on. Juni wants me to take a few jobs and to keep my head down. She promised to contact me once she knows more.
 
 30400
 NAME
@@ -11521,7 +11521,7 @@ NAME
 
 31020
 NAME
-*PERSONAL ENTRY:\nInsane. That’s all that was. I’ve always heard about the legendary Blood Dragon pilots, and I even got to fly with them at Tekagi’s Arch, but I’ve never seen anything like Tekagi’s Honor. Not only did they fend off the fleet, but they also took down one of those monstrous Rheinland battleships! I wish I could have stayed to help, but Rheinland was only a short flight away. We had to fly through this old, abandoned graveyard of ships left over from the 80-Years War. Eerie. I hope getting Von Claussen will prevent more of these from showing up.
+*PERSONAL ENTRY:\nInsane. That’s all that was. I’ve always heard about the legendary Blood Dragon pilots, and I even got to fly with them at Tekagi’s Arch, but I’ve never seen anything like Tekagi’s Honor. Not only did they fend off the fleet, but they also took down one of those monstrous Rheinland battleships! I wish I could have stayed to help, but Rheinland was only a short flight away. We had to fly through this old, abandoned graveyard of ships left over from the Eighty Years’ War. Eerie. I hope getting Von Claussen will prevent more of these from showing up.
 
 31025
 NAME
@@ -12921,7 +12921,7 @@ GMG No Longer a Threat
 
 56113
 NAME
-FRANKFURT — It looks like the GMG probes into the Frankfurt system might finally be a thing of the past. Since the end of the Eighty Years War, the GMG has periodically launched raids against the Kruger-owned Mannheim H-fuel facility. The Fulda Border Station has reported no GMG activity during the last several years. Although this is good news for Frankfurt, it is unlikely that many people will ever populate the nearly deserted system.
+FRANKFURT — It looks like the GMG probes into the Frankfurt system might finally be a thing of the past. Since the end of the Eighty Years’ War, the GMG has periodically launched raids against the Kruger-owned Mannheim H-fuel facility. The Fulda Border Station has reported no GMG activity during the last several years. Although this is good news for Frankfurt, it is unlikely that many people will ever populate the nearly deserted system.
 
 56114
 NAME
@@ -13569,7 +13569,7 @@ Cleanup of Sigma-13 on Schedule
 
 56275
 NAME
-HELGOLAND — An ALG spokeswoman confirmed today that the company still hopes to meet its target completion date of 805 for the cleanup of the old Rheinland Navy relics left from the 80-Years War. “The Junkers have proven to be somewhat slower salvage workers than we anticipated,” said Erna Roth. She added that ALG will implement a special incentive program beginning next month to motivate the Junkers to complete their salvage operations in a timely fashion.
+HELGOLAND — An ALG spokeswoman confirmed today that the company still hopes to meet its target completion date of 805 for the cleanup of the old Rheinland Navy relics left from the Eighty Years’ War. “The Junkers have proven to be somewhat slower salvage workers than we anticipated,” said Erna Roth. She added that ALG will implement a special incentive program beginning next month to motivate the Junkers to complete their salvage operations in a timely fashion.
 
 56276
 NAME
@@ -13577,7 +13577,7 @@ Is the GMG in Control of Sigma-13?
 
 56277
 NAME
-NAHA — Kusari and Rheinland shippers are questioning whether the GMG can control the mounting menace of Outcasts and Corsairs crossing its space within Sigma-13. Despite frequent GMG patrols, criminal activity in the system has steadily risen since the arrival of the Junkers and ALG several years ago. The Rheinland Military is forbidden to enter the system according to the rules laid out in the treaty that ended the 80-Years War. The Kusari Naval Forces are also reluctant to undertake the task, given New Tokyo’s often complicated relationship with the fiercely independent Guild.
+NAHA — Kusari and Rheinland shippers are questioning whether the GMG can control the mounting menace of Outcasts and Corsairs crossing its space within Sigma-13. Despite frequent GMG patrols, criminal activity in the system has steadily risen since the arrival of the Junkers and ALG several years ago. The Rheinland Military is forbidden to enter the system according to the rules laid out in the treaty that ended the Eighty Years’ War. The Kusari Naval Forces are also reluctant to undertake the task, given New Tokyo’s often complicated relationship with the fiercely independent Guild.
 
 56278
 NAME
@@ -13745,7 +13745,7 @@ Red Hessians Accept Fellow Miners
 
 56319
 NAME
-FREISTADT — Though it has been a long time since the Red Hessians were exclusively miners, they can still appreciate the work that the IMG does to operate independently of corporate and House control in Sirius. Red Hessians and IMG conduct business at the IMG base Freistadt in Omega-7, where they trade Commodities of all kinds from basic supplies to engines. Historically a Bretonian organization, Rheinland miners flocked to the IMG after the 80-Years War, and the common ancestry between the two groups is not overlooked by either faction.
+FREISTADT — Though it has been a long time since the Red Hessians were exclusively miners, they can still appreciate the work that the IMG does to operate independently of corporate and House control in Sirius. Red Hessians and IMG conduct business at the IMG base Freistadt in Omega-7, where they trade Commodities of all kinds from basic supplies to engines. Historically a Bretonian organization, Rheinland miners flocked to the IMG after the Eighty Years’ War, and the common ancestry between the two groups is not overlooked by either faction.
 
 56320
 NAME
@@ -14621,7 +14621,7 @@ INFOCARD
 
 65546
 INFOCARD
-<RDL><PUSH/><TEXT>The history of the Unioners is intimately tied to Alster. The shipyard opened in 412 AS, specializing in commercial transports and heavy lifters. Conditions were appalling in the yards, worker safety being merely a tertiary concern of the owners. Coupled with the excessively long spaceside rotations, the workers’ morale gradually deteriorated until a major accident killed several hundred workers in 512 AS.</TEXT><PARA/><PARA/><TEXT>Three months later, the workers formed the Alster Union. Because of their highly specialized skills, the management had no choice but to capitulate to their demands. During the next century, the union gradually strengthened and eventually included the dockworkers on the Altona Station above Hamburg. By the end of the 80-Years War, the union demanded increasingly high wages and progressively fewer annual hours. The system was out of balance. Republican was no longer competitive with Kusari shipbuilders.</TEXT><PARA/><PARA/><TEXT>With the war over, demand for ships plummeted. The bloated headcount of Alster was now a sore point for Republican Shipping, desperately trying to restore profitability. Management was now back in the driver’s seat after almost 200 years of acceding to union demands. They fired tens of thousands and won major concessions from the remaining workers, who lost centuries of gains in a matter of days.</TEXT><PARA/><PARA/><TEXT>As unemployment rocketed towards 30 percent in Hamburg, a radicalized version of the union reformed — more of a revolutionary cell than anything. The presence of Freeport 2 in Bering proved alluring to the nascent Unioner movement of Rheinland during the unsettled times. Following the popular uprising of 702, the station’s population exploded. In 720 the Zoners laid down the ultimatum: Take your criminal activities somewhere else. They would sell basic supplies to the rebels, but no more. So the Unioners carved their Pacifica base out of an asteroid in the Tanner Belt.</TEXT><PARA/><PARA/><TEXT>The Unioners range from Bering to New Berlin. Most of their attacks are focused on the Altona Outpost and the Alster Shipyard in Hamburg, which has alienated them from some of their still employed brethren. The bulk of their Trade Lane raids are directed against Republican ships traversing the Independent Worlds. Their main commodity is Diamonds, which they run from Kreuzberg to Dawson. Unioners are often spotted buying supplies on Freeport 2.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The history of the Unioners is intimately tied to Alster. The shipyard opened in 412 AS, specializing in commercial transports and heavy lifters. Conditions were appalling in the yards, worker safety being merely a tertiary concern of the owners. Coupled with the excessively long spaceside rotations, the workers’ morale gradually deteriorated until a major accident killed several hundred workers in 512 AS.</TEXT><PARA/><PARA/><TEXT>Three months later, the workers formed the Alster Union. Because of their highly specialized skills, the management had no choice but to capitulate to their demands. During the next century, the union gradually strengthened and eventually included the dockworkers on the Altona Station above Hamburg. By the end of the Eighty Years’ War, the union demanded increasingly high wages and progressively fewer annual hours. The system was out of balance. Republican was no longer competitive with Kusari shipbuilders.</TEXT><PARA/><PARA/><TEXT>With the war over, demand for ships plummeted. The bloated headcount of Alster was now a sore point for Republican Shipping, desperately trying to restore profitability. Management was now back in the driver’s seat after almost 200 years of acceding to union demands. They fired tens of thousands and won major concessions from the remaining workers, who lost centuries of gains in a matter of days.</TEXT><PARA/><PARA/><TEXT>As unemployment rocketed towards 30 percent in Hamburg, a radicalized version of the union reformed — more of a revolutionary cell than anything. The presence of Freeport 2 in Bering proved alluring to the nascent Unioner movement of Rheinland during the unsettled times. Following the popular uprising of 702, the station’s population exploded. In 720 the Zoners laid down the ultimatum: Take your criminal activities somewhere else. They would sell basic supplies to the rebels, but no more. So the Unioners carved their Pacifica base out of an asteroid in the Tanner Belt.</TEXT><PARA/><PARA/><TEXT>The Unioners range from Bering to New Berlin. Most of their attacks are focused on the Altona Outpost and the Alster Shipyard in Hamburg, which has alienated them from some of their still employed brethren. The bulk of their Trade Lane raids are directed against Republican ships traversing the Independent Worlds. Their main commodity is Diamonds, which they run from Kreuzberg to Dawson. Unioners are often spotted buying supplies on Freeport 2.</TEXT><PARA/><POP/></RDL>
 
 65547
 INFOCARD
@@ -14789,7 +14789,7 @@ INFOCARD
 
 65588
 INFOCARD
-<RDL><PUSH/><TEXT>The story of the Hessians emerges from the turbulent history of the Dresden System, the mining heartland of Rheinland since the beginning of the third century. Mining there was dirty, dangerous work, but Daumann and Kruger had little reason to lose sleep over the welfare of their employees. The price of the occasional disability pension or life insurance policy was nothing compared to the money made from extracting and refining the metals and materials that fed the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>As the 80-Years War wound down to its ignoble conclusion, Rheinland found itself virtually bankrupt. Kruger and Daumann released thousands of employees throughout Rheinland. Promises of bonuses were left unfulfilled, and in many cases, miners were left completely destitute. An uprising was almost inevitable. A group of miners took control of the Daumann Heavy Construction facility on Von Rohe’s Day in 700 AS.</TEXT><PARA/><PARA/><TEXT>The revolt soon spread from Dresden to the rest of the Rheinland, gaining widespread backing from the legions of newly unemployed workers. The industrial heart of Rheinland stopped beating; the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Within five months a new coalition government was established. Both Kruger and Daumann were required to pay reparations, and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention. They have been careful to adhere to the letter of the law, if not the spirit. The compromise left many that had fought in the revolution bitter. Many workers could not accept the prospect of working for their old taskmasters and decided to form the Red Hessians, a group dedicated to destroying the two companies.</TEXT><PARA/><PARA/><TEXT>It was not long before Red Hessian political ideals were replaced by greed, which has led them to become more like pirates than activists. The police have been forced to maintain a significant presence in Dresden to prevent Hessian strikes from clogging the gears of the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>The Hessians have gradually expanded, assisted by their close proximity to Stuttgart Food shipments and an extensive Jump Hole network within the southern Sirius Sector. They now own a string of bases in the southern Rheinland Border Worlds. In Omega-5 they encountered their first real obstacle — the Corsairs. They have fought the Edge World faction to a tenuous stalemate, with the Ronneburg base barely holding on against the stronger Corsair presence in that system. Fortunately, they live in a rich area of Sirius in terms of raw materials, especially Diamonds. Their preferred targets are Daumann and Kruger, although almost any shipper is vulnerable to attack.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The story of the Hessians emerges from the turbulent history of the Dresden System, the mining heartland of Rheinland since the beginning of the third century. Mining there was dirty, dangerous work, but Daumann and Kruger had little reason to lose sleep over the welfare of their employees. The price of the occasional disability pension or life insurance policy was nothing compared to the money made from extracting and refining the metals and materials that fed the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>As the Eighty Years’ War wound down to its ignoble conclusion, Rheinland found itself virtually bankrupt. Kruger and Daumann released thousands of employees throughout Rheinland. Promises of bonuses were left unfulfilled, and in many cases, miners were left completely destitute. An uprising was almost inevitable. A group of miners took control of the Daumann Heavy Construction facility on Von Rohe’s Day in 700 AS.</TEXT><PARA/><PARA/><TEXT>The revolt soon spread from Dresden to the rest of the Rheinland, gaining widespread backing from the legions of newly unemployed workers. The industrial heart of Rheinland stopped beating; the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Within five months a new coalition government was established. Both Kruger and Daumann were required to pay reparations, and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention. They have been careful to adhere to the letter of the law, if not the spirit. The compromise left many that had fought in the revolution bitter. Many workers could not accept the prospect of working for their old taskmasters and decided to form the Red Hessians, a group dedicated to destroying the two companies.</TEXT><PARA/><PARA/><TEXT>It was not long before Red Hessian political ideals were replaced by greed, which has led them to become more like pirates than activists. The police have been forced to maintain a significant presence in Dresden to prevent Hessian strikes from clogging the gears of the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>The Hessians have gradually expanded, assisted by their close proximity to Stuttgart Food shipments and an extensive Jump Hole network within the southern Sirius Sector. They now own a string of bases in the southern Rheinland Border Worlds. In Omega-5 they encountered their first real obstacle — the Corsairs. They have fought the Edge World faction to a tenuous stalemate, with the Ronneburg base barely holding on against the stronger Corsair presence in that system. Fortunately, they live in a rich area of Sirius in terms of raw materials, especially Diamonds. Their preferred targets are Daumann and Kruger, although almost any shipper is vulnerable to attack.</TEXT><PARA/><POP/></RDL>
 
 65589
 INFOCARD
@@ -14869,7 +14869,7 @@ INFOCARD
 
 65608
 INFOCARD
-<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the 80-Years War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann's manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the Eighty Years’ War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann's manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
 
 65609
 INFOCARD
@@ -14885,7 +14885,7 @@ INFOCARD
 
 65612
 INFOCARD
-<RDL><PUSH/><TEXT>Holstein was ignored for centuries until the government decided that it would be politically advantageous to develop the planet as a hedge against encroachment by the Gas Mining Guild (GMG). However, the 80-Years War doomed the project before its completion; Holstein was rendered marginally habitable, if not pleasant. However, Daumann engineers performing a routine survey recently discovered the presence of large amounts of valuable mineral salts in the oceans and a small extraction facility was constructed planetside.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Holstein was ignored for centuries until the government decided that it would be politically advantageous to develop the planet as a hedge against encroachment by the Gas Mining Guild (GMG). However, the Eighty Years’ War doomed the project before its completion; Holstein was rendered marginally habitable, if not pleasant. However, Daumann engineers performing a routine survey recently discovered the presence of large amounts of valuable mineral salts in the oceans and a small extraction facility was constructed planetside.</TEXT><PARA/><POP/></RDL>
 
 65613
 INFOCARD
@@ -14893,7 +14893,7 @@ INFOCARD
 
 65614
 INFOCARD
-<RDL><PUSH/><TEXT>Since the 80-Years War, all shipments from the Gas Mining Guild (GMG) to Rheinland are made using neutral Kusari shipping companies that are required to transfer their fuel to Republican Shipping transports at the Mainz Storage Facility.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Since the Eighty Years’ War, all shipments from the Gas Mining Guild (GMG) to Rheinland are made using neutral Kusari shipping companies that are required to transfer their fuel to Republican Shipping transports at the Mainz Storage Facility.</TEXT><PARA/><POP/></RDL>
 
 65615
 INFOCARD
@@ -15253,7 +15253,7 @@ INFOCARD
 
 65704
 INFOCARD
-<RDL><PUSH/><TEXT>Essen Station is the headquarters and primary manufacturing facility for Kruger Minerals, a once-proud company currently experiencing hard times. Wishing to exploit the vast gas resources of the Crow Nebula despite claims made to the territory by the Gas Mining Guild (GMG), Kruger was a primary supporter of the 80-Years War. After that conflict ended in disaster, Kruger’s capital was exhausted and the company persecuted. Today Kruger is attempting to rebuild by allying itself with ALG Waste Disposal.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Essen Station is the headquarters and primary manufacturing facility for Kruger Minerals, a once-proud company currently experiencing hard times. Wishing to exploit the vast gas resources of the Crow Nebula despite claims made to the territory by the Gas Mining Guild (GMG), Kruger was a primary supporter of the Eighty Years’ War. After that conflict ended in disaster, Kruger’s capital was exhausted and the company persecuted. Today Kruger is attempting to rebuild by allying itself with ALG Waste Disposal.</TEXT><PARA/><POP/></RDL>
 
 65705
 INFOCARD
@@ -15261,7 +15261,7 @@ INFOCARD
 
 65706
 INFOCARD
-<RDL><PUSH/><TEXT>On New Berlin, the capital of Rheinland, day and night each last for nearly a standard year, with the nightside of the planet being plunged into frigid, bitter winter, and the dayside a more temperate summer in which temperatures hover above the freezing point. Despite this potentially hostile environment, New Berlin is very close to the abundant natural resources of the Walker Nebula and so became the first planet settled by the Rheinland people. After the economic collapse brought about by the 80-Years War with the Gas Mining Guild (GMG) and the subsequent Popular Revolution in 702 AS, New Berlin became a society of marked contrasts. As millions try to recover from years of economic mismanagement and political scandal, the black markets of Rheinland boom while the underground clubs and cabarets of New Berlin are rumored to provide anything — for a price.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>On New Berlin, the capital of Rheinland, day and night each last for nearly a standard year, with the nightside of the planet being plunged into frigid, bitter winter, and the dayside a more temperate summer in which temperatures hover above the freezing point. Despite this potentially hostile environment, New Berlin is very close to the abundant natural resources of the Walker Nebula and so became the first planet settled by the Rheinland people. After the economic collapse brought about by the Eighty Years’ War with the Gas Mining Guild (GMG) and the subsequent Popular Revolution in 702 AS, New Berlin became a society of marked contrasts. As millions try to recover from years of economic mismanagement and political scandal, the black markets of Rheinland boom while the underground clubs and cabarets of New Berlin are rumored to provide anything — for a price.</TEXT><PARA/><POP/></RDL>
 
 65707
 INFOCARD
@@ -15269,7 +15269,7 @@ INFOCARD
 
 65708
 INFOCARD
-<RDL><PUSH/><TEXT>One of the first large-scale projects undertaken by Daumann Heavy Construction, the Oder Shipyards, is the largest in Sirius. In the past, the majority of the Rheinland Navy was constructed in its massive bays, but after the destruction of the Navy during the 80-Years War and the economic crash that followed, Daumann has been forced to transition into the less lucrative fields of commercial and civilian ship construction.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of the first large-scale projects undertaken by Daumann Heavy Construction, the Oder Shipyards, is the largest in Sirius. In the past, the majority of the Rheinland Navy was constructed in its massive bays, but after the destruction of the Navy during the Eighty Years’ War and the economic crash that followed, Daumann has been forced to transition into the less lucrative fields of commercial and civilian ship construction.</TEXT><PARA/><POP/></RDL>
 
 65709
 INFOCARD
@@ -15725,7 +15725,7 @@ INFOCARD
 
 65824
 INFOCARD
-<RDL><PUSH/><TEXT>Rich in vital gas resources, the Sigma-13 System has been contested by several groups since its discovery in 60 AS. The conflict reached a fever pitch when the system became one of the more fiercely contested prizes during the 80-Years War between the Gas Mining Guild (GMG) and Rheinland. Using speed and a thorough knowledge of the territory, the GMG managed to push back the Rheinland forces, finally obliterating the bulk of the Rheinland Navy at the Battle of the Yanagi Nebula. Since that time, the system has been almost exclusively under GMG control, and the Gas Miner </TEXT><TRA italic="true"/><TEXT>Naha</TEXT><TRA italic="false"/><TEXT>  has provided support for the GMG’s extensive mining operations.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rich in vital gas resources, the Sigma-13 System has been contested by several groups since its discovery in 60 AS. The conflict reached a fever pitch when the system became one of the more fiercely contested prizes during the Eighty Years’ War between the Gas Mining Guild (GMG) and Rheinland. Using speed and a thorough knowledge of the territory, the GMG managed to push back the Rheinland forces, finally obliterating the bulk of the Rheinland Navy at the Battle of the Yanagi Nebula. Since that time, the system has been almost exclusively under GMG control, and the Gas Miner </TEXT><TRA italic="true"/><TEXT>Naha</TEXT><TRA italic="false"/><TEXT>  has provided support for the GMG’s extensive mining operations.</TEXT><PARA/><POP/></RDL>
 
 65825
 INFOCARD
@@ -15789,7 +15789,7 @@ INFOCARD
 
 65840
 INFOCARD
-<RDL><PUSH/><TEXT>Stuttgart has been the breadbasket of Rheinland since 100 years after settlement. Over time, its farmers formed a powerful union, named the WVS. The organization successfully lobbied the Rheinland government to subsidize Stuttgart agriculture for hundreds of years. With the end of the 80-Years War in 680 AS, however, the subsidies were no longer tenable.</TEXT><PARA/><PARA/><TEXT>In a secret deal during the war, the Rheinland government borrowed huge sums from Liberty. Facing default on their loans, they were forced to offer something to House Liberty. Synth Foods wanted complete access to Stuttgart, which Rheinland granted in exchange for renegotiated debt repayment terms. Immediately the Liberty Food giant moved in, buying out huge numbers of nearly bankrupt Stuttgart farmers. Much of Stuttgart was converted into vast expanses of the bio-engineered monocrops of Synth Foods.</TEXT><PARA/><PARA/><TEXT>The government backed the foreign company wholeheartedly and looked the other way as Synth Foods used unscrupulous business practices to further consolidate its control over Stuttgart. Remaining independent farmers were forced to buy all of their Fertilizers and seeds from Synth Foods and sell all of their production to them at low fixed rates — prices that were designed to squeeze the maximum out of the farmer and shift all risk away from Synth Foods.</TEXT><PARA/><PARA/><TEXT>The once-proud Stuttgart farmers were reduced to indentured servants. Inexorably, Synth Foods assimilated the bulk of the planet’s arable land, dutifully paying its Rheinland federal taxes and feeding the bribe machine in New Berlin. The WVS tried to fight back legally in the courts but soon discovered that their influence had been sold to a higher bidder. Finally, in what some called an act of desperation, the more radical elements of the WVS left Stuttgart and founded the Landwirtrechtbewegung — farmers rights movement — simply referred to as the LWB.</TEXT><PARA/><PARA/><TEXT>LWB built a small depot called Darmstadt within the Ostnebel. This serves as a base for operations targeted at Synth Foods convoys within Rheinland space. The Red Hessians also use it as a way station along their route to Omega-11. The “war” has been going on for 25 years now, and both sides claim to be winning — although Synth Foods now controls 90 percent of the planet’s agriculture vs. 60 percent just three decades ago.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Stuttgart has been the breadbasket of Rheinland since 100 years after settlement. Over time, its farmers formed a powerful union, named the WVS. The organization successfully lobbied the Rheinland government to subsidize Stuttgart agriculture for hundreds of years. With the end of the Eighty Years’ War in 680 AS, however, the subsidies were no longer tenable.</TEXT><PARA/><PARA/><TEXT>In a secret deal during the war, the Rheinland government borrowed huge sums from Liberty. Facing default on their loans, they were forced to offer something to House Liberty. Synth Foods wanted complete access to Stuttgart, which Rheinland granted in exchange for renegotiated debt repayment terms. Immediately the Liberty Food giant moved in, buying out huge numbers of nearly bankrupt Stuttgart farmers. Much of Stuttgart was converted into vast expanses of the bio-engineered monocrops of Synth Foods.</TEXT><PARA/><PARA/><TEXT>The government backed the foreign company wholeheartedly and looked the other way as Synth Foods used unscrupulous business practices to further consolidate its control over Stuttgart. Remaining independent farmers were forced to buy all of their Fertilizers and seeds from Synth Foods and sell all of their production to them at low fixed rates — prices that were designed to squeeze the maximum out of the farmer and shift all risk away from Synth Foods.</TEXT><PARA/><PARA/><TEXT>The once-proud Stuttgart farmers were reduced to indentured servants. Inexorably, Synth Foods assimilated the bulk of the planet’s arable land, dutifully paying its Rheinland federal taxes and feeding the bribe machine in New Berlin. The WVS tried to fight back legally in the courts but soon discovered that their influence had been sold to a higher bidder. Finally, in what some called an act of desperation, the more radical elements of the WVS left Stuttgart and founded the Landwirtrechtbewegung — farmers rights movement — simply referred to as the LWB.</TEXT><PARA/><PARA/><TEXT>LWB built a small depot called Darmstadt within the Ostnebel. This serves as a base for operations targeted at Synth Foods convoys within Rheinland space. The Red Hessians also use it as a way station along their route to Omega-11. The “war” has been going on for 25 years now, and both sides claim to be winning — although Synth Foods now controls 90 percent of the planet’s agriculture vs. 60 percent just three decades ago.</TEXT><PARA/><POP/></RDL>
 
 65841
 INFOCARD
@@ -16221,7 +16221,7 @@ INFOCARD
 
 65949
 INFOCARD
-<RDL><PUSH/><TEXT>A field of bare rock asteroids, this was once a staging area for military operations during the 80-Years War. The field was later abandoned after Rheinland’s bitter defeat at the hands of the Gas Mining Guild (GMG). Ironically, probes have begun to detect a substantial Bundschuh presence in the field, though the exact nature of their activities is currently unknown.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A field of bare rock asteroids, this was once a staging area for military operations during the Eighty Years’ War. The field was later abandoned after Rheinland’s bitter defeat at the hands of the Gas Mining Guild (GMG). Ironically, probes have begun to detect a substantial Bundschuh presence in the field, though the exact nature of their activities is currently unknown.</TEXT><PARA/><POP/></RDL>
 
 65950
 INFOCARD
@@ -16537,11 +16537,11 @@ INFOCARD
 
 66030
 INFOCARD
-<RDL><PUSH/><TEXT>During the Eighty Years War between Rheinland and the Gas Mining Guild (GMG), the decisive battle was fought in Sigma-13 when the bulk of the Rheinland battle group was ambushed by GMG forces and destroyed. With thousands of lives lost and the Rheinland Imperial Navy disgraced, the government was forced to negotiate with the GMG and their ill-advised war. The wreckage of that battle provides a constant, painful reminder of Rheinland’s defeat at the hands of the GMG, though ALG Waste Disposal has recently been awarded the contract to clear the area and properly dispose of any remains. Not surprisingly, Junkers have also moved into the area and are less concerned with the burial of the dead than busily salvaging any and all of the ships, parts, and weapons they can find.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>During the Eighty Years’ War between Rheinland and the Gas Mining Guild (GMG), the decisive battle was fought in Sigma-13 when the bulk of the Rheinland battle group was ambushed by GMG forces and destroyed. With thousands of lives lost and the Rheinland Imperial Navy disgraced, the government was forced to negotiate with the GMG and their ill-advised war. The wreckage of that battle provides a constant, painful reminder of Rheinland’s defeat at the hands of the GMG, though ALG Waste Disposal has recently been awarded the contract to clear the area and properly dispose of any remains. Not surprisingly, Junkers have also moved into the area and are less concerned with the burial of the dead than busily salvaging any and all of the ships, parts, and weapons they can find.</TEXT><PARA/><POP/></RDL>
 
 66031
 INFOCARD
-<RDL><PUSH/><TEXT>A small clearing in the nebula that envelops the system and the location of Helgoland Station, local headquarters for ALG Waste Disposal. ALG is currently engaged in clearing the Yanagi Debris Field, the remnants of a battle fought between Rheinland and the Gas Mining Guild (GMG) during the Eighty Years War.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A small clearing in the nebula that envelops the system and the location of Helgoland Station, local headquarters for ALG Waste Disposal. ALG is currently engaged in clearing the Yanagi Debris Field, the remnants of a battle fought between Rheinland and the Gas Mining Guild (GMG) during the Eighty Years’ War.</TEXT><PARA/><POP/></RDL>
 
 66032
 INFOCARD
@@ -17409,15 +17409,15 @@ INFOCARD
 
 66417
 INFOCARD
-<RDL><PUSH/><TEXT>The Kruger gas mining area was abandoned early on in the 80-Years War, almost overnight. In their haste to depart, the Kruger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Kruger gas mining area was abandoned early on in the Eighty Years’ War, almost overnight. In their haste to depart, the Kruger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
 
 66418
 INFOCARD
-<RDL><PUSH/><TEXT>Wreckage of one of the escorts of the </TEXT><TRA italic="true"/><TEXT>Kassel</TEXT><TRA italic="false"/><TEXT>, a Rheinland Heavy Cruiser that was destroyed during the 80-Years War.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Wreckage of one of the escorts of the </TEXT><TRA italic="true"/><TEXT>Kassel</TEXT><TRA italic="false"/><TEXT>, a Rheinland Heavy Cruiser that was destroyed during the Eighty Years’ War.</TEXT><PARA/><POP/></RDL>
 
 66419
 INFOCARD
-<RDL><PUSH/><TEXT>Destroyed Rheinland Imperial Fleet fighter from the 80-Years War. This one was lost in the Battle of the Yanagi Cloud.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Destroyed Rheinland Imperial Fleet fighter from the Eighty Years’ War. This one was lost in the Battle of the Yanagi Cloud.</TEXT><PARA/><POP/></RDL>
 
 66420
 INFOCARD
@@ -19021,7 +19021,7 @@ INFOCARD
 
 131375
 INFOCARD
-<RDL><PUSH/><TEXT>Republican Shipping is the premier Rheinland shipping firm. If it weren’t for the massive debts that Rheinland accumulated during the 80-Years War, Republican would still be the only shipper in Rheinland space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Republican Shipping is the premier Rheinland shipping firm. If it weren’t for the massive debts that Rheinland accumulated during the Eighty Years’ War, Republican would still be the only shipper in Rheinland space.</TEXT><PARA/><POP/></RDL>
 
 131376
 INFOCARD
@@ -19317,7 +19317,7 @@ INFOCARD
 
 131462
 INFOCARD
-<RDL><PUSH/><TEXT>The union that formed after the Alster Tragedy of 512 gained well-deserved benefits for the shipwrights and welders who built the transports that shipped goods throughout Sirius. In the decades that followed, the union grew stronger. When the 80-Years War broke out, we were sitting pretty on a mountain of government subsidies and contracts.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The union that formed after the Alster Tragedy of 512 gained well-deserved benefits for the shipwrights and welders who built the transports that shipped goods throughout Sirius. In the decades that followed, the union grew stronger. When the Eighty Years’ War broke out, we were sitting pretty on a mountain of government subsidies and contracts.</TEXT><PARA/><POP/></RDL>
 
 131463
 INFOCARD
@@ -19329,7 +19329,7 @@ INFOCARD
 
 131465
 INFOCARD
-<RDL><PUSH/><TEXT>When the 80-Years War came to an end the Union joined the Popular Revolt to overthrow the Imperial government. There were no more government contracts, and unemployment skyrocketed.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>When the Eighty Years’ War came to an end the Union joined the Popular Revolt to overthrow the Imperial government. There were no more government contracts, and unemployment skyrocketed.</TEXT><PARA/><POP/></RDL>
 
 131466
 INFOCARD
@@ -20481,7 +20481,7 @@ INFOCARD
 
 131754
 INFOCARD
-<RDL><PUSH/><TEXT>It’s too bad Rheinland can’t manufacture these goods herself because we certainly have the raw materials. Rheinland innovation and entrepreneurship has lagged since the 80-Years War.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It’s too bad Rheinland can’t manufacture these goods herself because we certainly have the raw materials. Rheinland innovation and entrepreneurship has lagged since the Eighty Years’ War.</TEXT><PARA/><POP/></RDL>
 
 131755
 INFOCARD
@@ -20925,7 +20925,7 @@ INFOCARD
 
 131871
 INFOCARD
-<RDL><PUSH/><TEXT>We have been the premier Rheinland Shipping firm since before the 80-Years War. Back then we were known as Imperial Shipping, but alas, no more empire. Now we represent our mighty republic in shipping concerns throughout Sirius.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have been the premier Rheinland Shipping firm since before the Eighty Years’ War. Back then we were known as Imperial Shipping, but alas, no more empire. Now we represent our mighty republic in shipping concerns throughout Sirius.</TEXT><PARA/><POP/></RDL>
 
 131872
 INFOCARD
@@ -21561,7 +21561,7 @@ INFOCARD
 
 132035
 INFOCARD
-<RDL><PUSH/><TEXT>The Engine Components business has become very difficult. We used to be the exclusive supplier to Bretonia. Kishiro has become a strong adversary since the 80-Years War. I guess we’ll have to cut our costs to remain competitive.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Engine Components business has become very difficult. We used to be the exclusive supplier to Bretonia. Kishiro has become a strong adversary since the Eighty Years’ War. I guess we’ll have to cut our costs to remain competitive.</TEXT><PARA/><POP/></RDL>
 
 132036
 INFOCARD
@@ -24513,7 +24513,7 @@ INFOCARD
 
 132802
 INFOCARD
-<RDL><PUSH/><TEXT>The GMG fought the entire Rheinland Navy and won in the 80-Years War. We are not afraid of the Corsairs even if everyone else is. They have decided to make us their enemies by cutting us out of the Artifact trade. If we see a Corsair in this system, we will attack. This is GMG space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The GMG fought the entire Rheinland Navy and won in the Eighty Years’ War. We are not afraid of the Corsairs even if everyone else is. They have decided to make us their enemies by cutting us out of the Artifact trade. If we see a Corsair in this system, we will attack. This is GMG space.</TEXT><PARA/><POP/></RDL>
 
 132803
 INFOCARD
@@ -24905,7 +24905,7 @@ INFOCARD
 
 132904
 INFOCARD
-<RDL><PUSH/><TEXT>Samura handles most of the Kusari cargo runs across the Sigma-13 system to Rheinland. As part of the Treaty of Honshu, which ended the 80-Years War, we are not allowed to enter New Berlin. Instead, we must transfer our cargo to Republican at the Mainz Outpost in Frankfurt. That’s fine with me — it is too cold in New Berlin.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Samura handles most of the Kusari cargo runs across the Sigma-13 system to Rheinland. As part of the Treaty of Honshu, which ended the Eighty Years’ War, we are not allowed to enter New Berlin. Instead, we must transfer our cargo to Republican at the Mainz Outpost in Frankfurt. That’s fine with me — it is too cold in New Berlin.</TEXT><PARA/><POP/></RDL>
 
 132905
 INFOCARD
@@ -25005,7 +25005,7 @@ INFOCARD
 
 132929
 INFOCARD
-<RDL><PUSH/><TEXT>It is difficult being surrounded by so many foreigners all the time at this post, especially the Rheinlanders. Republican Shipping never should’ve been allowed back in Kusari space after the 80-Years War. They should’ve been forced to transfer all their cargo to Kusari ships at the Rheinland frontier post of Mainz.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>It is difficult being surrounded by so many foreigners all the time at this post, especially the Rheinlanders. Republican Shipping never should’ve been allowed back in Kusari space after the Eighty Years’ War. They should’ve been forced to transfer all their cargo to Kusari ships at the Rheinland frontier post of Mainz.</TEXT><PARA/><POP/></RDL>
 
 132930
 INFOCARD
@@ -25061,7 +25061,7 @@ INFOCARD
 
 132943
 INFOCARD
-<RDL><PUSH/><TEXT>New Tokyo Command says that once the Blood Dragons’ fire is extinguished, all of Kusari will again be in peace and prosperity. I doubt this. The government is almost bankrupt. Arming the GMG during the 80-Years War was very costly for Kusari. The ongoing difficulties around the Chugoku Gate Construction site have created a new burden on the already depleted Treasury.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New Tokyo Command says that once the Blood Dragons’ fire is extinguished, all of Kusari will again be in peace and prosperity. I doubt this. The government is almost bankrupt. Arming the GMG during the Eighty Years’ War was very costly for Kusari. The ongoing difficulties around the Chugoku Gate Construction site have created a new burden on the already depleted Treasury.</TEXT><PARA/><POP/></RDL>
 
 132944
 INFOCARD
@@ -25077,7 +25077,7 @@ INFOCARD
 
 132947
 INFOCARD
-<RDL><PUSH/><TEXT>We will never allow Republican to land at Yokohama, not after all the financial hardship that the Kusari people had to endure during the 80-Years War. Because large amounts of government money were available for advanced weapons research and development, the war did enable us to increase our shielding and cloaking capabilities.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We will never allow Republican to land at Yokohama, not after all the financial hardship that the Kusari people had to endure during the Eighty Years’ War. Because large amounts of government money were available for advanced weapons research and development, the war did enable us to increase our shielding and cloaking capabilities.</TEXT><PARA/><POP/></RDL>
 
 132948
 INFOCARD
@@ -25133,7 +25133,7 @@ INFOCARD
 
 132961
 INFOCARD
-<RDL><PUSH/><TEXT>Roppongi was established in New Tokyo following the resolution of the 80-Years War. Previously we had no physical presence in Kusari unless one considers all of the Trade Lanes that IC financed here, which the Kusari incorrectly claimed were their own during the trade dispute in the sixth century.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Roppongi was established in New Tokyo following the resolution of the Eighty Years’ War. Previously we had no physical presence in Kusari unless one considers all of the Trade Lanes that IC financed here, which the Kusari incorrectly claimed were their own during the trade dispute in the sixth century.</TEXT><PARA/><POP/></RDL>
 
 132962
 INFOCARD
@@ -25157,7 +25157,7 @@ INFOCARD
 
 132967
 INFOCARD
-<RDL><PUSH/><TEXT>Our office was planetside on New Tokyo before the Trade Lane Dispute of 521. At that time, we were evicted from Kusari space. Financial transactions between the Liberty and Kusari governments during the 80-Years War led to an amendment in the Sirius Commerce Pact in 710 that allowed us to establish a base in New Tokyo. Roppongi was built shortly thereafter.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our office was planetside on New Tokyo before the Trade Lane Dispute of 521. At that time, we were evicted from Kusari space. Financial transactions between the Liberty and Kusari governments during the Eighty Years’ War led to an amendment in the Sirius Commerce Pact in 710 that allowed us to establish a base in New Tokyo. Roppongi was built shortly thereafter.</TEXT><PARA/><POP/></RDL>
 
 132968
 INFOCARD
@@ -25317,7 +25317,7 @@ INFOCARD
 
 133007
 INFOCARD
-<RDL><PUSH/><TEXT>Most of the great battlefields from the 80-Years War lay scattered around this system. In 668 we decisively defeated the Rheinland Imperial Navy at the Battle of Yanagi Cloud. After 130 years, ALG and the Junkers are finally removing the hazardous ship debris from that area.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Most of the great battlefields from the Eighty Years’ War lay scattered around this system. In 668 we decisively defeated the Rheinland Imperial Navy at the Battle of Yanagi Cloud. After 130 years, ALG and the Junkers are finally removing the hazardous ship debris from that area.</TEXT><PARA/><POP/></RDL>
 
 133008
 INFOCARD
@@ -25361,7 +25361,7 @@ INFOCARD
 
 133018
 INFOCARD
-<RDL><PUSH/><TEXT>Sigma-13 is more dangerous now than at any time since it was reopened after the 80-Years War. The Outcasts and Corsairs grow stronger every day. They cannot be bribed or negotiated with like most criminal organizations. We would actually prefer if Republican handled most of the cargo runs through here, but New Tokyo and the GMG object.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Sigma-13 is more dangerous now than at any time since it was reopened after the Eighty Years’ War. The Outcasts and Corsairs grow stronger every day. They cannot be bribed or negotiated with like most criminal organizations. We would actually prefer if Republican handled most of the cargo runs through here, but New Tokyo and the GMG object.</TEXT><PARA/><POP/></RDL>
 
 133019
 INFOCARD
@@ -25369,7 +25369,7 @@ INFOCARD
 
 133020
 INFOCARD
-<RDL><PUSH/><TEXT>The GMG was secretly backed by the Kusari government during the 80-Years War. It was very costly, but the GMG are our brethren, after all. They provide a protective shield for Kusari space, which allows the military to concentrate on more pressing problems, like securing Hokkaido for Samura.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The GMG was secretly backed by the Kusari government during the Eighty Years’ War. It was very costly, but the GMG are our brethren, after all. They provide a protective shield for Kusari space, which allows the military to concentrate on more pressing problems, like securing Hokkaido for Samura.</TEXT><PARA/><POP/></RDL>
 
 133021
 INFOCARD
@@ -25385,7 +25385,7 @@ INFOCARD
 
 133024
 INFOCARD
-<RDL><PUSH/><TEXT>We have been contracted by the Rheinland and Kusari governments to remove the debris remaining from the 80-Years War battlefields. Much of it poses hazards to shipping in the area. The GMG has allowed the Helgoland Scrap Metal shredding and sorting facility to be based in the Yanagi Pocket.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We have been contracted by the Rheinland and Kusari governments to remove the debris remaining from the Eighty Years’ War battlefields. Much of it poses hazards to shipping in the area. The GMG has allowed the Helgoland Scrap Metal shredding and sorting facility to be based in the Yanagi Pocket.</TEXT><PARA/><POP/></RDL>
 
 133025
 INFOCARD
@@ -26537,7 +26537,7 @@ INFOCARD
 
 133313
 INFOCARD
-<RDL><PUSH/><TEXT>Kishiro does generate some Toxic Waste and Scrap Metal, which we take back to Dortmund via Sigma-13. Usually, we pick up additional containers at Helgoland. That’s the site of the Yanagi Debris Field cleanup operation, a legacy of the 80-Years War.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kishiro does generate some Toxic Waste and Scrap Metal, which we take back to Dortmund via Sigma-13. Usually, we pick up additional containers at Helgoland. That’s the site of the Yanagi Debris Field cleanup operation, a legacy of the Eighty Years’ War.</TEXT><PARA/><POP/></RDL>
 
 133314
 INFOCARD
@@ -26641,7 +26641,7 @@ INFOCARD
 
 133339
 INFOCARD
-<RDL><PUSH/><TEXT>Sigma-13 and 17 are the heart of GMG territory. We will defend it fiercely if threatened, as Rheinland did during the 80-Years War. The wreckage of the GMG fleet remains in Sigma-13 to this day, floating in the vacuum of the Yanagi Debris Field.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Sigma-13 and 17 are the heart of GMG territory. We will defend it fiercely if threatened, as Rheinland did during the Eighty Years’ War. The wreckage of the GMG fleet remains in Sigma-13 to this day, floating in the vacuum of the Yanagi Debris Field.</TEXT><PARA/><POP/></RDL>
 
 133340
 INFOCARD
@@ -26937,7 +26937,7 @@ INFOCARD
 
 133413
 INFOCARD
-<RDL><PUSH/><TEXT>I hear that the GMG was forced to pay a special “reparation” tax to the government to help Kusari recover some of the loans given to the GMG during the 80-Years War — more specifically, to pay for the immense costs of constructing the Hokkaido and Chugoku Gates.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I hear that the GMG was forced to pay a special “reparation” tax to the government to help Kusari recover some of the loans given to the GMG during the Eighty Years’ War — more specifically, to pay for the immense costs of constructing the Hokkaido and Chugoku Gates.</TEXT><PARA/><POP/></RDL>
 
 133414
 INFOCARD
@@ -26993,7 +26993,7 @@ INFOCARD
 
 133427
 INFOCARD
-<RDL><PUSH/><TEXT>The GMG has been invaluable in providing financial assistance and training to the Blood Dragons. At first, they were reluctant, but once the government forced them to pay a reparation tax for the 80-Years Wars, they changed their minds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The GMG has been invaluable in providing financial assistance and training to the Blood Dragons. At first, they were reluctant, but once the government forced them to pay a reparation tax for the Eighty Years’ War, they changed their minds.</TEXT><PARA/><POP/></RDL>
 
 133428
 INFOCARD
@@ -27033,7 +27033,7 @@ INFOCARD
 
 133437
 INFOCARD
-<RDL><PUSH/><TEXT>The GMG has trained us in many nebula fighting tactics that they learned during the 80-Years War. This is why we can fly circles around the Kusari Naval Forces in Hokkaido. Nansei is a different story. The Research Station is very protected and difficult to attack in the style to which we are accustomed.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The GMG has trained us in many nebula fighting tactics that they learned during the Eighty Years’ War. This is why we can fly circles around the Kusari Naval Forces in Hokkaido. Nansei is a different story. The Research Station is very protected and difficult to attack in the style to which we are accustomed.</TEXT><PARA/><POP/></RDL>
 
 133438
 INFOCARD
@@ -27773,7 +27773,7 @@ INFOCARD
 
 133622
 INFOCARD
-<RDL><PUSH/><TEXT>After the Eighty Years War we lost everything. My family worked for Kruger in those days. When the bottom fell out of the economy, we lost our jobs and the bonuses that had been promised us. Worse than that, more than half of my ancestors were killed trying to mine gases in contested space. My brother joined the Hessians, but I am not a violent man, I joined Daumann.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>After the Eighty Years’ War we lost everything. My family worked for Kruger in those days. When the bottom fell out of the economy, we lost our jobs and the bonuses that had been promised us. Worse than that, more than half of my ancestors were killed trying to mine gases in contested space. My brother joined the Hessians, but I am not a violent man, I joined Daumann.</TEXT><PARA/><POP/></RDL>
 
 133623
 INFOCARD
@@ -28061,7 +28061,7 @@ INFOCARD
 
 133699
 INFOCARD
-<RDL><PUSH/><TEXT>We acquiesced to ALG’s request to supply them with metals mined from this system because we are trying to foster a friendship between the two companies. Since the 80-Years War, Kruger has been struggling to stay afloat. A merger between Kruger and ALG would put us back on top.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We acquiesced to ALG’s request to supply them with metals mined from this system because we are trying to foster a friendship between the two companies. Since the Eighty Years’ War, Kruger has been struggling to stay afloat. A merger between Kruger and ALG would put us back on top.</TEXT><PARA/><POP/></RDL>
 
 133700
 INFOCARD
@@ -28329,7 +28329,7 @@ INFOCARD
 
 133766
 INFOCARD
-<RDL><PUSH/><TEXT>Republican and Daumann relations have never fully recovered since we’ve hired away so many of their top ship design engineers over the years. The dissatisfaction among Daumann personnel has become acute since the end of the Eighty-Years War. We can’t help it if there’s no work for them here.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Republican and Daumann relations have never fully recovered since we’ve hired away so many of their top ship design engineers over the years. The dissatisfaction among Daumann personnel has become acute since the end of the Eighty Years’ War. We can’t help it if there’s no work for them here.</TEXT><PARA/><POP/></RDL>
 
 133767
 INFOCARD
@@ -28385,7 +28385,7 @@ INFOCARD
 
 133780
 INFOCARD
-<RDL><PUSH/><TEXT>The truth is, Daumann viewed the Eighty-Years War as an excellent way to make large amounts of money in the shipbuilding business, which ultimately supports all our primary extraction operations. The ships lost during the War may have been costly for Rheinland, but were very profitable for the owners and shareholders of Daumann Heavy Construction.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The truth is, Daumann viewed the Eighty Years’ War as an excellent way to make large amounts of money in the shipbuilding business, which ultimately supports all our primary extraction operations. The ships lost during the War may have been costly for Rheinland, but were very profitable for the owners and shareholders of Daumann Heavy Construction.</TEXT><PARA/><POP/></RDL>
 
 133781
 INFOCARD
@@ -28425,7 +28425,7 @@ INFOCARD
 
 133790
 INFOCARD
-<RDL><PUSH/><TEXT>Kusari shippers are still not allowed into Rheinland space; the only concession from Kusari that Rheinland was able to be granted in the treaty that ended the Eighty-Years War. Samura and Kishiro offload their Optical Chips, Optronics, and H-Fuel at the Mainz Outpost in Frankfurt.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kusari shippers are still not allowed into Rheinland space; the only concession from Kusari that Rheinland was able to be granted in the treaty that ended the Eighty Years’ War. Samura and Kishiro offload their Optical Chips, Optronics, and H-Fuel at the Mainz Outpost in Frankfurt.</TEXT><PARA/><POP/></RDL>
 
 133791
 INFOCARD
@@ -28477,7 +28477,7 @@ INFOCARD
 
 133806
 INFOCARD
-<RDL><PUSH/><TEXT>The Rheinland government asked IC to leave after the trade dispute of 521. We were not able to return to New Berlin until the agreement between Liberty and Rheinland following the Eighty-Years War. Liberty companies were granted free access to Rheinland space at that time.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Rheinland government asked IC to leave after the trade dispute of 521. We were not able to return to New Berlin until the agreement between Liberty and Rheinland following the Eighty Years’ War. Liberty companies were granted free access to Rheinland space at that time.</TEXT><PARA/><POP/></RDL>
 
 133807
 INFOCARD
@@ -28493,7 +28493,7 @@ INFOCARD
 
 133810
 INFOCARD
-<RDL><PUSH/><TEXT>The Eighty-Years War was a colossal mistake for Rheinland. The nation was fairly self-sufficient and prosperous, yet Kruger was not content. They had fallen behind Daumann, and hoped that the gases of the Crow Nebula would be their salvation. It was Daumann that actually persuaded the government to step in, for reasons of cynical self-interest. They knew that fat military contracts would head their way once the fighting began in earnest.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Eighty Years’ War was a colossal mistake for Rheinland. The nation was fairly self-sufficient and prosperous, yet Kruger was not content. They had fallen behind Daumann, and hoped that the gases of the Crow Nebula would be their salvation. It was Daumann that actually persuaded the government to step in, for reasons of cynical self-interest. They knew that fat military contracts would head their way once the fighting began in earnest.</TEXT><PARA/><POP/></RDL>
 
 133811
 INFOCARD
@@ -28505,7 +28505,7 @@ INFOCARD
 
 133813
 INFOCARD
-<RDL><PUSH/><TEXT>The Sigma-13 Trade Lane attacks have attained crisis status. The Corsairs and Outcasts grow stronger with every passing year, and the GMG seems to be unable to effectively defend their territory as they did during the Eighty-Years War. The Edge World pirates have proven to be far more formidable adversaries than the Rheinland Imperial Fleet.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Sigma-13 Trade Lane attacks have attained crisis status. The Corsairs and Outcasts grow stronger with every passing year, and the GMG seems to be unable to effectively defend their territory as they did during the Eighty Years’ War. The Edge World pirates have proven to be far more formidable adversaries than the Rheinland Imperial Fleet.</TEXT><PARA/><POP/></RDL>
 
 133814
 INFOCARD
@@ -28597,7 +28597,7 @@ INFOCARD
 
 133836
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger has seen better days. We’ve been forced to lay off many of our workers in recent times. Our company incurred vast debts at the beginning of the Eighty-Years War when we lost more than half our mining fleet to the GMG. We’ve never recovered from that dark period.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Kruger has seen better days. We’ve been forced to lay off many of our workers in recent times. Our company incurred vast debts at the beginning of the Eighty Years’ War when we lost more than half our mining fleet to the GMG. We’ve never recovered from that dark period.</TEXT><PARA/><POP/></RDL>
 
 133837
 INFOCARD
@@ -28897,7 +28897,7 @@ INFOCARD
 
 133911
 INFOCARD
-<RDL><PUSH/><TEXT>The structural integrity of this ship is suspect. It suffered a lot of damage during the Eighty Years War but was forced to remain in service, since all of its sister ships are now Scrap Metal in the Sigma-13 system. We are always nervous when we have to enter the reactor compartments of this ship. Especially since the recent accident.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The structural integrity of this ship is suspect. It suffered a lot of damage during the Eighty Years’ War but was forced to remain in service, since all of its sister ships are now Scrap Metal in the Sigma-13 system. We are always nervous when we have to enter the reactor compartments of this ship. Especially since the recent accident.</TEXT><PARA/><POP/></RDL>
 
 133912
 INFOCARD
@@ -28961,7 +28961,7 @@ INFOCARD
 
 133927
 INFOCARD
-<RDL><PUSH/><TEXT>Daumann is the real culprit in the Eighty-Years War. The Imperial Navy Command had grave doubts about the wisdom of fighting a guerrilla-style war in the Crow Nebula against an enemy that was so well-supplied by Kusari. But Daumann saw the huge profits to be made in lucrative shipbuilding contracts and bribed hundreds of key government officials. The rest is history.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Daumann is the real culprit in the Eighty Years’ War. The Imperial Navy Command had grave doubts about the wisdom of fighting a guerrilla-style war in the Crow Nebula against an enemy that was so well-supplied by Kusari. But Daumann saw the huge profits to be made in lucrative shipbuilding contracts and bribed hundreds of key government officials. The rest is history.</TEXT><PARA/><POP/></RDL>
 
 133928
 INFOCARD
@@ -28969,7 +28969,7 @@ INFOCARD
 
 133929
 INFOCARD
-<RDL><PUSH/><TEXT>The Rheinland public doesn’t respect the military anymore. We lost the Eighty-Years War to a ragtag bunch of gas miners as far as they’re concerned. That is one reason it has been so difficult for New Berlin to increase our budget — the politicians backed by the Bundschuh always vote it down.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Rheinland public doesn’t respect the military anymore. We lost the Eighty Years’ War to a ragtag bunch of gas miners as far as they’re concerned. That is one reason it has been so difficult for New Berlin to increase our budget — the politicians backed by the Bundschuh always vote it down.</TEXT><PARA/><POP/></RDL>
 
 133930
 INFOCARD
@@ -29061,7 +29061,7 @@ INFOCARD
 
 133952
 INFOCARD
-<RDL><PUSH/><TEXT>This shipyard was once controlled by the unions, who demanded ever higher wages and longer vacations. Republican could afford their extravagant demands during the Eighty Years War. But when the hard times hit, we had to make adjustments to remain profitable.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This shipyard was once controlled by the unions, who demanded ever higher wages and longer vacations. Republican could afford their extravagant demands during the Eighty Years’ War. But when the hard times hit, we had to make adjustments to remain profitable.</TEXT><PARA/><POP/></RDL>
 
 133953
 INFOCARD
@@ -29073,7 +29073,7 @@ INFOCARD
 
 133955
 INFOCARD
-<RDL><PUSH/><TEXT>Altona was once a bustling place before the government allowed Liberty ships to bypass us and ship their goods directly to New Berlin and Stuttgart after the Eighty Years War. Now it is probably just a matter of time before this outpost is closed and dismantled.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Altona was once a bustling place before the government allowed Liberty ships to bypass us and ship their goods directly to New Berlin and Stuttgart after the Eighty Years’ War. Now it is probably just a matter of time before this outpost is closed and dismantled.</TEXT><PARA/><POP/></RDL>
 
 133956
 INFOCARD
@@ -29297,7 +29297,7 @@ INFOCARD
 
 134011
 INFOCARD
-<RDL><PUSH/><TEXT>This base is necessary; business must go on in Frankfurt even after the devastation it suffered in the Eighty-Years War. We are still the gateway to the Border Worlds and Kusari out here, even if no one wishes to remember that.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This base is necessary; business must go on in Frankfurt even after the devastation it suffered in the Eighty Years’ War. We are still the gateway to the Border Worlds and Kusari out here, even if no one wishes to remember that.</TEXT><PARA/><POP/></RDL>
 
 134012
 INFOCARD
@@ -29337,7 +29337,7 @@ INFOCARD
 
 134021
 INFOCARD
-<RDL><PUSH/><TEXT>The vermin who call themselves the GMG dealt the first blow in the conflict that would erupt into the Eighty-Years War. The Kruger survey vessel Helle Wolke went missing. When we sent ships after her, we found the GMG in the vicinity of the wreckage. The GMG could not explain what had happened but claimed to be investigating themselves.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The vermin who call themselves the GMG dealt the first blow in the conflict that would erupt into the Eighty Years’ War. The Kruger survey vessel Helle Wolke went missing. When we sent ships after her, we found the GMG in the vicinity of the wreckage. The GMG could not explain what had happened but claimed to be investigating themselves.</TEXT><PARA/><POP/></RDL>
 
 134022
 INFOCARD
@@ -29369,7 +29369,7 @@ INFOCARD
 
 134029
 INFOCARD
-<RDL><PUSH/><TEXT>I came to Frankfurt because I wanted to go to a place where I could make a difference; a piece of space where people needed support. The only thing I found here is a haunted chunk of Rheinland that died at the end of the Eighty-Years War. I realized that nobody can make a difference. What is, is simply the truth — the rest is illusion.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I came to Frankfurt because I wanted to go to a place where I could make a difference; a piece of space where people needed support. The only thing I found here is a haunted chunk of Rheinland that died at the end of the Eighty Years’ War. I realized that nobody can make a difference. What is, is simply the truth — the rest is illusion.</TEXT><PARA/><POP/></RDL>
 
 134030
 INFOCARD
@@ -29517,7 +29517,7 @@ INFOCARD
 
 134066
 INFOCARD
-<RDL><PUSH/><TEXT>Amid the Eighty Years War the Rheinland government bankrupted itself fighting the GMG. With no other avenue left, they indebted themselves to Liberty, that was the beginning of the end for Stuttgart. At the war’s finish, the debts needed to be settled.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Amid the Eighty Years’ War the Rheinland government bankrupted itself fighting the GMG. With no other avenue left, they indebted themselves to Liberty, that was the beginning of the end for Stuttgart. At the war’s finish, the debts needed to be settled.</TEXT><PARA/><POP/></RDL>
 
 134067
 INFOCARD
@@ -29845,7 +29845,7 @@ INFOCARD
 
 134148
 INFOCARD
-<RDL><PUSH/><TEXT>Any navy Rheinland had to speak of was destroyed in the Eighty-Years War, and we lost that too, didn’t we? They can’t help us here. We are good enough pilots and honest men; not like the LPI in New York. But there are too few of us and our ships are falling apart.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Any navy Rheinland had to speak of was destroyed in the Eighty Years’ War, and we lost that too, didn’t we? They can’t help us here. We are good enough pilots and honest men; not like the LPI in New York. But there are too few of us and our ships are falling apart.</TEXT><PARA/><POP/></RDL>
 
 134149
 INFOCARD
@@ -29865,7 +29865,7 @@ INFOCARD
 
 134153
 INFOCARD
-<RDL><PUSH/><TEXT>During the Eighty-Years War, that Daumann was unethical in its labor practices in the shipyards and smelters. But that does not excuse the barbaric slaughter and pillaging the Red Hessians commit in the name of revenge. Fallen empire or not, we will stop them.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>During the Eighty Years’ War, that Daumann was unethical in its labor practices in the shipyards and smelters. But that does not excuse the barbaric slaughter and pillaging the Red Hessians commit in the name of revenge. Fallen empire or not, we will stop them.</TEXT><PARA/><POP/></RDL>
 
 134154
 INFOCARD
@@ -29905,7 +29905,7 @@ INFOCARD
 
 134163
 INFOCARD
-<RDL><PUSH/><TEXT>After the Eighty-Years War, the Rheinland Government was bankrupt, and they were deep in debt to Liberty. That is how Liberty corporations were able to get their hands on the soil of Stuttgart. They came in with their foreign capital and bribed the old government into selling the garden. The debt to Liberty was canceled, but honor is something you should not trade at any price.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>After the Eighty Years’ War, the Rheinland Government was bankrupt, and they were deep in debt to Liberty. That is how Liberty corporations were able to get their hands on the soil of Stuttgart. They came in with their foreign capital and bribed the old government into selling the garden. The debt to Liberty was canceled, but honor is something you should not trade at any price.</TEXT><PARA/><POP/></RDL>
 
 134164
 INFOCARD
@@ -29937,7 +29937,7 @@ INFOCARD
 
 134171
 INFOCARD
-<RDL><PUSH/><TEXT>The subsidies that Stuttgart farmers enjoyed before the Eighty-Years War stopped overnight at the war’s end in 685 AS. New Berlin was bankrupt. Immediately, more than half of the Stuttgart farmers were plunged into poverty. I understand why they stopped the subsidies, but to do so overnight destroyed the last remnants of a stable economy in Rheinland. I curse the fools in New Berlin.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The subsidies that Stuttgart farmers enjoyed before the Eighty Years’ War stopped overnight at the war’s end in 685 AS. New Berlin was bankrupt. Immediately, more than half of the Stuttgart farmers were plunged into poverty. I understand why they stopped the subsidies, but to do so overnight destroyed the last remnants of a stable economy in Rheinland. I curse the fools in New Berlin.</TEXT><PARA/><POP/></RDL>
 
 134172
 INFOCARD
@@ -30037,7 +30037,7 @@ INFOCARD
 
 134196
 INFOCARD
-<RDL><PUSH/><TEXT>Everyone knows that it was Daumann’s fault that the miners in this system revolted. But the chain reaction swept through all of Rheinland. The reparations we were forced to pay, along with the crippling losses we incurred in the Eighty-Years War, have left us struggling to stay afloat.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Everyone knows that it was Daumann’s fault that the miners in this system revolted. But the chain reaction swept through all of Rheinland. The reparations we were forced to pay, along with the crippling losses we incurred in the Eighty Years’ War, have left us struggling to stay afloat.</TEXT><PARA/><POP/></RDL>
 
 134197
 INFOCARD
@@ -30225,7 +30225,7 @@ INFOCARD
 
 134295
 INFOCARD
-<RDL><PUSH/><TEXT>The Kruger gas mining area was abandoned early in the 80-Years War, almost overnight. In their haste to depart, the Kruger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Kruger gas mining area was abandoned early in the Eighty Years’ War, almost overnight. In their haste to depart, the Kruger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
 
 134296
 INFOCARD
@@ -30233,7 +30233,7 @@ INFOCARD
 
 134297
 INFOCARD
-<RDL><PUSH/><TEXT>The great battlefield in Sigma-13 is the site of Rheinland’s most shameful defeat of the 80-Years War. The entire First Fleet was reduced to smoking hulks within several hours by the GMG. In the high radiation areas, the debris is relatively untouched to this day, but salvaging it is very dangerous and unpredictable.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The great battlefield in Sigma-13 is the site of Rheinland’s most shameful defeat of the Eighty Years’ War. The entire First Fleet was reduced to smoking hulks within several hours by the GMG. In the high radiation areas, the debris is relatively untouched to this day, but salvaging it is very dangerous and unpredictable.</TEXT><PARA/><POP/></RDL>
 
 134298
 INFOCARD
