@@ -14429,7 +14429,7 @@ Jump Hole
 
 60212
 NAME
-***GRAVITATIONAL ANOMALY DETECTED***\nMagnetic and gravimetric readings consistent with a ‘jump hole’.\n\nLike jump gates, jump holes are semi-permeable areas in real space that have a tendency to breach the natural boundaries of linear time and space. Unlike jump gates, though, these anomalies occur naturally and so are both unpredictable and unstable. Traveling through jump holes is a risky proposition at best. Though some have been charted and, based on accounts from ships that have accidentally encountered them, have had their exit points logged, just as many ships have never been heard from again. It is believed that these ships were either crushed in the violent, cataclysmic vortex that lies outside the narrow corridor of a jump tunnel, or were sent to a place far enough away to make communication or a return trip infeasible. In either case, those missing are presumed dead. Ageira Technologies and Deep Space Engineering urge all citizens to use the prescribed trade lanes and jump gates and to avoid all contact with jump holes.
+***GRAVITATIONAL ANOMALY DETECTED***\nMagnetic and gravimetric readings consistent with a ‘jump hole’.\n\nLike jump gates, jump holes are semi-permeable areas in real space that tend to breach the natural boundaries of linear time and space. Unlike jump gates, though, these anomalies occur naturally and so are both unpredictable and unstable. Traveling through jump holes is a risky proposition at best. Though some have been charted and, based on accounts from ships that have accidentally encountered them, have had their exit points logged, just as many ships have never been heard from again. It is believed that these ships were either crushed in the violent, cataclysmic vortex that lies outside the narrow corridor of a jump tunnel, or were sent to a place far enough away to make communication or a return trip infeasible. In either case, those missing are presumed dead. Ageira Technologies and Deep Space Engineering urge all citizens to use the prescribed trade lanes and jump gates and to avoid all contact with jump holes.
 
 60213
 NAME
@@ -28949,7 +28949,7 @@ INFOCARD
 
 133924
 INFOCARD
-<RDL><PUSH/><TEXT>Rumors are circulating that ALG is planning on building a new shipyard in Dortmund to build the Bremen and her sister ships. They’re willing to build them at a cost to gain entry into this new market. That’s an attractive proposition for New Berlin at this point and time.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rumors are circulating that ALG is planning on building a new shipyard in Dortmund to build the Bremen and her sister ships. They’re willing to build them at a cost to enter this new market. That’s an attractive proposition for New Berlin at this point and time.</TEXT><PARA/><POP/></RDL>
 
 133925
 INFOCARD
