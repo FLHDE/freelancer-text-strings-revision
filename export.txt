@@ -13865,7 +13865,7 @@ LWB Will Pay for Info on Synth Foods
 
 56349
 NAME
-STUTTGART — The LWB has alerted Kreuzberg that they are looking to buy information about Synth Foods' activities. “We don’t have all the information we need about their activities and that is hampering our abilities to coordinate an effective resistance against Synth Foods,” said LWB representative Dietrich Leffler. Though the LWB is not renowned as a particularly wealthy or large organization they have made it clear that accurate information will be well rewarded. “We need shipping routes and times, as well as dossiers on top Synth executives,” said Leffler.
+STUTTGART — The LWB has alerted Kreuzberg that they are looking to buy information about Synth Foods’ activities. “We don’t have all the information we need about their activities and that is hampering our abilities to coordinate an effective resistance against Synth Foods,” said LWB representative Dietrich Leffler. Though the LWB is not renowned as a particularly wealthy or large organization they have made it clear that accurate information will be well rewarded. “We need shipping routes and times, as well as dossiers on top Synth executives,” said Leffler.
 
 56350
 NAME
@@ -14869,7 +14869,7 @@ INFOCARD
 
 65608
 INFOCARD
-<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the Eighty Years’ War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann's manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the Eighty Years’ War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann’s manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
 
 65609
 INFOCARD
@@ -20969,7 +20969,7 @@ INFOCARD
 
 131882
 INFOCARD
-<RDL><PUSH/><TEXT>We know there’s a Rogue asteroid base in the Whitney Field. Problem is getting close enough to nail someone without disturbing the hornets’ nest. Believe me, you’ll know if you did. There's Outcasts around too. So ya gotta be careful.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We know there’s a Rogue asteroid base in the Whitney Field. Problem is getting close enough to nail someone without disturbing the hornets’ nest. Believe me, you’ll know if you did. There’s Outcasts around too. So ya gotta be careful.</TEXT><PARA/><POP/></RDL>
 
 131883
 INFOCARD
@@ -21145,7 +21145,7 @@ INFOCARD
 
 131926
 INFOCARD
-<RDL><PUSH/><TEXT>This is a good location to launch into the Tahoe Cloud. You don’t have to go far to find trouble in there. It’s also a straight shot across the system to the Whitney Field if that doesn't offer enough action for you.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is a good location to launch into the Tahoe Cloud. You don’t have to go far to find trouble in there. It’s also a straight shot across the system to the Whitney Field if that doesn’t offer enough action for you.</TEXT><PARA/><POP/></RDL>
 
 131927
 INFOCARD
@@ -21161,7 +21161,7 @@ INFOCARD
 
 131930
 INFOCARD
-<RDL><PUSH/><TEXT>We run patrols around California Minor. I think it’s a waste of time. Not enough bad guys around here. I heard that the real reason is that Synth Foods wants to move up the schedule on Planetform a lot. They've been resisting, saying there were too many shipping losses.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We run patrols around California Minor. I think it’s a waste of time. Not enough bad guys around here. I heard that the real reason is that Synth Foods wants to move up the schedule on Planetform a lot. They’ve been resisting, saying there were too many shipping losses.</TEXT><PARA/><POP/></RDL>
 
 131931
 INFOCARD
@@ -21237,7 +21237,7 @@ INFOCARD
 
 131949
 INFOCARD
-<RDL><PUSH/><TEXT>I just got back from Cortez. Did an assault patrol into the Corcovado Field. It’s crawling with Rogues. We got a bunch, but there were plenty more. They should send the military in there to clean it out. It's like a rat’s nest.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I just got back from Cortez. Did an assault patrol into the Corcovado Field. It’s crawling with Rogues. We got a bunch, but there were plenty more. They should send the military in there to clean it out. It’s like a rat’s nest.</TEXT><PARA/><POP/></RDL>
 
 131950
 INFOCARD
@@ -23153,7 +23153,7 @@ INFOCARD
 
 132441
 INFOCARD
-<RDL><PUSH/><TEXT>One of my mates has been losing his hair, and not bit by bit either, if you catch my drift. He’s been on this base longer than anyone else, but I think it’s time he took his pay and pulled stakes. The greed is going to kill him if he lets it. I guess that goes for anybody, really. You have to know when it's time to leave.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One of my mates has been losing his hair, and not bit by bit either, if you catch my drift. He’s been on this base longer than anyone else, but I think it’s time he took his pay and pulled stakes. The greed is going to kill him if he lets it. I guess that goes for anybody, really. You have to know when it’s time to leave.</TEXT><PARA/><POP/></RDL>
 
 132442
 INFOCARD
@@ -24893,7 +24893,7 @@ INFOCARD
 
 132901
 INFOCARD
-<RDL><PUSH/><TEXT>My ship is just passing through, and it’s good to drink real Kusari beer again. We normally do the Pharmaceutical run from Denver. Tomorrow, we'll drop by our company offices in Shinjuku and then head to Kyushu with the bulk of the load. We often bring Kyushu Food Containers on the return trip.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My ship is just passing through, and it’s good to drink real Kusari beer again. We normally do the Pharmaceutical run from Denver. Tomorrow, we’ll drop by our company offices in Shinjuku and then head to Kyushu with the bulk of the load. We often bring Kyushu Food Containers on the return trip.</TEXT><PARA/><POP/></RDL>
 
 132902
 INFOCARD
@@ -26009,7 +26009,7 @@ INFOCARD
 
 133180
 INFOCARD
-<RDL><PUSH/><TEXT>I specialize in killing Corsairs. If you want one dead I can do it for you, but it's going to cost you. It’s a family business, really. My father was killing these heartless cretins before me. It’s not easy; these guys are incredible pilots with excellent ships.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I specialize in killing Corsairs. If you want one dead I can do it for you, but it’s going to cost you. It’s a family business, really. My father was killing these heartless cretins before me. It’s not easy; these guys are incredible pilots with excellent ships.</TEXT><PARA/><POP/></RDL>
 
 133181
 INFOCARD
@@ -59333,19 +59333,19 @@ Rapier Turret
 
 263219
 NAME
-Death's Hand Mk I
+Death’s Hand Mk I
 
 263220
 NAME
-Death's Hand Mk I
+Death’s Hand Mk I
 
 263221
 NAME
-Death's Hand Mk II
+Death’s Hand Mk II
 
 263222
 NAME
-Death's Hand Mk III
+Death’s Hand Mk III
 
 263223
 NAME
@@ -59361,11 +59361,11 @@ Reaper Mk III
 
 263226
 NAME
-Death's Hand Turret Mk I
+Death’s Hand Turret Mk I
 
 263227
 NAME
-Death's Hand Turret Mk II
+Death’s Hand Turret Mk II
 
 263228
 NAME
@@ -59809,11 +59809,11 @@ Avenger Type B
 
 263338
 NAME
-Gaia's Savior
+Gaia’s Savior
 
 263339
 NAME
-Gaia's Savior Type B
+Gaia’s Savior Type B
 
 263340
 NAME
@@ -60597,7 +60597,7 @@ Nomad Prototype
 
 263535
 NAME
-Rowlett's Revenge
+Rowlett’s Revenge
 
 263536
 NAME
@@ -62341,19 +62341,19 @@ INFOCARD
 
 264219
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death's Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death’s Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264220
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death's Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death’s Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264221
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G5 "Death's Hand" Order Laser Cannon Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G5 "Death’s Hand" Order Laser Cannon Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264222
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8 "Death's Hand" Order Laser Cannon Mk III</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Cannon the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8 "Death’s Hand" Order Laser Cannon Mk III</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Cannon the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264223
 INFOCARD
@@ -62369,11 +62369,11 @@ INFOCARD
 
 264226
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2t "Death's Hand" Order Laser Turret Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2t "Death’s Hand" Order Laser Turret Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264227
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8t "Death's Hand" Order Laser Turret Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Turret the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8t "Death’s Hand" Order Laser Turret Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Turret the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264228
 INFOCARD
@@ -62817,11 +62817,11 @@ INFOCARD
 
 264338
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia's Savior" Photon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia’s Savior" Photon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264339
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia's Savior" Photon Cannon Type B</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire. This is the best Photon Cannon the Gaians have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia’s Savior" Photon Cannon Type B</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire. This is the best Photon Cannon the Gaians have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264340
 INFOCARD
@@ -63605,7 +63605,7 @@ INFOCARD
 
 264535
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Rowlett's Revenge Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This Turret appears to have been heavily modified to provide greater damage output. This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Rowlett’s Revenge Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This Turret appears to have been heavily modified to provide greater damage output. This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264536
 INFOCARD
@@ -66117,7 +66117,7 @@ You are also hereby authorized to destroy any other %F0v2 ships in the course of
 
 327953
 NAME
-In addition, intelligence says there don't appear to be any additional %F0v2 ships in the area, so you may be in luck. 
+In addition, intelligence says there don’t appear to be any additional %F0v2 ships in the area, so you may be in luck. 
 
 327954
 NAME
