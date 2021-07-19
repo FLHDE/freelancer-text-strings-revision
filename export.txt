@@ -59333,19 +59333,19 @@ Rapier Turret
 
 263219
 NAME
-Death’s Hand Mk I
+Death's Hand Mk I
 
 263220
 NAME
-Death’s Hand Mk I
+Death's Hand Mk I
 
 263221
 NAME
-Death’s Hand Mk II
+Death's Hand Mk II
 
 263222
 NAME
-Death’s Hand Mk III
+Death's Hand Mk III
 
 263223
 NAME
@@ -59361,11 +59361,11 @@ Reaper Mk III
 
 263226
 NAME
-Death’s Hand Turret Mk I
+Death's Hand Turret Mk I
 
 263227
 NAME
-Death’s Hand Turret Mk II
+Death's Hand Turret Mk II
 
 263228
 NAME
@@ -59809,11 +59809,11 @@ Avenger Type B
 
 263338
 NAME
-Gaia’s Savior
+Gaia's Savior
 
 263339
 NAME
-Gaia’s Savior Type B
+Gaia's Savior Type B
 
 263340
 NAME
@@ -60597,7 +60597,7 @@ Nomad Prototype
 
 263535
 NAME
-Rowlett’s Revenge
+Rowlett's Revenge
 
 263536
 NAME
@@ -62113,7 +62113,7 @@ INFOCARD
 
 264162
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CD89b "Hornet" Cruise Disruptor Missile Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on the design of the Wasp, the Hornet makes use of several key improvements and is largely considered the fastest missile available today. As with the Wasp, the Hornet has little or no conventional effect in combat, however it is extremely effective against ships that have either engaged their cruise engines or are about to do so. Targets that endure an attack from the Hornet remain unable to engage their cruise engines until the field effects that this very valuable piece of weaponry produces wear off.</TEXT><PARA/><PARA/><TEXT>* Requires Hornet Missile.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>CD89b "Hornet" Cruise Disruptor Missile Launcher</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>Based on the design of the Wasp, the Hornet makes use of several key improvements and is largely considered the fastest missile available today. As with the Wasp, the Hornet has little or no conventional effect in combat. However, it is extremely effective against ships that have either engaged their cruise engines or are about to do so. Targets that endure an attack from the Hornet remain unable to engage their cruise engines until the field effects that this very valuable piece of weaponry produces wear off.</TEXT><PARA/><PARA/><TEXT>* Requires Hornet Missile.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264163
 INFOCARD
@@ -62269,7 +62269,7 @@ INFOCARD
 
 264201
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Dragopn Type 2" Outcast Tachyon Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons but requires enormous amounts of power to fire. This weapon is most effective against molecular shields and weakest against positron shields. Outcast weapons have an improved damage output but sacrifice range and refire rate.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>"Dragoon Type 2" Outcast Tachyon Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons but requires enormous amounts of power to fire. This weapon is most effective against molecular shields and weakest against positron shields. Outcast weapons have an improved damage output but sacrifice range and refire rate.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264202
 INFOCARD
@@ -62341,19 +62341,19 @@ INFOCARD
 
 264219
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death’s Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death's Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264220
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death’s Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2 "Death's Hand" Order Laser Cannon Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264221
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G5 "Death’s Hand" Order Laser Cannon Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G5 "Death's Hand" Order Laser Cannon Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264222
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8 "Death’s Hand" Order Laser Cannon Mk III</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Cannon the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8 "Death's Hand" Order Laser Cannon Mk III</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Cannon the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264223
 INFOCARD
@@ -62369,11 +62369,11 @@ INFOCARD
 
 264226
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2t "Death’s Hand" Order Laser Turret Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G2t "Death's Hand" Order Laser Turret Mk I</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264227
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8t "Death’s Hand" Order Laser Turret Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Turret the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>G8t "Death's Hand" Order Laser Turret Mk II</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields. This is the best Laser Turret the Order has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264228
 INFOCARD
@@ -62637,7 +62637,7 @@ INFOCARD
 
 264293
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PT71 "Brave" Bounty Hunter Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon which, though delivers significant damage at a decent fire rate requires enormous amounts of energy. This weapon is most effective against graviton shields and weakest against molecular shields. Bounty Hunter weapons have an improved range but sacrifice damage and energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PT71 "Brave" Bounty Hunter Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon which, though delivers significant damage at a decent fire rate, requires enormous amounts of energy. This weapon is most effective against graviton shields and weakest against molecular shields. Bounty Hunter weapons have an improved range but sacrifice damage and energy efficiency.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264294
 INFOCARD
@@ -62645,7 +62645,7 @@ INFOCARD
 
 264295
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PT91 "Buckshot" Bounty Hunter Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon which, though delivers significant damage at a decent fire rate requires enormous amounts of energy. This weapon is most effective against graviton shields and weakest against molecular shields. Bounty Hunter weapons have an improved range but sacrifice damage and energy efficiency. This is the best Particle Turret the Bounty Hunters have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>PT91 "Buckshot" Bounty Hunter Particle Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon which, though delivers significant damage at a decent fire rate, requires enormous amounts of energy. This weapon is most effective against graviton shields and weakest against molecular shields. Bounty Hunter weapons have an improved range but sacrifice damage and energy efficiency. This is the best Particle Turret the Bounty Hunters have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264296
 INFOCARD
@@ -62705,7 +62705,7 @@ INFOCARD
 
 264310
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Bundschuh "Luger" Tachyon Cannon Type C</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons but requires enormous amounts of power to fire. This weapon is most effective against molecular shields and weakest against positron shields. Bundschuh weapons do a bit more damage at a reduced rate of fire. This is the best Tachyon Cannon the Bundschuh has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Bundschuh "Luger" Tachyon Cannon Type C</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a tachyon-based weapon that has the longest range of all energy-based weapons but requires enormous amounts of power to fire. This weapon is most effective against molecular shields and weakest against positron shields. Bundschuh weapons do a bit more damage but at a reduced rate of fire. This is the best Tachyon Cannon the Bundschuh has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264311
 INFOCARD
@@ -62817,11 +62817,11 @@ INFOCARD
 
 264338
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia’s Savior" Photon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia's Savior" Photon Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264339
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia’s Savior" Photon Cannon Type B</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire. This is the best Photon Cannon the Gaians have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Gaian "Gaia's Savior" Photon Cannon Type B</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a photon-based weapon which, though providing a high refire rate, requires enormous amounts of energy to deliver a significant damage output. This weapon is most effective against positron shields and weakest against graviton shields. Gaian weapons are more energy-efficient but have a slower rate of fire. This is the best Photon Cannon the Gaians have to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264340
 INFOCARD
@@ -62941,7 +62941,7 @@ INFOCARD
 
 264369
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>N9-C "Magma Hammer" Liberty Plasma Cannon Mk III</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon that delivers large amounts of damage,but cannot be refired quickly. This weapon is most effective against graviton shields and weakest against molecular shields. This is the best Plasma Cannon Liberty has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>N9-C "Magma Hammer" Liberty Plasma Cannon Mk III</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a plasma-based weapon that delivers large amounts of damage but cannot be refired quickly. This weapon is most effective against graviton shields and weakest against molecular shields. This is the best Plasma Cannon Liberty has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264370
 INFOCARD
@@ -63037,7 +63037,7 @@ INFOCARD
 
 264393
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>9-2d "Advanced Sunrail" Bretonia Particle Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon which, though delivers significant damage at a decent fire rate requires enormous amounts of energy. This weapon is most effective against graviton shields and weakest against molecular shields. This is the best Particle Cannon Bretonia has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>9-2d "Advanced Sunrail" Bretonia Particle Cannon</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This is a particle-based weapon which, though delivers significant damage at a decent fire rate, requires enormous amounts of energy. This weapon is most effective against graviton shields and weakest against molecular shields. This is the best Particle Cannon Bretonia has to offer.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264394
 INFOCARD
@@ -63605,7 +63605,7 @@ INFOCARD
 
 264535
 INFOCARD
-<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Rowlett’s Revenge Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This Turret appears to have been heavily modified to provide greater damage output. This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
+<RDL><PUSH/><JUST loc="c"/><TRA bold="true"/><TEXT>Rowlett's Revenge Laser Turret</TEXT><TRA bold="false"/><PARA/><JUST loc="l"/><PARA/><TEXT>This Turret appears to have been heavily modified to provide greater damage output. This is a laser-based weapon that provides a high refire rate at a reduced damage output. This weapon is most effective against positron shields and weakest against graviton shields.</TEXT><PARA/><PARA/><POP/></RDL>
 
 264536
 INFOCARD
