@@ -5,8 +5,9 @@ This addon was made based on Jason's Freelancer Patch which already addressed a 
 ## Changes
 Approximately 1,700 lines from the text strings in Jason's Freelancer Patch have been updated with the following changes:
 * Made sentences more concise for better readability
-* Typo fixes for misspelled words like 'Niboium', 'Aschroft', and 'excerise'
+* Fixed typos for misspelled words like 'Niboium', 'Aschroft', and 'excerise'
 * Correctly spelled several names in the game, like 'Curaçao', 'Tenerife', and 'Rügen'
+* Applied general grammar fixes
 * Replaced words that didn't fit the context properly
 * Consistent use of American English
 * Consistent and correct use of punctuation and other symbols
