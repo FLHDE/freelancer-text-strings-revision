@@ -26,6 +26,8 @@ If you'd like to contribute to this project, you can open the `export.txt` file 
 
 Before each time you commit your changes, please export all of the DLLs using [FLInfocardIE](https://forge.the-starport.net/projects/fldev/files). This is to ensure that all changes you've made are visible in plain text.
 
+** N.B. If you encounter any issues with Git tracking your changes in any of the DLL files, follow the instructions from [this Stack Overflow answer](https://stackoverflow.com/a/24316479). Git doesn't seem to really like binary files for some reason.
+
 ## Installation instructions
 ### Freelancer Mod Manager v1.3
 * Download the mod under "Releases"
