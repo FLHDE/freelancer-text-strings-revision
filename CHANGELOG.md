@@ -3,6 +3,7 @@
 ## [[1.0] - 2021-07-20](https://github.com/BC46/freelancer-text-strings-revision/releases/tag/1.0)
 
 ### Changed
+~1,700 lines changed.
 * Made sentences more concise for better readability
 * Fixed typos for misspelled words like 'Niboium', 'Aschroft', and 'excerise'
 * Correctly spelled several names in the game, like 'Curaçao', 'Tenerife', and 'Rügen'
