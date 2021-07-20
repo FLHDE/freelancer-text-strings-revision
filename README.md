@@ -1,4 +1,4 @@
-# freelancer-text-strings-revision
+# Freelancer text strings revision
 Fixes many typos, grammar mistakes, inconsistencies, and more, in the English text strings from the game Freelancer (2003).
 This addon was made based on Jason's Freelancer Patch which already addressed a few of these issues.
 
