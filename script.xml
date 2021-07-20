@@ -1,0 +1,40 @@
+<script>
+
+<header name="Text string revisions 1.0" savesafe="true">
+<scriptversion>
+1.0
+</scriptversion>
+<author>
+BC46
+</author>
+<modurl>
+https://github.com/BC46/freelancer-text-strings-revision
+</modurl>
+<description>
+Fixes many typos, grammar mistakes, inconsistencies, and more, in the English text strings from the game Freelancer (2003).
+This addon was made based on Jason's Freelancer Patch which already addressed a few of these issues.
+
+Changelog:
+~1,700 lines changed.
+* Made sentences more concise for better readability
+* Fixed typos for misspelled words like 'Niboium', 'Aschroft', and 'excerise'
+* Correctly spelled several names in the game, like 'Curaçao', 'Tenerife', and 'Rügen'
+* Applied general grammar fixes
+* Replaced words that didn't fit the context properly
+* Consistent use of American English
+* Consistent and correct use of punctuation and other symbols
+* Used more consistent choices for words and names like 'Zone 21' and 'Eighty Years’ War'
+* Replaced incorrect information with correct information
+* Replaced several real-life names with more common ones
+
+General informal word choices and intentional typos in rumors remain unchanged. 
+ 
+Credits:
+BC46 - Revision of Freelancer's English text strings
+Buck Danny - Created the Unofficial FL SP 1.4 patch
+Jason Hood - Created Jason's Freelancer Patch
+Louva-Deus - Created the Freelancer SDK/QuickFix
+</description>
+</header>
+
+</script>
