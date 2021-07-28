@@ -817,7 +817,7 @@ OK
 
 1042
 NAME
-Mission Result:\nFailure
+Mission Result:\n Failure
 
 1043
 NAME
@@ -1561,7 +1561,7 @@ Fun Factor
 
 1231
 NAME
-MISSION RESULT:\nSuccess
+MISSION RESULT:\n Success
 
 1232
 NAME
@@ -7153,59 +7153,59 @@ Sector
 
 13085
 NAME
-Mission Result:\nFailure.
+Mission Result:\n Failure.
 
 13086
 NAME
-Mission Result:\nFailure – Aborted.
+Mission Result:\n Failure – Aborted.
 
 13087
 NAME
-Mission Result:\nFailure – You died in battle.
+Mission Result:\n Failure – You died in battle.
 
 13088
 NAME
-Mission Result:\nFailure – Group lives exhausted.
+Mission Result:\n Failure – Group lives exhausted.
 
 13089
 NAME
-Mission Result:\nFailure – Target cargo destroyed.
+Mission Result:\n Failure – Target cargo destroyed.
 
 13090
 NAME
-Mission Result:\nFailure – Target’s escape pod was destroyed.
+Mission Result:\n Failure – Target’s escape pod was destroyed.
 
 13091
 NAME
-Mission Result:\nFailure – Target’s escape pod was destroyed in transit.
+Mission Result:\n Failure – Target’s escape pod was destroyed in transit.
 
 13092
 NAME
-Mission Result:\nFailure – Escape pod transported to the wrong base.
+Mission Result:\n Failure – Escape pod transported to the wrong base.
 
 13093
 NAME
-Mission Result:\nFailure – You ran from the battle.
+Mission Result:\n Failure – You ran from the battle.
 
 13094
 NAME
-Mission Result:\nFailure – Your group failed to stay in the battle.
+Mission Result:\n Failure – Your group failed to stay in the battle.
 
 13095
 NAME
-Mission Result:\nFailure
+Mission Result:\n Failure
 
 13096
 NAME
-Mission Result:\nFailure – Target cargo abandoned in space.
+Mission Result:\n Failure – Target cargo abandoned in space.
 
 13097
 NAME
-Mission Result:\nFailure – Target cargo abandoned in space.
+Mission Result:\n Failure – Target cargo abandoned in space.
 
 13098
 NAME
-Mission Result:\nFailure – Target escape pod abandoned.
+Mission Result:\n Failure – Target escape pod abandoned.
 
 14999
 NAME
