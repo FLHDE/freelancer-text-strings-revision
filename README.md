@@ -14,6 +14,7 @@ Approximately 1,700 lines from the text strings in Jason's Freelancer Patch have
 * Used more consistent choices for words and names like 'Zone 21' and 'Eighty Years’ War'
 * Replaced incorrect information with correct information
 * Replaced several uncommon/nonexistent real-life names with more common ones
+* Readded spaces to mission alert messages
 
 General informal word choices and intentional typos in rumors remain unchanged.
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## [[1.1] - 2021-07-28](https://github.com/BC46/freelancer-text-strings-revision/releases/tag/1.1)
+
+### Changed
+16 lines changed.
+* Readded spaces to mission alert messages
+
 ## [[1.0] - 2021-07-20](https://github.com/BC46/freelancer-text-strings-revision/releases/tag/1.0)
 
 ### Changed
