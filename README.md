@@ -21,7 +21,7 @@ General informal word choices and intentional typos in rumors remain unchanged.
 
 The EXE folder includes 7 DLL files that contain all strings that are used in the game. Additionally, you'll find a text file named `export.txt` in the root folder of the project, which is an export of all the strings from the DLLs. To see what exactly has been changed since the export of the original DLLs, please compare the following exports in your favorite Git client:
 * https://github.com/BC46/freelancer-text-strings-revision/blob/e48b02adab0d3aa9bc32a3c9e152a794eec68fb8/export.txt
-* https://github.com/BC46/freelancer-text-strings-revision/blob/2aa01e355e0a20e14225af6c66644d1f45380e56/export.txt
+* https://github.com/BC46/freelancer-text-strings-revision/blob/main/export.txt
 
 ## How to contribute
 If you'd like to contribute to this project, you can open the `export.txt` file in the root of this project to find strings that you'd like to change. Once you've done that, find and edit the string(s) you want to change in any of the 7 DLLs in the EXE folder with a resource editor like [Resource Hacker](http://www.angusj.com/resourcehacker/). Make sure the resource editor you use keeps all unicode symbols intact.
