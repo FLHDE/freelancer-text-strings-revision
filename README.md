@@ -2,6 +2,8 @@
 Fixes many typos, grammar mistakes, inconsistencies, and more, in the English text strings from the game Freelancer (2003).
 This addon was made based on Jason's Freelancer Patch which already addressed a few of these issues.
 
+All files from this addon may be freely used by any mod or anything else. See the [LICENSE](https://github.com/BC46/freelancer-text-strings-revision/blob/main/LICENSE) file for more information.
+
 ## Changes
 Approximately 1,700 lines from the text strings in Jason's Freelancer Patch have been updated with the following changes:
 * Made wordy sentences more concise for better readability
