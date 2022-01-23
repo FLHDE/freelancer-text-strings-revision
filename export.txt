@@ -27965,7 +27965,7 @@ INFOCARD
 
 133675
 INFOCARD
-<RDL><PUSH/><TEXT>There are two Jump Holes in this system. One leads to Omega-11, which is pretty much dominated by the Hessians. That Hole is located in the Furstenfelde. Look southwest of the Daumann base in there and you should stumble across it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There are two Jump Holes in this system. One leads to Omega-11, which is pretty much dominated by the Hessians. That Hole is located in the Fürstenfelde. Look southwest of the Daumann base in there and you should stumble across it.</TEXT><PARA/><POP/></RDL>
 
 133676
 INFOCARD
@@ -30209,7 +30209,7 @@ INFOCARD
 
 134291
 INFOCARD
-<RDL><PUSH/><TEXT>The Republican freight train </TEXT><TRA italic="true"/><TEXT>Bremerhaven</TEXT><TRA italic="false"/><TEXT>  was attempting to evade a Corsair attack along the Trade Lane when it blundered into the Furstenfelde gas pocket and was disabled. Attempts to rescue the crew and its cargo of Engine Components were unsuccessful. The drifting ship serves as a reminder of the dangers of venturing off the safe path in the Walker Nebula.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Republican freight train </TEXT><TRA italic="true"/><TEXT>Bremerhaven</TEXT><TRA italic="false"/><TEXT>  was attempting to evade a Corsair attack along the Trade Lane when it blundered into the Fürstenfelde gas pocket and was disabled. Attempts to rescue the crew and its cargo of Engine Components were unsuccessful. The drifting ship serves as a reminder of the dangers of venturing off the safe path in the Walker Nebula.</TEXT><PARA/><POP/></RDL>
 
 134292
 INFOCARD
@@ -52417,7 +52417,7 @@ I’ll sell you the location of several Corsair wrecks in the Gubenfelde
 
 251951
 NAME
-I’ll sell you the location of a Krüger wreck in the Furstenfelde
+I’ll sell you the location of a Krüger wreck in the Fürstenfelde
 
 251952
 NAME
@@ -58253,7 +58253,7 @@ Ebersfelde Cloud
 
 261307
 NAME
-Furstenfelde Cloud
+Fürstenfelde Cloud
 
 261308
 NAME
@@ -69649,7 +69649,7 @@ Ebersfelde Cloud
 
 331780
 NAME
-Furstenfelde Cloud
+Fürstenfelde Cloud
 
 331781
 NAME
@@ -70221,7 +70221,7 @@ the Ebersfelde Cloud
 
 331980
 NAME
-the Furstenfelde Cloud
+the Fürstenfelde Cloud
 
 331981
 NAME
