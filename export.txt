@@ -12841,7 +12841,7 @@ Celebrity Endorses Glitzy Cabaret
 
 56093
 NAME
-HAMBURG — Erika Muller is opening a new cabaret in the heart of Hamburg’s industrial district. The famous singer will be performing to boost attendance for the grand opening of the cabaret named “The Bomb,” which is scheduled to open next week. Audiences are expected to come from throughout the system. Muller hasn’t made a personal appearance in over three years, having isolated herself from the public after the death of her husband, the late Captain Hans Muller of Lübeck Station. Captain Muller was thrust into the limelight after rescuing Erika’s ship from Red Hessians several years ago.
+HAMBURG — Erika Müller is opening a new cabaret in the heart of Hamburg’s industrial district. The famous singer will be performing to boost attendance for the grand opening of the cabaret named “The Bomb,” which is scheduled to open next week. Audiences are expected to come from throughout the system. Müller hasn’t made a personal appearance in over three years, having isolated herself from the public after the death of her husband, the late Captain Hans Müller of Lübeck Station. Captain Müller was thrust into the limelight after rescuing Erika’s ship from Red Hessians several years ago.
 
 56094
 NAME
@@ -38365,7 +38365,7 @@ Krüger Minerals\nRep. Sebastian Topf
 
 220711
 NAME
-Krüger Minerals\nWolfgang Vorkäuffer
+Krüger Minerals\nWolfgang Vorkäufer
 
 220712
 NAME
@@ -45685,7 +45685,7 @@ Brunnhoff
 
 228441
 NAME
-Buhlers
+Bühlers
 
 228442
 NAME
@@ -45789,7 +45789,7 @@ Eckolt
 
 228467
 NAME
-Felgentrager
+Felgenträger
 
 228468
 NAME
@@ -45833,7 +45833,7 @@ Fudickar
 
 228478
 NAME
-Funfstuck
+Fünfstück
 
 228479
 NAME
@@ -45945,7 +45945,7 @@ Huge
 
 228506
 NAME
-Hulsemann
+Hülsemann
 
 228507
 NAME
@@ -45969,7 +45969,7 @@ Kastner
 
 228512
 NAME
-Kastner
+Kästner
 
 228513
 NAME
@@ -46017,11 +46017,11 @@ Kroll
 
 228524
 NAME
-Kuchenthal
+Küchenthal
 
 228525
 NAME
-Kuhlewein
+Kühlewein
 
 228526
 NAME
@@ -46129,11 +46129,11 @@ Modesta
 
 228552
 NAME
-Moller
+Möller
 
 228553
 NAME
-Muller
+Müller
 
 228554
 NAME
@@ -46213,7 +46213,7 @@ Rosenstengel
 
 228573
 NAME
-Rossler
+Rössler
 
 228574
 NAME
@@ -46277,7 +46277,7 @@ Schoner
 
 228589
 NAME
-Schroder
+Schröder
 
 228590
 NAME
@@ -46285,7 +46285,7 @@ Schroeder
 
 228591
 NAME
-Schroner
+Schröner
 
 228592
 NAME
@@ -46337,7 +46337,7 @@ Steger
 
 228604
 NAME
-Steinbruck
+Steinbrück
 
 228605
 NAME
@@ -46365,7 +46365,7 @@ Stschukin
 
 228611
 NAME
-Sturcke
+Stürcke
 
 228612
 NAME
@@ -46421,7 +46421,7 @@ Von Byla
 
 228625
 NAME
-Von Gotz
+Von Götz
 
 228626
 NAME
@@ -46493,7 +46493,7 @@ Von Wurmt
 
 228643
 NAME
-Vorkauffer
+Vorkäufer
 
 228644
 NAME
@@ -51021,7 +51021,7 @@ Daumann Heavy Construction\nSolarius Equipment Dealer\nReinhold Lesens
 
 245074
 NAME
-Red Hessians\nFreital Bartender\nHugo Buhlers
+Red Hessians\nFreital Bartender\nHugo Bühlers
 
 245075
 NAME
