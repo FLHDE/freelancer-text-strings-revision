@@ -29181,7 +29181,7 @@ INFOCARD
 
 133982
 INFOCARD
-<RDL><PUSH/><TEXT>I guess Daumann came back to this system because Krüger was here. After the Richtofen went up everybody left — that was it, the war was over. After a while, Krüger came back, and that means Daumann had to follow suit, didn’t they?</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I guess Daumann came back to this system because Krüger was here. After the Richthofen went up everybody left — that was it, the war was over. After a while, Krüger came back, and that means Daumann had to follow suit, didn’t they?</TEXT><PARA/><POP/></RDL>
 
 133983
 INFOCARD
@@ -29329,7 +29329,7 @@ INFOCARD
 
 134019
 INFOCARD
-<RDL><PUSH/><TEXT>Once Station Richtofen was destroyed, we knew that we had lost the war — and much worse: Krüger had lost the Border Worlds to the GMG. It was a dark day for Rheinland and for Krüger. Maybe one day Rheinland will rise again.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Once Station Richthofen was destroyed, we knew that we had lost the war — and much worse: Krüger had lost the Border Worlds to the GMG. It was a dark day for Rheinland and for Krüger. Maybe one day Rheinland will rise again.</TEXT><PARA/><POP/></RDL>
 
 134020
 INFOCARD
@@ -29381,7 +29381,7 @@ INFOCARD
 
 134032
 INFOCARD
-<RDL><PUSH/><TEXT>My grandfather fought in the battle for Richtofen; he was one of the few who survived. I used to watch him sitting in his chair, staring at nothing when I was a little kid. Though people said he was a great pilot, my father told me grandfather wished that he had died at Richtofen.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My grandfather fought in the battle for Richthofen; he was one of the few who survived. I used to watch him sitting in his chair, staring at nothing when I was a little kid. Though people said he was a great pilot, my father told me grandfather wished that he had died at Richthofen.</TEXT><PARA/><POP/></RDL>
 
 134033
 INFOCARD
