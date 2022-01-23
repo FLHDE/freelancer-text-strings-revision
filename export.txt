@@ -14901,7 +14901,7 @@ INFOCARD
 
 65616
 INFOCARD
-<RDL><PUSH/><TEXT>Mannheim Station is the farthest outpost of the once vast Krüger Mineral concern, mining resources from the nearby gas giant, Munich. The impure gas resources collected from Munich, however, require the re-synthesis of H-Fuel in a process that is uneconomical, but which provides one of the few sources for H-Fuel in Rheinland space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Mannheim Station is the farthest outpost of the once vast Krüger Mineral concern, mining resources from the nearby gas giant, München. The impure gas resources collected from München, however, require the re-synthesis of H-Fuel in a process that is uneconomical, but which provides one of the few sources for H-Fuel in Rheinland space.</TEXT><PARA/><POP/></RDL>
 
 65617
 INFOCARD
@@ -16653,15 +16653,15 @@ INFOCARD
 
 66060
 INFOCARD
-<RDL><PUSH/><TEXT>DIAMETER: 29,949 km</TEXT><PARA/><TEXT>MASS: 13.98 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 19.21 km/s</TEXT><PARA/><PARA/><TEXT>A large gas giant with substantial traces of deuterium and tritium in its upper atmosphere, Munich is currently being mined by Krüger Minerals from their base on Mannheim Station in orbit.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>DIAMETER: 29,949 km</TEXT><PARA/><TEXT>MASS: 13.98 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 19.21 km/s</TEXT><PARA/><PARA/><TEXT>A large gas giant with substantial traces of deuterium and tritium in its upper atmosphere, München is currently being mined by Krüger Minerals from their base on Mannheim Station in orbit.</TEXT><PARA/><POP/></RDL>
 
 66061
 INFOCARD
-<RDL><PUSH/><TEXT>DIAMETER: 10,698 km</TEXT><PARA/><TEXT>MASS: 6.23 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: Desert</TEXT><PARA/><TEXT>TEMPERATURE: -23°C to 56°C</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 11.27 km/s</TEXT><PARA/><PARA/><TEXT>A planet that may have once been a moon of Munich, Stulingen is a hot, dry world warmed by internal volcanic processes, but with no atmosphere capable of supporting life.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>DIAMETER: 10,698 km</TEXT><PARA/><TEXT>MASS: 6.23 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: Desert</TEXT><PARA/><TEXT>TEMPERATURE: -23°C to 56°C</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 11.27 km/s</TEXT><PARA/><PARA/><TEXT>A planet that may have once been a moon of München, Stühlingen is a hot, dry world warmed by internal volcanic processes, but with no atmosphere capable of supporting life.</TEXT><PARA/><POP/></RDL>
 
 66062
 INFOCARD
-<RDL><PUSH/><TEXT>DIAMETER: 18,468 km</TEXT><PARA/><TEXT>MASS: 4.89 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 12.02 km/s</TEXT><PARA/><PARA/><TEXT>A medium-sized gas giant whose upper layers are mostly composed of frozen methane. The vast bulk of Hanover often blocks the light of the sun from reaching the dark cells of orbiting Vierlande Prison.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>DIAMETER: 18,468 km</TEXT><PARA/><TEXT>MASS: 4.89 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 12.02 km/s</TEXT><PARA/><PARA/><TEXT>A medium-sized gas giant whose upper layers are mostly composed of frozen methane. The vast bulk of Hannover often blocks the light of the sun from reaching the dark cells of orbiting Vierlande Prison.</TEXT><PARA/><POP/></RDL>
 
 66063
 INFOCARD
@@ -33877,7 +33877,7 @@ Alsterfleet
 
 202912
 NAME
-Rhine
+Rhein
 
 202913
 NAME
@@ -33897,11 +33897,11 @@ Watzmann
 
 202917
 NAME
-Grossglockner
+Großglockner
 
 202918
 NAME
-Grossvenediger
+Großvenediger
 
 202919
 NAME
@@ -34005,7 +34005,7 @@ Spree
 
 202944
 NAME
-Landwarhkanal
+Landwehrkanal
 
 202945
 NAME
@@ -34061,7 +34061,7 @@ Freising
 
 202958
 NAME
-Grafenwoer
+Grafenwöhr
 
 202959
 NAME
@@ -34073,7 +34073,7 @@ Landshut
 
 202961
 NAME
-Munich
+München
 
 202962
 NAME
@@ -34125,7 +34125,7 @@ Hameln
 
 202974
 NAME
-Hanover
+Hannover
 
 202975
 NAME
@@ -34133,7 +34133,7 @@ Nordenham
 
 202976
 NAME
-Osnabrueker
+Osnabrück
 
 202977
 NAME
@@ -34149,7 +34149,7 @@ Wilhelmshaven
 
 202980
 NAME
-Wolfenbuettel
+Wolfenbüttel
 
 202981
 NAME
@@ -34169,7 +34169,7 @@ Düsseldorf
 
 202985
 NAME
-Koeln
+Köln
 
 202986
 NAME
@@ -35093,7 +35093,7 @@ Gunboat RNC Passau
 
 217052
 NAME
-Gunboat RNC Ingoldstadt
+Gunboat RNC Ingolstadt
 
 217053
 NAME
@@ -57681,11 +57681,11 @@ Aalen
 
 261144
 NAME
-Planet Munich
+Planet München
 
 261145
 NAME
-Planet Stulingen
+Planet Stühlingen
 
 261146
 NAME
@@ -58245,7 +58245,7 @@ Hammen Hole
 
 261305
 NAME
-Ebersfeld Cloud
+Ebersfelde Cloud
 
 261306
 NAME
@@ -69641,7 +69641,7 @@ Hammen Hole
 
 331778
 NAME
-Ebersfeld Cloud
+Ebersfelde Cloud
 
 331779
 NAME
@@ -70213,7 +70213,7 @@ the Hammen Hole
 
 331978
 NAME
-the Ebersfeld Cloud
+the Ebersfelde Cloud
 
 331979
 NAME
