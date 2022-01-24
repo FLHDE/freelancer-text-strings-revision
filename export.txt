@@ -11165,7 +11165,7 @@ NAME
 
 30005
 NAME
-*PERSONAL ENTRY:\nWell, after several days of travel, we finally arrived on Manhattan. It was about time; the rescue ship was everything but a pleasant experience. The other eight survivors simply wouldn’t stop talking about what had happened on Freeport 7. Speculations were running wild, and just about everybody was accused at one point or another. Some were convinced Chancellor Niemann was behind the attack, and others accused Governor Tekagi. A Kruger rep assured me that Samura was the only possible group that had an interest in destroying Freeport 7. After a whole lot of useless debate, the majority seemed to agree in the end that The Order was behind it. Anyway, I have to say Manhattan is everything that Tobias made it out to be: a single giant city that covers almost the entire planet. They say that over 220 million people live here — unbelievable. The medics just took Lonnigan to intensive care in Medical. They said it’ll take a while until he’s released. No matter how long it takes, I’ll stay in Manhattan until he recovers. After all, we had signed the deal already. In the meantime, I should find a job. My 500 credits won’t last long. Maybe there is someone in the bar who could give me a lead.
+*PERSONAL ENTRY:\nWell, after several days of travel, we finally arrived on Manhattan. It was about time; the rescue ship was everything but a pleasant experience. The other eight survivors simply wouldn’t stop talking about what had happened on Freeport 7. Speculations were running wild, and just about everybody was accused at one point or another. Some were convinced Chancellor Niemann was behind the attack, and others accused Governor Tekagi. A Krüger rep assured me that Samura was the only possible group that had an interest in destroying Freeport 7. After a whole lot of useless debate, the majority seemed to agree in the end that The Order was behind it. Anyway, I have to say Manhattan is everything that Tobias made it out to be: a single giant city that covers almost the entire planet. They say that over 220 million people live here — unbelievable. The medics just took Lonnigan to intensive care in Medical. They said it’ll take a while until he’s released. No matter how long it takes, I’ll stay in Manhattan until he recovers. After all, we had signed the deal already. In the meantime, I should find a job. My 500 credits won’t last long. Maybe there is someone in the bar who could give me a lead.
 
 30010
 NAME
@@ -12145,7 +12145,7 @@ SynthFoods Inc.
 
 47019
 NAME
-Kruger Minerals
+Krüger Minerals
 
 47020
 NAME
@@ -12341,7 +12341,7 @@ Synth Foods
 
 47068
 NAME
-Kruger
+Krüger
 
 47069
 NAME
@@ -12769,7 +12769,7 @@ Blue Diamonds: Red Hot Fashion
 
 56075
 NAME
-DRESDEN — The blue Diamonds mined at Kruger’s Bautzen facility in Dresden have recently gained in popularity among the Rheinland super-rich. More top designers and jewelers are using the expensive rocks that have come to be known as Hessian Tears. Rebecca Daumann, daughter of the current CEO of the mega-corporation, is in many ways responsible for the stone’s resurgence. She has been wearing them to all the largest galas and parties thrown in New Berlin, and her flawless fashion sense has captured the public’s imagination.
+DRESDEN — The blue Diamonds mined at Krüger’s Bautzen facility in Dresden have recently gained in popularity among the Rheinland super-rich. More top designers and jewelers are using the expensive rocks that have come to be known as Hessian Tears. Rebecca Daumann, daughter of the current CEO of the mega-corporation, is in many ways responsible for the stone’s resurgence. She has been wearing them to all the largest galas and parties thrown in New Berlin, and her flawless fashion sense has captured the public’s imagination.
 
 56076
 NAME
@@ -12841,7 +12841,7 @@ Celebrity Endorses Glitzy Cabaret
 
 56093
 NAME
-HAMBURG — Erika Muller is opening a new cabaret in the heart of Hamburg’s industrial district. The famous singer will be performing to boost attendance for the grand opening of the cabaret named “The Bomb,” which is scheduled to open next week. Audiences are expected to come from throughout the system. Muller hasn’t made a personal appearance in over three years, having isolated herself from the public after the death of her husband, the late Captain Hans Muller of Lübeck Station. Captain Muller was thrust into the limelight after rescuing Erika’s ship from Red Hessians several years ago.
+HAMBURG — Erika Müller is opening a new cabaret in the heart of Hamburg’s industrial district. The famous singer will be performing to boost attendance for the grand opening of the cabaret named “The Bomb,” which is scheduled to open next week. Audiences are expected to come from throughout the system. Müller hasn’t made a personal appearance in over three years, having isolated herself from the public after the death of her husband, the late Captain Hans Müller of Lübeck Station. Captain Müller was thrust into the limelight after rescuing Erika’s ship from Red Hessians several years ago.
 
 56094
 NAME
@@ -12913,7 +12913,7 @@ Diamond Shipment Attacked
 
 56111
 NAME
-DRESDEN — The Trade Lane between the New Berlin Jump Gate and the Kruger Minerals station Bautzen was the site of a major Red Hessian attack yesterday. Security was especially tight, but the Red Hessians knew it was coming and hit hard. Kruger, anticipating a possible ambush, had hired several Freelancers and Bounty Hunters to protect the Diamond shipment. Luckily, these precautions paid off, and the convoy made it safely to New Berlin.
+DRESDEN — The Trade Lane between the New Berlin Jump Gate and the Krüger Minerals station Bautzen was the site of a major Red Hessian attack yesterday. Security was especially tight, but the Red Hessians knew it was coming and hit hard. Krüger, anticipating a possible ambush, had hired several Freelancers and Bounty Hunters to protect the Diamond shipment. Luckily, these precautions paid off, and the convoy made it safely to New Berlin.
 
 56112
 NAME
@@ -12921,7 +12921,7 @@ GMG No Longer a Threat
 
 56113
 NAME
-FRANKFURT — It looks like the GMG probes into the Frankfurt system might finally be a thing of the past. Since the end of the Eighty Years’ War, the GMG has periodically launched raids against the Kruger-owned Mannheim H-fuel facility. The Fulda Border Station has reported no GMG activity during the last several years. Although this is good news for Frankfurt, it is unlikely that many people will ever populate the nearly deserted system.
+FRANKFURT — It looks like the GMG probes into the Frankfurt system might finally be a thing of the past. Since the end of the Eighty Years’ War, the GMG has periodically launched raids against the Krüger-owned Mannheim H-fuel facility. The Fulda Border Station has reported no GMG activity during the last several years. Although this is good news for Frankfurt, it is unlikely that many people will ever populate the nearly deserted system.
 
 56114
 NAME
@@ -14033,7 +14033,7 @@ More Lies from the Corporations
 
 56391
 NAME
-NEW BERLIN — In a press release issued today the Rheinland government stated that industrial casualties are declining. This information was compiled from annual worker statistics generated by Daumann, Kruger, and Republican. Government officials applauded the companies for their strict adherence to the Workers Rights Convention. Do not be fooled; this is nothing more than propaganda created to lull you into apathy. The truth is that these corporations ignore the Convention. Overworked, overpaid miners die every day using unsafe equipment. Metal workers fall into vats of molten metal daily, too tired to be careful. This is no time for complacency.
+NEW BERLIN — In a press release issued today the Rheinland government stated that industrial casualties are declining. This information was compiled from annual worker statistics generated by Daumann, Krüger, and Republican. Government officials applauded the companies for their strict adherence to the Workers Rights Convention. Do not be fooled; this is nothing more than propaganda created to lull you into apathy. The truth is that these corporations ignore the Convention. Overworked, overpaid miners die every day using unsafe equipment. Metal workers fall into vats of molten metal daily, too tired to be careful. This is no time for complacency.
 
 56392
 NAME
@@ -14765,7 +14765,7 @@ INFOCARD
 
 65582
 INFOCARD
-<RDL><PUSH/><TEXT>Bautzen Station supports the Kruger Minerals operation in the Dresden System. Smaller than the rival Daumann facility at Leipzig, Kruger chose to focus solely on the extraction of Diamonds from the shifting clouds and rogue asteroids that populate Dresden.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Bautzen Station supports the Krüger Minerals operation in the Dresden System. Smaller than the rival Daumann facility at Leipzig, Krüger chose to focus solely on the extraction of Diamonds from the shifting clouds and rogue asteroids that populate Dresden.</TEXT><PARA/><POP/></RDL>
 
 65583
 INFOCARD
@@ -14789,7 +14789,7 @@ INFOCARD
 
 65588
 INFOCARD
-<RDL><PUSH/><TEXT>The story of the Hessians emerges from the turbulent history of the Dresden System, the mining heartland of Rheinland since the beginning of the third century. Mining there was dirty, dangerous work, but Daumann and Kruger had little reason to lose sleep over the welfare of their employees. The price of the occasional disability pension or life insurance policy was nothing compared to the money made from extracting and refining the metals and materials that fed the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>As the Eighty Years’ War wound down to its ignoble conclusion, Rheinland found itself virtually bankrupt. Kruger and Daumann released thousands of employees throughout Rheinland. Promises of bonuses were left unfulfilled, and in many cases, miners were left completely destitute. An uprising was almost inevitable. A group of miners took control of the Daumann Heavy Construction facility on Von Rohe’s Day in 700 AS.</TEXT><PARA/><PARA/><TEXT>The revolt soon spread from Dresden to the rest of the Rheinland, gaining widespread backing from the legions of newly unemployed workers. The industrial heart of Rheinland stopped beating; the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Within five months a new coalition government was established. Both Kruger and Daumann were required to pay reparations, and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention. They have been careful to adhere to the letter of the law, if not the spirit. The compromise left many that had fought in the revolution bitter. Many workers could not accept the prospect of working for their old taskmasters and decided to form the Red Hessians, a group dedicated to destroying the two companies.</TEXT><PARA/><PARA/><TEXT>It was not long before Red Hessian political ideals were replaced by greed, which has led them to become more like pirates than activists. The police have been forced to maintain a significant presence in Dresden to prevent Hessian strikes from clogging the gears of the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>The Hessians have gradually expanded, assisted by their close proximity to Stuttgart Food shipments and an extensive Jump Hole network within the southern Sirius Sector. They now own a string of bases in the southern Rheinland Border Worlds. In Omega-5 they encountered their first real obstacle — the Corsairs. They have fought the Edge World faction to a tenuous stalemate, with the Ronneburg base barely holding on against the stronger Corsair presence in that system. Fortunately, they live in a rich area of Sirius in terms of raw materials, especially Diamonds. Their preferred targets are Daumann and Kruger, although almost any shipper is vulnerable to attack.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The story of the Hessians emerges from the turbulent history of the Dresden System, the mining heartland of Rheinland since the beginning of the third century. Mining there was dirty, dangerous work, but Daumann and Krüger had little reason to lose sleep over the welfare of their employees. The price of the occasional disability pension or life insurance policy was nothing compared to the money made from extracting and refining the metals and materials that fed the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>As the Eighty Years’ War wound down to its ignoble conclusion, Rheinland found itself virtually bankrupt. Krüger and Daumann released thousands of employees throughout Rheinland. Promises of bonuses were left unfulfilled, and in many cases, miners were left completely destitute. An uprising was almost inevitable. A group of miners took control of the Daumann Heavy Construction facility on Von Rohe’s Day in 700 AS.</TEXT><PARA/><PARA/><TEXT>The revolt soon spread from Dresden to the rest of the Rheinland, gaining widespread backing from the legions of newly unemployed workers. The industrial heart of Rheinland stopped beating; the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Within five months a new coalition government was established. Both Krüger and Daumann were required to pay reparations, and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention. They have been careful to adhere to the letter of the law, if not the spirit. The compromise left many that had fought in the revolution bitter. Many workers could not accept the prospect of working for their old taskmasters and decided to form the Red Hessians, a group dedicated to destroying the two companies.</TEXT><PARA/><PARA/><TEXT>It was not long before Red Hessian political ideals were replaced by greed, which has led them to become more like pirates than activists. The police have been forced to maintain a significant presence in Dresden to prevent Hessian strikes from clogging the gears of the Rheinland industry.</TEXT><PARA/><PARA/><TEXT>The Hessians have gradually expanded, assisted by their close proximity to Stuttgart Food shipments and an extensive Jump Hole network within the southern Sirius Sector. They now own a string of bases in the southern Rheinland Border Worlds. In Omega-5 they encountered their first real obstacle — the Corsairs. They have fought the Edge World faction to a tenuous stalemate, with the Ronneburg base barely holding on against the stronger Corsair presence in that system. Fortunately, they live in a rich area of Sirius in terms of raw materials, especially Diamonds. Their preferred targets are Daumann and Krüger, although almost any shipper is vulnerable to attack.</TEXT><PARA/><POP/></RDL>
 
 65589
 INFOCARD
@@ -14869,7 +14869,7 @@ INFOCARD
 
 65608
 INFOCARD
-<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the Eighty Years’ War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Kruger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann’s manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Kruger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Kruger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Kruger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Believed to be founded by a group of New Berlin University students in 679 AS, the movement had much support among the liberal elite of New Berlin, tired of the corrupt practices of the government that had led them to financial ruin near the end of the Eighty Years’ War. During the Dresden rebellion of 700 AS, the Bundschuh found their first official cause — shipping supplies “liberated” from Frankfurt to the Krüger and Daumann rebels. Three months after that, sympathetic maintenance workers started sabotaging Daumann’s manufacturing operations in New Berlin. The industrial heart of Rheinland stopped beating, and the Popular Revolution had begun.</TEXT><PARA/><PARA/><TEXT>Five years later the Emperor was overthrown, and a new coalition government was established in its place. While the Bundschuh initially pushed for a full investigation into the activities of companies such as Krüger Minerals and Daumann Heavy Construction, more pragmatic elements within the government decided that for the newly formed Rheinland Republic to succeed, it needed the support of the aristocrats who controlled those and other major companies. Both Krüger and Daumann were eventually required to pay substantial reparations intended to “improve the Rheinland Republic for the good of all people,” and all Rheinland companies were forced to comply with a newly ratified Workers’ Rights Convention.</TEXT><PARA/><PARA/><TEXT>By 715 AS business in Dresden had more or less resumed as usual. The Bundschuh was driven underground, an impractical brand of idealism ill-suited to building a consensus among the many different government factions and the aristocrats who controlled the purse strings. The Bundschuh took the ideological high route, attracting the purists dedicated to overthrowing the corrupt Rheinland regime represented by the government, Daumann, and Republican. The Red Hessians adapted the more pragmatic approach of stealing and plundering in the guise of fighting the powers that be. As a result, the Red Hessian ranks swelled, and the Bundschuh dwindled.</TEXT><PARA/><PARA/><TEXT>The Bundschuh have always looked to the Unioners, LWB, Red Hessians, and disgruntled Republican, Daumann, and Krüger workers for possible recruits. So they maintain a distinct note of neutrality towards the criminal groups, although they find the Red Hessian practice of indiscriminate piracy distasteful. They prefer to focus on Daumann, Republican, and military bases, although they do raid a ship on occasion for supplies, preferably Samura or Kishiro, as they have no more love for Kusari than the rest of the Rheinland.</TEXT><PARA/><POP/></RDL>
 
 65609
 INFOCARD
@@ -14901,7 +14901,7 @@ INFOCARD
 
 65616
 INFOCARD
-<RDL><PUSH/><TEXT>Mannheim Station is the farthest outpost of the once vast Kruger Mineral concern, mining resources from the nearby gas giant, Munich. The impure gas resources collected from Munich, however, require the re-synthesis of H-Fuel in a process that is uneconomical, but which provides one of the few sources for H-Fuel in Rheinland space.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Mannheim Station is the farthest outpost of the once vast Krüger Mineral concern, mining resources from the nearby gas giant, München. The impure gas resources collected from München, however, require the re-synthesis of H-Fuel in a process that is uneconomical, but which provides one of the few sources for H-Fuel in Rheinland space.</TEXT><PARA/><POP/></RDL>
 
 65617
 INFOCARD
@@ -15253,7 +15253,7 @@ INFOCARD
 
 65704
 INFOCARD
-<RDL><PUSH/><TEXT>Essen Station is the headquarters and primary manufacturing facility for Kruger Minerals, a once-proud company currently experiencing hard times. Wishing to exploit the vast gas resources of the Crow Nebula despite claims made to the territory by the Gas Mining Guild (GMG), Kruger was a primary supporter of the Eighty Years’ War. After that conflict ended in disaster, Kruger’s capital was exhausted and the company persecuted. Today Kruger is attempting to rebuild by allying itself with ALG Waste Disposal.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Essen Station is the headquarters and primary manufacturing facility for Krüger Minerals, a once-proud company currently experiencing hard times. Wishing to exploit the vast gas resources of the Crow Nebula despite claims made to the territory by the Gas Mining Guild (GMG), Krüger was a primary supporter of the Eighty Years’ War. After that conflict ended in disaster, Krüger’s capital was exhausted and the company persecuted. Today Krüger is attempting to rebuild by allying itself with ALG Waste Disposal.</TEXT><PARA/><POP/></RDL>
 
 65705
 INFOCARD
@@ -15621,7 +15621,7 @@ INFOCARD
 
 65798
 INFOCARD
-<RDL><PUSH/><TEXT>Elbich Mining Facility is owned and operated by Kruger Minerals. Elbich focuses exclusively on the extraction of Silver from local asteroid fields.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Elbich Mining Facility is owned and operated by Krüger Minerals. Elbich focuses exclusively on the extraction of Silver from local asteroid fields.</TEXT><PARA/><POP/></RDL>
 
 65799
 INFOCARD
@@ -16173,15 +16173,15 @@ INFOCARD
 
 65937
 INFOCARD
-<RDL><PUSH/><TEXT>A field of lava asteroids. Unfortunately, the field is too close to the sun and consequently too molten for any mining. Bautzen Station, local headquarters for Kruger Minerals, sits at the edge of the field.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A field of lava asteroids. Unfortunately, the field is too close to the sun and consequently too molten for any mining. Bautzen Station, local headquarters for Krüger Minerals, sits at the edge of the field.</TEXT><PARA/><POP/></RDL>
 
 65938
 INFOCARD
-<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: SEVERE DANGER&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The cloud is a swirling mass of sulfuric acid and hydrogen sulfide that will corrode the Hull Panels of even an armored, shielded ship in a relatively short amount of time. Because of its toxic nature, the cloud has never been fully explored, but Red Hessians will sometimes use it as a method of evading pursuit after stealing valuable Diamond shipments from Daumann or Kruger.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: SEVERE DANGER&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The cloud is a swirling mass of sulfuric acid and hydrogen sulfide that will corrode the Hull Panels of even an armored, shielded ship in a relatively short amount of time. Because of its toxic nature, the cloud has never been fully explored, but Red Hessians will sometimes use it as a method of evading pursuit after stealing valuable Diamond shipments from Daumann or Krüger.</TEXT><PARA/><POP/></RDL>
 
 65939
 INFOCARD
-<RDL><PUSH/><TEXT>A large sulfur cloud containing lava asteroids. Diamonds can often be found floating freely within the cloud and are collected by Kruger Minerals, operating from nearby Bautzen Station. However, Kruger has been forced to increase security to prevent theft by Red Hessians.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A large sulfur cloud containing lava asteroids. Diamonds can often be found floating freely within the cloud and are collected by Krüger Minerals, operating from nearby Bautzen Station. However, Krüger has been forced to increase security to prevent theft by Red Hessians.</TEXT><PARA/><POP/></RDL>
 
 65940
 INFOCARD
@@ -16341,7 +16341,7 @@ INFOCARD
 
 65980
 INFOCARD
-<RDL><PUSH/><TEXT>A huge field of ice asteroids. Wendell is currently being mined for its abundant quantities of Water and Oxygen by members of the Independent Mining Guild (IMG) stationed aboard Freeport 4.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A huge field of ice asteroids. Weddell is currently being mined for its abundant quantities of Water and Oxygen by members of the Independent Mining Guild (IMG) stationed aboard Freeport 4.</TEXT><PARA/><POP/></RDL>
 
 65981
 INFOCARD
@@ -16361,11 +16361,11 @@ INFOCARD
 
 65985
 INFOCARD
-<RDL><PUSH/><TEXT>A mined-out asteroid field. Its proximity to the Ring and Oder shipyards has made it a favorite hiding place for Bundschuh terrorists, while Unioners prefer to hit the diamond convoys passing along the Trade Lane to the Kruger Minerals headquarters on Essen Station.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A mined-out asteroid field. Its proximity to the Ring and Oder shipyards has made it a favorite hiding place for Bundschuh terrorists, while Unioners prefer to hit the diamond convoys passing along the Trade Lane to the Krüger Minerals headquarters on Essen Station.</TEXT><PARA/><POP/></RDL>
 
 65986
 INFOCARD
-<RDL><PUSH/><TEXT>A mined-out asteroid field. Frequently used by Red Hessian pirates to attack Daumann and Kruger shipments arriving at the nearby Dresden Jump Gate — or to make the occasional daring raid on the multitude of cargo ships docked at the Ring.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A mined-out asteroid field. Frequently used by Red Hessian pirates to attack Daumann and Krüger shipments arriving at the nearby Dresden Jump Gate — or to make the occasional daring raid on the multitude of cargo ships docked at the Ring.</TEXT><PARA/><POP/></RDL>
 
 65987
 INFOCARD
@@ -16653,15 +16653,15 @@ INFOCARD
 
 66060
 INFOCARD
-<RDL><PUSH/><TEXT>DIAMETER: 29,949 km</TEXT><PARA/><TEXT>MASS: 13.98 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 19.21 km/s</TEXT><PARA/><PARA/><TEXT>A large gas giant with substantial traces of deuterium and tritium in its upper atmosphere, Munich is currently being mined by Kruger Minerals from their base on Mannheim Station in orbit.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>DIAMETER: 29,949 km</TEXT><PARA/><TEXT>MASS: 13.98 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 19.21 km/s</TEXT><PARA/><PARA/><TEXT>A large gas giant with substantial traces of deuterium and tritium in its upper atmosphere, München is currently being mined by Krüger Minerals from their base on Mannheim Station in orbit.</TEXT><PARA/><POP/></RDL>
 
 66061
 INFOCARD
-<RDL><PUSH/><TEXT>DIAMETER: 10,698 km</TEXT><PARA/><TEXT>MASS: 6.23 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: Desert</TEXT><PARA/><TEXT>TEMPERATURE: -23°C to 56°C</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 11.27 km/s</TEXT><PARA/><PARA/><TEXT>A planet that may have once been a moon of Munich, Stulingen is a hot, dry world warmed by internal volcanic processes, but with no atmosphere capable of supporting life.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>DIAMETER: 10,698 km</TEXT><PARA/><TEXT>MASS: 6.23 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: Desert</TEXT><PARA/><TEXT>TEMPERATURE: -23°C to 56°C</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 11.27 km/s</TEXT><PARA/><PARA/><TEXT>A planet that may have once been a moon of München, Stühlingen is a hot, dry world warmed by internal volcanic processes, but with no atmosphere capable of supporting life.</TEXT><PARA/><POP/></RDL>
 
 66062
 INFOCARD
-<RDL><PUSH/><TEXT>DIAMETER: 18,468 km</TEXT><PARA/><TEXT>MASS: 4.89 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 12.02 km/s</TEXT><PARA/><PARA/><TEXT>A medium-sized gas giant whose upper layers are mostly composed of frozen methane. The vast bulk of Hanover often blocks the light of the sun from reaching the dark cells of orbiting Vierlande Prison.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>DIAMETER: 18,468 km</TEXT><PARA/><TEXT>MASS: 4.89 x 10</TEXT><TRA font="9"/><TEXT>²⁴</TEXT><TRA font="default"/><TEXT> kg</TEXT><PARA/><TEXT>TERRAIN: N/A</TEXT><PARA/><TEXT>TEMPERATURE: N/A</TEXT><PARA/><TEXT>ESCAPE VELOCITY: 12.02 km/s</TEXT><PARA/><PARA/><TEXT>A medium-sized gas giant whose upper layers are mostly composed of frozen methane. The vast bulk of Hannover often blocks the light of the sun from reaching the dark cells of orbiting Vierlande Prison.</TEXT><PARA/><POP/></RDL>
 
 66063
 INFOCARD
@@ -16765,7 +16765,7 @@ INFOCARD
 
 66089
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>RHEINLAND</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Leipzig Station</TEXT><PARA/><TEXT>Bautzen Station</TEXT><PARA/><TEXT>Pirna Border Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Kruger Minerals</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Copper</TEXT><PARA/><TEXT>High-Temperature Alloys</TEXT><PARA/><TEXT>Diamonds</TEXT><PARA/><TEXT>Cobalt</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>RHEINLAND</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Leipzig Station</TEXT><PARA/><TEXT>Bautzen Station</TEXT><PARA/><TEXT>Pirna Border Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Krüger Minerals</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Copper</TEXT><PARA/><TEXT>High-Temperature Alloys</TEXT><PARA/><TEXT>Diamonds</TEXT><PARA/><TEXT>Cobalt</TEXT><PARA/><POP/></RDL>
 
 66090
 INFOCARD
@@ -16777,7 +16777,7 @@ INFOCARD
 
 66092
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>RHEINLAND</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Holstein</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Mannheim Station</TEXT><PARA/><TEXT>Mainz Storage Facility</TEXT><PARA/><TEXT>Fulda Border Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Kruger Minerals</TEXT><PARA/><TEXT>Republican Shipping</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Bundschuh</TEXT><PARA/><TEXT>Unioners</TEXT><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Junkers</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Boron</TEXT><PARA/><TEXT>H-Fuel</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>RHEINLAND</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Holstein</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Mannheim Station</TEXT><PARA/><TEXT>Mainz Storage Facility</TEXT><PARA/><TEXT>Fulda Border Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Krüger Minerals</TEXT><PARA/><TEXT>Republican Shipping</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Bundschuh</TEXT><PARA/><TEXT>Unioners</TEXT><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Junkers</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Boron</TEXT><PARA/><TEXT>H-Fuel</TEXT><PARA/><POP/></RDL>
 
 66093
 INFOCARD
@@ -16821,7 +16821,7 @@ INFOCARD
 
 66103
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>RHEINLAND</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>New Berlin</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>The Ring</TEXT><PARA/><TEXT>Dortmund Station</TEXT><PARA/><TEXT>Essen Station</TEXT><PARA/><TEXT>Bonn Station</TEXT><PARA/><TEXT>Oder Shipyards</TEXT><PARA/><TEXT>Brandenburg Border Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Kruger Minerals</TEXT><PARA/><TEXT>ALG Waste Disposal</TEXT><PARA/><TEXT>Republican Shipping</TEXT><PARA/><TEXT>Interspace Commerce</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Bundschuh</TEXT><PARA/><TEXT>Unioners</TEXT><PARA/><TEXT>LWB</TEXT><PARA/><TEXT>Junkers</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>MOX</TEXT><PARA/><TEXT>Consumer Goods</TEXT><PARA/><TEXT>Engine Components</TEXT><PARA/><TEXT>Construction Machinery</TEXT><PARA/><TEXT>Mining Machinery</TEXT><PARA/><TEXT>Basic Alloys</TEXT><PARA/><TEXT>High-Temperature Alloys</TEXT><PARA/><TEXT>Toxic Waste</TEXT><PARA/><TEXT>Oxygen</TEXT><PARA/><TEXT>Water</TEXT><PARA/><TEXT>Ship Hull Panels</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>RHEINLAND</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>New Berlin</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>The Ring</TEXT><PARA/><TEXT>Dortmund Station</TEXT><PARA/><TEXT>Essen Station</TEXT><PARA/><TEXT>Bonn Station</TEXT><PARA/><TEXT>Oder Shipyards</TEXT><PARA/><TEXT>Brandenburg Border Station</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Krüger Minerals</TEXT><PARA/><TEXT>ALG Waste Disposal</TEXT><PARA/><TEXT>Republican Shipping</TEXT><PARA/><TEXT>Interspace Commerce</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Bundschuh</TEXT><PARA/><TEXT>Unioners</TEXT><PARA/><TEXT>LWB</TEXT><PARA/><TEXT>Junkers</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>MOX</TEXT><PARA/><TEXT>Consumer Goods</TEXT><PARA/><TEXT>Engine Components</TEXT><PARA/><TEXT>Construction Machinery</TEXT><PARA/><TEXT>Mining Machinery</TEXT><PARA/><TEXT>Basic Alloys</TEXT><PARA/><TEXT>High-Temperature Alloys</TEXT><PARA/><TEXT>Toxic Waste</TEXT><PARA/><TEXT>Oxygen</TEXT><PARA/><TEXT>Water</TEXT><PARA/><TEXT>Ship Hull Panels</TEXT><PARA/><POP/></RDL>
 
 66104
 INFOCARD
@@ -16853,7 +16853,7 @@ INFOCARD
 
 66111
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>BORDER WORLDS</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Freistadt Outpost</TEXT><PARA/><TEXT>Elbich Mining Facility</TEXT><PARA/><TEXT>Briesen Mining Facility</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Kruger Minerals</TEXT><PARA/><TEXT>Independent Mining Guild</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Corsairs</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Copper</TEXT><PARA/><TEXT>Cobalt</TEXT><PARA/><TEXT>Silver</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>BORDER WORLDS</TEXT><PARA/><PARA/><TRA underline="true"/><TEXT>Settled Planets</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Bases</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Freistadt Outpost</TEXT><PARA/><TEXT>Elbich Mining Facility</TEXT><PARA/><TEXT>Briesen Mining Facility</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Corporations</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Daumann Construction</TEXT><PARA/><TEXT>Krüger Minerals</TEXT><PARA/><TEXT>Independent Mining Guild</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Criminals</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Red Hessians</TEXT><PARA/><TEXT>Corsairs</TEXT><PARA/><PARA/><TRA bold="true" underline="true"/><TEXT>Produces</TEXT><TRA bold="false" underline="false"/><PARA/><TEXT>Copper</TEXT><PARA/><TEXT>Cobalt</TEXT><PARA/><TEXT>Silver</TEXT><PARA/><POP/></RDL>
 
 66112
 INFOCARD
@@ -16921,7 +16921,7 @@ INFOCARD
 
 66128
 INFOCARD
-<RDL><PUSH/><TEXT>A large pocket within the nebula containing Silver-bearing asteroids and substantial quantities of fuel-rich gas. Kruger Minerals mines large quantities of Silver and processes it at their nearby Elbich Mining Facility. Red Hessian attacks are a constant danger, though, and transports must be well-protected.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A large pocket within the nebula containing Silver-bearing asteroids and substantial quantities of fuel-rich gas. Krüger Minerals mines large quantities of Silver and processes it at their nearby Elbich Mining Facility. Red Hessian attacks are a constant danger, though, and transports must be well-protected.</TEXT><PARA/><POP/></RDL>
 
 66129
 INFOCARD
@@ -17101,7 +17101,7 @@ INFOCARD
 
 66173
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Gateway, Kruger, Rheinland Police, Rheinland Military</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Liberty Criminals, Rheinland Criminals, Corsairs, Outcasts, GMG</TEXT><PARA/><PARA/><TEXT>ALG Waste Disposal is based in Rheinland but operates throughout the colonies due to its outstanding reputation for industrial clean-up.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Gateway, Krüger, Rheinland Police, Rheinland Military</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Liberty Criminals, Rheinland Criminals, Corsairs, Outcasts, GMG</TEXT><PARA/><PARA/><TEXT>ALG Waste Disposal is based in Rheinland but operates throughout the colonies due to its outstanding reputation for industrial clean-up.</TEXT><PARA/><POP/></RDL>
 
 66174
 INFOCARD
@@ -17125,7 +17125,7 @@ INFOCARD
 
 66179
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Daumann, Kruger, Rheinland Police, Rheinland Military, Bounty Hunters, GMG, Outcasts</TEXT><PARA/><PARA/><TEXT>The Bundschuh is a populist political faction that has been declared “enemy of the State” by the Rheinland Reichstag.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Daumann, Krüger, Rheinland Police, Rheinland Military, Bounty Hunters, GMG, Outcasts</TEXT><PARA/><PARA/><TEXT>The Bundschuh is a populist political faction that has been declared “enemy of the State” by the Rheinland Reichstag.</TEXT><PARA/><POP/></RDL>
 
 66180
 INFOCARD
@@ -17161,7 +17161,7 @@ INFOCARD
 
 66188
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Rheinland Police, Rheinland Military, Corsairs, Hogosha, Outcasts, Kruger, Bundschuh</TEXT><PARA/><PARA/><TEXT>The Gas Mining Guild (GMG) is a tight-knit professional organization that acts as the primary supplier of H-Fuel to the four major Houses.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>None</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Rheinland Police, Rheinland Military, Corsairs, Hogosha, Outcasts, Krüger, Bundschuh</TEXT><PARA/><PARA/><TEXT>The Gas Mining Guild (GMG) is a tight-knit professional organization that acts as the primary supplier of H-Fuel to the four major Houses.</TEXT><PARA/><POP/></RDL>
 
 66189
 INFOCARD
@@ -17173,7 +17173,7 @@ INFOCARD
 
 66191
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>LWB</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Corsairs, Daumann, Kruger, Rheinland Police, Rheinland Military, Bretonia Armed Forces, Bounty Hunters, Outcasts, House Shippers</TEXT><PARA/><PARA/><TEXT>The Red Hessians are a criminal group composed largely of unemployed miners operating out of Rheinland space who attack civilian and commercial targets of opportunity.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>LWB</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Corsairs, Daumann, Krüger, Rheinland Police, Rheinland Military, Bretonia Armed Forces, Bounty Hunters, Outcasts, House Shippers</TEXT><PARA/><PARA/><TEXT>The Red Hessians are a criminal group composed largely of unemployed miners operating out of Rheinland space who attack civilian and commercial targets of opportunity.</TEXT><PARA/><POP/></RDL>
 
 66192
 INFOCARD
@@ -17197,7 +17197,7 @@ INFOCARD
 
 66197
 INFOCARD
-<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Rheinland Police, Rheinland Military, ALG</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Red Hessians, Bundschuh, GMG, Criminals</TEXT><PARA/><PARA/><TEXT>Kruger Minerals works in partnership with ALG Waste Disposal to mine the valuable resources within Rheinland and its neighboring territories.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true"/><TEXT>ALLIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Rheinland Police, Rheinland Military, ALG</TEXT><PARA/><PARA/><TRA bold="true"/><TEXT>ENEMIES:</TEXT><TRA bold="false"/><PARA/><TEXT>Red Hessians, Bundschuh, GMG, Criminals</TEXT><PARA/><PARA/><TEXT>Krüger Minerals works in partnership with ALG Waste Disposal to mine the valuable resources within Rheinland and its neighboring territories.</TEXT><PARA/><POP/></RDL>
 
 66198
 INFOCARD
@@ -17293,7 +17293,7 @@ INFOCARD
 
 66221
 INFOCARD
-<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The Omega-7 region of the Walker Nebula is rich in mineral resources. Explosive gas pockets are scattered through the cloud, making any travel away from Trade Lanes and known mining areas hazardous. Only recently settled, its rich deposits of Cobalt, Silver, and Copper are being exploited by the IMG, Daumann, and Kruger.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TRA bold="true" color="#FF0000"/><TEXT>&gt;&gt;&gt;WARNING: NAVIGATIONAL HAZARD&lt;&lt;&lt;</TEXT><TRA bold="false" color="default"/><PARA/><PARA/><TEXT>The Omega-7 region of the Walker Nebula is rich in mineral resources. Explosive gas pockets are scattered through the cloud, making any travel away from Trade Lanes and known mining areas hazardous. Only recently settled, its rich deposits of Cobalt, Silver, and Copper are being exploited by the IMG, Daumann, and Krüger.</TEXT><PARA/><POP/></RDL>
 
 66222
 INFOCARD
@@ -17385,7 +17385,7 @@ INFOCARD
 
 66411
 INFOCARD
-<RDL><PUSH/><TEXT>The wreck of the </TEXT><TRA italic="true"/><TEXT>Monschau</TEXT><TRA italic="false"/><TEXT>, a Kruger Silver freighter that was attacked by Hessians.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The wreck of the </TEXT><TRA italic="true"/><TEXT>Monschau</TEXT><TRA italic="false"/><TEXT>, a Krüger Silver freighter that was attacked by Hessians.</TEXT><PARA/><POP/></RDL>
 
 66412
 INFOCARD
@@ -17409,7 +17409,7 @@ INFOCARD
 
 66417
 INFOCARD
-<RDL><PUSH/><TEXT>The Kruger gas mining area was abandoned early on in the Eighty Years’ War, almost overnight. In their haste to depart, the Kruger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Krüger gas mining area was abandoned early on in the Eighty Years’ War, almost overnight. In their haste to depart, the Krüger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
 
 66418
 INFOCARD
@@ -17629,7 +17629,7 @@ INFOCARD
 
 66472
 INFOCARD
-<RDL><PUSH/><TEXT>Scanning reveals older Rheinland Freighter model. The most likely candidate is the </TEXT><TRA italic="true"/><TEXT>Danzig</TEXT><TRA italic="false"/><TEXT>, a Kruger Minerals ship lost in 450. It may be carrying Diamonds.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Scanning reveals older Rheinland Freighter model. The most likely candidate is the </TEXT><TRA italic="true"/><TEXT>Danzig</TEXT><TRA italic="false"/><TEXT>, a Krüger Minerals ship lost in 450. It may be carrying Diamonds.</TEXT><PARA/><POP/></RDL>
 
 66489
 INFOCARD
@@ -22541,7 +22541,7 @@ INFOCARD
 
 132288
 INFOCARD
-<RDL><PUSH/><TEXT>IMG is a motley collection of unemployed New London miners, former BMM malcontents, and hordes of Daumann and Kruger Rheinlanders. They have no business operating as a legal entity within the boundaries of Bretonia. There is little we can do in the Border Worlds, unfortunately.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>IMG is a motley collection of unemployed New London miners, former BMM malcontents, and hordes of Daumann and Krüger Rheinlanders. They have no business operating as a legal entity within the boundaries of Bretonia. There is little we can do in the Border Worlds, unfortunately.</TEXT><PARA/><POP/></RDL>
 
 132289
 INFOCARD
@@ -23729,7 +23729,7 @@ INFOCARD
 
 132586
 INFOCARD
-<RDL><PUSH/><TEXT>The Hood, Freistadt, and Freeport 4 are open to all. This is part of our Freeport philosophy that we adopted from the Zoners. It is very effective in the Border and Independent Worlds and allows us to coexist with most criminal factions, unlike BMM, Daumann, and Kruger.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hood, Freistadt, and Freeport 4 are open to all. This is part of our Freeport philosophy that we adopted from the Zoners. It is very effective in the Border and Independent Worlds and allows us to coexist with most criminal factions, unlike BMM, Daumann, and Krüger.</TEXT><PARA/><POP/></RDL>
 
 132587
 INFOCARD
@@ -25345,7 +25345,7 @@ INFOCARD
 
 133014
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger and the Rheinland Military will never be allowed to enter Sigma-13. Many sons and daughters of the GMG sacrificed their lives to fight the Rheinland invaders during the war. The GMG lost over half of its people during those dangerous times.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger and the Rheinland Military will never be allowed to enter Sigma-13. Many sons and daughters of the GMG sacrificed their lives to fight the Rheinland invaders during the war. The GMG lost over half of its people during those dangerous times.</TEXT><PARA/><POP/></RDL>
 
 133015
 INFOCARD
@@ -27773,7 +27773,7 @@ INFOCARD
 
 133622
 INFOCARD
-<RDL><PUSH/><TEXT>After the Eighty Years’ War, we lost everything. My family worked for Kruger in those days. When the bottom fell out of the economy, we lost our jobs and the bonuses that had been promised us. Worse than that, more than half of my ancestors were killed trying to mine gases in contested space. My brother joined the Hessians, but I am not a violent man, I joined Daumann.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>After the Eighty Years’ War, we lost everything. My family worked for Krüger in those days. When the bottom fell out of the economy, we lost our jobs and the bonuses that had been promised us. Worse than that, more than half of my ancestors were killed trying to mine gases in contested space. My brother joined the Hessians, but I am not a violent man, I joined Daumann.</TEXT><PARA/><POP/></RDL>
 
 133623
 INFOCARD
@@ -27893,11 +27893,11 @@ INFOCARD
 
 133657
 INFOCARD
-<RDL><PUSH/><TEXT>This is where Daumann and Kruger are coming, so this is where we must be. I don’t think it’s worth it. The Hammen Hole is where Hessians and Corsairs have staged their largest battles. Out there you’ll find good salvage — if you don’t become salvage yourself.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This is where Daumann and Krüger are coming, so this is where we must be. I don’t think it’s worth it. The Hammen Hole is where Hessians and Corsairs have staged their largest battles. Out there you’ll find good salvage — if you don’t become salvage yourself.</TEXT><PARA/><POP/></RDL>
 
 133658
 INFOCARD
-<RDL><PUSH/><TEXT>The Schmidts mined for Daumann over several generations, we fought in the popular Revolt; my family is part of Rheinland history. I’m the last one left of my line, aside from one brother, and here I sit in Omega-5 not fighting for our rights against Daumann or Kruger, but risking my neck fighting Corsairs.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Schmidts mined for Daumann over several generations, we fought in the popular Revolt; my family is part of Rheinland history. I’m the last one left of my line, aside from one brother, and here I sit in Omega-5 not fighting for our rights against Daumann or Krüger, but risking my neck fighting Corsairs.</TEXT><PARA/><POP/></RDL>
 
 133659
 INFOCARD
@@ -27909,7 +27909,7 @@ INFOCARD
 
 133661
 INFOCARD
-<RDL><PUSH/><TEXT>The Hessians in Vogtland will tell you that we are chasing Daumann and Kruger operations here to Omega-5; it seems to me that it’s the other way around. We came here originally to build a new main base of operations. Now we are entrenched in a bitter battle.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Hessians in Vogtland will tell you that we are chasing Daumann and Krüger operations here to Omega-5; it seems to me that it’s the other way around. We came here originally to build a new main base of operations. Now we are entrenched in a bitter battle.</TEXT><PARA/><POP/></RDL>
 
 133662
 INFOCARD
@@ -27957,7 +27957,7 @@ INFOCARD
 
 133673
 INFOCARD
-<RDL><PUSH/><TEXT>Many of the IMG members are former Daumann and Kruger workers. A shame they are too cowardly to exact revenge, but that is their loss. Regardless, they supply Freital with basic supplies and Engine Components.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Many of the IMG members are former Daumann and Krüger workers. A shame they are too cowardly to exact revenge, but that is their loss. Regardless, they supply Freital with basic supplies and Engine Components.</TEXT><PARA/><POP/></RDL>
 
 133674
 INFOCARD
@@ -27965,7 +27965,7 @@ INFOCARD
 
 133675
 INFOCARD
-<RDL><PUSH/><TEXT>There are two Jump Holes in this system. One leads to Omega-11, which is pretty much dominated by the Hessians. That Hole is located in the Furstenfelde. Look southwest of the Daumann base in there and you should stumble across it.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There are two Jump Holes in this system. One leads to Omega-11, which is pretty much dominated by the Hessians. That Hole is located in the Fürstenfelde. Look southwest of the Daumann base in there and you should stumble across it.</TEXT><PARA/><POP/></RDL>
 
 133676
 INFOCARD
@@ -27977,11 +27977,11 @@ INFOCARD
 
 133678
 INFOCARD
-<RDL><PUSH/><TEXT>We were the first ones in this system that decided to try and scratch out a living, mining metals. Recently, the large corporations from Rheinland have moved in; both Daumann and Kruger. It is disturbing to see them coming into our space. Many of us became IMGers to get away from those damned companies.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We were the first ones in this system that decided to try and scratch out a living, mining metals. Recently, the large corporations from Rheinland have moved in; both Daumann and Krüger. It is disturbing to see them coming into our space. Many of us became IMGers to get away from those damned companies.</TEXT><PARA/><POP/></RDL>
 
 133679
 INFOCARD
-<RDL><PUSH/><TEXT>This system used to be free from pirates, but after the revolt, the Hessians gathered together and started attacking shipments moving between Rheinland and Bretonia. A lot more of us miners came here after the revolt as well. Daumann and Kruger are both evil companies that worked us for nothing but promises and heartache. I hope the Hessians kill them all.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This system used to be free from pirates, but after the revolt, the Hessians gathered together and started attacking shipments moving between Rheinland and Bretonia. A lot more of us miners came here after the revolt as well. Daumann and Krüger are both evil companies that worked us for nothing but promises and heartache. I hope the Hessians kill them all.</TEXT><PARA/><POP/></RDL>
 
 133680
 INFOCARD
@@ -27997,7 +27997,7 @@ INFOCARD
 
 133683
 INFOCARD
-<RDL><PUSH/><TEXT>I’m glad I don’t work for Kruger anymore. No sir, I wouldn’t step foot on that base of theirs for anything. You can bet the men there are working obscene hours, eking out profits for the executives in New Berlin — and getting shot up by Hessians.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I’m glad I don’t work for Krüger anymore. No sir, I wouldn’t step foot on that base of theirs for anything. You can bet the men there are working obscene hours, eking out profits for the executives in New Berlin — and getting shot up by Hessians.</TEXT><PARA/><POP/></RDL>
 
 133684
 INFOCARD
@@ -28025,7 +28025,7 @@ INFOCARD
 
 133690
 INFOCARD
-<RDL><PUSH/><TEXT>Our company is not used to being the third in a system. Usually, we claim space first. Not so here, but Kruger is in its death throes and the IMG can easily be removed. Of course, if Kruger does merge with ALG they will have the backing necessary to establish control. That must be considered if we are to attempt a major investment.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our company is not used to being the third in a system. Usually, we claim space first. Not so here, but Krüger is in its death throes and the IMG can easily be removed. Of course, if Krüger does merge with ALG they will have the backing necessary to establish control. That must be considered if we are to attempt a major investment.</TEXT><PARA/><POP/></RDL>
 
 133691
 INFOCARD
@@ -28037,11 +28037,11 @@ INFOCARD
 
 133693
 INFOCARD
-<RDL><PUSH/><TEXT>I was doing some surveying in the Gubenfelde just south of the IMG base when I saw a flight of Red Hessians run right into a Corsair patrol. It was the most incredible thing I have ever seen. I thank good luck my ship was obscured by asteroids, and that I could watch, hidden amongst rock. They fought so fiercely, it was actually beautiful — as if they were all artists, and death was their canvas.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I was doing some surveying in the Grubenfeld just south of the IMG base when I saw a flight of Red Hessians run right into a Corsair patrol. It was the most incredible thing I have ever seen. I thank good luck my ship was obscured by asteroids, and that I could watch, hidden amongst rock. They fought so fiercely, it was actually beautiful — as if they were all artists, and death was their canvas.</TEXT><PARA/><POP/></RDL>
 
 133694
 INFOCARD
-<RDL><PUSH/><TEXT>Right now, the men at the Kruger base in the Ebersfelde are doing the same thing we are: trying to figure out if they should build a major base in this system. Of course, we hire pilots to attack their operations to help them decide against it. Let’s hope that is enough persuasion.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Right now, the men at the Krüger base in the Ebersfelde are doing the same thing we are: trying to figure out if they should build a major base in this system. Of course, we hire pilots to attack their operations to help them decide against it. Let’s hope that is enough persuasion.</TEXT><PARA/><POP/></RDL>
 
 133695
 INFOCARD
@@ -28053,7 +28053,7 @@ INFOCARD
 
 133697
 INFOCARD
-<RDL><PUSH/><TEXT>Our miners hunt for and extract Silver from the asteroids in this field. Once that is done, Kruger ships it to New Berlin where it is loaded onto long-distance transports bound for Liberty and Kusari.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our miners hunt for and extract Silver from the asteroids in this field. Once that is done, Krüger ships it to New Berlin where it is loaded onto long-distance transports bound for Liberty and Kusari.</TEXT><PARA/><POP/></RDL>
 
 133698
 INFOCARD
@@ -28061,7 +28061,7 @@ INFOCARD
 
 133699
 INFOCARD
-<RDL><PUSH/><TEXT>We acquiesced to ALG’s request to supply them with metals mined from this system because we are trying to foster a friendship between the two companies. Since the Eighty Years’ War, Kruger has been struggling to stay afloat. A merger between Kruger and ALG would put us back on top.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>We acquiesced to ALG’s request to supply them with metals mined from this system because we are trying to foster a friendship between the two companies. Since the Eighty Years’ War, Krüger has been struggling to stay afloat. A merger between Krüger and ALG would put us back on top.</TEXT><PARA/><POP/></RDL>
 
 133700
 INFOCARD
@@ -28073,7 +28073,7 @@ INFOCARD
 
 133702
 INFOCARD
-<RDL><PUSH/><TEXT>I know some of the attacks on this base come from pilots hired by Daumann; that’s just how they operate. I don’t need any proof. In response, Kruger has hired our own pilots to attack the Daumann base and its shipments.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I know some of the attacks on this base come from pilots hired by Daumann; that’s just how they operate. I don’t need any proof. In response, Krüger has hired our own pilots to attack the Daumann base and its shipments.</TEXT><PARA/><POP/></RDL>
 
 133703
 INFOCARD
@@ -28225,7 +28225,7 @@ INFOCARD
 
 133740
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger has an experimental H-Fuel center in Mannheim, Frankfurt. I don’t know why we bother to continue the operation. Only the government subsidy keeps our price competitive with Kusari and GMG gas from the Crow Nebula.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger has an experimental H-Fuel center in Mannheim, Frankfurt. I don’t know why we bother to continue the operation. Only the government subsidy keeps our price competitive with Kusari and GMG gas from the Crow Nebula.</TEXT><PARA/><POP/></RDL>
 
 133741
 INFOCARD
@@ -28233,11 +28233,11 @@ INFOCARD
 
 133742
 INFOCARD
-<RDL><PUSH/><TEXT>New Berlin is the Diamond-trading center of Sirius. They’re mined-out in Dresden and Omega-11. Daumann and Kruger ship them in here, where the initial sorting and cutting takes place. Then we ship them to the far corners of the universe for use in Luxury Goods or Mining Machinery.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>New Berlin is the Diamond-trading center of Sirius. They’re mined-out in Dresden and Omega-11. Daumann and Krüger ship them in here, where the initial sorting and cutting takes place. Then we ship them to the far corners of the universe for use in Luxury Goods or Mining Machinery.</TEXT><PARA/><POP/></RDL>
 
 133743
 INFOCARD
-<RDL><PUSH/><TEXT>The Silver that Kruger mines in Omega-7 ends up in the Commodity markets of New Berlin. We then transport it to Kusari and Liberty. It’s especially in demand in terraforming operations like the one on California Minor.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Silver that Krüger mines in Omega-7 ends up in the Commodity markets of New Berlin. We then transport it to Kusari and Liberty. It’s especially in demand in terraforming operations like the one on California Minor.</TEXT><PARA/><POP/></RDL>
 
 133744
 INFOCARD
@@ -28417,7 +28417,7 @@ INFOCARD
 
 133788
 INFOCARD
-<RDL><PUSH/><TEXT>Republican has enjoyed a long and fruitful relationship with Daumann. We view the ALG/Gateway/IMG partnership as a serious challenge to the proper way of doing business in Rheinland. After all, two of these companies are of Bretonian origin. It would be a grave mistake for Kruger to join forces with those foreigners.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Republican has enjoyed a long and fruitful relationship with Daumann. We view the ALG/Gateway/IMG partnership as a serious challenge to the proper way of doing business in Rheinland. After all, two of these companies are of Bretonian origin. It would be a grave mistake for Krüger to join forces with those foreigners.</TEXT><PARA/><POP/></RDL>
 
 133789
 INFOCARD
@@ -28449,7 +28449,7 @@ INFOCARD
 
 133796
 INFOCARD
-<RDL><PUSH/><TEXT>There’s good business for the Guild down in Dresden. Daumann and Kruger are both looking for Bounty Hunters to guard their operations. Kruger is the better one because you can always go Diamond mining when no one is looking. You’ll earn your keep, though. Plenty of Hessians to go around in Dresden.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There’s good business for the Guild down in Dresden. Daumann and Krüger are both looking for Bounty Hunters to guard their operations. Krüger is the better one because you can always go Diamond mining when no one is looking. You’ll earn your keep, though. Plenty of Hessians to go around in Dresden.</TEXT><PARA/><POP/></RDL>
 
 133797
 INFOCARD
@@ -28465,7 +28465,7 @@ INFOCARD
 
 133803
 INFOCARD
-<RDL><PUSH/><TEXT>Gateway and the IMG haven’t had nearly the problems with the Red Hessians that Kruger and Daumann have. We try to tolerate them as much as possible, which specifically means not hiring Bounty Hunters to chase them down.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Gateway and the IMG haven’t had nearly the problems with the Red Hessians that Krüger and Daumann have. We try to tolerate them as much as possible, which specifically means not hiring Bounty Hunters to chase them down.</TEXT><PARA/><POP/></RDL>
 
 133804
 INFOCARD
@@ -28493,7 +28493,7 @@ INFOCARD
 
 133810
 INFOCARD
-<RDL><PUSH/><TEXT>The Eighty Years’ War was a colossal mistake for Rheinland. The nation was fairly self-sufficient and prosperous, yet Kruger was not content. They had fallen behind Daumann, and hoped that the gases of the Crow Nebula would be their salvation. It was Daumann that actually persuaded the government to step in, for reasons of cynical self-interest. They knew that fat military contracts would head their way once the fighting began in earnest.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Eighty Years’ War was a colossal mistake for Rheinland. The nation was fairly self-sufficient and prosperous, yet Krüger was not content. They had fallen behind Daumann, and hoped that the gases of the Crow Nebula would be their salvation. It was Daumann that actually persuaded the government to step in, for reasons of cynical self-interest. They knew that fat military contracts would head their way once the fighting began in earnest.</TEXT><PARA/><POP/></RDL>
 
 133811
 INFOCARD
@@ -28537,7 +28537,7 @@ INFOCARD
 
 133821
 INFOCARD
-<RDL><PUSH/><TEXT>ALG was founded in 88 AS to handle the cleanup of Daumann and Kruger mining operations within New Berlin. We were also instrumental in developing the specialized materials and construction methods necessary to adapt to the highly oxidizing environment of Stuttgart. In 460, we were tasked to clean up the Ruhr uranium mining field, that Daumann had exhausted and left abandoned.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>ALG was founded in 88 AS to handle the cleanup of Daumann and Krüger mining operations within New Berlin. We were also instrumental in developing the specialized materials and construction methods necessary to adapt to the highly oxidizing environment of Stuttgart. In 460, we were tasked to clean up the Ruhr uranium mining field, that Daumann had exhausted and left abandoned.</TEXT><PARA/><POP/></RDL>
 
 133822
 INFOCARD
@@ -28585,31 +28585,31 @@ INFOCARD
 
 133833
 INFOCARD
-<RDL><PUSH/><TEXT>There are a lot of people at Gateway who aren’t sure we should get so close to the Rheinlanders. We were doing fine with the IMG before ALG came along. Now they want to buy Kruger, which will result in a massive corporation like Daumann or Republican. We’re being straight-armed by ALG into accepting their proposal, with little or no say in the matter.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>There are a lot of people at Gateway who aren’t sure we should get so close to the Rheinlanders. We were doing fine with the IMG before ALG came along. Now they want to buy Krüger, which will result in a massive corporation like Daumann or Republican. We’re being straight-armed by ALG into accepting their proposal, with little or no say in the matter.</TEXT><PARA/><POP/></RDL>
 
 133834
 INFOCARD
-<RDL><PUSH/><TEXT>Gateway does not often deal with Kruger. But that could change soon. They say that ALG will soon acquire the remnants of this once-proud company for next to nothing. Can’t say it surprises me; Kruger’s been on the ropes for decades.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Gateway does not often deal with Krüger. But that could change soon. They say that ALG will soon acquire the remnants of this once-proud company for next to nothing. Can’t say it surprises me; Krüger’s been on the ropes for decades.</TEXT><PARA/><POP/></RDL>
 
 133835
 INFOCARD
-<RDL><PUSH/><TEXT>This has been Kruger’s headquarters since early in the second century. We are a proud family company that helped build the industrial might of Rheinland. Kruger still produces the finest Mining Machinery in the Sirius sector, utilizing our cheap supply of Diamonds from the Dresden system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>This has been Krüger’s headquarters since early in the second century. We are a proud family company that helped build the industrial might of Rheinland. Krüger still produces the finest Mining Machinery in the Sirius sector, utilizing our cheap supply of Diamonds from the Dresden system.</TEXT><PARA/><POP/></RDL>
 
 133836
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger has seen better days. We’ve been forced to lay off many of our workers in recent times. Our company incurred vast debts at the beginning of the Eighty Years’ War when we lost more than half our mining fleet to the GMG. We’ve never recovered from that dark period.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger has seen better days. We’ve been forced to lay off many of our workers in recent times. Our company incurred vast debts at the beginning of the Eighty Years’ War when we lost more than half our mining fleet to the GMG. We’ve never recovered from that dark period.</TEXT><PARA/><POP/></RDL>
 
 133837
 INFOCARD
-<RDL><PUSH/><TEXT>Secret negotiations are underway between ALG and Kruger. ALG would like to merge our companies into one giant corporation that can build all types of machinery and Engine Components to finally truly compete with Daumann’s Ring. It is a tempting offer, but there are complications. The membership of the IMG, one of ALG’s partners, views us with suspicion. Many of them are former Kruger employees.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Secret negotiations are underway between ALG and Krüger. ALG would like to merge our companies into one giant corporation that can build all types of machinery and Engine Components to finally truly compete with Daumann’s Ring. It is a tempting offer, but there are complications. The membership of the IMG, one of ALG’s partners, views us with suspicion. Many of them are former Krüger employees.</TEXT><PARA/><POP/></RDL>
 
 133838
 INFOCARD
-<RDL><PUSH/><TEXT>The Aachenfeld was Kruger’s primary mining area for centuries. When it was exhausted, we were forced to expand our exploration efforts into Omega-7. We have a profitable Silver mine in operation there now. We also own a synthetic H-Fuel-extraction facility in the Frankfurt system.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Aachenfeld was Krüger’s primary mining area for centuries. When it was exhausted, we were forced to expand our exploration efforts into Omega-7. We have a profitable Silver mine in operation there now. We also own a synthetic H-Fuel-extraction facility in the Frankfurt system.</TEXT><PARA/><POP/></RDL>
 
 133839
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger could once compete with Daumann, but they are now much larger and more diversified. We still hold a commanding lead in Mining Machinery and hold key deposits of Diamonds and Silver. But that is not enough. Kruger Minerals will eventually be crushed by the Daumann goliath if radical steps are not taken soon.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger could once compete with Daumann, but they are now much larger and more diversified. We still hold a commanding lead in Mining Machinery and hold key deposits of Diamonds and Silver. But that is not enough. Krüger Minerals will eventually be crushed by the Daumann goliath if radical steps are not taken soon.</TEXT><PARA/><POP/></RDL>
 
 133840
 INFOCARD
@@ -28621,7 +28621,7 @@ INFOCARD
 
 133842
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger’s management felt that we had no choice but to expand into the Crow Nebula. Daumann had blocked our expansion plans in Dresden, and New Berlin was exhausted. We felt that there was enough gas for everyone in Sigma-13, but that viewpoint was obviously not shared by the GMG.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger’s management felt that we had no choice but to expand into the Crow Nebula. Daumann had blocked our expansion plans in Dresden, and New Berlin was exhausted. We felt that there was enough gas for everyone in Sigma-13, but that viewpoint was obviously not shared by the GMG.</TEXT><PARA/><POP/></RDL>
 
 133843
 INFOCARD
@@ -28633,7 +28633,7 @@ INFOCARD
 
 133845
 INFOCARD
-<RDL><PUSH/><TEXT>One day soon we will no longer stop here. Rumor has it that the ALG/Gateway alliance is gaining a new member. That would be a sad end to the proud family company of Kruger, last of the old “Mittelstand.”</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>One day soon we will no longer stop here. Rumor has it that the ALG/Gateway alliance is gaining a new member. That would be a sad end to the proud family company of Krüger, last of the old “Mittelstand.”</TEXT><PARA/><POP/></RDL>
 
 133846
 INFOCARD
@@ -28665,7 +28665,7 @@ INFOCARD
 
 133853
 INFOCARD
-<RDL><PUSH/><TEXT>Daumann and Kruger convoys coming in from the Dresden Gate have been attacked numerous times in recent weeks. The Hessians patiently wait in the fields on either side until they enter the Trade Lane. Then they come out, guns blazing.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Daumann and Krüger convoys coming in from the Dresden Gate have been attacked numerous times in recent weeks. The Hessians patiently wait in the fields on either side until they enter the Trade Lane. Then they come out, guns blazing.</TEXT><PARA/><POP/></RDL>
 
 133854
 INFOCARD
@@ -28701,7 +28701,7 @@ INFOCARD
 
 133862
 INFOCARD
-<RDL><PUSH/><TEXT>If you want to make friends with a Hessian, start shooting up some Daumann or Kruger ships. We mount many of our attacks in New Berlin right out of this base. You’ve got Kruger’s base at Essen, and the Trade Lanes to Hamburg and Stuttgart. Plenty of choices, just depends what mood you’re in.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If you want to make friends with a Hessian, start shooting up some Daumann or Krüger ships. We mount many of our attacks in New Berlin right out of this base. You’ve got Krüger’s base at Essen, and the Trade Lanes to Hamburg and Stuttgart. Plenty of choices, just depends what mood you’re in.</TEXT><PARA/><POP/></RDL>
 
 133863
 INFOCARD
@@ -29181,7 +29181,7 @@ INFOCARD
 
 133982
 INFOCARD
-<RDL><PUSH/><TEXT>I guess Daumann came back to this system because Kruger was here. After the Richtofen went up everybody left — that was it, the war was over. After a while, Kruger came back, and that means Daumann had to follow suit, didn’t they?</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I guess Daumann came back to this system because Krüger was here. After the Richthofen went up everybody left — that was it, the war was over. After a while, Krüger came back, and that means Daumann had to follow suit, didn’t they?</TEXT><PARA/><POP/></RDL>
 
 133983
 INFOCARD
@@ -29317,7 +29317,7 @@ INFOCARD
 
 134016
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger produces H-Fuel at this station and ships it to Essen. In return, they supply us with the Mining Machinery that keeps our operation going. Even without the Border Worlds, Kruger manages to get H-Fuel for Rheinland.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger produces H-Fuel at this station and ships it to Essen. In return, they supply us with the Mining Machinery that keeps our operation going. Even without the Border Worlds, Krüger manages to get H-Fuel for Rheinland.</TEXT><PARA/><POP/></RDL>
 
 134017
 INFOCARD
@@ -29329,23 +29329,23 @@ INFOCARD
 
 134019
 INFOCARD
-<RDL><PUSH/><TEXT>Once Station Richtofen was destroyed, we knew that we had lost the war — and much worse: Kruger had lost the Border Worlds to the GMG. It was a dark day for Rheinland and for Kruger. Maybe one day Rheinland will rise again.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Once Station Richthofen was destroyed, we knew that we had lost the war — and much worse: Krüger had lost the Border Worlds to the GMG. It was a dark day for Rheinland and for Krüger. Maybe one day Rheinland will rise again.</TEXT><PARA/><POP/></RDL>
 
 134020
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger lost most of her capital in the Border World gas mining venture. When that failed utterly, our proud company lost all of her clout. Now, Kruger’s only real chance for survival is merging with ALG. It is really the only way left for us.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger lost most of her capital in the Border World gas mining venture. When that failed utterly, our proud company lost all of her clout. Now, Krüger’s only real chance for survival is merging with ALG. It is really the only way left for us.</TEXT><PARA/><POP/></RDL>
 
 134021
 INFOCARD
-<RDL><PUSH/><TEXT>The vermin who call themselves the GMG dealt the first blow in the conflict that would erupt into the Eighty Years’ War. The Kruger survey vessel Helle Wolke went missing. When we sent ships after her, we found the GMG in the vicinity of the wreckage. The GMG could not explain what had happened but claimed to be investigating themselves.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The vermin who call themselves the GMG dealt the first blow in the conflict that would erupt into the Eighty Years’ War. The Krüger survey vessel Helle Wolke went missing. When we sent ships after her, we found the GMG in the vicinity of the wreckage. The GMG could not explain what had happened but claimed to be investigating themselves.</TEXT><PARA/><POP/></RDL>
 
 134022
 INFOCARD
-<RDL><PUSH/><TEXT>After the Helle Wolke Incident, we knew that the GMG was a treacherous group. As we pushed into the Border Worlds, small skirmishes flared between Kruger and the Guild. When Empress Leicht annexed the Border Worlds, the real war began.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>After the Helle Wolke Incident, we knew that the GMG was a treacherous group. As we pushed into the Border Worlds, small skirmishes flared between Krüger and the Guild. When Empress Leicht annexed the Border Worlds, the real war began.</TEXT><PARA/><POP/></RDL>
 
 134023
 INFOCARD
-<RDL><PUSH/><TEXT>Rheinland did not recognize any political sovereignty of the GMG; they were a band of miners, or so it seemed. What we did not realize at the time was that they were a close-knit organization with political clout in Kusari and underworld connections. Only after Rheinland and Kruger had fully committed to the action did we realize the extent of their power and backing.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rheinland did not recognize any political sovereignty of the GMG; they were a band of miners, or so it seemed. What we did not realize at the time was that they were a close-knit organization with political clout in Kusari and underworld connections. Only after Rheinland and Krüger had fully committed to the action did we realize the extent of their power and backing.</TEXT><PARA/><POP/></RDL>
 
 134024
 INFOCARD
@@ -29381,7 +29381,7 @@ INFOCARD
 
 134032
 INFOCARD
-<RDL><PUSH/><TEXT>My grandfather fought in the battle for Richtofen; he was one of the few who survived. I used to watch him sitting in his chair, staring at nothing when I was a little kid. Though people said he was a great pilot, my father told me grandfather wished that he had died at Richtofen.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>My grandfather fought in the battle for Richthofen; he was one of the few who survived. I used to watch him sitting in his chair, staring at nothing when I was a little kid. Though people said he was a great pilot, my father told me grandfather wished that he had died at Richthofen.</TEXT><PARA/><POP/></RDL>
 
 134033
 INFOCARD
@@ -29425,7 +29425,7 @@ INFOCARD
 
 134043
 INFOCARD
-<RDL><PUSH/><TEXT>The Bundschuh recruits new members from the Red Hessians, LWB, Unioners, and even disgruntled Daumann and Kruger workers. But the people we take in must care about our cause because they won’t get rich flying for us.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Bundschuh recruits new members from the Red Hessians, LWB, Unioners, and even disgruntled Daumann and Krüger workers. But the people we take in must care about our cause because they won’t get rich flying for us.</TEXT><PARA/><POP/></RDL>
 
 134044
 INFOCARD
@@ -29433,7 +29433,7 @@ INFOCARD
 
 134045
 INFOCARD
-<RDL><PUSH/><TEXT>After the revolution, the Bundschuh found itself sidelined by the new government. The coalition wanted the support of the wealthy aristocrats who headed Daumann Industries and Kruger Minerals. By 715 AS, the Bundschuh was forced to go underground again, this time by a government it had helped to create.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>After the revolution, the Bundschuh found itself sidelined by the new government. The coalition wanted the support of the wealthy aristocrats who headed Daumann Industries and Krüger Minerals. By 715 AS, the Bundschuh was forced to go underground again, this time by a government it had helped to create.</TEXT><PARA/><POP/></RDL>
 
 134046
 INFOCARD
@@ -29581,11 +29581,11 @@ INFOCARD
 
 134082
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger has booked the entire eastern mud bath wing of this facility to host our “We’re Pals with ALG, Appreciation Bash!” Five lucky Rheinland families will be chosen from the Kruger products and services mailing list at random to spend a week with the top ALG and Kruger executives. They will be able to soak in mud and give us their views on Rheinland corporate power.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger has booked the entire eastern mud bath wing of this facility to host our “We’re Pals with ALG, Appreciation Bash!” Five lucky Rheinland families will be chosen from the Krüger products and services mailing list at random to spend a week with the top ALG and Krüger executives. They will be able to soak in mud and give us their views on Rheinland corporate power.</TEXT><PARA/><POP/></RDL>
 
 134083
 INFOCARD
-<RDL><PUSH/><TEXT>If this bash doesn’t go over well, I’m in big trouble. Kruger is posting record losses and we need something to turn this company around. We haven’t been able to get going since our horrible losses in Frankfurt, and the reparations we were forced to pay.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>If this bash doesn’t go over well, I’m in big trouble. Krüger is posting record losses and we need something to turn this company around. We haven’t been able to get going since our horrible losses in Frankfurt, and the reparations we were forced to pay.</TEXT><PARA/><POP/></RDL>
 
 134084
 INFOCARD
@@ -29729,7 +29729,7 @@ INFOCARD
 
 134119
 INFOCARD
-<RDL><PUSH/><TEXT>Kruger ships Mining Machinery to our base in the Border Worlds — perhaps you have been to this place? Elbich is an important part of our operations.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Krüger ships Mining Machinery to our base in the Border Worlds — perhaps you have been to this place? Elbich is an important part of our operations.</TEXT><PARA/><POP/></RDL>
 
 134120
 INFOCARD
@@ -29885,7 +29885,7 @@ INFOCARD
 
 134158
 INFOCARD
-<RDL><PUSH/><TEXT>Daumann, Kruger, Republican, the government — it’s all just the rich exploiting the poor. I hate our government and our corporations too much to ever try and help this accursed place. Men are crushed to nothing by the system, that’s why I became a Red Hessian. I’d be damned if I wasted my life living under another man’s boot.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Daumann, Krüger, Republican, the government — it’s all just the rich exploiting the poor. I hate our government and our corporations too much to ever try and help this accursed place. Men are crushed to nothing by the system, that’s why I became a Red Hessian. I’d be damned if I wasted my life living under another man’s boot.</TEXT><PARA/><POP/></RDL>
 
 134159
 INFOCARD
@@ -30025,7 +30025,7 @@ INFOCARD
 
 134193
 INFOCARD
-<RDL><PUSH/><TEXT>The Diamonds we mine in this system aren’t usually high enough quality to make the Luxury Goods markets, but they are perfect for industrial drill bits. Kruger ships these Diamonds to Essen, and while in Essen we purchase Mining Machinery and bring it back here.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Diamonds we mine in this system aren’t usually high enough quality to make the Luxury Goods markets, but they are perfect for industrial drill bits. Krüger ships these Diamonds to Essen, and while in Essen we purchase Mining Machinery and bring it back here.</TEXT><PARA/><POP/></RDL>
 
 134194
 INFOCARD
@@ -30041,11 +30041,11 @@ INFOCARD
 
 134197
 INFOCARD
-<RDL><PUSH/><TEXT>The police station Pirna has some excellent pilots, and they are honorable officers who know that Kruger is their friend, but they do not have the power to hold back the tide of Red Hessians in this system. We are forced to hire mercenaries. I do not respect the Bounty Hunters Guild, but I appreciate their work.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The police station Pirna has some excellent pilots, and they are honorable officers who know that Krüger is their friend, but they do not have the power to hold back the tide of Red Hessians in this system. We are forced to hire mercenaries. I do not respect the Bounty Hunters Guild, but I appreciate their work.</TEXT><PARA/><POP/></RDL>
 
 134198
 INFOCARD
-<RDL><PUSH/><TEXT>Of course Kruger was somewhat strict with its workers before the revolt, and I suppose we still are now to a degree. But that is the way you must be to run a successful company. We could not have remained competitive if we didn’t push our employees to work the hours that Daumann required of their employees.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Of course Krüger was somewhat strict with its workers before the revolt, and I suppose we still are now to a degree. But that is the way you must be to run a successful company. We could not have remained competitive if we didn’t push our employees to work the hours that Daumann required of their employees.</TEXT><PARA/><POP/></RDL>
 
 134199
 INFOCARD
@@ -30053,7 +30053,7 @@ INFOCARD
 
 134200
 INFOCARD
-<RDL><PUSH/><TEXT>The Kruger Lavafeld is too close to the sun to send miners out in vac-suits. It is far too hot and dangerous to traverse. Instead, we do our mining in the Schwefelnebel. I would say that that field is too dangerous too, but only because of the Red Hessians.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Krüger Lavafeld is too close to the sun to send miners out in vac-suits. It is far too hot and dangerous to traverse. Instead, we do our mining in the Schwefelnebel. I would say that that field is too dangerous too, but only because of the Red Hessians.</TEXT><PARA/><POP/></RDL>
 
 134201
 INFOCARD
@@ -30073,7 +30073,7 @@ INFOCARD
 
 134205
 INFOCARD
-<RDL><PUSH/><TEXT>Our base is situated between the Daumann and Kruger base, so both of their operations are our responsibility. The Hessians focus their attacks on the Trade Lanes that pass by both bases on the way to New Berlin. We try to patrol those areas, but we are stretched too thin here.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Our base is situated between the Daumann and Krüger base, so both of their operations are our responsibility. The Hessians focus their attacks on the Trade Lanes that pass by both bases on the way to New Berlin. We try to patrol those areas, but we are stretched too thin here.</TEXT><PARA/><POP/></RDL>
 
 134206
 INFOCARD
@@ -30101,7 +30101,7 @@ INFOCARD
 
 134212
 INFOCARD
-<RDL><PUSH/><TEXT>The blue Diamonds that Kruger mines here are highly prized in the Luxury Goods markets on New Berlin. That’s one of the reasons that the Hessians attack the lanes near the Kruger base so often. They also hit the miners out in the fields. When that happens, all that’s left of the miners is their teeth.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The blue Diamonds that Krüger mines here are highly prized in the Luxury Goods markets on New Berlin. That’s one of the reasons that the Hessians attack the lanes near the Krüger base so often. They also hit the miners out in the fields. When that happens, all that’s left of the miners is their teeth.</TEXT><PARA/><POP/></RDL>
 
 134213
 INFOCARD
@@ -30125,11 +30125,11 @@ INFOCARD
 
 134218
 INFOCARD
-<RDL><PUSH/><TEXT>The Giftnebel is a dangerous cloud to move through, but its proximity to the Kruger and Daumann operations here makes it worthwhile. We know this system well, and that helps us when we raid the corporates trying to ship their goods back to New Berlin.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Giftnebel is a dangerous cloud to move through, but its proximity to the Krüger and Daumann operations here makes it worthwhile. We know this system well, and that helps us when we raid the corporates trying to ship their goods back to New Berlin.</TEXT><PARA/><POP/></RDL>
 
 134219
 INFOCARD
-<RDL><PUSH/><TEXT>What a fitting place this cloud is; formed from the sulfurous waste of the smelting plants in the system, crafted by Daumann and Kruger’s heedlessness. Now it hides their greatest threat: the Red Hessians. It also hides the Jump Holes to New Berlin and Stuttgart.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>What a fitting place this cloud is; formed from the sulfurous waste of the smelting plants in the system, crafted by Daumann and Krüger’s heedlessness. Now it hides their greatest threat: the Red Hessians. It also hides the Jump Holes to New Berlin and Stuttgart.</TEXT><PARA/><POP/></RDL>
 
 134220
 INFOCARD
@@ -30141,7 +30141,7 @@ INFOCARD
 
 134222
 INFOCARD
-<RDL><PUSH/><TEXT>Rheinlanders have a synonym for Diamonds — they call them “Hessian Tears.” They symbolize the lives of all the miners crushed into the Rheinland corporate machine, our fight to hold back the tide of Daumann and Kruger, and our struggle to pay for our crusade with their beauty.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>Rheinlanders have a synonym for Diamonds — they call them “Hessian Tears.” They symbolize the lives of all the miners crushed into the Rheinland corporate machine, our fight to hold back the tide of Daumann and Krüger, and our struggle to pay for our crusade with their beauty.</TEXT><PARA/><POP/></RDL>
 
 134223
 INFOCARD
@@ -30209,15 +30209,15 @@ INFOCARD
 
 134291
 INFOCARD
-<RDL><PUSH/><TEXT>The Republican freight train </TEXT><TRA italic="true"/><TEXT>Bremerhaven</TEXT><TRA italic="false"/><TEXT>  was attempting to evade a Corsair attack along the Trade Lane when it blundered into the Furstenfelde gas pocket and was disabled. Attempts to rescue the crew and its cargo of Engine Components were unsuccessful. The drifting ship serves as a reminder of the dangers of venturing off the safe path in the Walker Nebula.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Republican freight train </TEXT><TRA italic="true"/><TEXT>Bremerhaven</TEXT><TRA italic="false"/><TEXT>  was attempting to evade a Corsair attack along the Trade Lane when it blundered into the Fürstenfelde gas pocket and was disabled. Attempts to rescue the crew and its cargo of Engine Components were unsuccessful. The drifting ship serves as a reminder of the dangers of venturing off the safe path in the Walker Nebula.</TEXT><PARA/><POP/></RDL>
 
 134292
 INFOCARD
-<RDL><PUSH/><TEXT>A Red Hessian attack on the Kruger freighter </TEXT><TRA italic="true"/><TEXT>Monschau</TEXT><TRA italic="false"/><TEXT>  failed when the ship attempted to flee. Unfortunately, it flew straight into the Ebersfelde gas pocket that separates the IMG mining area and the Elbich Mining Facility. No one has yet dared to retrieve the cargo of Silver, as the risk of explosion is too high.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A Red Hessian attack on the Krüger freighter </TEXT><TRA italic="true"/><TEXT>Monschau</TEXT><TRA italic="false"/><TEXT>  failed when the ship attempted to flee. Unfortunately, it flew straight into the Ebersfelde gas pocket that separates the IMG mining area and the Elbich Mining Facility. No one has yet dared to retrieve the cargo of Silver, as the risk of explosion is too high.</TEXT><PARA/><POP/></RDL>
 
 134293
 INFOCARD
-<RDL><PUSH/><TEXT>The local word is that one of the early Corsair raiding parties into Omega-7 headed straight into the Gubenfelde gas pocket just south of the Omega-3 Gate. It is believed that the remains of at least three ships are still in there.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The local word is that one of the early Corsair raiding parties into Omega-7 headed straight into the Grubenfeld gas pocket just south of the Omega-3 Gate. It is believed that the remains of at least three ships are still in there.</TEXT><PARA/><POP/></RDL>
 
 134294
 INFOCARD
@@ -30225,7 +30225,7 @@ INFOCARD
 
 134295
 INFOCARD
-<RDL><PUSH/><TEXT>The Kruger gas mining area was abandoned early in the Eighty Years’ War, almost overnight. In their haste to depart, the Kruger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The Krüger gas mining area was abandoned early in the Eighty Years’ War, almost overnight. In their haste to depart, the Krüger personnel left several cargo pods intact. As far as anyone knows, they are still out there, scattered among the debris. The south oxygen pocket has since drifted over the site, making recovery a difficult proposition at best.</TEXT><PARA/><POP/></RDL>
 
 134296
 INFOCARD
@@ -30445,7 +30445,7 @@ INFOCARD
 
 134350
 INFOCARD
-<RDL><PUSH/><TEXT>The </TEXT><TRA italic="true"/><TEXT>Danzig</TEXT><TRA italic="false"/><TEXT>  is a long-lost Kruger freighter that strayed into the Giftnebel in 450 while returning from the Diamond fields. The cloud’s hostile conditions prevented any thorough search. Pieces of debris have been spotted drifting occasionally within the area, but no one has been able to determine if they are the remains of the </TEXT><TRA italic="true"/><TEXT>Danzig</TEXT><TRA italic="false"/><TEXT>.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The </TEXT><TRA italic="true"/><TEXT>Danzig</TEXT><TRA italic="false"/><TEXT>  is a long-lost Krüger freighter that strayed into the Giftnebel in 450 while returning from the Diamond fields. The cloud’s hostile conditions prevented any thorough search. Pieces of debris have been spotted drifting occasionally within the area, but no one has been able to determine if they are the remains of the </TEXT><TRA italic="true"/><TEXT>Danzig</TEXT><TRA italic="false"/><TEXT>.</TEXT><PARA/><POP/></RDL>
 
 134841
 INFOCARD
@@ -31437,7 +31437,7 @@ Synth Foods, Inc.
 
 196864
 NAME
-Kruger Minerals
+Krüger Minerals
 
 196865
 NAME
@@ -31629,7 +31629,7 @@ Synth Foods
 
 196913
 NAME
-Kruger
+Krüger
 
 196914
 NAME
@@ -33877,7 +33877,7 @@ Alsterfleet
 
 202912
 NAME
-Rhine
+Rhein
 
 202913
 NAME
@@ -33897,11 +33897,11 @@ Watzmann
 
 202917
 NAME
-Grossglockner
+Großglockner
 
 202918
 NAME
-Grossvenediger
+Großvenediger
 
 202919
 NAME
@@ -34005,7 +34005,7 @@ Spree
 
 202944
 NAME
-Landwarhkanal
+Landwehrkanal
 
 202945
 NAME
@@ -34061,7 +34061,7 @@ Freising
 
 202958
 NAME
-Grafenwoer
+Grafenwöhr
 
 202959
 NAME
@@ -34073,7 +34073,7 @@ Landshut
 
 202961
 NAME
-Munich
+München
 
 202962
 NAME
@@ -34125,7 +34125,7 @@ Hameln
 
 202974
 NAME
-Hanover
+Hannover
 
 202975
 NAME
@@ -34133,7 +34133,7 @@ Nordenham
 
 202976
 NAME
-Osnabrueker
+Osnabrück
 
 202977
 NAME
@@ -34149,7 +34149,7 @@ Wilhelmshaven
 
 202980
 NAME
-Wolfenbuettel
+Wolfenbüttel
 
 202981
 NAME
@@ -34169,7 +34169,7 @@ Düsseldorf
 
 202985
 NAME
-Koeln
+Köln
 
 202986
 NAME
@@ -35093,7 +35093,7 @@ Gunboat RNC Passau
 
 217052
 NAME
-Gunboat RNC Ingoldstadt
+Gunboat RNC Ingolstadt
 
 217053
 NAME
@@ -38229,7 +38229,7 @@ Junkers\nGeorge Smith
 
 220677
 NAME
-Kruger Minerals\nDr. Dietrich Künolt
+Krüger Minerals\nDr. Dietrich Künolt
 
 220678
 NAME
@@ -38361,15 +38361,15 @@ Gateway Shipping\nRick Bates
 
 220710
 NAME
-Kruger Minerals\nRep. Sebastian Topf
+Krüger Minerals\nRep. Sebastian Topf
 
 220711
 NAME
-Kruger Minerals\nWolfgang Vorkäuffer
+Krüger Minerals\nWolfgang Vorkäufer
 
 220712
 NAME
-Kruger Minerals\nUlrich Bierlich
+Krüger Minerals\nUlrich Bierlich
 
 220713
 NAME
@@ -38621,7 +38621,7 @@ Daumann Heavy Construction\nVolker Von Roda
 
 220775
 NAME
-Kruger Minerals\nAlbrecht Jonach
+Krüger Minerals\nAlbrecht Jonach
 
 220776
 NAME
@@ -38673,7 +38673,7 @@ Gateway Shipping\nMarshall Griffin
 
 220788
 NAME
-Kruger Minerals\nRüdiger Delarue
+Krüger Minerals\nRüdiger Delarue
 
 220789
 NAME
@@ -38797,15 +38797,15 @@ Samura Heavy Industries\nSanzo Kuramoto
 
 220819
 NAME
-Kruger Minerals\nRep. Eberhard Hauser
+Krüger Minerals\nRep. Eberhard Hauser
 
 220820
 NAME
-Kruger Minerals\nFabian Küne
+Krüger Minerals\nFabian Küne
 
 220821
 NAME
-Kruger Minerals\nHannes Petesilge
+Krüger Minerals\nHannes Petesilge
 
 220822
 NAME
@@ -38869,15 +38869,15 @@ Bounty Hunter\nTracker Wayne Kramer
 
 220837
 NAME
-Kruger Minerals\nKonrad Ratzenberger
+Krüger Minerals\nKonrad Ratzenberger
 
 220838
 NAME
-Kruger Minerals\nRep. Maik Soller
+Krüger Minerals\nRep. Maik Soller
 
 220839
 NAME
-Kruger Minerals\nMorris Burghardt
+Krüger Minerals\nMorris Burghardt
 
 220840
 NAME
@@ -39061,15 +39061,15 @@ Daumann Heavy Construction\nHartmut Delarue
 
 220885
 NAME
-Kruger Minerals\nRep. Josef Becker
+Krüger Minerals\nRep. Josef Becker
 
 220886
 NAME
-Kruger Minerals\nManfred Eckold
+Krüger Minerals\nManfred Eckold
 
 220887
 NAME
-Kruger Minerals\nSales Rep. Klaus Forberg
+Krüger Minerals\nSales Rep. Klaus Forberg
 
 220888
 NAME
@@ -45685,7 +45685,7 @@ Brunnhoff
 
 228441
 NAME
-Buhlers
+Bühlers
 
 228442
 NAME
@@ -45789,7 +45789,7 @@ Eckolt
 
 228467
 NAME
-Felgentrager
+Felgenträger
 
 228468
 NAME
@@ -45833,7 +45833,7 @@ Fudickar
 
 228478
 NAME
-Funfstuck
+Fünfstück
 
 228479
 NAME
@@ -45945,7 +45945,7 @@ Huge
 
 228506
 NAME
-Hulsemann
+Hülsemann
 
 228507
 NAME
@@ -45969,7 +45969,7 @@ Kastner
 
 228512
 NAME
-Kastner
+Kästner
 
 228513
 NAME
@@ -46017,11 +46017,11 @@ Kroll
 
 228524
 NAME
-Kuchenthal
+Küchenthal
 
 228525
 NAME
-Kuhlewein
+Kühlewein
 
 228526
 NAME
@@ -46129,11 +46129,11 @@ Modesta
 
 228552
 NAME
-Moller
+Möller
 
 228553
 NAME
-Muller
+Müller
 
 228554
 NAME
@@ -46213,7 +46213,7 @@ Rosenstengel
 
 228573
 NAME
-Rossler
+Rössler
 
 228574
 NAME
@@ -46277,7 +46277,7 @@ Schoner
 
 228589
 NAME
-Schroder
+Schröder
 
 228590
 NAME
@@ -46285,7 +46285,7 @@ Schroeder
 
 228591
 NAME
-Schroner
+Schröner
 
 228592
 NAME
@@ -46337,7 +46337,7 @@ Steger
 
 228604
 NAME
-Steinbruck
+Steinbrück
 
 228605
 NAME
@@ -46365,7 +46365,7 @@ Stschukin
 
 228611
 NAME
-Sturcke
+Stürcke
 
 228612
 NAME
@@ -46421,7 +46421,7 @@ Von Byla
 
 228625
 NAME
-Von Gotz
+Von Götz
 
 228626
 NAME
@@ -46493,7 +46493,7 @@ Von Wurmt
 
 228643
 NAME
-Vorkauffer
+Vorkäufer
 
 228644
 NAME
@@ -50453,15 +50453,15 @@ ALG Waste Disposal\nDortmund Equipment Dealer\nGunnar Noth
 
 244926
 NAME
-Kruger Minerals\nEssen Bartender\nUlrich Prange
+Krüger Minerals\nEssen Bartender\nUlrich Prange
 
 244927
 NAME
-Kruger Minerals\nEssen Commodity Trader\nHeinz Weise
+Krüger Minerals\nEssen Commodity Trader\nHeinz Weise
 
 244928
 NAME
-Kruger Minerals\nEssen Equipment Dealer\nFritz Steinbrück
+Krüger Minerals\nEssen Equipment Dealer\nFritz Steinbrück
 
 244929
 NAME
@@ -50677,15 +50677,15 @@ Republican Shipping\nMainz Equipment Dealer\nSebastian Brunnhoff
 
 244982
 NAME
-Kruger Minerals\nMannheim Bartender\nJulius Arnoldt
+Krüger Minerals\nMannheim Bartender\nJulius Arnoldt
 
 244983
 NAME
-Kruger Minerals\nMannheim Commodity Trader\nReinmar Felgenträger
+Krüger Minerals\nMannheim Commodity Trader\nReinmar Felgenträger
 
 244984
 NAME
-Kruger Minerals\nMannheim Equipment Dealer\nCornelius Henckler
+Krüger Minerals\nMannheim Equipment Dealer\nCornelius Henckler
 
 244985
 NAME
@@ -50725,15 +50725,15 @@ Daumann Heavy Construction\nLeipzig Equipment Dealer\nBjorn Hauser
 
 244994
 NAME
-Kruger Minerals\nBautzen Bartender\nStefan Giering
+Krüger Minerals\nBautzen Bartender\nStefan Giering
 
 244995
 NAME
-Kruger Minerals\nBautzen Commodity Trader\nEmil Bierlich
+Krüger Minerals\nBautzen Commodity Trader\nEmil Bierlich
 
 244996
 NAME
-Kruger Minerals\nBautzen Equipment Dealer\nGustav Lehmicke
+Krüger Minerals\nBautzen Equipment Dealer\nGustav Lehmicke
 
 244997
 NAME
@@ -50997,15 +50997,15 @@ Daumann Heavy Construction\nBriesen Equipment Dealer\nHorst Klein
 
 245068
 NAME
-Kruger Minerals\nElbich Bartender\nUlrich Ratzenberger
+Krüger Minerals\nElbich Bartender\nUlrich Ratzenberger
 
 245069
 NAME
-Kruger Minerals\nElbich Commodity Trader\nNorbert Modesta
+Krüger Minerals\nElbich Commodity Trader\nNorbert Modesta
 
 245070
 NAME
-Kruger Minerals\nElbich Equipment Dealer\nLorenz Volkenstein
+Krüger Minerals\nElbich Equipment Dealer\nLorenz Volkenstein
 
 245071
 NAME
@@ -51021,7 +51021,7 @@ Daumann Heavy Construction\nSolarius Equipment Dealer\nReinhold Lesens
 
 245074
 NAME
-Red Hessians\nFreital Bartender\nHugo Buhlers
+Red Hessians\nFreital Bartender\nHugo Bühlers
 
 245075
 NAME
@@ -52369,7 +52369,7 @@ I’ll sell you the location of a Synth Foods wreck in the Ostnebel
 
 251939
 NAME
-I’ll sell you the location of an old Kruger wreck in the Giftnebel
+I’ll sell you the location of an old Krüger wreck in the Giftnebel
 
 251940
 NAME
@@ -52413,11 +52413,11 @@ I’ll sell you the location of a Republican wreck in the Ebersfelde
 
 251950
 NAME
-I’ll sell you the location of several Corsair wrecks in the Gubenfelde
+I’ll sell you the location of several Corsair wrecks in the Grubenfeld
 
 251951
 NAME
-I’ll sell you the location of a Kruger wreck in the Furstenfelde
+I’ll sell you the location of a Krüger wreck in the Fürstenfelde
 
 251952
 NAME
@@ -52433,7 +52433,7 @@ I’ll sell you the location of old Rheinland Military escorts north of the Yana
 
 251955
 NAME
-I’ll sell you the location of an old Kruger storage depot in Sigma-13
+I’ll sell you the location of an old Krüger storage depot in Sigma-13
 
 251956
 NAME
@@ -57681,11 +57681,11 @@ Aalen
 
 261144
 NAME
-Planet Munich
+Planet München
 
 261145
 NAME
-Planet Stulingen
+Planet Stühlingen
 
 261146
 NAME
@@ -58149,7 +58149,7 @@ Daumann Lavafeld
 
 261281
 NAME
-Kruger Lavafeld
+Krüger Lavafeld
 
 261282
 NAME
@@ -58181,7 +58181,7 @@ The Barrier
 
 261289
 NAME
-Wendell Ice Field
+Weddell Ice Field
 
 261290
 NAME
@@ -58245,7 +58245,7 @@ Hammen Hole
 
 261305
 NAME
-Ebersfeld Cloud
+Ebersfelde Cloud
 
 261306
 NAME
@@ -58253,11 +58253,11 @@ Ebersfelde Cloud
 
 261307
 NAME
-Furstenfelde Cloud
+Fürstenfelde Cloud
 
 261308
 NAME
-Gubenfelde Cloud
+Grubenfeld Cloud
 
 261309
 NAME
@@ -58913,7 +58913,7 @@ Escort of the Kassel
 
 261754
 NAME
-Old Kruger Storage Container
+Old Krüger Storage Container
 
 261755
 NAME
@@ -67337,7 +67337,7 @@ Synth Foods
 
 328698
 NAME
-Kruger Minerals
+Krüger Minerals
 
 328699
 NAME
@@ -67549,7 +67549,7 @@ Synth Foods
 
 328798
 NAME
-Kruger Minerals
+Krüger Minerals
 
 328799
 NAME
@@ -67761,7 +67761,7 @@ Synth Foods
 
 328898
 NAME
-Kruger Minerals
+Krüger Minerals
 
 328899
 NAME
@@ -67973,7 +67973,7 @@ Synth Foods
 
 328998
 NAME
-Kruger Minerals
+Krüger Minerals
 
 328999
 NAME
@@ -69545,7 +69545,7 @@ Daumann Lavafeld
 
 331754
 NAME
-Kruger Lavafeld
+Krüger Lavafeld
 
 331755
 NAME
@@ -69577,7 +69577,7 @@ The Barrier
 
 331762
 NAME
-Wendell Ice Field
+Weddell Ice Field
 
 331763
 NAME
@@ -69641,7 +69641,7 @@ Hammen Hole
 
 331778
 NAME
-Ebersfeld Cloud
+Ebersfelde Cloud
 
 331779
 NAME
@@ -69649,11 +69649,11 @@ Ebersfelde Cloud
 
 331780
 NAME
-Furstenfelde Cloud
+Fürstenfelde Cloud
 
 331781
 NAME
-Gubenfelde Cloud
+Grubenfeld Cloud
 
 331782
 NAME
@@ -70117,7 +70117,7 @@ the Daumann Lavafeld
 
 331954
 NAME
-the Kruger Lavafeld
+the Krüger Lavafeld
 
 331955
 NAME
@@ -70149,7 +70149,7 @@ The Barrier
 
 331962
 NAME
-the Wendell Ice Field
+the Weddell Ice Field
 
 331963
 NAME
@@ -70213,7 +70213,7 @@ the Hammen Hole
 
 331978
 NAME
-the Ebersfeld Cloud
+the Ebersfelde Cloud
 
 331979
 NAME
@@ -70221,11 +70221,11 @@ the Ebersfelde Cloud
 
 331980
 NAME
-the Furstenfelde Cloud
+the Fürstenfelde Cloud
 
 331981
 NAME
-the Gubenfelde Cloud
+the Grubenfeld Cloud
 
 331982
 NAME
