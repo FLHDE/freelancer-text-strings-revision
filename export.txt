@@ -16341,7 +16341,7 @@ INFOCARD
 
 65980
 INFOCARD
-<RDL><PUSH/><TEXT>A huge field of ice asteroids. Wendell is currently being mined for its abundant quantities of Water and Oxygen by members of the Independent Mining Guild (IMG) stationed aboard Freeport 4.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>A huge field of ice asteroids. Weddell is currently being mined for its abundant quantities of Water and Oxygen by members of the Independent Mining Guild (IMG) stationed aboard Freeport 4.</TEXT><PARA/><POP/></RDL>
 
 65981
 INFOCARD
@@ -58181,7 +58181,7 @@ The Barrier
 
 261289
 NAME
-Wendell Ice Field
+Weddell Ice Field
 
 261290
 NAME
@@ -69577,7 +69577,7 @@ The Barrier
 
 331762
 NAME
-Wendell Ice Field
+Weddell Ice Field
 
 331763
 NAME
@@ -70149,7 +70149,7 @@ The Barrier
 
 331962
 NAME
-the Wendell Ice Field
+the Weddell Ice Field
 
 331963
 NAME
