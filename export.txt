@@ -28037,7 +28037,7 @@ INFOCARD
 
 133693
 INFOCARD
-<RDL><PUSH/><TEXT>I was doing some surveying in the Gubenfelde just south of the IMG base when I saw a flight of Red Hessians run right into a Corsair patrol. It was the most incredible thing I have ever seen. I thank good luck my ship was obscured by asteroids, and that I could watch, hidden amongst rock. They fought so fiercely, it was actually beautiful — as if they were all artists, and death was their canvas.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>I was doing some surveying in the Grubenfeld just south of the IMG base when I saw a flight of Red Hessians run right into a Corsair patrol. It was the most incredible thing I have ever seen. I thank good luck my ship was obscured by asteroids, and that I could watch, hidden amongst rock. They fought so fiercely, it was actually beautiful — as if they were all artists, and death was their canvas.</TEXT><PARA/><POP/></RDL>
 
 133694
 INFOCARD
@@ -30217,7 +30217,7 @@ INFOCARD
 
 134293
 INFOCARD
-<RDL><PUSH/><TEXT>The local word is that one of the early Corsair raiding parties into Omega-7 headed straight into the Gubenfelde gas pocket just south of the Omega-3 Gate. It is believed that the remains of at least three ships are still in there.</TEXT><PARA/><POP/></RDL>
+<RDL><PUSH/><TEXT>The local word is that one of the early Corsair raiding parties into Omega-7 headed straight into the Grubenfeld gas pocket just south of the Omega-3 Gate. It is believed that the remains of at least three ships are still in there.</TEXT><PARA/><POP/></RDL>
 
 134294
 INFOCARD
@@ -52413,7 +52413,7 @@ I’ll sell you the location of a Republican wreck in the Ebersfelde
 
 251950
 NAME
-I’ll sell you the location of several Corsair wrecks in the Gubenfelde
+I’ll sell you the location of several Corsair wrecks in the Grubenfeld
 
 251951
 NAME
@@ -58257,7 +58257,7 @@ Fürstenfelde Cloud
 
 261308
 NAME
-Gubenfelde Cloud
+Grubenfeld Cloud
 
 261309
 NAME
@@ -69653,7 +69653,7 @@ Fürstenfelde Cloud
 
 331781
 NAME
-Gubenfelde Cloud
+Grubenfeld Cloud
 
 331782
 NAME
@@ -70225,7 +70225,7 @@ the Fürstenfelde Cloud
 
 331981
 NAME
-the Gubenfelde Cloud
+the Grubenfeld Cloud
 
 331982
 NAME
