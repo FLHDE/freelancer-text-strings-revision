@@ -48,3 +48,4 @@ Before each time you commit your changes, please export all of the DLLs using [F
 * Buck Danny - Created the Unofficial FL SP 1.4 patch
 * Jason Hood - Created Jason's Freelancer Patch
 * Louva-Deus - Created the Freelancer SDK/QuickFix
+* Skotty - Fixed many German typos and inconsistencies
