@@ -20,10 +20,7 @@ Approximately 1,700 lines from the text strings in Jason's Freelancer Patch have
 
 General informal word choices and intentional typos in rumors remain unchanged.
 
-
-The EXE folder includes 7 DLL files that contain all strings that are used in the game. Additionally, you'll find a text file named `export.txt` in the root folder of the project, which is an export of all the strings from the DLLs. To see what exactly has been changed since the export of the original DLLs, please compare the following exports in your favorite Git client:
-* https://github.com/BC46/freelancer-text-strings-revision/blob/e48b02adab0d3aa9bc32a3c9e152a794eec68fb8/export.txt
-* https://github.com/BC46/freelancer-text-strings-revision/blob/main/export.txt
+The `resources` folder includes 7 `.frc` files that contain all strings used in the game.
 
 ## How to contribute
 If you'd like to contribute to this project, make the desired changes in the `.frc` files in `/resources` with the use of a text editor that supports UTF-16 like [Notepad++](https://notepad-plus-plus.org/downloads/). Once you've made all your changes, run the `compile-tss` command in the root of this project, and you'll find all the compiled `.dll` files in `/output`.
