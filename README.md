@@ -23,7 +23,13 @@ General informal word choices and intentional typos in rumors remain unchanged.
 The `resources` folder includes 7 `.frc` files that contain all strings used in the game.
 
 ## How to contribute
-If you'd like to contribute to this project, make the desired changes in the `.frc` files in `/resources` with the use of a text editor that supports UTF-16 like [Notepad++](https://notepad-plus-plus.org/downloads/). Once you've made all your changes, run the `compile-tss` command in the root of this project, and you'll find all the compiled `.dll` files in `/output`.
+If you'd like to contribute to this project, first make sure you add the following to your .gitconfig file:
+```
+[diff "utf16"]
+textconv = "iconv -f utf-16 -t utf-8"
+```
+
+Then make the desired changes in the `.frc` files in `/resources` with the use of a text editor that supports UTF-16 like [Notepad++](https://notepad-plus-plus.org/downloads/). Once you've made all your changes, run the `compile-tss` command in the root of this project, and you'll find all the compiled `.dll` files in `/output`.
 
 It's also possible to decompile the `.dll` resource files by placing them in output/EXE and running the `decompile-tss` command in the root of this project.
 
