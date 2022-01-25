@@ -25,6 +25,8 @@ The `resources` folder includes 7 `.frc` files that contain all strings used in 
 ## How to contribute
 If you'd like to contribute to this project, make the desired changes in the `.frc` files in `/resources` with the use of a text editor that supports UTF-16 like [Notepad++](https://notepad-plus-plus.org/downloads/). Once you've made all your changes, run the `compile-tss` command in the root of this project, and you'll find all the compiled `.dll` files in `/output`.
 
+It's also possible to decompile the `.dll` resource files by placing them in output/EXE and running the `decompile-tss` command in the root of this project.
+
 ## Installation instructions
 ### Freelancer Mod Manager v1.3
 * Download the mod under "Releases"
