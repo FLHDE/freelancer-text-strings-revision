@@ -26,11 +26,7 @@ The EXE folder includes 7 DLL files that contain all strings that are used in th
 * https://github.com/BC46/freelancer-text-strings-revision/blob/main/export.txt
 
 ## How to contribute
-If you'd like to contribute to this project, you can open the `export.txt` file in the root of this project to find strings that you'd like to change. Once you've done that, find and edit the string(s) you want to change in any of the 7 DLLs in the EXE folder with a resource editor like [Resource Hacker](http://www.angusj.com/resourcehacker/). Make sure the resource editor you use keeps all unicode symbols intact.
-
-Before each time you commit your changes, please export all of the DLLs using [FLInfocardIE](https://forge.the-starport.net/projects/fldev/files). This is to ensure that all changes you've made are visible in plain text.
-
-**N.B. If you encounter any issues with Git tracking your changes in any of the DLL files, follow the instructions from [this Stack Overflow answer](https://stackoverflow.com/a/24316479). Git doesn't seem to really like binary files for some reason.**
+If you'd like to contribute to this project, make the desired changes in the `.frc` files in `/resources` with the use of a text editor that supports UTF-16 like [Notepad++](https://notepad-plus-plus.org/downloads/). Once you've made all your changes, run the `compile-tss` command in the root of this project, and you'll find all the compiled `.dll` files in `/output`.
 
 ## Installation instructions
 ### Freelancer Mod Manager v1.3
