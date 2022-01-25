@@ -1,8 +1,8 @@
 <script>
 
-<header name="Text String Revisions 1.1" savesafe="true">
+<header name="Text String Revisions 1.2" savesafe="true">
 <scriptversion>
-1.1
+1.0
 </scriptversion>
 <author>
 BC46
@@ -15,7 +15,7 @@ Fixes many typos, grammar mistakes, inconsistencies, and more, in the English te
 This addon was made based on Jason's Freelancer Patch which already addressed a few of these issues.
 
 Changelog:
-~1,700 lines changed.
+~1,850 lines changed.
 * Made wordy sentences more concise for better readability
 * Fixed typos for misspelled words like 'Niboium', 'Aschroft', and 'excerise'
 * Correctly spelled several names in the game, like 'Curacao', 'Tenerife', and 'Rugen'
@@ -27,6 +27,8 @@ Changelog:
 * Replaced incorrect information with correct information
 * Replaced several uncommon/nonexistent real-life names with more common ones
 * Readded spaces to mission alert messages
+* Improved name localization
+* Corrected option setting descriptions
 
 General informal word choices and intentional typos in rumors remain unchanged. 
 

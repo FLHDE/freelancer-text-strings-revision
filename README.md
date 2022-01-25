@@ -5,7 +5,7 @@ This addon was made based on Jason's Freelancer Patch which already addressed a 
 All files from this addon may be freely used by any mod or anything else. See the [LICENSE](https://github.com/BC46/freelancer-text-strings-revision/blob/main/LICENSE) file for more information.
 
 ## Changes
-Approximately 1,700 lines from the text strings in Jason's Freelancer Patch have been updated with the following changes:
+Approximately 1,850 lines from the text strings in Jason's Freelancer Patch have been updated with the following changes:
 * Made wordy sentences more concise for better readability
 * Fixed typos for misspelled words like 'Niboium', 'Aschroft', and 'excerise'
 * Correctly spelled several names in the game, like 'Curaçao', 'Tenerife', and 'Rügen'
@@ -17,6 +17,8 @@ Approximately 1,700 lines from the text strings in Jason's Freelancer Patch have
 * Replaced incorrect information with correct information
 * Replaced several uncommon/nonexistent real-life names with more common ones
 * Readded spaces to mission alert messages
+* Improved name localization
+* Corrected option setting descriptions
 
 General informal word choices and intentional typos in rumors remain unchanged.
 

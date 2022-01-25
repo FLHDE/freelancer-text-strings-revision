@@ -1,5 +1,11 @@
 # Changelog
 
+## [[1.2] - 2022-01-25](https://github.com/BC46/freelancer-text-strings-revision/releases/tag/1.2)
+
+### Changed
+* Improved name localization
+* Corrected option setting descriptions
+
 ## [[1.1] - 2021-07-28](https://github.com/BC46/freelancer-text-strings-revision/releases/tag/1.1)
 
 ### Changed
