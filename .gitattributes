@@ -1,1 +1,1 @@
-*.frc diff=utf16
+*.strings diff=localizablestrings
