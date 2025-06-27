@@ -49,6 +49,7 @@ It's also possible to decompile the `.dll` resource files by placing them in out
 ## Credits
 * BC46 - Revision of Freelancer's English text strings
 * Buck Danny - Created the Unofficial FL SP 1.4 patch
+* DragonFire - Name fixes
 * Jason Hood - Created Jason's Freelancer Patch & Freelancer Resource Compiler
 * Louva-Deus - Created the Freelancer SDK/QuickFix
-* Skotty - Fixed many German typos and inconsistencies
+* Skotty - German typo fixes and many general fixes
