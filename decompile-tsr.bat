@@ -6,3 +6,4 @@
 "external/res2frc.exe" -u -w 0 output/EXE/nameresources.dll -o resources/nameresources.frc
 "external/res2frc.exe" -u -w 0 output/EXE/offerbriberesources.dll -o resources/offerbriberesources.frc
 "external/res2frc.exe" -u -w 0 output/EXE/resources.dll -o resources/resources.frc
+"external/res2frc.exe" -u -w 0 output/EXE/serverresources.dll -o resources/serverresources.frc

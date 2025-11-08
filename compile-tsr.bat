@@ -9,3 +9,4 @@ if not exist "output\EXE" (
 "external/frc.exe" -c -20 resources/nameresources.frc output/EXE/nameresources.dll
 "external/frc.exe" -c -20 resources/offerbriberesources.frc output/EXE/offerbriberesources.dll
 "external/frc.exe" -c -20 resources/resources.frc output/EXE/resources.dll
+"external/frc.exe" -c -20 resources/serverresources.frc output/EXE/serverresources.dll
