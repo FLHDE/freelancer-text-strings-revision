@@ -12,7 +12,7 @@ jobs:
       - name: Compile resource files
         run: |
           compile-tsr.bat
-      - shell: cmd
+        shell: cmd
       - name: Upload compiled DLLs as artifact
         uses: actions/upload-artifact@v4
         with:
