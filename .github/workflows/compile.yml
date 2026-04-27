@@ -17,3 +17,4 @@ jobs:
           name: TSR_DLLs
           path: |
             output/EXE/*.dll
+            !output/EXE/hderesources.dll
