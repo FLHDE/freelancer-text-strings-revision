@@ -1,0 +1,238 @@
+S 1      ACTIVATE AFTERBURNER
+S 2      DEACTIVATE AFTERBURNER
+
+S 4      FORMATION MEMBERS
+S 5      TARGET VIEW
+S 6      NEXT SUB-TARGET
+S 7      PREVIOUS SUB-TARGET
+
+S 9      Switches to the Formation Members view.
+
+S 11     Slides the ship up.
+S 12     Slides the ship down.
+S 13     ROTATION LOCK
+S 14     Toggles rotation in Third View.
+
+S 16     Deactivates the afterburner.
+
+S 18     Toggles the cockpit visibility in First View.
+S 19     Adjusts the difficulty in terms of how much damage your ship will take.
+
+S 21     Adjusts texture detail.
+
+S 23     FL %d.%d & HDE 0.7.1
+S 24     FL %d.%d & HDE SDK 0.7.1
+
+S 30     You must have a reputation of at least %d%% with the base owners to purchase this.
+
+S 34     USV Brandt
+S 35     USV Champion
+
+S 38     Toggle Top-Down Target
+S 39     TOP-DOWN TARGET VIEW
+S 40     Toggles Top-Down mode in the Target View.
+
+S 50     Freelancer failed to initialize the save directory. Please make sure Freelancer has permission to read and write save files.
+         Visit this page for more information: https://bit.ly/fl-save-dir-fail
+
+
+H 200
+	CLASS: Tyrell
+	GRAVITY: Complete
+	DOCKING: Restricted
+	AMENITIES: Yes
+	POPULATION: Unknown
+	
+	The Juneau Shipyard is the Liberty Navy’s top-secret installation that was built soon after the Texas Incident in 510 AS. All research and development of the Osiris class of battleships occurred at this facility.
+
+H 201
+	CLASS: Cochrane
+	STATUS: Abandoned
+	
+	The Ithaca Research Station was a government research facility primarily tasked with studying the gravitational anomalies found in the Badlands by collecting data from over 20,000 probes and drones stationed in the quadrant. The data was then coordinated with sensor readings taken by the computers aboard Benford Research Station. Additional research projects are currently classified.
+
+H 202
+	CLASS: \cr— BLOCKED —\C
+	GRAVITY: \cr— BLOCKED —\C
+	DOCKING: \cr— BLOCKED —\C
+	AMENITIES: \cr— BLOCKED —\C
+	POPULATION: \cr— BLOCKED —\C
+	
+	The Glorious played a decisive role in the Founders Day Revolt, when miners who were escaping Bretonian justice after their brutal execution of Sir Edmund Graves took it deep into the asteroid fields. It once served as a base of operations, but has since been so badly damaged that it is deemed uninhabitable.
+
+H 203
+	CLASS: Cochrane
+	GRAVITY: Partial
+	DOCKING: Restricted
+	AMENITIES: No
+	POPULATION: 50
+	
+	Benford Research Station is a largely automated facility currently tasked with studying the gravitational anomalies found in the Badlands. Dr. Hermann Van Pelt is the project’s lead researcher.
+
+H 204
+	CLASS: Cochrane
+	GRAVITY: Partial
+	DOCKING: Restricted
+	AMENITIES: Limited
+	POPULATION: Automated
+	
+	The Baxter Research Station is an automated facility studying the asteroid-rich Omega-3 System.
+
+H 205
+	CLASS: Unknown
+	GRAVITY: Partial
+	DOCKING: Restricted
+	AMENITIES: Limited
+	POPULATION: Unknown
+	
+	A Rogue base. Rogues are known associates of petty criminals and are believed to be involved in illegal drug trafficking.
+
+H 700
+	TYPE: N/A
+	LUMINOSITY: N/A
+	COLOR: N/A
+	TEMPERATURE: N/A
+	MASS: 3.11 x 10\f09³³\F kg
+	DIAMETER: 0.56 x 10\f09\7\F km
+	
+	\b\cr>>>WARNING: SEVERE DANGER<<<\B\C
+	
+	The dark neutron star at the heart of Omega-41 creates an area of intense radiation and high gravity that will destroy almost any ship unfortunate enough to fall within its grasp.
+
+H 1000
+	\m\b\f04FREELANCER: HD EDITION
+	\l\f03FREELANCER: HD EDITION DEVELOPMENT TEAM\F
+	MOD MANAGEMENT\B
+	BC46
+	
+	\bCONTENT\B
+	BC46
+	Bidza
+	Buck Danny
+	Caenen
+	Callum McGing
+	crosire
+	Daniel Stenberg
+	DAVENAT0R
+	Dege
+	DF
+	dmutlu
+	DragonFire
+	Elisha Riedlinger
+	FireFlyEx
+	Freestalker.fl
+	IrateRedKite
+	Jason Hood (adoxa)
+	Jean-loup Gailly
+	Jeider
+	Keenan Weaver
+	Mark Adler
+	M0tah
+	Microsoft
+	OutCast
+	Raikkonen
+	RenderG
+	Skotty
+	Thaddeus
+	The Starport
+	Whiskas T-Mech
+	Why485
+	w0dk4
+	Worldwave
+	XxSARGExX
+	zlib-ng contributors
+	
+	\bSUPPORT AND TESTING\B
+	Aingar
+	Bolte
+	Gibbon
+	Freelancer: HD Edition Discord Members
+	Laz
+	Schmackbolzen
+	Venemon
+	
+	\bSPECIAL THANKS\B
+	Freelancer Community
+	
+	
+	
+	\m\b\f04FREELANCER
+	\l\f03DIGITAL ANVIL STUDIO, MICROSOFT\F
+	DEVELOPMENT TEAM\B
+	Producer: Phil Wattenbarger
+	Lead Designer: Jorg Neumann
+	
+	Lead Programmer: Paul Isaac
+	Lead Programmer: Ed Maurer
+	Lead Programmer: Tony Bratton
+	Art Director: Bruce Lemons
+	Audio Director: Martin Galway
+	In-Game Cinematics Director: Harry Jarvis
+	Test Lead: Evan Brandt
+	
+	\bENGINE PROGRAMMING\B
+	Aaron Otstott
+	Gary Scott Smith
+	Mark Kness
+	Scott Stevens
+	Simon Travis
+	Brad Thrift (Volt)
+	
+	\bGAME PROGRAMMING\B
+	Andrew Sega
+	Brandon Rowlett
+	Joel Willard
+	Taylor Brown
+	Peter Carter (Volt)
+	
+	\bMULTIPLAYER PROGRAMMING\B
+	Stephen Nichols
+	
+	\bART\B
+	Bob Frye
+	Johari Templin
+	John P. Funk
+	Steve Pietzsch
+	Steven Stahlberg
+	Wade Mulhern
+	Lead Animator: Eric Lalumiere
+	Frank Bonniwell
+	Michael Pearce
+	Crispin Broadhurst (Volt)
+	
+	\bDESIGN\B
+	Adam Foshko
+	Brian Hackert
+	David Chang
+	Dustin Cryer
+	Jacob Crow
+	Will Dougherty
+	Eric Willmar (VMC Consulting Corp)
+	John Sripan (VMC Consulting Corp)
+	Scott Shelton (VMC Consulting Corp)
+	Todd D. Degani (VMC Consulting Corp)
+	Chris Todd (Murder of Crows)
+	Jesse Benitez-Steiner (Volt)
+	
+	\bIN-GAME CINEMATICS\B
+	Adam N. Joseph - Visual Supervisor
+	Bobby Moldavan (VMC Consulting Corp)
+	John Alderson (VMC Consulting Corp)
+	Kathy Bateman (VMC Consulting Corp)
+	Milena Grozeva (VMC Consulting Corp)
+	Patrick Sanchez (VMC Consulting Corp)
+	Paul Hiaumet (VMC Consulting Corp)
+	Ray Cobo (VMC Consulting Corp)
+	Rey Barrera (VMC Consulting Corp)
+	Rick Hartman (VMC Consulting Corp)
+	Séamus Rail (VMC Consulting Corp)
+	
+	\bAUDIO\B
+	Bill Munyon (Volt)
+	Clark Crawford (Volt)
+	Eric Friend (Volt)
+	Jeff Shoemaker (Volt)
+	Kyle Scribner (Volt)
+	Lisa Elliott (Volt)
+	Mark Packard (Volt)
+	Mat Mitchell (Volt)\n
