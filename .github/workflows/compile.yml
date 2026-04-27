@@ -1,20 +1,18 @@
 name: Compile
 
 on:
-  push:
-    branches:
-      - main
+  [workflow_dispatch, push]
 jobs:
   build:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Compile resource files
         run: |
           compile-tsr.bat
         shell: cmd
       - name: Upload compiled DLLs as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: TSR_DLLs
           path: |
