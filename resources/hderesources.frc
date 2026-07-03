@@ -35,6 +35,8 @@ S 40     Toggles Top-Down mode in the Target View.
 S 50     Freelancer failed to initialize the save directory. Please make sure Freelancer has permission to read and write save files.
          Visit this page for more information: https://bit.ly/fl-save-dir-fail
 
+S 60     Cargo Pod
+
 
 H 200
 	CLASS: Tyrell
