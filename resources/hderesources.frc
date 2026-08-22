@@ -37,6 +37,8 @@ S 50     Freelancer failed to initialize the save directory. Please make sure Fr
 
 S 60     Cargo Pod
 
+S 70     Mission 13 Open Single Player
+S 71     Mission 12: Land on Planet Toledo
 
 H 200
 	CLASS: Tyrell
@@ -100,6 +102,14 @@ H 700
 	\b\cr>>>WARNING: SEVERE DANGER<<<\B\C
 	
 	The dark neutron star at the heart of Omega-41 creates an area of intense radiation and high gravity that will destroy almost any ship unfortunate enough to fall within its grasp.
+
+H 800
+	\b\cr>>>WARNING: OPEN SINGLE PLAYER ENABLED<<<\B\C
+	
+	You are about to start Mission 13 in \bOpen Single Player\B mode. This mode breaks Mission 13 entirely. If you proceed, the story campaign will abruptly stop and your ship will be replaced with a Starflier.
+	
+	To play Mission 13 normally, please reinstall \bFreelancer: HD Edition\B and make sure the installer option \bSingle Player mode\B is set to \bStory Mode (default)\B. A save file has been created so that after reinstalling, you can continue where you left off.
+
 
 H 1000
 	\m\b\f04FREELANCER: HD EDITION
