@@ -3305,7 +3305,7 @@ S 24405  OBJECTIVE:
 
 S 24410  Launch into Space
 
-S 24414  Defend the Order Base
+S 24414  Defend Planet Toledo
 S 24415  Defend the Transport
 S 24420  Destroy the Nomads
 S 24425  Destroy the Nomad Battleship
@@ -3502,13 +3502,13 @@ S 27240  \nThe Waypoint is the way out of the structure.
 S 27245  \nThere are Nomads everywhere! Stay alive!
 S 27250  \nThis is the only Jump Hole out of the system and it’s destabilizing at a frightening rate. Hurry up and jump out!
 
-S 27260  \nYou must destroy these Nomads, they pose a threat to the Order base here and must be eliminated.
+S 27260  \nYou must destroy these Nomads, they pose a threat to Planet Toledo and must be eliminated.
 S 27265  \nTen Nomads down! Quickly, before they manage to get away.
 S 27270  \nPlanet Toledo is the secret home of the elusive Order.
 
-S 27414  \nHelp Defend the Order Base by destroying all the Nomad Fighters.
+S 27414  \nHelp Defend Planet Toledo by destroying all the Nomad Fighters.
 
-S 27430  \nReturn to the Order Base to pick up the Tinker Toy.
+S 27430  \nReturn to Planet Toledo to pick up the Tinker Toy.
 
 S 27440  \nEscort Quintaine and Sinclair to the Battleship Osiris.
 
